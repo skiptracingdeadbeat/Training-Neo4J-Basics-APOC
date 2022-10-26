@@ -1,0 +1,16 @@
+﻿personId:ID,name,:LABEL
+billH,Bill Huber,Procurement
+danM,Dan McMullan,Procurement;Parent
+aidanM,Aidan McMullan,Child;Friend;Teammate
+samM,Sam McMullan,Child;Friend;Teammate
+kyleH,Kyle Hellam,Child;Friend;Teammate
+dylanH,Dylan Hellam,Child;Friend;Teammate
+brianH,Brian Hellam,"Parent;Coach;Friend;Spouse,In_Law"
+hollyH,Holly Hellam,"Parent;Coach;Friend;Spouse,In_Law"
+justineA,Justin Hellam,"Parent;Coach;Friend;Spouse,In_Law"
+danA,Dan Allen,"Executive;Parent;Friend;Spouse,In_Law"
+johnC,John Couture,Executive;Parent;Friend;Supervisor
+sonjaM,Sonja Mooney,Acquisition
+royG,Roy Garrison,Acquisition
+daveS,Dave Shanahan,Contractor;Friend
+robM,Rob McCashin,Contractor;Friend

@@ -1,0 +1,32 @@
+﻿piee_sysID:ID,name,title,:LABEL
+ccm000000001,CCM,Contracting Communication,PortfolioApplication
+cdr000000001,CDR,Contract Deficiency Reports,PortfolioApplication
+cedms0000001,CEDMS,Corporate Electronic Document Management System,PortfolioApplication
+close0000001,CLOSE,Contract Closeout,PortfolioApplication
+cls000000001,CLS,Clause Logic Service,PortfolioApplication
+conit0000001,CON-IT,Contracting Information Technology,PortfolioApplication
+csp000000001,CSP,Contractor Submission Portal,PortfolioApplication
+eda000000001,EDA,Electronic Data Access,PortfolioApplication
+fedmall00001,FEDMALL,FedMall,PortfolioApplication
+gfp000000001,GFP,Government Furnished Property,PortfolioApplication
+iod000000001,IOD,IOD-Training,PortfolioApplication
+iuid00000001,IUID,Item Unique Identifier Registry,PortfolioApplication
+jam000000001,JAM,Joint Appointment Module,PortfolioApplication
+mipr00000001,MIPR,Military Interdepartmental Purchase Request,PortfolioApplication
+myinv0000001,MYINV,myInvoice,PortfolioApplication
+nccs00000001,NCCS,NISP Contracts Classification System,PortfolioApplication
+ng3in1000001,3IN1NG,3in1 Next Generation,PortfolioApplication
+palt00000001,PALT,Procurement Administrative Lead Time,PortfolioApplication
+pbis00000001,PBIS,Procurement Business Intelligence Service,PortfolioApplication
+pcm000000001,PCM,Purpose Code Management,PortfolioApplication
+pcom00000001,PCOM,Purchase Card Oversight Module,PortfolioApplication
+piee_admin01,PIEE_ADMIN,Procurement Integrated Enterprise Environment Administration,PortfolioApplication
+ppml00000001,PPML,Procurement Process Model Library,PortfolioApplication
+prot00000001,PROT,Protest Tracker,PortfolioApplication
+sam000000001,SAM,System for Award Management,PortfolioApplication
+sdw000000001,SDW,Share Data Warehouse,PortfolioApplication
+sol000000001,SOL,Solicitation,PortfolioApplication
+spm000000001,SPM,Surveillance and Performance Monitoring,PortfolioApplication
+sprs00000001,SPRS,Supplier Performance Risk System,PortfolioApplication
+usbank000001,GPC,Government Purchase Card,PortfolioApplication
+wawf00000001,WAWF,Wide Area Workflow,PortfolioApplication

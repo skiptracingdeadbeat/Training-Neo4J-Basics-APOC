@@ -1,0 +1,53 @@
+﻿itfrcatID:ID,name,description,:LABEL
+itfrcat001,Acknowledgements Capability,Acknowledgements Capability,Category
+itfrcat002,Automatically generate PIIN numbers,Automatically generate PIIN numbers,Category
+itfrcat003,Award Synopsis Determination,Award Synopsis Determination,Category
+itfrcat004,Case Management,Case Management,Category
+itfrcat005,Check Contractor Details,Check Contractor Details,Category
+itfrcat006,Clause Management & Retrieval from CLS,Clause Management & Retrieval from CLS,Category
+itfrcat007,CLIN Structure Creation,CLIN Structure Creation,Category
+itfrcat008,Consume PDS,Consume PDS,Category
+itfrcat009,Consume PRDS,Consume PRDS,Category
+itfrcat010,Create ACRN,Create ACRN,Category
+itfrcat011,Create PI,Create PI,Category
+itfrcat012,Data-Entry Templates for PIs,Data-Entry Templates for PIs,Category
+itfrcat013,Determine Funding required,Determine Funding required,Category
+itfrcat014,Digital Signature,Digital Signature,Category
+itfrcat015,Document Association,Document Association,Category
+itfrcat016,FAR Based Offeror Notification,FAR Based Offeror Notification,Category
+itfrcat017,Generate contract award documents,Generate contract award documents,Category
+itfrcat018,GEX PI Validation Service,GEX PI Validation Service,Category
+itfrcat019,Hosted Environments,Hosted Environments,Category
+itfrcat020,Interface external systems using GEX/DLATS,Interface external systems using GEX/DLATS,Category
+itfrcat021,Interface: CBIS,Interface: CBIS,Category
+itfrcat022,Interface: Clause Logic Service,Interface: Clause Logic Service,Category
+itfrcat023,Interface: FM,Interface: FM,Category
+itfrcat024,Interface: FPDS-NG,Interface: FPDS-NG,Category
+itfrcat025,Interface: GPE,Interface: GPE,Category
+itfrcat026,Interface: SAM,Interface: SAM,Category
+itfrcat027,Lock PI for Signature,Lock PI for Signature,Category
+itfrcat028,Maintain CLIN Traceability,Maintain CLIN Traceability,Category
+itfrcat029,Manage and Auto Renumber CLINs,Manage and Auto Renumber CLINs,Category
+itfrcat030,Manage CLIN ACRN relationship,Manage CLIN ACRN relationship,Category
+itfrcat031,Manage Concurrent Mods,Manage Concurrent Mods,Category
+itfrcat032,Manage Engineering Contract,Manage Engineering Contract,Category
+itfrcat033,Manage PI Content on screen,Manage PI Content on screen,Category
+itfrcat034,Manage PI Dollar Limits,Manage PI Dollar Limits,Category
+itfrcat035,Manage role based access to PI,Manage role based access to PI,Category
+itfrcat036,Manage warrants,Manage warrants,Category
+itfrcat037,PI Template Management,PI Template Management,Category
+itfrcat038,PI Validation Service,PI Validation Service,Category
+itfrcat039,Publish Announcements,Publish Announcements,Category
+itfrcat040,Publish Award Synopsis to GPE,Publish Award Synopsis to GPE,Category
+itfrcat041,Publish CAR via FPDS-NG,Publish CAR via FPDS-NG,Category
+itfrcat042,Publish solicitation to GPE,Publish solicitation to GPE,Category
+itfrcat043,Reasonable Assurance of funds,Reasonable Assurance of funds,Category
+itfrcat044,Receive PR as PRDS from GEX,Receive PR as PRDS from GEX,Category
+itfrcat045,Rendering of the Contract Image,Rendering of the Contract Image,Category
+itfrcat046,Retrieve SLOA and non-SLOA data from FM,Retrieve SLOA and non-SLOA data from FM,Category
+itfrcat047,Search,Search,Category
+itfrcat048,Send PI as PDS from GEX,Send PI as PDS from GEX,Category
+itfrcat049,Suspense Tracking,Suspense Tracking,Category
+itfrcat050,Update PI,Update PI,Category
+itfrcat051,Version Control of Documents,Version Control of Documents,Category
+itfrcat052,Viewing of financial information,Viewing of financial information,Category

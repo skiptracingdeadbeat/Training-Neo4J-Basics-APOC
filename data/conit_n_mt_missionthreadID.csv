@@ -1,0 +1,5 @@
+﻿missionthreadID:ID,name,path,description,:LABEL
+mt1,MT1,PR > Solicitation > Award/Order, The receipt of a new requirement to new contract award based upon competition or Sole Source Request for Proposal,MissionThread
+mt2,MT2,PR > Solicitation > Amendment > Award, The receipt of a new requirement to new contract award based upon competition or Sole Source Request for Proposal; The solicitation or RFP has one or more amendments due to changes in requirements after solicitation or RFP Issuance.,MissionThread
+mt3,MT3,PR > Award/Order, The receipt of a new requirement to an order being placed via an existing single source Indefinite-Delivery contract,MissionThread
+mt4,MT4,PR > Modification, The receipt of a new & in scope requirement to contract modification award,MissionThread

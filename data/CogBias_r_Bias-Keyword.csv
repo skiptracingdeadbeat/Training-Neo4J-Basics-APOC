@@ -1,0 +1,2942 @@
+﻿:START_ID,name,:END_ID,:TYPE
+ambiguityeffect3,Ambiguity effect,ability4,CONTAINS
+availabilityheuristic3,Availability heuristic,ability4,CONTAINS
+beliefbias3,Belief bias,ability4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,ability4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,ability4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,ability4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,ability4,CONTAINS
+genderbias3,Gender bias,ability4,CONTAINS
+hardeasyeffect3,Hard–easy effect,ability4,CONTAINS
+learnedhelplessness3,Learned Helplessness,ability4,CONTAINS
+neglectofprobability3,Neglect of probability,ability4,CONTAINS
+optimismbias3,Optimism bias,ability4,CONTAINS
+probabilitymatching3,Probability matching,ability4,CONTAINS
+restraintbias3,Restraint bias,ability4,CONTAINS
+subadditivityeffect3,Subadditivity effect,ability4,CONTAINS
+genderbias3,Gender bias,absence4,CONTAINS
+listlengtheffect3,List-length effect,absolute4,CONTAINS
+anthropomorphism3,Anthropomorphism,abstract4,CONTAINS
+personification3,personification,abstract4,CONTAINS
+barnumeffect3,Barnum effect,accept4,CONTAINS
+forereffect3,Forer effect,accept4,CONTAINS
+learnedhelplessness3,Learned Helplessness,accept4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,accept4,CONTAINS
+proportionalitybias3,Proportionality bias,accept4,CONTAINS
+intentionalitybias3,Intentionality bias,accidental4,CONTAINS
+hardeasyeffect3,Hard–easy effect,accomplish4,CONTAINS
+impostersyndrome3,Imposter Syndrome,accomplish4,CONTAINS
+puritanicalbias3,Puritanical bias,account4,CONTAINS
+dispositioneffect3,Disposition effect,accumulate4,CONTAINS
+authoritybias3,Authority bias,accuracy4,CONTAINS
+barnumeffect3,Barnum effect,accuracy4,CONTAINS
+contexteffect3,Context effect,accuracy4,CONTAINS
+forereffect3,Forer effect,accuracy4,CONTAINS
+illusionofvalidity3,Illusion of validity,accuracy4,CONTAINS
+illusorycorrelation3,Illusory correlation,accurate4,CONTAINS
+misinformationeffect3,Misinformation effect,accurate4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,acquire4,CONTAINS
+endowmenteffect3,Endowment Effect,acquire4,CONTAINS
+endowmenteffect3,Endowment effect,acquire4,CONTAINS
+lossaversion3,Loss aversion,acquiring4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,acting4,CONTAINS
+surrogation3,Surrogation,acting4,CONTAINS
+additivebias3,Additive bias,action4,CONTAINS
+backfireeffect3,Backfire effect,action4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,action4,CONTAINS
+egocentricbias3,Egocentric bias,action4,CONTAINS
+egocentricbias3,Egocentric bias,action4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,action4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,action4,CONTAINS
+informationbias3,Information bias,action4,CONTAINS
+intentionalitybias3,Intentionality bias,action4,CONTAINS
+omissionbias3,Omission bias,action4,CONTAINS
+ostracism3,Ostracism,action4,CONTAINS
+plancontinuationbias3,Plan continuation bias,action4,CONTAINS
+groupthink3,Groupthink,actively4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,actorobserver4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,actorobserver4,CONTAINS
+choicesupportivebias3,Choice-supportive bias,actual4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,actual4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,actual4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,actual4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,actual4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,actual4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,actual4,CONTAINS
+stereotyping3,Stereotyping,actual4,CONTAINS
+additivebias3,Additive bias,addition4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,addition4,CONTAINS
+reminiscencebump3,Reminiscence bump,adolescence4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,adult4,CONTAINS
+reminiscencebump3,Reminiscence bump,adult4,CONTAINS
+reactivedevaluation3,Reactive devaluation,adversary4,CONTAINS
+attentionalbias3,Attentional bias,affect4,CONTAINS
+informationbias3,Information bias,affect4,CONTAINS
+interoceptivebias3,Interoceptive bias,affect4,CONTAINS
+pygmalioneffect3,Pygmalion effect,affect4,CONTAINS
+selectiveperception3,Selective perception,affect4,CONTAINS
+unconsciousbias3,Unconscious bias,affect4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,after4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,after4,CONTAINS
+frequencyillusion3,Frequency illusion,after4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,after4,CONTAINS
+genderbias3,Gender bias,against4,CONTAINS
+preventionbias3,Prevention bias,against4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,ageindependent4,CONTAINS
+agentdetection3,Agent detection,agent4,CONTAINS
+expectationbias3,expectation bias,agree4,CONTAINS
+experimenters3,Experimenter's,agree4,CONTAINS
+falseconsensuseffect3,False consensus effect,agree4,CONTAINS
+naïverealism3,Naïve realism,agree4,CONTAINS
+hindsightbias3,Hindsight bias,along4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,along4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,already4,CONTAINS
+sharedinformationbias3,Shared information bias,already4,CONTAINS
+congruencebias3,Congruence bias,alter4,CONTAINS
+gamblersfallacy3,Gambler fallacy,alter4,CONTAINS
+groupthink3,Groupthink,alter4,CONTAINS
+lawoftheinstrument3,Law of the instrument,alter4,CONTAINS
+systemjustification3,System justification,alter4,CONTAINS
+listlengtheffect3,List-length effect,although4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,ambiguous4,CONTAINS
+selfservingbias3,Self-serving bias,ambiguous4,CONTAINS
+denominationeffect3,Denomination effect,amount4,CONTAINS
+lageffect3,Lag effect,amount4,CONTAINS
+spotlighteffect3,Spotlight effect,amount4,CONTAINS
+unitbias3,Unit bias,amount4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,analogies4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,anchor4,CONTAINS
+anthropomorphism3,Anthropomorphism,animal4,CONTAINS
+genderbias3,Gender bias,animal4,CONTAINS
+pareidolia3,Pareidolia,animal4,CONTAINS
+personification3,personification,animal4,CONTAINS
+compassionfade3,Compassion fade,anonymous4,CONTAINS
+anthropomorphism3,Anthropomorphism,another4,CONTAINS
+benfranklineffect3,Ben Franklin effect,another4,CONTAINS
+haloeffect3,Halo effect,another4,CONTAINS
+personification3,personification,another4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,another4,CONTAINS
+unconsciousbias3,Unconscious bias,another4,CONTAINS
+zerosumbias3,Zero-sum bias,another4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,answer4,CONTAINS
+plancontinuationbias3,Plan continuation bias,anticipate4,CONTAINS
+courtesybias3,Courtesy bias,anyone4,CONTAINS
+travissyndrome3,Travis Syndrome,appeal4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,appear4,CONTAINS
+cheerleadereffect3,Cheerleader effect,appear4,CONTAINS
+expectationbias3,expectation bias,appear4,CONTAINS
+experimenters3,Experimenter's,appear4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,appear4,CONTAINS
+frequencyillusion3,Frequency illusion,appear4,CONTAINS
+spotlighteffect3,Spotlight effect,appear4,CONTAINS
+tachypsychia3,Tachypsychia,appear4,CONTAINS
+telescopingeffect3,Telescoping effect,appear4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,appearance4,CONTAINS
+spotlighteffect3,Spotlight effect,appearance4,CONTAINS
+suffixeffect3,Suffix effect,append4,CONTAINS
+barnumeffect3,Barnum effect,apply4,CONTAINS
+forereffect3,Forer effect,apply4,CONTAINS
+plantblindness3,Plant blindness,appreciate4,CONTAINS
+additivebias3,Additive bias,approach4,CONTAINS
+lawoftheinstrument3,Law of the instrument,approach4,CONTAINS
+plancontinuationbias3,Plan continuation bias,appropriate4,CONTAINS
+unitbias3,Unit bias,appropriate4,CONTAINS
+haloeffect3,Halo effect,area4,CONTAINS
+beliefbias3,Belief bias,argument4,CONTAINS
+recencyillusion3,Recency illusion,argument4,CONTAINS
+gamblersfallacy3,Gambler fallacy,arises4,CONTAINS
+systematicbias3,Systematic bias,arises4,CONTAINS
+nextinlineeffect3,Next-in-line effect,around4,CONTAINS
+humoreffect3,Humor effect,arousal4,CONTAINS
+systemjustification3,System justification,arrangement4,CONTAINS
+endowmenteffect3,Endowment Effect,ascribe4,CONTAINS
+endowmenteffect3,Endowment effect,ascribe4,CONTAINS
+moralluck3,Moral luck,ascribe4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,aspect4,CONTAINS
+ikeaeffect3,IKEA effect,assemble4,CONTAINS
+dispositioneffect3,Disposition effect,asset4,CONTAINS
+subjectivevalidation3,Subjective validation,assign4,CONTAINS
+fadingaffectbias3,Fading affect bias,associate4,CONTAINS
+implicitassociation3,Implicit association,associate4,CONTAINS
+lossaversion3,Loss aversion,associate4,CONTAINS
+womenarewonderfuleffect3,Women are wonderful effect,associate4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,assume4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,assume4,CONTAINS
+groupattributionerror3,Group attribution error,assume4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,assume4,CONTAINS
+proportionalitybias3,Proportionality bias,assume4,CONTAINS
+genderbias3,Gender bias,assumption4,CONTAINS
+barnumeffect3,Barnum effect,astrology4,CONTAINS
+forereffect3,Forer effect,astrology4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,attempt4,CONTAINS
+reactance3,Reactance,attempt4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,attention4,CONTAINS
+frequencyillusion3,Frequency illusion,attention4,CONTAINS
+consistencybias3,Consistency bias,attitude4,CONTAINS
+unconsciousbias3,Unconscious bias,attitude4,CONTAINS
+ostracism3,Ostracism,attraction4,CONTAINS
+cheerleadereffect3,Cheerleader effect,attractive4,CONTAINS
+haloeffect3,Halo effect,attractive4,CONTAINS
+haloeffect3,Halo effect,attractiveness4,CONTAINS
+attributesubstitution3,Attribute substitution,attribute4,CONTAINS
+authoritybias3,Authority bias,attribute4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,attribute4,CONTAINS
+puritanicalbias3,Puritanical bias,attribute4,CONTAINS
+unconsciousbias3,Unconscious bias,attribute4,CONTAINS
+womenarewonderfuleffect3,Women are wonderful effect,attribute4,CONTAINS
+anthropomorphism3,Anthropomorphism,attributing4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,attributing4,CONTAINS
+personification3,personification,attributing4,CONTAINS
+actorobserverbias3,Actor-observer bias,attribution4,CONTAINS
+cryptomnesia3,Cryptomnesia,attribution4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,attribution4,CONTAINS
+falsememory3,False memory,attribution4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,attribution4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,attribution4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,attribution4,CONTAINS
+suggestibility3,Suggestibility,attribution4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,attribution4,CONTAINS
+authoritybias3,Authority bias,authority4,CONTAINS
+automationbias3,Automation bias,automate4,CONTAINS
+attributesubstitution3,Attribute substitution,automatic4,CONTAINS
+unconsciousbias3,Unconscious bias,automatic4,CONTAINS
+availabilityheuristic3,Availability heuristic,availability4,CONTAINS
+groupattributionerror3,Group attribution error,available4,CONTAINS
+illusionofvalidity3,Illusion of validity,available4,CONTAINS
+illusorysuperiority3,Illusory superiority,average4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,average4,CONTAINS
+peakendrule3,Peak–end rule,average4,CONTAINS
+notinventedhere3,Not invented here,aversion4,CONTAINS
+statusquobias3,Status Quo Bias,aversion4,CONTAINS
+statusquobias3,Status quo bias,aversion4,CONTAINS
+ambiguityeffect3,Ambiguity effect,avoid4,CONTAINS
+courtesybias3,Courtesy bias,avoid4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,avoid4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,avoid4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,avoid4,CONTAINS
+attributesubstitution3,Attribute substitution,aware4,CONTAINS
+sharedinformationbias3,Shared information bias,aware4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,backfire4,CONTAINS
+unconsciousbias3,Unconscious bias,background4,CONTAINS
+telescopingeffect3,Telescoping effect,backward4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,base4,CONTAINS
+escalationofcommitment3,Escalation of commitment,base4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,base4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,base4,CONTAINS
+irrationalescalation3,Irrational escalation,base4,CONTAINS
+moralluck3,Moral luck,base4,CONTAINS
+outcomebias3,Outcome bias,base4,CONTAINS
+statusquobias3,Status Quo Bias,base4,CONTAINS
+statusquobias3,Status quo bias,base4,CONTAINS
+unconsciousbias3,Unconscious bias,base4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,basis4,CONTAINS
+availabilitycascade3,Availability cascade,become4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,become4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,become4,CONTAINS
+systematicbias3,Systematic bias,become4,CONTAINS
+misinformationeffect3,Misinformation effect,becoming4,CONTAINS
+nextinlineeffect3,Next-in-line effect,before4,CONTAINS
+normalcybias3,Normalcy bias,before4,CONTAINS
+recencyillusion3,Recency illusion,before4,CONTAINS
+serialpositioneffect3,Serial position effect,beginning4,CONTAINS
+compassionfade3,Compassion fade,behave4,CONTAINS
+actorobserverbias3,Actor-observer bias,behavior4,CONTAINS
+bandwagoneffect3,Bandwagon effect,behavior4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,behavior4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,behavior4,CONTAINS
+ostracism3,Ostracism,behavior4,CONTAINS
+spotlighteffect3,Spotlight effect,behavior4,CONTAINS
+traitascriptionbias3,Trait ascription bias,behavior4,CONTAINS
+consistencybias3,Consistency bias,behaviour4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,behaviour4,CONTAINS
+cryptomnesia3,Cryptomnesia,being4,CONTAINS
+egocentricbias3,Egocentric bias,being4,CONTAINS
+egocentricbias3,Egocentric bias,being4,CONTAINS
+hindsightbias3,Hindsight bias,being4,CONTAINS
+impostersyndrome3,Imposter Syndrome,being4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,being4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,being4,CONTAINS
+recencyillusion3,Recency illusion,being4,CONTAINS
+scopeinsensitivity3,scope insensitivity,being4,CONTAINS
+scopeneglect3,Scope neglect,being4,CONTAINS
+selectionbias3,Selection bias,being4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,being4,CONTAINS
+travissyndrome3,Travis Syndrome,being4,CONTAINS
+availabilitycascade3,Availability cascade,belief24,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,belief24,CONTAINS
+backfireeffect3,Backfire effect,belief24,CONTAINS
+barnumeffect3,Barnum effect,belief24,CONTAINS
+beliefrevision3,Belief Revision,belief24,CONTAINS
+conservatismbias3,Conservatism bias,belief24,CONTAINS
+endofhistoryillusion3,End-of-history illusion,belief24,CONTAINS
+forereffect3,Forer effect,belief24,CONTAINS
+frequencyillusion3,Frequency illusion,belief24,CONTAINS
+gettierproblems3,Gettier Problems,belief24,CONTAINS
+groupattributionerror3,Group attribution error,belief24,CONTAINS
+hothandfallacy3,Hot-hand fallacy,belief24,CONTAINS
+naïverealism3,Naïve realism,belief24,CONTAINS
+subjectivevalidation3,Subjective validation,belief24,CONTAINS
+beliefbias3,Belief bias,believability4,CONTAINS
+bandwagoneffect3,Bandwagon effect,believe4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,believe4,CONTAINS
+expectationbias3,expectation bias,believe4,CONTAINS
+experimenters3,Experimenter's,believe4,CONTAINS
+gettierproblems3,Gettier Problems,believe4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,believe4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,believe4,CONTAINS
+thirdpersoneffect3,Third-person effect,believe4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,believe4,CONTAINS
+selfservingbias3,Self-serving bias,beneficial4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,benign4,CONTAINS
+additivebias3,Additive bias,better4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,better4,CONTAINS
+choicesupportivebias3,Choice-supportive bias,better4,CONTAINS
+curseofknowledge3,Curse of knowledge,better4,CONTAINS
+egocentricbias3,Egocentric bias,better4,CONTAINS
+egocentricbias3,Egocentric bias,better4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,better4,CONTAINS
+illusorysuperiority3,Illusory superiority,better4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,better4,CONTAINS
+spacingeffect3,Spacing effect,better4,CONTAINS
+verbatimeffect3,Verbatim effect,better4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,better4,CONTAINS
+illusorysuperiority3,Illusory superiority,betterthanaverage4,CONTAINS
+defaulteffect3,Default effect,between4,CONTAINS
+illusorycorrelation3,Illusory correlation,between4,CONTAINS
+presentbias3,Present bias,between4,CONTAINS
+subjectivevalidation3,Subjective validation,between4,CONTAINS
+egocentricbias3,Egocentric bias,bigger4,CONTAINS
+egocentricbias3,Egocentric bias,bigger4,CONTAINS
+denominationeffect3,Denomination effect,bills4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,biological4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,bitten4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,bizarre4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,blame4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,blocking4,CONTAINS
+interoceptivebias3,Interoceptive bias,body4,CONTAINS
+systemjustification3,System justification,bolster4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,both4,CONTAINS
+ostracism3,Ostracism,brain4,CONTAINS
+unconsciousbias3,Unconscious bias,brain4,CONTAINS
+puritanicalbias3,Puritanical bias,broader4,CONTAINS
+preventionbias3,Prevention bias,buy4,CONTAINS
+attributesubstitution3,Attribute substitution,calculate4,CONTAINS
+socialcomparisonbias3,Social comparison bias,candidate4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,cannot4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,cannot4,CONTAINS
+informationbias3,Information bias,cannot4,CONTAINS
+baseratefallacy3,Base rate fallacy,case4,CONTAINS
+baserateneglect3,Base rate neglect,case4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,case4,CONTAINS
+egocentricbias3,Egocentric bias,caught4,CONTAINS
+egocentricbias3,Egocentric bias,caught4,CONTAINS
+bandwagoneffect3,Bandwagon effect,cause4,CONTAINS
+cryptomnesia3,Cryptomnesia,cause4,CONTAINS
+endowmenteffect3,Endowment Effect,cause4,CONTAINS
+endowmenteffect3,Endowment effect,cause4,CONTAINS
+humoreffect3,Humor effect,cause4,CONTAINS
+mereexposureeffect3,Mere exposure effect,cause4,CONTAINS
+misinformationeffect3,Misinformation effect,cause4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,cause4,CONTAINS
+planck’sprinciple3,Planck’s Principle,cause4,CONTAINS
+proportionalitybias3,Proportionality bias,cause4,CONTAINS
+puritanicalbias3,Puritanical bias,cause4,CONTAINS
+reactivedevaluation3,Reactive devaluation,cause4,CONTAINS
+suffixeffect3,Suffix effect,cause4,CONTAINS
+survivorshipbias3,Survivorship bias,cause4,CONTAINS
+verbatimeffect3,Verbatim effect,cause4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,causing4,CONTAINS
+ostracism3,Ostracism,center4,CONTAINS
+contrasteffect3,Contrast effect,certain4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,certain4,CONTAINS
+neglectofprobability3,Neglect of probability,certain4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,certain4,CONTAINS
+stereotyping3,Stereotyping,certain4,CONTAINS
+expectationbias3,expectation bias,certify4,CONTAINS
+experimenters3,Experimenter's,certify4,CONTAINS
+gamblersfallacy3,Gambler fallacy,chance4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,chance4,CONTAINS
+decoyeffect3,Decoy effect,change4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,change4,CONTAINS
+gamblersfallacy3,Gambler fallacy,change4,CONTAINS
+learnedhelplessness3,Learned Helplessness,change4,CONTAINS
+statusquobias3,Status Quo Bias,change4,CONTAINS
+statusquobias3,Status quo bias,change4,CONTAINS
+plancontinuationbias3,Plan continuation bias,changing4,CONTAINS
+groupattributionerror3,Group attribution error,characteristic4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,characteristic4,CONTAINS
+stereotyping3,Stereotyping,characteristic4,CONTAINS
+anthropomorphism3,Anthropomorphism,characterize4,CONTAINS
+personification3,personification,characterize4,CONTAINS
+availabilityheuristic3,Availability heuristic,charge4,CONTAINS
+scopeinsensitivity3,scope insensitivity,children4,CONTAINS
+scopeneglect3,Scope neglect,children4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,chocolate4,CONTAINS
+choicesupportivebias3,Choice-supportive bias,choice4,CONTAINS
+defaulteffect3,Default effect,choice4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,choice4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,choice4,CONTAINS
+probabilitymatching3,Probability matching,choice4,CONTAINS
+projectionbias3,Projection bias,choice4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,choice4,CONTAINS
+reactance3,Reactance,choice4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,chose4,CONTAINS
+selectionbias3,Selection bias,chose4,CONTAINS
+selectionbias3,Selection bias,chosen4,CONTAINS
+travissyndrome3,Travis Syndrome,chronological4,CONTAINS
+interoceptivebias3,Interoceptive bias,circumstance4,CONTAINS
+egocentricbias3,Egocentric bias,claim4,CONTAINS
+egocentricbias3,Egocentric bias,claim4,CONTAINS
+selfservingbias3,Self-serving bias,claim4,CONTAINS
+illicittransference3,Illicit transference,class4,CONTAINS
+groupattributionerror3,Group attribution error,clear4,CONTAINS
+learnedhelplessness3,Learned Helplessness,clear4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,clear4,CONTAINS
+groupattributionerror3,Group attribution error,clearly4,CONTAINS
+nextinlineeffect3,Next-in-line effect,clockwise4,CONTAINS
+implicitassociation3,Implicit association,closely4,CONTAINS
+presentbias3,Present bias,closer4,CONTAINS
+recencyillusion3,Recency illusion,closing4,CONTAINS
+pareidolia3,Pareidolia,cloud4,CONTAINS
+clusteringillusion3,Clustering illusion,cluster4,CONTAINS
+contexteffect3,Context effect,cognition4,CONTAINS
+biasblindspot3,Bias blind spot,cognitive4,CONTAINS
+humoreffect3,Humor effect,cognitive4,CONTAINS
+recencyillusion3,Recency illusion,cognitive4,CONTAINS
+denominationeffect3,Denomination effect,coin4,CONTAINS
+gamblersfallacy3,Gambler fallacy,coin4,CONTAINS
+subjectivevalidation3,Subjective validation,coin4,CONTAINS
+subjectivevalidation3,Subjective validation,coincidence4,CONTAINS
+availabilitycascade3,Availability cascade,collective4,CONTAINS
+illicittransference3,Illicit transference,collective4,CONTAINS
+systemjustification3,System justification,collective4,CONTAINS
+commonsourcebias3,Common source bias,combine4,CONTAINS
+ambiguityeffect3,Ambiguity effect,come4,CONTAINS
+availabilitycascade3,Availability cascade,come4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,come4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,come4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,come4,CONTAINS
+expectationbias3,expectation bias,come4,CONTAINS
+experimenters3,Experimenter's,come4,CONTAINS
+frequencyillusion3,Frequency illusion,come4,CONTAINS
+groupattributionerror3,Group attribution error,come4,CONTAINS
+groupthink3,Groupthink,come4,CONTAINS
+moralluck3,Moral luck,come4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,come4,CONTAINS
+optimismbias3,Optimism bias,come4,CONTAINS
+outcomebias3,Outcome bias,come4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,come4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,come4,CONTAINS
+puritanicalbias3,Puritanical bias,come4,CONTAINS
+systematicbias3,Systematic bias,come4,CONTAINS
+gamblersfallacy3,Gambler fallacy,coming4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,coming4,CONTAINS
+misinformationeffect3,Misinformation effect,coming4,CONTAINS
+omissionbias3,Omission bias,commission4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,common4,CONTAINS
+commonsourcebias3,Common source bias,common4,CONTAINS
+thirdpersoneffect3,Third-person effect,communicate4,CONTAINS
+commonsourcebias3,Common source bias,compare4,CONTAINS
+contrasteffect3,Contrast effect,compare4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,compare4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,comparing4,CONTAINS
+compassionfade3,Compassion fade,compassionately4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,compete4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,compete4,CONTAINS
+socialcomparisonbias3,Social comparison bias,compete4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,competence4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,competence4,CONTAINS
+decoyeffect3,Decoy effect,complete4,CONTAINS
+neglectofprobability3,Neglect of probability,complete4,CONTAINS
+selectionbias3,Selection bias,complete4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,complete4,CONTAINS
+decoyeffect3,Decoy effect,completely4,CONTAINS
+neglectofprobability3,Neglect of probability,completely4,CONTAINS
+selectionbias3,Selection bias,completely4,CONTAINS
+attributesubstitution3,Attribute substitution,complex4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,complex4,CONTAINS
+ostracism3,Ostracism,complying4,CONTAINS
+illicittransference3,Illicit transference,composition4,CONTAINS
+attributesubstitution3,Attribute substitution,computationally4,CONTAINS
+moneyillusion3,Money illusion,concentrate4,CONTAINS
+survivorshipbias3,Survivorship bias,concentrating4,CONTAINS
+anthropomorphism3,Anthropomorphism,concept4,CONTAINS
+confirmationbias3,Confirmation bias,concept4,CONTAINS
+gamblersfallacy3,Gambler fallacy,concept4,CONTAINS
+personification3,personification,concept4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,concept4,CONTAINS
+beliefbias3,Belief bias,conclusion4,CONTAINS
+framingeffect3,Framing effect,conclusion4,CONTAINS
+gettierproblems3,Gettier Problems,conclusion4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,concurrent4,CONTAINS
+berksonsparadox3,Berkson paradox,condition4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,condition4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,confidence4,CONTAINS
+backfireeffect3,Backfire effect,confirm4,CONTAINS
+confirmationbias3,Confirmation bias,confirm4,CONTAINS
+expectationbias3,expectation bias,conflict4,CONTAINS
+experimenters3,Experimenter's,conflict4,CONTAINS
+groupthink3,Groupthink,conflict4,CONTAINS
+groupthink3,Groupthink,conformity4,CONTAINS
+sourceconfusion3,Source confusion,confusing4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,congruent4,CONTAINS
+subjectivevalidation3,Subjective validation,connection4,CONTAINS
+groupthink3,Groupthink,consensus4,CONTAINS
+listlengtheffect3,List-length effect,consider4,CONTAINS
+presentbias3,Present bias,consider4,CONTAINS
+presentbias3,Present bias,considering4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,consistent4,CONTAINS
+illusionofvalidity3,Illusion of validity,consistent4,CONTAINS
+proportionalitybias3,Proportionality bias,conspiracy4,CONTAINS
+reactance3,Reactance,constrain4,CONTAINS
+surrogation3,Surrogation,construct4,CONTAINS
+unitbias3,Unit bias,consume4,CONTAINS
+unitbias3,Unit bias,consumption4,CONTAINS
+notinventedhere3,Not invented here,contact4,CONTAINS
+authoritybias3,Authority bias,content4,CONTAINS
+contexteffect3,Context effect,context4,CONTAINS
+probabilitymatching3,Probability matching,context4,CONTAINS
+thirdpersoneffect3,Third-person effect,context4,CONTAINS
+tachypsychia3,Tachypsychia,contracts4,CONTAINS
+semmelweisreflex3,Semmelweis reflex,contradicts4,CONTAINS
+contrasteffect3,Contrast effect,contrasting4,CONTAINS
+planck’sprinciple3,Planck’s Principle,convincing4,CONTAINS
+ostracism3,Ostracism,cooperating4,CONTAINS
+verbatimeffect3,Verbatim effect,copies4,CONTAINS
+automationbias3,Automation bias,correct4,CONTAINS
+consistencybias3,Consistency bias,correct4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,correct4,CONTAINS
+courtesybias3,Courtesy bias,correct4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,correct4,CONTAINS
+zerosumbias3,Zero-sum bias,correct4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,correction4,CONTAINS
+expectationbias3,expectation bias,corresponding4,CONTAINS
+experimenters3,Experimenter's,corresponding4,CONTAINS
+escalationofcommitment3,Escalation of commitment,cost4,CONTAINS
+irrationalescalation3,Irrational escalation,cost4,CONTAINS
+lossaversion3,Loss aversion,cost4,CONTAINS
+timesavingbias3,Time-saving bias,could4,CONTAINS
+gettierproblems3,Gettier Problems,count4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,count4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,count4,CONTAINS
+puritanicalbias3,Puritanical bias,count4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,counterpart4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,courtesy4,CONTAINS
+sourceconfusion3,Source confusion,creating4,CONTAINS
+groupthink3,Groupthink,critical4,CONTAINS
+escalationofcommitment3,Escalation of commitment,cumulative4,CONTAINS
+irrationalescalation3,Irrational escalation,cumulative4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,current4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,current4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,current4,CONTAINS
+projectionbias3,Projection bias,current4,CONTAINS
+statusquobias3,Status Quo Bias,current4,CONTAINS
+statusquobias3,Status quo bias,current4,CONTAINS
+clusteringillusion3,Clustering illusion,data4,CONTAINS
+commonsourcebias3,Common source bias,data4,CONTAINS
+expectationbias3,expectation bias,data4,CONTAINS
+experimenters3,Experimenter's,data4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,data4,CONTAINS
+impostersyndrome3,Imposter Syndrome,deceit4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,decision4,CONTAINS
+automationbias3,Automation bias,decision4,CONTAINS
+escalationofcommitment3,Escalation of commitment,decision4,CONTAINS
+groupattributionerror3,Group attribution error,decision4,CONTAINS
+groupthink3,Groupthink,decision4,CONTAINS
+irrationalescalation3,Irrational escalation,decision4,CONTAINS
+neglectofprobability3,Neglect of probability,decision4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,decision4,CONTAINS
+outcomebias3,Outcome bias,decision4,CONTAINS
+preventionbias3,Prevention bias,decision4,CONTAINS
+socialcomparisonbias3,Social comparison bias,decision4,CONTAINS
+groupthink3,Groupthink,decisionmaking4,CONTAINS
+dispositioneffect3,Disposition effect,decline4,CONTAINS
+timesavingbias3,Time-saving bias,decreasing4,CONTAINS
+defaulteffect3,Default effect,default4,CONTAINS
+systemjustification3,System justification,defend4,CONTAINS
+puritanicalbias3,Puritanical bias,deficiency4,CONTAINS
+falseconsensuseffect3,False consensus effect,degree4,CONTAINS
+illusionofcontrol3,Illusion of control,degree4,CONTAINS
+illusionoftransparency3,Illusion of transparency,degree4,CONTAINS
+anthropomorphism3,Anthropomorphism,dehumanise4,CONTAINS
+personification3,personification,dehumanise4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,deliberate4,CONTAINS
+recencyillusion3,Recency illusion,deliberate4,CONTAINS
+endowmenteffect3,Endowment Effect,demand4,CONTAINS
+endowmenteffect3,Endowment effect,demand4,CONTAINS
+subjectivevalidation3,Subjective validation,demand4,CONTAINS
+thirdpersoneffect3,Third-person effect,demonstrate4,CONTAINS
+denominationeffect3,Denomination effect,denominate4,CONTAINS
+automationbias3,Automation bias,depend4,CONTAINS
+contexteffect3,Context effect,depend4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,depend4,CONTAINS
+framingeffect3,Framing effect,depend4,CONTAINS
+implicitassociation3,Implicit association,depend4,CONTAINS
+contexteffect3,Context effect,dependent4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,dependent4,CONTAINS
+framingeffect3,Framing effect,depending4,CONTAINS
+pessimismbias3,Pessimism bias,depression4,CONTAINS
+barnumeffect3,Barnum effect,description4,CONTAINS
+forereffect3,Forer effect,description4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,deserve4,CONTAINS
+illusorysuperiority3,Illusory superiority,desirable4,CONTAINS
+optimismbias3,Optimism bias,desirable4,CONTAINS
+puritanicalbias3,Puritanical bias,desirable4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,desirable4,CONTAINS
+groupthink3,Groupthink,desire4,CONTAINS
+escalationofcommitment3,Escalation of commitment,despite4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,despite4,CONTAINS
+irrationalescalation3,Irrational escalation,despite4,CONTAINS
+learnedhelplessness3,Learned Helplessness,despite4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,detail4,CONTAINS
+preventionbias3,Prevention bias,detection4,CONTAINS
+puritanicalbias3,Puritanical bias,determinant4,CONTAINS
+durationneglect3,Duration neglect,determining4,CONTAINS
+reactivedevaluation3,Reactive devaluation,devaluing4,CONTAINS
+notinventedhere3,Not invented here,develop4,CONTAINS
+survivorshipbias3,Survivorship bias,didn't4,CONTAINS
+saliencebias3,Salience bias,difference4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,difference4,CONTAINS
+framingeffect3,Framing effect,different4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,different4,CONTAINS
+plancontinuationbias3,Plan continuation bias,different4,CONTAINS
+systematicbias3,Systematic bias,different4,CONTAINS
+systematicbias3,Systematic bias,differentiating4,CONTAINS
+contexteffect3,Context effect,difficult4,CONTAINS
+crossraceeffect3,Cross-race effect,difficult4,CONTAINS
+curseofknowledge3,Curse of knowledge,difficult4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,difficult4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,difficult4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,difficult4,CONTAINS
+nextinlineeffect3,Next-in-line effect,diminish4,CONTAINS
+suffixeffect3,Suffix effect,diminish4,CONTAINS
+congruencebias3,Congruence bias,direct4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,direct4,CONTAINS
+normalcybias3,Normalcy bias,disaster4,CONTAINS
+expectationbias3,expectation bias,disbelieve4,CONTAINS
+experimenters3,Experimenter's,disbelieve4,CONTAINS
+expectationbias3,expectation bias,discard4,CONTAINS
+experimenters3,Experimenter's,discard4,CONTAINS
+backfireeffect3,Backfire effect,disconfirming4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,discounting4,CONTAINS
+availabilitycascade3,Availability cascade,discourse4,CONTAINS
+genderbias3,Gender bias,discriminate4,CONTAINS
+sharedinformationbias3,Shared information bias,discussing4,CONTAINS
+impostersyndrome3,Imposter Syndrome,dismiss4,CONTAINS
+recencyillusion3,Recency illusion,dismiss4,CONTAINS
+systemjustification3,System justification,disparag4,CONTAINS
+telescopingeffect3,Telescoping effect,displace4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,dispositional4,CONTAINS
+ikeaeffect3,IKEA effect,disproportionate4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,disproportionate4,CONTAINS
+backfireeffect3,Backfire effect,disput4,CONTAINS
+neglectofprobability3,Neglect of probability,disregard4,CONTAINS
+groupthink3,Groupthink,dissenting4,CONTAINS
+distinctionbias3,Distinction bias,dissimilar4,CONTAINS
+humoreffect3,Humor effect,distinctiveness4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,distort4,CONTAINS
+sourceconfusion3,Source confusion,distort4,CONTAINS
+stereotypicalbias3,Stereotypical bias,distort4,CONTAINS
+illicittransference3,Illicit transference,distributive4,CONTAINS
+lossaversion3,Loss aversion,disutility4,CONTAINS
+illicittransference3,Illicit transference,division4,CONTAINS
+preventionbias3,Prevention bias,dollar4,CONTAINS
+decoyeffect3,Decoy effect,dominate4,CONTAINS
+dreadaversion3,Dread aversion,double4,CONTAINS
+impostersyndrome3,Imposter Syndrome,doubt4,CONTAINS
+expectationbias3,expectation bias,down4,CONTAINS
+experimenters3,Experimenter's,down4,CONTAINS
+tachypsychia3,Tachypsychia,down4,CONTAINS
+framingeffect3,Framing effect,drawing4,CONTAINS
+dreadaversion3,Dread aversion,dread4,CONTAINS
+durationneglect3,Duration neglect,duration4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,duration4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,dynamic4,CONTAINS
+groupthink3,Groupthink,dysfunctional4,CONTAINS
+groupattributionerror3,Group attribution error,early4,CONTAINS
+reminiscencebump3,Reminiscence bump,early4,CONTAINS
+plantblindness3,Plant blindness,earth4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,easier4,CONTAINS
+serialpositioneffect3,Serial position effect,easiest4,CONTAINS
+attributesubstitution3,Attribute substitution,easily4,CONTAINS
+humoreffect3,Humor effect,easily4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,easily4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,easily4,CONTAINS
+testingeffect3,Testing effect,easily4,CONTAINS
+hardeasyeffect3,Hard–easy effect,easy4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,easy4,CONTAINS
+systemjustification3,System justification,economic4,CONTAINS
+barnumeffect3,Barnum effect,effect4,CONTAINS
+beliefbias3,Belief bias,effect4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,effect4,CONTAINS
+forereffect3,Forer effect,effect4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,effect4,CONTAINS
+hindsightbias3,Hindsight bias,effect4,CONTAINS
+illusorysuperiority3,Illusory superiority,effect4,CONTAINS
+lageffect3,Lag effect,effect4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,effect4,CONTAINS
+lossaversion3,Loss aversion,effect4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,effect4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,effect4,CONTAINS
+notinventedhere3,Not invented here,effect4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,effect4,CONTAINS
+optimismbias3,Optimism bias,effect4,CONTAINS
+preventionbias3,Prevention bias,effect4,CONTAINS
+statusquobias3,Status Quo Bias,effect4,CONTAINS
+statusquobias3,Status quo bias,effect4,CONTAINS
+suffixeffect3,Suffix effect,effect4,CONTAINS
+systematicbias3,Systematic bias,effect4,CONTAINS
+thirdpersoneffect3,Third-person effect,effect4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,effective4,CONTAINS
+preventionbias3,Prevention bias,effective4,CONTAINS
+naïvecynicism3,Naïve cynicism,egocentric4,CONTAINS
+decoyeffect3,Decoy effect,either4,CONTAINS
+empathygap3,Empathy gap,either4,CONTAINS
+naïverealism3,Naïve realism,either4,CONTAINS
+preventionbias3,Prevention bias,either4,CONTAINS
+tachypsychia3,Tachypsychia,either4,CONTAINS
+anthropomorphism3,Anthropomorphism,emotion4,CONTAINS
+availabilityheuristic3,Availability heuristic,emotion4,CONTAINS
+dreadaversion3,Dread aversion,emotion4,CONTAINS
+fadingaffectbias3,Fading affect bias,emotion4,CONTAINS
+humoreffect3,Humor effect,emotion4,CONTAINS
+personification3,personification,emotion4,CONTAINS
+saliencebias3,Salience bias,emotion4,CONTAINS
+availabilityheuristic3,Availability heuristic,emotional4,CONTAINS
+dreadaversion3,Dread aversion,emotional4,CONTAINS
+humoreffect3,Humor effect,emotional4,CONTAINS
+saliencebias3,Salience bias,emotional4,CONTAINS
+actorobserverbias3,Actor-observer bias,emphasize4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,emphasize4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,emphasizing4,CONTAINS
+backfireeffect3,Backfire effect,empirical4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,encoding4,CONTAINS
+lossaversion3,Loss aversion,endowment4,CONTAINS
+statusquobias3,Status Quo Bias,endowment4,CONTAINS
+statusquobias3,Status quo bias,endowment4,CONTAINS
+sharedinformationbias3,Shared information bias,energy4,CONTAINS
+ostracism3,Ostracism,engage4,CONTAINS
+unconsciousbias3,Unconscious bias,engage4,CONTAINS
+googleeffect3,Google effect,engine4,CONTAINS
+contrasteffect3,Contrast effect,enhancement4,CONTAINS
+availabilitycascade3,Availability cascade,enough4,CONTAINS
+barnumeffect3,Barnum effect,enough4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,enough4,CONTAINS
+forereffect3,Forer effect,enough4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,entire4,CONTAINS
+plantblindness3,Plant blindness,environment4,CONTAINS
+durationneglect3,Duration neglect,episode4,CONTAINS
+sourceconfusion3,Source confusion,episodic4,CONTAINS
+omissionbias3,Omission bias,equally4,CONTAINS
+preventionbias3,Prevention bias,equally4,CONTAINS
+illicittransference3,Illicit transference,equivalent4,CONTAINS
+systematicbias3,Systematic bias,equivalent4,CONTAINS
+actorobserverbias3,Actor-observer bias,error4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,error4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,error4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,error4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,error4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,error4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,error4,CONTAINS
+availabilityheuristic3,Availability heuristic,estimate4,CONTAINS
+clusteringillusion3,Clustering illusion,estimate4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,estimate4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,estimate4,CONTAINS
+empathygap3,Empathy gap,estimate4,CONTAINS
+falseconsensuseffect3,False consensus effect,estimate4,CONTAINS
+hardeasyeffect3,Hard–easy effect,estimate4,CONTAINS
+illusionofcontrol3,Illusion of control,estimate4,CONTAINS
+illusionoftransparency3,Illusion of transparency,estimate4,CONTAINS
+impactbias3,Impact bias,estimate4,CONTAINS
+pessimismbias3,Pessimism bias,estimate4,CONTAINS
+planningfallacy3,Planning fallacy,estimate4,CONTAINS
+projectionbias3,Projection bias,estimate4,CONTAINS
+restraintbias3,Restraint bias,estimate4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,estimate4,CONTAINS
+spotlighteffect3,Spotlight effect,estimate4,CONTAINS
+illusionofvalidity3,Illusion of validity,estimating4,CONTAINS
+illusorysuperiority3,Illusory superiority,estimating4,CONTAINS
+optimismbias3,Optimism bias,estimating4,CONTAINS
+travissyndrome3,Travis Syndrome,estimating4,CONTAINS
+timesavingbias3,Time-saving bias,estimation4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,estimation4,CONTAINS
+timesavingbias3,Time-saving bias,estimations4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,evaluate4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,evaluate4,CONTAINS
+selfservingbias3,Self-serving bias,evaluate4,CONTAINS
+distinctionbias3,Distinction bias,evaluating4,CONTAINS
+scopeinsensitivity3,scope insensitivity,evaluating4,CONTAINS
+scopeneglect3,Scope neglect,evaluating4,CONTAINS
+beliefbias3,Belief bias,evaluation4,CONTAINS
+groupthink3,Groupthink,evaluation4,CONTAINS
+availabilityheuristic3,Availability heuristic,event4,CONTAINS
+fadingaffectbias3,Fading affect bias,event4,CONTAINS
+gamblersfallacy3,Gambler fallacy,event4,CONTAINS
+hindsightbias3,Hindsight bias,event4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,event4,CONTAINS
+illusionofcontrol3,Illusion of control,event4,CONTAINS
+illusorycorrelation3,Illusory correlation,event4,CONTAINS
+misinformationeffect3,Misinformation effect,event4,CONTAINS
+moralluck3,Moral luck,event4,CONTAINS
+outcomebias3,Outcome bias,event4,CONTAINS
+planck’sprinciple3,Planck’s Principle,event4,CONTAINS
+preventionbias3,Prevention bias,event4,CONTAINS
+proportionalitybias3,Proportionality bias,event4,CONTAINS
+recencyillusion3,Recency illusion,event4,CONTAINS
+reminiscencebump3,Reminiscence bump,event4,CONTAINS
+tachypsychia3,Tachypsychia,event4,CONTAINS
+telescopingeffect3,Telescoping effect,event4,CONTAINS
+outcomebias3,Outcome bias,eventual4,CONTAINS
+planck’sprinciple3,Planck’s Principle,eventual4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,every4,CONTAINS
+frequencyillusion3,Frequency illusion,every4,CONTAINS
+illicittransference3,Illicit transference,every4,CONTAINS
+lawoftheinstrument3,Law of the instrument,every4,CONTAINS
+lawoftheinstrument3,Law of the instrument,everything4,CONTAINS
+backfireeffect3,Backfire effect,evidence4,CONTAINS
+beliefrevision3,Belief Revision,evidence4,CONTAINS
+conservatismbias3,Conservatism bias,evidence4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,evidence4,CONTAINS
+escalationofcommitment3,Escalation of commitment,evidence4,CONTAINS
+irrationalescalation3,Irrational escalation,evidence4,CONTAINS
+semmelweisreflex3,Semmelweis reflex,evidence4,CONTAINS
+verbatimeffect3,Verbatim effect,exact4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,exaggerate4,CONTAINS
+gamblersfallacy3,Gambler fallacy,example4,CONTAINS
+genderbias3,Gender bias,example4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,example4,CONTAINS
+interoceptivebias3,Interoceptive bias,example4,CONTAINS
+listlengtheffect3,List-length effect,example4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,example4,CONTAINS
+scopeinsensitivity3,scope insensitivity,example4,CONTAINS
+scopeneglect3,Scope neglect,example4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,exception4,CONTAINS
+automationbias3,Automation bias,excessive4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,excessive4,CONTAINS
+proinnovationbias3,Pro-innovation bias,excessive4,CONTAINS
+congruencebias3,Congruence bias,exclusive4,CONTAINS
+backfireeffect3,Backfire effect,existence4,CONTAINS
+systemjustification3,System justification,existing4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,expect4,CONTAINS
+expectationbias3,expectation bias,expect4,CONTAINS
+experimenters3,Experimenter's,expect4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,expect4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,expect4,CONTAINS
+naïvecynicism3,Naïve cynicism,expect4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,expect4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,expect4,CONTAINS
+pygmalioneffect3,Pygmalion effect,expect4,CONTAINS
+selectiveperception3,Selective perception,expect4,CONTAINS
+stereotyping3,Stereotyping,expect4,CONTAINS
+systemjustification3,System justification,expense4,CONTAINS
+zerosumbias3,Zero-sum bias,expense4,CONTAINS
+cryptomnesia3,Cryptomnesia,experience4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,experience4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,experience4,CONTAINS
+peakendrule3,Peak–end rule,experience4,CONTAINS
+unconsciousbias3,Unconscious bias,experience4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,experiencing4,CONTAINS
+berksonsparadox3,Berkson paradox,experiment4,CONTAINS
+expectationbias3,expectation bias,experiment4,CONTAINS
+experimenters3,Experimenter's,experiment4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,experiment4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,expert4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,expert4,CONTAINS
+humoreffect3,Humor effect,explain4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,explain4,CONTAINS
+proportionalitybias3,Proportionality bias,explain4,CONTAINS
+actorobserverbias3,Actor-observer bias,explanation4,CONTAINS
+barnumeffect3,Barnum effect,explanation4,CONTAINS
+forereffect3,Forer effect,explanation4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,explanation4,CONTAINS
+listlengtheffect3,List-length effect,explanation4,CONTAINS
+impostersyndrome3,Imposter Syndrome,expose4,CONTAINS
+spacingeffect3,Spacing effect,exposure4,CONTAINS
+mereexposureeffect3,Mere exposure effect,express4,CONTAINS
+ostracism3,Ostracism,express4,CONTAINS
+illusionofcontrol3,Illusion of control,external4,CONTAINS
+interoceptivebias3,Interoceptive bias,external4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,extreme4,CONTAINS
+curseofknowledge3,Curse of knowledge,extreme4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,extreme4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,extrinsic4,CONTAINS
+moneyillusion3,Money illusion,face4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,face4,CONTAINS
+pareidolia3,Pareidolia,face4,CONTAINS
+restraintbias3,Restraint bias,face4,CONTAINS
+barnumeffect3,Barnum effect,fact4,CONTAINS
+forereffect3,Forer effect,fact4,CONTAINS
+naïverealism3,Naïve realism,fact4,CONTAINS
+recencyillusion3,Recency illusion,fact4,CONTAINS
+testingeffect3,Testing effect,fact4,CONTAINS
+fadingaffectbias3,Fading affect bias,fade4,CONTAINS
+plancontinuationbias3,Plan continuation bias,fail4,CONTAINS
+plantblindness3,Plant blindness,fail4,CONTAINS
+proinnovationbias3,Pro-innovation bias,fail4,CONTAINS
+selfservingbias3,Self-serving bias,fail4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,familiar4,CONTAINS
+lawoftheinstrument3,Law of the instrument,familiar4,CONTAINS
+mereexposureeffect3,Mere exposure effect,familiar4,CONTAINS
+planck’sprinciple3,Planck’s Principle,familiar4,CONTAINS
+sharedinformationbias3,Shared information bias,familiar4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,familiar4,CONTAINS
+gettierproblems3,Gettier Problems,faulty4,CONTAINS
+ambiguityeffect3,Ambiguity effect,favor4,CONTAINS
+benfranklineffect3,Ben Franklin effect,favor4,CONTAINS
+declinism3,Declinism,favor4,CONTAINS
+decoyeffect3,Decoy effect,favor4,CONTAINS
+defaulteffect3,Default effect,favor4,CONTAINS
+optimismbias3,Optimism bias,favor4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,favor4,CONTAINS
+recencyillusion3,Recency illusion,favor4,CONTAINS
+socialcomparisonbias3,Social comparison bias,favour4,CONTAINS
+impostersyndrome3,Imposter Syndrome,fear4,CONTAINS
+anthropomorphism3,Anthropomorphism,feeling4,CONTAINS
+empathygap3,Empathy gap,feeling4,CONTAINS
+impactbias3,Impact bias,feeling4,CONTAINS
+personification3,personification,feeling4,CONTAINS
+authoritybias3,Authority bias,figure4,CONTAINS
+recencyillusion3,Recency illusion,final4,CONTAINS
+curseofknowledge3,Curse of knowledge,find4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,find4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,first4,CONTAINS
+egocentricbias3,Egocentric bias,fish4,CONTAINS
+egocentricbias3,Egocentric bias,fish4,CONTAINS
+baseratefallacy3,Base rate fallacy,focus4,CONTAINS
+baserateneglect3,Base rate neglect,focus4,CONTAINS
+confirmationbias3,Confirmation bias,focus4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,focus4,CONTAINS
+saliencebias3,Salience bias,focus4,CONTAINS
+serialpositioneffect3,Serial position effect,follow4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,food4,CONTAINS
+unitbias3,Unit bias,food4,CONTAINS
+googleeffect3,Google effect,forget4,CONTAINS
+barnumeffect3,Barnum effect,fortune4,CONTAINS
+forereffect3,Forer effect,fortune4,CONTAINS
+telescopingeffect3,Telescoping effect,forward4,CONTAINS
+googleeffect3,Google effect,found4,CONTAINS
+impostersyndrome3,Imposter Syndrome,fraud4,CONTAINS
+reactance3,Reactance,freedom4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,frequency4,CONTAINS
+frequencyillusion3,Frequency illusion,frequency4,CONTAINS
+recencyillusion3,Recency illusion,frequency4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,frequently4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,fruit4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,frustratingly4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,function4,CONTAINS
+groupthink3,Groupthink,function4,CONTAINS
+actorobserverbias3,Actor-observer bias,fundamental4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,fundamental4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,fundamental4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,fundamental4,CONTAINS
+ikeaeffect3,IKEA effect,furniture4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,further4,CONTAINS
+listlengtheffect3,List-length effect,further4,CONTAINS
+declinism3,Declinism,future4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,future4,CONTAINS
+gamblersfallacy3,Gambler fallacy,future4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,future4,CONTAINS
+impactbias3,Impact bias,future4,CONTAINS
+moralcredentialeffect3,Moral credential effect,future4,CONTAINS
+presentbias3,Present bias,future4,CONTAINS
+projectionbias3,Projection bias,future4,CONTAINS
+availabilitycascade3,Availability cascade,gain4,CONTAINS
+dreadaversion3,Dread aversion,gain4,CONTAINS
+genderbias3,Gender bias,gain4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,gain4,CONTAINS
+preventionbias3,Prevention bias,gain4,CONTAINS
+zerosumbias3,Zero-sum bias,gain4,CONTAINS
+zerosumbias3,Zero-sum bias,game4,CONTAINS
+genderbias3,Gender bias,gender4,CONTAINS
+stereotypicalbias3,Stereotypical bias,gender4,CONTAINS
+barnumeffect3,Barnum effect,general4,CONTAINS
+baseratefallacy3,Base rate fallacy,general4,CONTAINS
+baserateneglect3,Base rate neglect,general4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,general4,CONTAINS
+forereffect3,Forer effect,general4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,generate4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,generate4,CONTAINS
+planck’sprinciple3,Planck’s Principle,generation4,CONTAINS
+ostracism3,Ostracism,gist4,CONTAINS
+verbatimeffect3,Verbatim effect,gist4,CONTAINS
+barnumeffect3,Barnum effect,give4,CONTAINS
+courtesybias3,Courtesy bias,give4,CONTAINS
+defaulteffect3,Default effect,give4,CONTAINS
+endowmenteffect3,Endowment Effect,give4,CONTAINS
+endowmenteffect3,Endowment effect,give4,CONTAINS
+forereffect3,Forer effect,give4,CONTAINS
+ingroupbias3,Ingroup bias,give4,CONTAINS
+moralcredentialeffect3,Moral credential effect,give4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,give4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,give4,CONTAINS
+presentbias3,Present bias,give4,CONTAINS
+recencyillusion3,Recency illusion,give4,CONTAINS
+lossaversion3,Loss aversion,giving4,CONTAINS
+nextinlineeffect3,Next-in-line effect,going4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,good4,CONTAINS
+moralcredentialeffect3,Moral credential effect,good4,CONTAINS
+egocentricbias3,Egocentric bias,grade4,CONTAINS
+egocentricbias3,Egocentric bias,grade4,CONTAINS
+expectationbias3,expectation bias,grade4,CONTAINS
+experimenters3,Experimenter's,grade4,CONTAINS
+barnumeffect3,Barnum effect,graphology4,CONTAINS
+forereffect3,Forer effect,graphology4,CONTAINS
+authoritybias3,Authority bias,greater4,CONTAINS
+availabilityheuristic3,Availability heuristic,greater4,CONTAINS
+gamblersfallacy3,Gambler fallacy,greater4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,greater4,CONTAINS
+lageffect3,Lag effect,greater4,CONTAINS
+listlengtheffect3,List-length effect,greater4,CONTAINS
+lossaversion3,Loss aversion,greater4,CONTAINS
+moralluck3,Moral luck,greater4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,greater4,CONTAINS
+recencyillusion3,Recency illusion,greater4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,greater4,CONTAINS
+thirdpersoneffect3,Third-person effect,greater4,CONTAINS
+zeroriskbias3,Zero-risk bias,greater4,CONTAINS
+optimismbias3,Optimism bias,greatly4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,group4,CONTAINS
+bandwagoneffect3,Bandwagon effect,group4,CONTAINS
+cheerleadereffect3,Cheerleader effect,group4,CONTAINS
+frequencyillusion3,Frequency illusion,group4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,group4,CONTAINS
+groupattributionerror3,Group attribution error,group4,CONTAINS
+groupthink3,Groupthink,group4,CONTAINS
+ingroupbias3,Ingroup bias,group4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,group4,CONTAINS
+nextinlineeffect3,Next-in-line effect,group4,CONTAINS
+notinventedhere3,Not invented here,group4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,group4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,group4,CONTAINS
+selfservingbias3,Self-serving bias,group4,CONTAINS
+sharedinformationbias3,Shared information bias,group4,CONTAINS
+stereotyping3,Stereotyping,group4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,group4,CONTAINS
+unconsciousbias3,Unconscious bias,group4,CONTAINS
+planck’sprinciple3,Planck’s Principle,grow4,CONTAINS
+lawoftheinstrument3,Law of the instrument,hammer4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,hand4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,happen4,CONTAINS
+hindsightbias3,Hindsight bias,happen4,CONTAINS
+normalcybias3,Normalcy bias,happen4,CONTAINS
+pessimismbias3,Pessimism bias,happen4,CONTAINS
+selectionbias3,Selection bias,happen4,CONTAINS
+hardeasyeffect3,Hard–easy effect,hard4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,hard4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,harder4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,harmdoer4,CONTAINS
+omissionbias3,Omission bias,harmful4,CONTAINS
+groupthink3,Groupthink,harmony4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,having4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,having4,CONTAINS
+stereotyping3,Stereotyping,having4,CONTAINS
+pareidolia3,Pareidolia,hear4,CONTAINS
+recencyillusion3,Recency illusion,hear4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,heavily4,CONTAINS
+genderbias3,Gender bias,held4,CONTAINS
+bandwagoneffect3,Bandwagon effect,herd4,CONTAINS
+attributesubstitution3,Attribute substitution,heuristic4,CONTAINS
+pareidolia3,Pareidolia,hidden4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,high4,CONTAINS
+barnumeffect3,Barnum effect,high4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,high4,CONTAINS
+forereffect3,Forer effect,high4,CONTAINS
+frequencyillusion3,Frequency illusion,high4,CONTAINS
+genderbias3,Gender bias,high4,CONTAINS
+ikeaeffect3,IKEA effect,high4,CONTAINS
+modalityeffect3,Modality effect,high4,CONTAINS
+timesavingbias3,Time-saving bias,high4,CONTAINS
+recencyillusion3,Recency illusion,historic4,CONTAINS
+contexteffect3,Context effect,home4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,hostile4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,hothand4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,human4,CONTAINS
+anthropomorphism3,Anthropomorphism,human4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,human4,CONTAINS
+intentionalitybias3,Intentionality bias,human4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,human4,CONTAINS
+personification3,personification,human4,CONTAINS
+humoreffect3,Humor effect,humor4,CONTAINS
+humoreffect3,Humor effect,humorous4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,hyperbolic4,CONTAINS
+congruencebias3,Congruence bias,hypotheses4,CONTAINS
+thirdpersoneffect3,Third-person effect,hypothesize4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,idea4,CONTAINS
+suggestibility3,Suggestibility,idea4,CONTAINS
+compassionfade3,Compassion fade,identifiable4,CONTAINS
+biasblindspot3,Bias blind spot,identify4,CONTAINS
+crossraceeffect3,Cross-race effect,identify4,CONTAINS
+proinnovationbias3,Pro-innovation bias,identify4,CONTAINS
+baseratefallacy3,Base rate fallacy,ignore4,CONTAINS
+baserateneglect3,Base rate neglect,ignore4,CONTAINS
+plantblindness3,Plant blindness,ignore4,CONTAINS
+saliencebias3,Salience bias,ignore4,CONTAINS
+lawoftheinstrument3,Law of the instrument,ignoring4,CONTAINS
+ostricheffect3,Ostrich effect,ignoring4,CONTAINS
+ikeaeffect3,IKEA effect,ikea4,CONTAINS
+notinventedhere3,Not invented here,ikea4,CONTAINS
+hindsightbias3,Hindsight bias,iknewitallalong4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,illusion4,CONTAINS
+frequencyillusion3,Frequency illusion,illusion4,CONTAINS
+recencyillusion3,Recency illusion,illusion4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,illusory4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,illusory4,CONTAINS
+pareidolia3,Pareidolia,image4,CONTAINS
+cryptomnesia3,Cryptomnesia,imagination4,CONTAINS
+falsememory3,False memory,imagination4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,immediate4,CONTAINS
+nextinlineeffect3,Next-in-line effect,immediate4,CONTAINS
+dreadaversion3,Dread aversion,impact4,CONTAINS
+impactbias3,Impact bias,impact4,CONTAINS
+puritanicalbias3,Puritanical bias,impact4,CONTAINS
+genderbias3,Gender bias,implicit4,CONTAINS
+unconsciousbias3,Unconscious bias,implicit4,CONTAINS
+clusteringillusion3,Clustering illusion,importance4,CONTAINS
+recencyillusion3,Recency illusion,importance4,CONTAINS
+baseratefallacy3,Base rate fallacy,important4,CONTAINS
+baserateneglect3,Base rate neglect,important4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,improbable4,CONTAINS
+frequencyillusion3,Frequency illusion,improbable4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,improve4,CONTAINS
+illusorycorrelation3,Illusory correlation,inaccurately4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,inaction4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,inaction4,CONTAINS
+omissionbias3,Omission bias,inaction4,CONTAINS
+survivorshipbias3,Survivorship bias,inadvertently4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,incidence4,CONTAINS
+frequencyillusion3,Frequency illusion,incidence4,CONTAINS
+subjectivevalidation3,Subjective validation,incidence4,CONTAINS
+agentdetection3,Agent detection,inclination4,CONTAINS
+ostracism3,Ostracism,inclusion4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,incompetence4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,incompetence4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,inconsistency4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,inconsistent4,CONTAINS
+contexteffect3,Context effect,incontext4,CONTAINS
+consistencybias3,Consistency bias,incorrectly4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,incorrectly4,CONTAINS
+zerosumbias3,Zero-sum bias,incorrectly4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,increase4,CONTAINS
+escalationofcommitment3,Escalation of commitment,increase4,CONTAINS
+humoreffect3,Humor effect,increase4,CONTAINS
+irrationalescalation3,Irrational escalation,increase4,CONTAINS
+listlengtheffect3,List-length effect,increase4,CONTAINS
+ostracism3,Ostracism,increase4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,increase4,CONTAINS
+availabilitycascade3,Availability cascade,increasing4,CONTAINS
+timesavingbias3,Time-saving bias,increasing4,CONTAINS
+genderbias3,Gender bias,indicator4,CONTAINS
+actorobserverbias3,Actor-observer bias,individual4,CONTAINS
+barnumeffect3,Barnum effect,individual4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,individual4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,individual4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,individual4,CONTAINS
+forereffect3,Forer effect,individual4,CONTAINS
+groupattributionerror3,Group attribution error,individual4,CONTAINS
+listlengtheffect3,List-length effect,individual4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,individual4,CONTAINS
+puritanicalbias3,Puritanical bias,individual4,CONTAINS
+stereotyping3,Stereotyping,individual4,CONTAINS
+systemjustification3,System justification,individual4,CONTAINS
+tachypsychia3,Tachypsychia,individual4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,individual4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,inexplicable4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,inference4,CONTAINS
+decoyeffect3,Decoy effect,inferior4,CONTAINS
+actorobserverbias3,Actor-observer bias,influence4,CONTAINS
+authoritybias3,Authority bias,influence4,CONTAINS
+availabilityheuristic3,Availability heuristic,influence4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,influence4,CONTAINS
+empathygap3,Empathy gap,influence4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,influence4,CONTAINS
+groupthink3,Groupthink,influence4,CONTAINS
+illusionofcontrol3,Illusion of control,influence4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,information4,CONTAINS
+automationbias3,Automation bias,information4,CONTAINS
+baseratefallacy3,Base rate fallacy,information4,CONTAINS
+baserateneglect3,Base rate neglect,information4,CONTAINS
+confirmationbias3,Confirmation bias,information4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,information4,CONTAINS
+framingeffect3,Framing effect,information4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,information4,CONTAINS
+gettierproblems3,Gettier Problems,information4,CONTAINS
+googleeffect3,Google effect,information4,CONTAINS
+groupattributionerror3,Group attribution error,information4,CONTAINS
+illusionofvalidity3,Illusion of validity,information4,CONTAINS
+informationbias3,Information bias,information4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,information4,CONTAINS
+misinformationeffect3,Misinformation effect,information4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,information4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,information4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,information4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,information4,CONTAINS
+selfservingbias3,Self-serving bias,information4,CONTAINS
+sharedinformationbias3,Shared information bias,information4,CONTAINS
+sourceconfusion3,Source confusion,information4,CONTAINS
+spacingeffect3,Spacing effect,information4,CONTAINS
+stereotyping3,Stereotyping,information4,CONTAINS
+testingeffect3,Testing effect,information4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,information4,CONTAINS
+curseofknowledge3,Curse of knowledge,informed4,CONTAINS
+naïverealism3,Naïve realism,informed4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,injustice4,CONTAINS
+proportionalitybias3,Proportionality bias,innate4,CONTAINS
+proinnovationbias3,Pro-innovation bias,innovation4,CONTAINS
+recencyillusion3,Recency illusion,innovation4,CONTAINS
+interoceptivebias3,Interoceptive bias,input4,CONTAINS
+scopeinsensitivity3,scope insensitivity,insensitive4,CONTAINS
+scopeneglect3,Scope neglect,insensitive4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,instance4,CONTAINS
+frequencyillusion3,Frequency illusion,instance4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,instance4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,instance4,CONTAINS
+attributesubstitution3,Attribute substitution,instead4,CONTAINS
+congruencebias3,Congruence bias,instead4,CONTAINS
+outcomebias3,Outcome bias,instead4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,instead4,CONTAINS
+testingeffect3,Testing effect,instead4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,instead4,CONTAINS
+beliefrevision3,Belief Revision,insufficiently4,CONTAINS
+conservatismbias3,Conservatism bias,insufficiently4,CONTAINS
+genderbias3,Gender bias,intellectual4,CONTAINS
+agentdetection3,Agent detection,intelligent4,CONTAINS
+surrogation3,Surrogation,intend4,CONTAINS
+impactbias3,Impact bias,intensity4,CONTAINS
+anthropomorphism3,Anthropomorphism,intent4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,intent4,CONTAINS
+intentionalitybias3,Intentionality bias,intent4,CONTAINS
+personification3,personification,intent4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,interacting4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,interaction4,CONTAINS
+illusionofvalidity3,Illusion of validity,intercorrelate4,CONTAINS
+selfservingbias3,Self-serving bias,interest4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,interest4,CONTAINS
+surrogation3,Surrogation,interest4,CONTAINS
+systemjustification3,System justification,interest4,CONTAINS
+misinformationeffect3,Misinformation effect,interfere4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,interfere4,CONTAINS
+impostersyndrome3,Imposter Syndrome,internal4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,internal4,CONTAINS
+googleeffect3,Google effect,internet4,CONTAINS
+berksonsparadox3,Berkson paradox,interpret4,CONTAINS
+confirmationbias3,Confirmation bias,interpret4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,interpret4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,interpret4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,interrupt4,CONTAINS
+agentdetection3,Agent detection,intervention4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,intrinsic4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,introduce4,CONTAINS
+attributesubstitution3,Attribute substitution,intuitive4,CONTAINS
+gettierproblems3,Gettier Problems,invalid4,CONTAINS
+proinnovationbias3,Pro-innovation bias,invention4,CONTAINS
+preventionbias3,Prevention bias,investing4,CONTAINS
+escalationofcommitment3,Escalation of commitment,investment4,CONTAINS
+irrationalescalation3,Irrational escalation,investment4,CONTAINS
+groupthink3,Groupthink,irrational4,CONTAINS
+naïverealism3,Naïve realism,irrational4,CONTAINS
+saliencebias3,Salience bias,irrelevant4,CONTAINS
+groupthink3,Groupthink,isolating4,CONTAINS
+cheerleadereffect3,Cheerleader effect,isolation4,CONTAINS
+humoreffect3,Humor effect,item4,CONTAINS
+listlengtheffect3,List-length effect,item4,CONTAINS
+modalityeffect3,Modality effect,item4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,item4,CONTAINS
+saliencebias3,Salience bias,item4,CONTAINS
+serialpositioneffect3,Serial position effect,item4,CONTAINS
+suffixeffect3,Suffix effect,item4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,item4,CONTAINS
+vonrestorffeffect3,von Restorff effect,item4,CONTAINS
+illicittransference3,Illicit transference,itself4,CONTAINS
+interoceptivebias3,Interoceptive bias,itself4,CONTAINS
+recencyillusion3,Recency illusion,itself4,CONTAINS
+selfservingbias3,Self-serving bias,itself4,CONTAINS
+genderbias3,Gender bias,job4,CONTAINS
+egocentricbias3,Egocentric bias,joint4,CONTAINS
+egocentricbias3,Egocentric bias,joint4,CONTAINS
+lessisbettereffect3,Less-is-better effect,joint4,CONTAINS
+intentionalitybias3,Intentionality bias,judge4,CONTAINS
+interoceptivebias3,Interoceptive bias,judge4,CONTAINS
+lessisbettereffect3,Less-is-better effect,judge4,CONTAINS
+omissionbias3,Omission bias,judge4,CONTAINS
+outcomebias3,Outcome bias,judge4,CONTAINS
+subadditivityeffect3,Subadditivity effect,judge4,CONTAINS
+systematicbias3,Systematic bias,judge4,CONTAINS
+interoceptivebias3,Interoceptive bias,judgement4,CONTAINS
+systematicbias3,Systematic bias,judgement4,CONTAINS
+attributesubstitution3,Attribute substitution,judgment4,CONTAINS
+illusionofvalidity3,Illusion of validity,judgment4,CONTAINS
+unconsciousbias3,Unconscious bias,judgment4,CONTAINS
+recencyillusion3,Recency illusion,jury4,CONTAINS
+dreadaversion3,Dread aversion,just4,CONTAINS
+escalationofcommitment3,Escalation of commitment,just4,CONTAINS
+gettierproblems3,Gettier Problems,just4,CONTAINS
+irrationalescalation3,Irrational escalation,just4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,just4,CONTAINS
+statusquobias3,Status Quo Bias,just4,CONTAINS
+statusquobias3,Status quo bias,just4,CONTAINS
+statusquobias3,Status Quo Bias,justification4,CONTAINS
+statusquobias3,Status quo bias,justification4,CONTAINS
+gettierproblems3,Gettier Problems,justified4,CONTAINS
+escalationofcommitment3,Escalation of commitment,justify4,CONTAINS
+irrationalescalation3,Irrational escalation,justify4,CONTAINS
+ambiguityeffect3,Ambiguity effect,know4,CONTAINS
+escalationofcommitment3,Escalation of commitment,know4,CONTAINS
+gettierproblems3,Gettier Problems,know4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,know4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,know4,CONTAINS
+illusionofasymmetricinsight3,Illusion of asymmetric insight,know4,CONTAINS
+illusionoftransparency3,Illusion of transparency,know4,CONTAINS
+illusorysuperiority3,Illusory superiority,know4,CONTAINS
+irrationalescalation3,Irrational escalation,know4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,know4,CONTAINS
+notinventedhere3,Not invented here,know4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,know4,CONTAINS
+sharedinformationbias3,Shared information bias,know4,CONTAINS
+unconsciousbias3,Unconscious bias,know4,CONTAINS
+puritanicalbias3,Puritanical bias,lack4,CONTAINS
+survivorshipbias3,Survivorship bias,lack4,CONTAINS
+illusorysuperiority3,Illusory superiority,lake4,CONTAINS
+recencyillusion3,Recency illusion,language4,CONTAINS
+clusteringillusion3,Clustering illusion,large4,CONTAINS
+compassionfade3,Compassion fade,large4,CONTAINS
+denominationeffect3,Denomination effect,large4,CONTAINS
+gamblersfallacy3,Gambler fallacy,large4,CONTAINS
+lessisbettereffect3,Less-is-better effect,large4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,large4,CONTAINS
+zeroriskbias3,Zero-risk bias,large4,CONTAINS
+modalityeffect3,Modality effect,last4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,later4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,later4,CONTAINS
+recencyillusion3,Recency illusion,lawyer4,CONTAINS
+naïverealism3,Naïve realism,lazy4,CONTAINS
+automationbias3,Automation bias,lead4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,lead4,CONTAINS
+frequencyillusion3,Frequency illusion,lead4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,lead4,CONTAINS
+projectionbias3,Projection bias,lead4,CONTAINS
+selectionbias3,Selection bias,lead4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,learn4,CONTAINS
+lageffect3,Lag effect,learn4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,learn4,CONTAINS
+serialpositioneffect3,Serial position effect,least4,CONTAINS
+impactbias3,Impact bias,length4,CONTAINS
+listlengtheffect3,List-length effect,length4,CONTAINS
+tachypsychia3,Tachypsychia,length4,CONTAINS
+interoceptivebias3,Interoceptive bias,lenient4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,less4,CONTAINS
+biasblindspot3,Bias blind spot,less4,CONTAINS
+curseofknowledge3,Curse of knowledge,less4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,less4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,less4,CONTAINS
+genderbias3,Gender bias,less4,CONTAINS
+ikeaeffect3,IKEA effect,less4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,less4,CONTAINS
+misinformationeffect3,Misinformation effect,less4,CONTAINS
+moralcredentialeffect3,Moral credential effect,less4,CONTAINS
+moralluck3,Moral luck,less4,CONTAINS
+omissionbias3,Omission bias,less4,CONTAINS
+sharedinformationbias3,Shared information bias,less4,CONTAINS
+subadditivityeffect3,Subadditivity effect,less4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,less4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,leveling4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,levels4,CONTAINS
+plantblindness3,Plant blindness,life4,CONTAINS
+reminiscencebump3,Reminiscence bump,life4,CONTAINS
+reminiscencebump3,Reminiscence bump,lifetime4,CONTAINS
+availabilityheuristic3,Availability heuristic,likelihood4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,likelihood4,CONTAINS
+pessimismbias3,Pessimism bias,likelihood4,CONTAINS
+benfranklineffect3,Ben Franklin effect,likely4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,likely4,CONTAINS
+ostracism3,Ostracism,likely4,CONTAINS
+serialpositioneffect3,Serial position effect,likely4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,likely4,CONTAINS
+vonrestorffeffect3,von Restorff effect,likely4,CONTAINS
+mereexposureeffect3,Mere exposure effect,liking4,CONTAINS
+proinnovationbias3,Pro-innovation bias,limitations4,CONTAINS
+functionalfixedness3,Functional fixedness,limits4,CONTAINS
+recencyillusion3,Recency illusion,linguistic4,CONTAINS
+listlengtheffect3,List-length effect,list4,CONTAINS
+modalityeffect3,Modality effect,list4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,list4,CONTAINS
+suffixeffect3,Suffix effect,list4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,logical4,CONTAINS
+beliefbias3,Belief bias,logical4,CONTAINS
+groupthink3,Groupthink,logical4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,logical4,CONTAINS
+travissyndrome3,Travis Syndrome,logical4,CONTAINS
+availabilitycascade3,Availability cascade,long4,CONTAINS
+hindsightbias3,Hindsight bias,long4,CONTAINS
+listlengtheffect3,List-length effect,long4,CONTAINS
+plancontinuationbias3,Plan continuation bias,long4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,long4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,long4,CONTAINS
+recencyillusion3,Recency illusion,long4,CONTAINS
+spacingeffect3,Spacing effect,long4,CONTAINS
+lawoftheinstrument3,Law of the instrument,look4,CONTAINS
+survivorshipbias3,Survivorship bias,look4,CONTAINS
+recencyillusion3,Recency illusion,losing4,CONTAINS
+surrogation3,Surrogation,losing4,CONTAINS
+dreadaversion3,Dread aversion,loss4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,loss4,CONTAINS
+statusquobias3,Status Quo Bias,loss4,CONTAINS
+statusquobias3,Status Quo Bias,loss4,CONTAINS
+statusquobias3,Status quo bias,loss4,CONTAINS
+statusquobias3,Status quo bias,loss4,CONTAINS
+dreadaversion3,Dread aversion,losses4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,lost4,CONTAINS
+timesavingbias3,Time-saving bias,lost4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,lower4,CONTAINS
+contexteffect3,Context effect,lower4,CONTAINS
+impostersyndrome3,Imposter Syndrome,luck4,CONTAINS
+attributesubstitution3,Attribute substitution,made4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,made4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,made4,CONTAINS
+outcomebias3,Outcome bias,made4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,majority4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,make4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,make4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,make4,CONTAINS
+preventionbias3,Prevention bias,make4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,make4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,make4,CONTAINS
+unconsciousbias3,Unconscious bias,make4,CONTAINS
+preventionbias3,Prevention bias,maker4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,making4,CONTAINS
+groupthink3,Groupthink,making4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,making4,CONTAINS
+neglectofprobability3,Neglect of probability,making4,CONTAINS
+socialcomparisonbias3,Social comparison bias,making4,CONTAINS
+tachypsychia3,Tachypsychia,making4,CONTAINS
+genderbias3,Gender bias,male4,CONTAINS
+selfservingbias3,Self-serving bias,manifest4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,manipulate4,CONTAINS
+egocentricbias3,Egocentric bias,manner4,CONTAINS
+egocentricbias3,Egocentric bias,manner4,CONTAINS
+bandwagoneffect3,Bandwagon effect,many4,CONTAINS
+unconsciousbias3,Unconscious bias,many4,CONTAINS
+thirdpersoneffect3,Third-person effect,mass4,CONTAINS
+implicitassociation3,Implicit association,match4,CONTAINS
+probabilitymatching3,Probability matching,match4,CONTAINS
+probabilitymatching3,Probability matching,matching4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,material4,CONTAINS
+surrogation3,Surrogation,measure4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,media4,CONTAINS
+nextinlineeffect3,Next-in-line effect,media4,CONTAINS
+thirdpersoneffect3,Third-person effect,media4,CONTAINS
+availabilityheuristic3,Availability heuristic,memories4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,memories4,CONTAINS
+contexteffect3,Context effect,memories4,CONTAINS
+fadingaffectbias3,Fading affect bias,memories4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,memories4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,memories4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,memories4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,memories4,CONTAINS
+sourceconfusion3,Source confusion,memories4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,memories4,CONTAINS
+verbatimeffect3,Verbatim effect,memories4,CONTAINS
+availabilityheuristic3,Availability heuristic,memory24,CONTAINS
+contexteffect3,Context effect,memory24,CONTAINS
+cryptomnesia3,Cryptomnesia,memory24,CONTAINS
+falsememory3,False memory,memory24,CONTAINS
+levelingandsharpening3,Leveling and sharpening,memory24,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,memory24,CONTAINS
+misinformationeffect3,Misinformation effect,memory24,CONTAINS
+modalityeffect3,Modality effect,memory24,CONTAINS
+recencyillusion3,Recency illusion,memory24,CONTAINS
+stereotypicalbias3,Stereotypical bias,memory24,CONTAINS
+suggestibility3,Suggestibility,memory24,CONTAINS
+actorobserverbias3,Actor-observer bias,mental4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,mental4,CONTAINS
+illusionoftransparency3,Illusion of transparency,mental4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,mental4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,mental4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,mention4,CONTAINS
+frequencyillusion3,Frequency illusion,mention4,CONTAINS
+endowmenteffect3,Endowment Effect,merely4,CONTAINS
+endowmenteffect3,Endowment effect,merely4,CONTAINS
+mereexposureeffect3,Mere exposure effect,merely4,CONTAINS
+pareidolia3,Pareidolia,message4,CONTAINS
+thirdpersoneffect3,Third-person effect,message4,CONTAINS
+commonsourcebias3,Common source bias,method4,CONTAINS
+lawoftheinstrument3,Law of the instrument,method4,CONTAINS
+levelsofprocessingeffect3,Levels-of-processing effect,method4,CONTAINS
+commonsourcebias3,Common source bias,methodologies4,CONTAINS
+serialpositioneffect3,Serial position effect,middle4,CONTAINS
+humoreffect3,Humor effect,might4,CONTAINS
+ostracism3,Ostracism,mimicking4,CONTAINS
+groupthink3,Groupthink,minimize4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,mirror4,CONTAINS
+cryptomnesia3,Cryptomnesia,misattribution4,CONTAINS
+falsememory3,False memory,misattribution4,CONTAINS
+suggestibility3,Suggestibility,misattribution4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,misinformation4,CONTAINS
+berksonsparadox3,Berkson paradox,misinterpret4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,misinterpret4,CONTAINS
+cryptomnesia3,Cryptomnesia,mistaken4,CONTAINS
+falsememory3,False memory,mistaken4,CONTAINS
+suggestibility3,Suggestibility,mistaken4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,moment4,CONTAINS
+presentbias3,Present bias,moment4,CONTAINS
+denominationeffect3,Denomination effect,money4,CONTAINS
+moneyillusion3,Money illusion,money4,CONTAINS
+preventionbias3,Prevention bias,money4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,mood4,CONTAINS
+traitascriptionbias3,Trait ascription bias,mood4,CONTAINS
+pareidolia3,Pareidolia,moon4,CONTAINS
+moralluck3,Moral luck,moral4,CONTAINS
+omissionbias3,Omission bias,moral4,CONTAINS
+puritanicalbias3,Puritanical bias,moral4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,most4,CONTAINS
+recencyillusion3,Recency illusion,most4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,motivation4,CONTAINS
+endowmenteffect3,Endowment Effect,much4,CONTAINS
+endowmenteffect3,Endowment effect,much4,CONTAINS
+gamblersfallacy3,Gambler fallacy,much4,CONTAINS
+projectionbias3,Projection bias,much4,CONTAINS
+scopeinsensitivity3,scope insensitivity,much4,CONTAINS
+scopeneglect3,Scope neglect,much4,CONTAINS
+traitascriptionbias3,Trait ascription bias,much4,CONTAINS
+unitbias3,Unit bias,much4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,multiple4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,multiple4,CONTAINS
+lawoftheinstrument3,Law of the instrument,nail4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,name4,CONTAINS
+frequencyillusion3,Frequency illusion,name4,CONTAINS
+serialpositioneffect3,Serial position effect,near4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,necessarily4,CONTAINS
+listlengtheffect3,List-length effect,need4,CONTAINS
+reactance3,Reactance,need4,CONTAINS
+declinism3,Declinism,negative4,CONTAINS
+haloeffect3,Halo effect,negative4,CONTAINS
+learnedhelplessness3,Learned Helplessness,negative4,CONTAINS
+ostricheffect3,Ostrich effect,negative4,CONTAINS
+pessimismbias3,Pessimism bias,negative4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,negative4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,negative4,CONTAINS
+declinism3,Declinism,negatively4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,negativity4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,negativity4,CONTAINS
+durationneglect3,Duration neglect,neglect4,CONTAINS
+normalcybias3,Normalcy bias,never4,CONTAINS
+moneyillusion3,Money illusion,nominal4,CONTAINS
+pareidolia3,Pareidolia,nonexistent4,CONTAINS
+humoreffect3,Humor effect,nonhumorous4,CONTAINS
+backfireeffect3,Backfire effect,note4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,notice4,CONTAINS
+frequencyillusion3,Frequency illusion,notice4,CONTAINS
+recencyillusion3,Recency illusion,notice4,CONTAINS
+spotlighteffect3,Spotlight effect,notice4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,notion4,CONTAINS
+travissyndrome3,Travis Syndrome,novelty4,CONTAINS
+compassionfade3,Compassion fade,number4,CONTAINS
+gamblersfallacy3,Gambler fallacy,number4,CONTAINS
+listlengtheffect3,List-length effect,number4,CONTAINS
+nextinlineeffect3,Next-in-line effect,number4,CONTAINS
+ostracism3,Ostracism,obeying4,CONTAINS
+anthropomorphism3,Anthropomorphism,object4,CONTAINS
+contrasteffect3,Contrast effect,object4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,object4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,object4,CONTAINS
+endowmenteffect3,Endowment Effect,object4,CONTAINS
+endowmenteffect3,Endowment effect,object4,CONTAINS
+functionalfixedness3,Functional fixedness,object4,CONTAINS
+ikeaeffect3,IKEA effect,object4,CONTAINS
+lossaversion3,Loss aversion,object4,CONTAINS
+naïverealism3,Naïve realism,object4,CONTAINS
+personification3,personification,object4,CONTAINS
+saliencebias3,Salience bias,object4,CONTAINS
+barnumeffect3,Barnum effect,observation4,CONTAINS
+forereffect3,Forer effect,observation4,CONTAINS
+contrasteffect3,Contrast effect,observe4,CONTAINS
+egocentricbias3,Egocentric bias,observe4,CONTAINS
+egocentricbias3,Egocentric bias,observe4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,observe4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,observe4,CONTAINS
+egocentricbias3,Egocentric bias,observer4,CONTAINS
+egocentricbias3,Egocentric bias,observer4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,observer4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,observer4,CONTAINS
+endowmenteffect3,Endowment Effect,obtain4,CONTAINS
+endowmenteffect3,Endowment effect,obtain4,CONTAINS
+ostricheffect3,Ostrich effect,obvious4,CONTAINS
+attributesubstitution3,Attribute substitution,occur4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,occur4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,occur4,CONTAINS
+egocentricbias3,Egocentric bias,occur4,CONTAINS
+egocentricbias3,Egocentric bias,occur4,CONTAINS
+frequencyillusion3,Frequency illusion,occur4,CONTAINS
+groupthink3,Groupthink,occur4,CONTAINS
+illicittransference3,Illicit transference,occur4,CONTAINS
+moralcredentialeffect3,Moral credential effect,occur4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,occur4,CONTAINS
+unconsciousbias3,Unconscious bias,occur4,CONTAINS
+courtesybias3,Courtesy bias,offend4,CONTAINS
+impostersyndrome3,Imposter Syndrome,often4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,often4,CONTAINS
+pareidolia3,Pareidolia,often4,CONTAINS
+proinnovationbias3,Pro-innovation bias,often4,CONTAINS
+recencyillusion3,Recency illusion,often4,CONTAINS
+saliencebias3,Salience bias,often4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,ofttravelled4,CONTAINS
+omissionbias3,Omission bias,omission4,CONTAINS
+anthropomorphism3,Anthropomorphism,once4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,once4,CONTAINS
+confirmationbias3,Confirmation bias,once4,CONTAINS
+frequencyillusion3,Frequency illusion,once4,CONTAINS
+gamblersfallacy3,Gambler fallacy,once4,CONTAINS
+moneyillusion3,Money illusion,once4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,once4,CONTAINS
+personification3,personification,once4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,once4,CONTAINS
+survivorshipbias3,Survivorship bias,once4,CONTAINS
+biasblindspot3,Bias blind spot,oneself4,CONTAINS
+empathygap3,Empathy gap,oneself4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,oneself4,CONTAINS
+naïvecynicism3,Naïve cynicism,oneself4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,oneself4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,oneself4,CONTAINS
+googleeffect3,Google effect,online4,CONTAINS
+baseratefallacy3,Base rate fallacy,only4,CONTAINS
+baserateneglect3,Base rate neglect,only4,CONTAINS
+functionalfixedness3,Functional fixedness,only4,CONTAINS
+reactivedevaluation3,Reactive devaluation,only4,CONTAINS
+recencyillusion3,Recency illusion,only4,CONTAINS
+sharedinformationbias3,Shared information bias,only4,CONTAINS
+authoritybias3,Authority bias,opinion4,CONTAINS
+courtesybias3,Courtesy bias,opinion4,CONTAINS
+planck’sprinciple3,Planck’s Principle,opponent4,CONTAINS
+lageffect3,Lag effect,oppose4,CONTAINS
+actorobserverbias3,Actor-observer bias,opposite4,CONTAINS
+anthropomorphism3,Anthropomorphism,opposite4,CONTAINS
+personification3,personification,opposite4,CONTAINS
+reactance3,Reactance,opposite4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,optimal4,CONTAINS
+probabilitymatching3,Probability matching,optimal4,CONTAINS
+projectionbias3,Projection bias,optimal4,CONTAINS
+proinnovationbias3,Pro-innovation bias,optimism4,CONTAINS
+optimismbias3,Optimism bias,optimistic4,CONTAINS
+ambiguityeffect3,Ambiguity effect,option4,CONTAINS
+decoyeffect3,Decoy effect,option4,CONTAINS
+defaulteffect3,Default effect,option4,CONTAINS
+distinctionbias3,Distinction bias,option4,CONTAINS
+preventionbias3,Prevention bias,option4,CONTAINS
+nextinlineeffect3,Next-in-line effect,order4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,order4,CONTAINS
+ostracism3,Ostracism,order4,CONTAINS
+plancontinuationbias3,Plan continuation bias,original4,CONTAINS
+reactivedevaluation3,Reactive devaluation,originate4,CONTAINS
+ostracism3,Ostracism,ostracize4,CONTAINS
+actorobserverbias3,Actor-observer bias,other4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,other4,CONTAINS
+anthropomorphism3,Anthropomorphism,other4,CONTAINS
+bandwagoneffect3,Bandwagon effect,other4,CONTAINS
+benfranklineffect3,Ben Franklin effect,other4,CONTAINS
+biasblindspot3,Bias blind spot,other4,CONTAINS
+crossraceeffect3,Cross-race effect,other4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,other4,CONTAINS
+empathygap3,Empathy gap,other4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,other4,CONTAINS
+falseconsensuseffect3,False consensus effect,other4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,other4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,other4,CONTAINS
+groupattributionerror3,Group attribution error,other4,CONTAINS
+haloeffect3,Halo effect,other4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,other4,CONTAINS
+illusionofcontrol3,Illusion of control,other4,CONTAINS
+illusionoftransparency3,Illusion of transparency,other4,CONTAINS
+illusorysuperiority3,Illusory superiority,other4,CONTAINS
+ingroupbias3,Ingroup bias,other4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,other4,CONTAINS
+naïvecynicism3,Naïve cynicism,other4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,other4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,other4,CONTAINS
+personification3,personification,other4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,other4,CONTAINS
+pygmalioneffect3,Pygmalion effect,other4,CONTAINS
+reminiscencebump3,Reminiscence bump,other4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,other4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,other4,CONTAINS
+sourceconfusion3,Source confusion,other4,CONTAINS
+spotlighteffect3,Spotlight effect,other4,CONTAINS
+thirdpersoneffect3,Third-person effect,other4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,other4,CONTAINS
+traitascriptionbias3,Trait ascription bias,other4,CONTAINS
+unconsciousbias3,Unconscious bias,other4,CONTAINS
+vonrestorffeffect3,von Restorff effect,other4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,other4,CONTAINS
+zerosumbias3,Zero-sum bias,other4,CONTAINS
+groupattributionerror3,Group attribution error,otherwise4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,otherwise4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,ourselves4,CONTAINS
+ambiguityeffect3,Ambiguity effect,outcome4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,outcome4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,outcome4,CONTAINS
+expectationbias3,expectation bias,outcome4,CONTAINS
+experimenters3,Experimenter's,outcome4,CONTAINS
+groupattributionerror3,Group attribution error,outcome4,CONTAINS
+groupthink3,Groupthink,outcome4,CONTAINS
+moralluck3,Moral luck,outcome4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,outcome4,CONTAINS
+optimismbias3,Optimism bias,outcome4,CONTAINS
+outcomebias3,Outcome bias,outcome4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,outcome4,CONTAINS
+puritanicalbias3,Puritanical bias,outcome4,CONTAINS
+contexteffect3,Context effect,outofcontext4,CONTAINS
+egocentricbias3,Egocentric bias,outside4,CONTAINS
+egocentricbias3,Egocentric bias,outside4,CONTAINS
+groupthink3,Groupthink,outside4,CONTAINS
+notinventedhere3,Not invented here,outside4,CONTAINS
+actorobserverbias3,Actor-observer bias,over4,CONTAINS
+automationbias3,Automation bias,over4,CONTAINS
+availabilityheuristic3,Availability heuristic,over4,CONTAINS
+clusteringillusion3,Clustering illusion,over4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,over4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,over4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,over4,CONTAINS
+falseconsensuseffect3,False consensus effect,over4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,over4,CONTAINS
+haloeffect3,Halo effect,over4,CONTAINS
+hardeasyeffect3,Hard–easy effect,over4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,over4,CONTAINS
+illusionofcontrol3,Illusion of control,over4,CONTAINS
+illusionoftransparency3,Illusion of transparency,over4,CONTAINS
+illusionofvalidity3,Illusion of validity,over4,CONTAINS
+illusorysuperiority3,Illusory superiority,over4,CONTAINS
+impactbias3,Impact bias,over4,CONTAINS
+lageffect3,Lag effect,over4,CONTAINS
+lawoftheinstrument3,Law of the instrument,over4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,over4,CONTAINS
+optimismbias3,Optimism bias,over4,CONTAINS
+pessimismbias3,Pessimism bias,over4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,over4,CONTAINS
+projectionbias3,Projection bias,over4,CONTAINS
+recencyillusion3,Recency illusion,over4,CONTAINS
+restraintbias3,Restraint bias,over4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,over4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,over4,CONTAINS
+spacingeffect3,Spacing effect,over4,CONTAINS
+spotlighteffect3,Spotlight effect,over4,CONTAINS
+survivorshipbias3,Survivorship bias,over4,CONTAINS
+timesavingbias3,Time-saving bias,over4,CONTAINS
+travissyndrome3,Travis Syndrome,over4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,over4,CONTAINS
+zeroriskbias3,Zero-risk bias,over4,CONTAINS
+survivorshipbias3,Survivorship bias,overlooking4,CONTAINS
+automationbias3,Automation bias,overriding4,CONTAINS
+ostracism3,Ostracism,pain4,CONTAINS
+semmelweisreflex3,Semmelweis reflex,paradigm4,CONTAINS
+interoceptivebias3,Interoceptive bias,parole4,CONTAINS
+barnumeffect3,Barnum effect,partial4,CONTAINS
+decoyeffect3,Decoy effect,partial4,CONTAINS
+forereffect3,Forer effect,partial4,CONTAINS
+ikeaeffect3,IKEA effect,partial4,CONTAINS
+decoyeffect3,Decoy effect,partially4,CONTAINS
+ikeaeffect3,IKEA effect,partially4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,participant4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,participant4,CONTAINS
+socialcomparisonbias3,Social comparison bias,particular4,CONTAINS
+unitbias3,Unit bias,particular4,CONTAINS
+learnedhelplessness3,Learned Helplessness,passive4,CONTAINS
+consistencybias3,Consistency bias,past4,CONTAINS
+declinism3,Declinism,past4,CONTAINS
+egocentricbias3,Egocentric bias,past4,CONTAINS
+egocentricbias3,Egocentric bias,past4,CONTAINS
+endofhistoryillusion3,End-of-history illusion,past4,CONTAINS
+gamblersfallacy3,Gambler fallacy,past4,CONTAINS
+hindsightbias3,Hindsight bias,past4,CONTAINS
+unconsciousbias3,Unconscious bias,past4,CONTAINS
+clusteringillusion3,Clustering illusion,pattern4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,payoff4,CONTAINS
+presentbias3,Present bias,payoff4,CONTAINS
+nextinlineeffect3,Next-in-line effect,peak4,CONTAINS
+peakendrule3,Peak–end rule,peak4,CONTAINS
+illusionofasymmetricinsight3,Illusion of asymmetric insight,peer4,CONTAINS
+bandwagoneffect3,Bandwagon effect,people4,CONTAINS
+barnumeffect3,Barnum effect,people4,CONTAINS
+biasblindspot3,Bias blind spot,people4,CONTAINS
+cheerleadereffect3,Cheerleader effect,people4,CONTAINS
+crossraceeffect3,Cross-race effect,people4,CONTAINS
+curseofknowledge3,Curse of knowledge,people4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,people4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,people4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,people4,CONTAINS
+egocentricbias3,Egocentric bias,people4,CONTAINS
+egocentricbias3,Egocentric bias,people4,CONTAINS
+endowmenteffect3,Endowment Effect,people4,CONTAINS
+endowmenteffect3,Endowment Effect,people4,CONTAINS
+endowmenteffect3,Endowment effect,people4,CONTAINS
+endowmenteffect3,Endowment effect,people4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,people4,CONTAINS
+escalationofcommitment3,Escalation of commitment,people4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,people4,CONTAINS
+falseconsensuseffect3,False consensus effect,people4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,people4,CONTAINS
+forereffect3,Forer effect,people4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,people4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,people4,CONTAINS
+genderbias3,Gender bias,people4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,people4,CONTAINS
+groupthink3,Groupthink,people4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,people4,CONTAINS
+ikeaeffect3,IKEA effect,people4,CONTAINS
+illusionofasymmetricinsight3,Illusion of asymmetric insight,people4,CONTAINS
+illusionoftransparency3,Illusion of transparency,people4,CONTAINS
+illusorysuperiority3,Illusory superiority,people4,CONTAINS
+implicitassociation3,Implicit association,people4,CONTAINS
+impostersyndrome3,Imposter Syndrome,people4,CONTAINS
+ingroupbias3,Ingroup bias,people4,CONTAINS
+irrationalescalation3,Irrational escalation,people4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,people4,CONTAINS
+learnedhelplessness3,Learned Helplessness,people4,CONTAINS
+moralluck3,Moral luck,people4,CONTAINS
+naïverealism3,Naïve realism,people4,CONTAINS
+nextinlineeffect3,Next-in-line effect,people4,CONTAINS
+ostracism3,Ostracism,people4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,people4,CONTAINS
+peakendrule3,Peak–end rule,people4,CONTAINS
+pessimismbias3,Pessimism bias,people4,CONTAINS
+presentbias3,Present bias,people4,CONTAINS
+selfservingbias3,Self-serving bias,people4,CONTAINS
+spotlighteffect3,Spotlight effect,people4,CONTAINS
+statusquobias3,Status Quo Bias,people4,CONTAINS
+statusquobias3,Status quo bias,people4,CONTAINS
+survivorshipbias3,Survivorship bias,people4,CONTAINS
+traitascriptionbias3,Trait ascription bias,people4,CONTAINS
+unconsciousbias3,Unconscious bias,people4,CONTAINS
+illusionofasymmetricinsight3,Illusion of asymmetric insight,perceive4,CONTAINS
+ingroupbias3,Ingroup bias,perceive4,CONTAINS
+lossaversion3,Loss aversion,perceive4,CONTAINS
+pareidolia3,Pareidolia,perceive4,CONTAINS
+peakendrule3,Peak–end rule,perceive4,CONTAINS
+preventionbias3,Prevention bias,perceive4,CONTAINS
+reactance3,Reactance,perceive4,CONTAINS
+rhymeasreasoneffect3,Rhyme as reason effect,perceive4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,perceive4,CONTAINS
+statusquobias3,Status Quo Bias,perceive4,CONTAINS
+statusquobias3,Status quo bias,perceive4,CONTAINS
+subjectivevalidation3,Subjective validation,perceive4,CONTAINS
+tachypsychia3,Tachypsychia,perceive4,CONTAINS
+unitbias3,Unit bias,perceive4,CONTAINS
+zerosumbias3,Zero-sum bias,perceive4,CONTAINS
+illusorycorrelation3,Illusory correlation,perceiving4,CONTAINS
+listlengtheffect3,List-length effect,percent4,CONTAINS
+anthropomorphism3,Anthropomorphism,perception4,CONTAINS
+attentionalbias3,Attentional bias,perception4,CONTAINS
+contrasteffect3,Contrast effect,perception4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,perception4,CONTAINS
+haloeffect3,Halo effect,perception4,CONTAINS
+personification3,personification,perception4,CONTAINS
+selectiveperception3,Selective perception,perception4,CONTAINS
+subjectivevalidation3,Subjective validation,perception4,CONTAINS
+benfranklineffect3,Ben Franklin effect,perform4,CONTAINS
+pygmalioneffect3,Pygmalion effect,perform4,CONTAINS
+reminiscencebump3,Reminiscence bump,period4,CONTAINS
+moralcredentialeffect3,Moral credential effect,permission4,CONTAINS
+impostersyndrome3,Imposter Syndrome,persistent4,CONTAINS
+actorobserverbias3,Actor-observer bias,person4,CONTAINS
+anthropomorphism3,Anthropomorphism,person4,CONTAINS
+barnumeffect3,Barnum effect,person4,CONTAINS
+benfranklineffect3,Ben Franklin effect,person4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,person4,CONTAINS
+forereffect3,Forer effect,person4,CONTAINS
+functionalfixedness3,Functional fixedness,person4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,person4,CONTAINS
+haloeffect3,Halo effect,person4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,person4,CONTAINS
+illusionoftransparency3,Illusion of transparency,person4,CONTAINS
+nextinlineeffect3,Next-in-line effect,person4,CONTAINS
+personification3,personification,person4,CONTAINS
+pygmalioneffect3,Pygmalion effect,person4,CONTAINS
+reminiscencebump3,Reminiscence bump,person4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,person4,CONTAINS
+thirdpersoneffect3,Third-person effect,person4,CONTAINS
+traitascriptionbias3,Trait ascription bias,person4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,person4,CONTAINS
+unconsciousbias3,Unconscious bias,person4,CONTAINS
+unitbias3,Unit bias,person4,CONTAINS
+zerosumbias3,Zero-sum bias,person4,CONTAINS
+curseofknowledge3,Curse of knowledge,perspective4,CONTAINS
+baseratefallacy3,Base rate fallacy,pertaining4,CONTAINS
+baserateneglect3,Base rate neglect,pertaining4,CONTAINS
+clusteringillusion3,Clustering illusion,phantom4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,phenomena4,CONTAINS
+recencyillusion3,Recency illusion,phenomena4,CONTAINS
+haloeffect3,Halo effect,physical4,CONTAINS
+ostracism3,Ostracism,physical4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,picture4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,piece4,CONTAINS
+attributesubstitution3,Attribute substitution,place4,CONTAINS
+ikeaeffect3,IKEA effect,place4,CONTAINS
+telescopingeffect3,Telescoping effect,place4,CONTAINS
+humoreffect3,Humor effect,plain4,CONTAINS
+naïverealism3,Naïve realism,plain4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,plain4,CONTAINS
+proportionalitybias3,Proportionality bias,plain4,CONTAINS
+actorobserverbias3,Actor-observer bias,plan4,CONTAINS
+barnumeffect3,Barnum effect,plan4,CONTAINS
+forereffect3,Forer effect,plan4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,plan4,CONTAINS
+listlengtheffect3,List-length effect,plan4,CONTAINS
+normalcybias3,Normalcy bias,plan4,CONTAINS
+plancontinuationbias3,Plan continuation bias,plan4,CONTAINS
+plantblindness3,Plant blindness,plan4,CONTAINS
+plantblindness3,Plant blindness,plant4,CONTAINS
+availabilitycascade3,Availability cascade,plausibility4,CONTAINS
+pareidolia3,Pareidolia,play4,CONTAINS
+fadingaffectbias3,Fading affect bias,pleasant4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,pleasant4,CONTAINS
+peakendrule3,Peak–end rule,pleasant4,CONTAINS
+optimismbias3,Optimism bias,pleasing4,CONTAINS
+groupthink3,Groupthink,point4,CONTAINS
+statusquobias3,Status Quo Bias,point4,CONTAINS
+statusquobias3,Status quo bias,point4,CONTAINS
+systemjustification3,System justification,political4,CONTAINS
+selectionbias3,Selection bias,population4,CONTAINS
+fadingaffectbias3,Fading affect bias,positive4,CONTAINS
+haloeffect3,Halo effect,positive4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,positive4,CONTAINS
+optimismbias3,Optimism bias,positive4,CONTAINS
+positivityeffectsocioemotionalselectivitytheory3,Positivity effect Socioemotional selectivity theory,positive4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,positive4,CONTAINS
+womenarewonderfuleffect3,Women are wonderful effect,positive4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,positivity4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,positivity4,CONTAINS
+anthropomorphism3,Anthropomorphism,possessing4,CONTAINS
+personification3,personification,possessing4,CONTAINS
+congruencebias3,Congruence bias,possible4,CONTAINS
+travissyndrome3,Travis Syndrome,possibly4,CONTAINS
+misinformationeffect3,Misinformation effect,postevent4,CONTAINS
+socialcomparisonbias3,Social comparison bias,potential4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,power4,CONTAINS
+moneyillusion3,Money illusion,power4,CONTAINS
+barnumeffect3,Barnum effect,practice4,CONTAINS
+forereffect3,Forer effect,practice4,CONTAINS
+confirmationbias3,Confirmation bias,preconception4,CONTAINS
+nextinlineeffect3,Next-in-line effect,predetermined4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,predict4,CONTAINS
+hindsightbias3,Hindsight bias,predict4,CONTAINS
+traitascriptionbias3,Trait ascription bias,predict4,CONTAINS
+compassionfade3,Compassion fade,predisposition4,CONTAINS
+declinism3,Declinism,predisposition4,CONTAINS
+decoyeffect3,Decoy effect,prefer4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,prefer4,CONTAINS
+groupattributionerror3,Group attribution error,prefer4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,prefer4,CONTAINS
+ingroupbias3,Ingroup bias,prefer4,CONTAINS
+lessisbettereffect3,Less-is-better effect,prefer4,CONTAINS
+projectionbias3,Projection bias,prefer4,CONTAINS
+systemjustification3,System justification,prefer4,CONTAINS
+zeroriskbias3,Zero-risk bias,prefer4,CONTAINS
+gettierproblems3,Gettier Problems,premise4,CONTAINS
+beliefrevision3,Belief Revision,present4,CONTAINS
+conservatismbias3,Conservatism bias,present4,CONTAINS
+consistencybias3,Consistency bias,present4,CONTAINS
+decoyeffect3,Decoy effect,present4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,present4,CONTAINS
+framingeffect3,Framing effect,present4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,present4,CONTAINS
+presentbias3,Present bias,present4,CONTAINS
+selectionbias3,Selection bias,present4,CONTAINS
+surrogation3,Surrogation,present4,CONTAINS
+travissyndrome3,Travis Syndrome,present4,CONTAINS
+verbatimeffect3,Verbatim effect,present4,CONTAINS
+agentdetection3,Agent detection,presume4,CONTAINS
+preventionbias3,Prevention bias,prevention4,CONTAINS
+backfireeffect3,Backfire effect,previous4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,previous4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,previous4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,previously4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,previously4,CONTAINS
+escalationofcommitment3,Escalation of commitment,prior4,CONTAINS
+irrationalescalation3,Irrational escalation,prior4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,privately4,CONTAINS
+berksonsparadox3,Berkson paradox,probabilities4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,probabilities4,CONTAINS
+gamblersfallacy3,Gambler fallacy,probabilities4,CONTAINS
+subadditivityeffect3,Subadditivity effect,probabilities4,CONTAINS
+ambiguityeffect3,Ambiguity effect,probability4,CONTAINS
+neglectofprobability3,Neglect of probability,probability4,CONTAINS
+optimismbias3,Optimism bias,probability4,CONTAINS
+probabilitymatching3,Probability matching,probability4,CONTAINS
+subadditivityeffect3,Subadditivity effect,probability4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,probable4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,probable4,CONTAINS
+frequencyillusion3,Frequency illusion,probable4,CONTAINS
+escalationofcommitment3,Escalation of commitment,probably4,CONTAINS
+irrationalescalation3,Irrational escalation,probably4,CONTAINS
+additivebias3,Additive bias,problem4,CONTAINS
+curseofknowledge3,Curse of knowledge,problem4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,problem4,CONTAINS
+scopeinsensitivity3,scope insensitivity,problem4,CONTAINS
+scopeneglect3,Scope neglect,problem4,CONTAINS
+availabilitycascade3,Availability cascade,process4,CONTAINS
+humoreffect3,Humor effect,process4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,process4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,process4,CONTAINS
+survivorshipbias3,Survivorship bias,process4,CONTAINS
+humoreffect3,Humor effect,processing4,CONTAINS
+ikeaeffect3,IKEA effect,product4,CONTAINS
+notinventedhere3,Not invented here,product4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,project4,CONTAINS
+saliencebias3,Salience bias,prominent4,CONTAINS
+impostersyndrome3,Imposter Syndrome,proof4,CONTAINS
+reactivedevaluation3,Reactive devaluation,proposal4,CONTAINS
+preventionbias3,Prevention bias,protect4,CONTAINS
+barnumeffect3,Barnum effect,provide4,CONTAINS
+forereffect3,Forer effect,provide4,CONTAINS
+groupthink3,Groupthink,psychological4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,psychological4,CONTAINS
+reactance3,Reactance,psychology4,CONTAINS
+availabilitycascade3,Availability cascade,public4,CONTAINS
+expectationbias3,expectation bias,publish4,CONTAINS
+experimenters3,Experimenter's,publish4,CONTAINS
+moneyillusion3,Money illusion,purchasing4,CONTAINS
+reactivedevaluation3,Reactive devaluation,purportedly4,CONTAINS
+agentdetection3,Agent detection,purposeful4,CONTAINS
+illusorysuperiority3,Illusory superiority,qualities4,CONTAINS
+ikeaeffect3,IKEA effect,quality4,CONTAINS
+outcomebias3,Outcome bias,quality4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,quantitie4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,question4,CONTAINS
+suggestibility3,Suggestibility,question4,CONTAINS
+suggestibility3,Suggestibility,questioner4,CONTAINS
+fadingaffectbias3,Fading affect bias,quick4,CONTAINS
+unconsciousbias3,Unconscious bias,quick4,CONTAINS
+fadingaffectbias3,Fading affect bias,quickly4,CONTAINS
+crossraceeffect3,Cross-race effect,race4,CONTAINS
+stereotypicalbias3,Stereotypical bias,racial4,CONTAINS
+clusteringillusion3,Clustering illusion,random4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,random4,CONTAINS
+pareidolia3,Pareidolia,random4,CONTAINS
+selectionbias3,Selection bias,random4,CONTAINS
+barnumeffect3,Barnum effect,range4,CONTAINS
+forereffect3,Forer effect,range4,CONTAINS
+systemjustification3,System justification,range4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,rate4,CONTAINS
+distinctionbias3,Distinction bias,rate4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,rate4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,rate4,CONTAINS
+illusorycorrelation3,Illusory correlation,rate4,CONTAINS
+lessisbettereffect3,Less-is-better effect,rate4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,rate4,CONTAINS
+misinformationeffect3,Misinformation effect,rate4,CONTAINS
+moneyillusion3,Money illusion,rate4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,rate4,CONTAINS
+recencyillusion3,Recency illusion,rate4,CONTAINS
+surrogation3,Surrogation,rate4,CONTAINS
+thirdpersoneffect3,Third-person effect,rate4,CONTAINS
+attributesubstitution3,Attribute substitution,rather4,CONTAINS
+denominationeffect3,Denomination effect,rather4,CONTAINS
+intentionalitybias3,Intentionality bias,rather4,CONTAINS
+moneyillusion3,Money illusion,rather4,CONTAINS
+planck’sprinciple3,Planck’s Principle,rather4,CONTAINS
+puritanicalbias3,Puritanical bias,rather4,CONTAINS
+spacingeffect3,Spacing effect,rather4,CONTAINS
+barnumeffect3,Barnum effect,rating4,CONTAINS
+forereffect3,Forer effect,rating4,CONTAINS
+ostracism3,Ostracism,rating4,CONTAINS
+survivorshipbias3,Survivorship bias,rating4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,rating4,CONTAINS
+groupthink3,Groupthink,rational4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,rational4,CONTAINS
+naïverealism3,Naïve realism,rational4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,rationalize4,CONTAINS
+groupthink3,Groupthink,reach4,CONTAINS
+backfireeffect3,Backfire effect,react4,CONTAINS
+normalcybias3,Normalcy bias,react4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,react4,CONTAINS
+backfireeffect3,Backfire effect,reaction4,CONTAINS
+backfireeffect3,Backfire effect,read4,CONTAINS
+barnumeffect3,Barnum effect,read4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,read4,CONTAINS
+dreadaversion3,Dread aversion,read4,CONTAINS
+forereffect3,Forer effect,read4,CONTAINS
+googleeffect3,Google effect,read4,CONTAINS
+lageffect3,Lag effect,read4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,read4,CONTAINS
+sharedinformationbias3,Shared information bias,read4,CONTAINS
+testingeffect3,Testing effect,read4,CONTAINS
+googleeffect3,Google effect,readily4,CONTAINS
+gamblersfallacy3,Gambler fallacy,reality4,CONTAINS
+naïverealism3,Naïve realism,reality4,CONTAINS
+egocentricbias3,Egocentric bias,really4,CONTAINS
+egocentricbias3,Egocentric bias,really4,CONTAINS
+naïverealism3,Naïve realism,really4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,reason4,CONTAINS
+gettierproblems3,Gettier Problems,reason4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,reason4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,reasoning4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,reasoning4,CONTAINS
+contexteffect3,Context effect,recall4,CONTAINS
+egocentricbias3,Egocentric bias,recall4,CONTAINS
+egocentricbias3,Egocentric bias,recall4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,recall4,CONTAINS
+modalityeffect3,Modality effect,recall4,CONTAINS
+moodcongruentmemorybias3,Mood-congruent memory bias,recall4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,recall4,CONTAINS
+nextinlineeffect3,Next-in-line effect,recall4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,recall4,CONTAINS
+reminiscencebump3,Reminiscence bump,recall4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,recall4,CONTAINS
+serialpositioneffect3,Serial position effect,recall4,CONTAINS
+spacingeffect3,Spacing effect,recall4,CONTAINS
+suffixeffect3,Suffix effect,recall4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,recall4,CONTAINS
+egocentricbias3,Egocentric bias,recalling4,CONTAINS
+egocentricbias3,Egocentric bias,recalling4,CONTAINS
+reminiscencebump3,Reminiscence bump,recalling4,CONTAINS
+benfranklineffect3,Ben Franklin effect,receive4,CONTAINS
+modalityeffect3,Modality effect,receive4,CONTAINS
+recencyillusion3,Recency illusion,recency4,CONTAINS
+suffixeffect3,Suffix effect,recency4,CONTAINS
+availabilityheuristic3,Availability heuristic,recent4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,recent4,CONTAINS
+contrasteffect3,Contrast effect,recent4,CONTAINS
+frequencyillusion3,Frequency illusion,recent4,CONTAINS
+recencyillusion3,Recency illusion,recent4,CONTAINS
+telescopingeffect3,Telescoping effect,recent4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,recently4,CONTAINS
+contrasteffect3,Contrast effect,recently4,CONTAINS
+frequencyillusion3,Frequency illusion,recently4,CONTAINS
+recencyillusion3,Recency illusion,recently4,CONTAINS
+plancontinuationbias3,Plan continuation bias,recognize4,CONTAINS
+plantblindness3,Plant blindness,recognize4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,recollection4,CONTAINS
+pareidolia3,Pareidolia,record4,CONTAINS
+attentionalbias3,Attentional bias,recurring4,CONTAINS
+zeroriskbias3,Zero-risk bias,reducing4,CONTAINS
+contrasteffect3,Contrast effect,reduction4,CONTAINS
+zeroriskbias3,Zero-risk bias,reduction4,CONTAINS
+commonsourcebias3,Common source bias,refer4,CONTAINS
+decoyeffect3,Decoy effect,refer4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,refer4,CONTAINS
+groupattributionerror3,Group attribution error,refer4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,refer4,CONTAINS
+illicittransference3,Illicit transference,refer4,CONTAINS
+ingroupbias3,Ingroup bias,refer4,CONTAINS
+lessisbettereffect3,Less-is-better effect,refer4,CONTAINS
+projectionbias3,Projection bias,refer4,CONTAINS
+puritanicalbias3,Puritanical bias,refer4,CONTAINS
+recencyillusion3,Recency illusion,refer4,CONTAINS
+statusquobias3,Status Quo Bias,refer4,CONTAINS
+statusquobias3,Status quo bias,refer4,CONTAINS
+systemjustification3,System justification,refer4,CONTAINS
+zeroriskbias3,Zero-risk bias,refer4,CONTAINS
+decoyeffect3,Decoy effect,reference4,CONTAINS
+groupattributionerror3,Group attribution error,reference4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,reference4,CONTAINS
+projectionbias3,Projection bias,reference4,CONTAINS
+statusquobias3,Status Quo Bias,reference4,CONTAINS
+statusquobias3,Status quo bias,reference4,CONTAINS
+zeroriskbias3,Zero-risk bias,reference4,CONTAINS
+illicittransference3,Illicit transference,referring4,CONTAINS
+attributesubstitution3,Attribute substitution,reflect4,CONTAINS
+groupattributionerror3,Group attribution error,reflect4,CONTAINS
+attributesubstitution3,Attribute substitution,reflective4,CONTAINS
+groupattributionerror3,Group attribution error,reflective4,CONTAINS
+normalcybias3,Normalcy bias,refusal4,CONTAINS
+ikeaeffect3,IKEA effect,regardless4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,regardless4,CONTAINS
+ostracism3,Ostracism,registers4,CONTAINS
+systematicbias3,Systematic bias,regression4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,reinforce4,CONTAINS
+pluralisticignorance3,Pluralistic Ignorance,reject4,CONTAINS
+semmelweisreflex3,Semmelweis reflex,reject4,CONTAINS
+authoritybias3,Authority bias,relate4,CONTAINS
+bandwagoneffect3,Bandwagon effect,relate4,CONTAINS
+contexteffect3,Context effect,relate4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,relate4,CONTAINS
+illusionofvalidity3,Illusion of validity,relate4,CONTAINS
+illusorycorrelation3,Illusory correlation,relate4,CONTAINS
+interoceptivebias3,Interoceptive bias,relate4,CONTAINS
+notinventedhere3,Not invented here,relate4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,relate4,CONTAINS
+travissyndrome3,Travis Syndrome,relate4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,relating4,CONTAINS
+illusorycorrelation3,Illusory correlation,relation4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,relation4,CONTAINS
+illusorycorrelation3,Illusory correlation,relationship4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,relative4,CONTAINS
+illusorysuperiority3,Illusory superiority,relative4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,relative4,CONTAINS
+statusquobias3,Status Quo Bias,relative4,CONTAINS
+statusquobias3,Status quo bias,relative4,CONTAINS
+timesavingbias3,Time-saving bias,relative4,CONTAINS
+traitascriptionbias3,Trait ascription bias,relative4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,relatively4,CONTAINS
+statusquobias3,Status Quo Bias,relatively4,CONTAINS
+statusquobias3,Status quo bias,relatively4,CONTAINS
+timesavingbias3,Time-saving bias,relatively4,CONTAINS
+traitascriptionbias3,Trait ascription bias,relatively4,CONTAINS
+thirdpersoneffect3,Third-person effect,reliably4,CONTAINS
+lawoftheinstrument3,Law of the instrument,reliance4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,rely4,CONTAINS
+endowmenteffect3,Endowment Effect,rely4,CONTAINS
+endowmenteffect3,Endowment effect,rely4,CONTAINS
+mereexposureeffect3,Mere exposure effect,rely4,CONTAINS
+learnedhelplessness3,Learned Helplessness,remain4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,remember4,CONTAINS
+choicesupportivebias3,Choice-supportive bias,remember4,CONTAINS
+confirmationbias3,Confirmation bias,remember4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,remember4,CONTAINS
+consistencybias3,Consistency bias,remember4,CONTAINS
+egocentricbias3,Egocentric bias,remember4,CONTAINS
+egocentricbias3,Egocentric bias,remember4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,remember4,CONTAINS
+humoreffect3,Humor effect,remember4,CONTAINS
+listlengtheffect3,List-length effect,remember4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,remember4,CONTAINS
+serialpositioneffect3,Serial position effect,remember4,CONTAINS
+testingeffect3,Testing effect,remember4,CONTAINS
+verbatimeffect3,Verbatim effect,remember4,CONTAINS
+vonrestorffeffect3,von Restorff effect,remember4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,remember4,CONTAINS
+bizarrenesseffect3,Bizarreness effect,remembered4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,remembered4,CONTAINS
+humoreffect3,Humor effect,remembered4,CONTAINS
+listlengtheffect3,List-length effect,remembered4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,remembered4,CONTAINS
+serialpositioneffect3,Serial position effect,remembered4,CONTAINS
+verbatimeffect3,Verbatim effect,remembered4,CONTAINS
+vonrestorffeffect3,von Restorff effect,remembered4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,remembered4,CONTAINS
+consistencybias3,Consistency bias,remembering4,CONTAINS
+egocentricbias3,Egocentric bias,remembering4,CONTAINS
+egocentricbias3,Egocentric bias,remembering4,CONTAINS
+telescopingeffect3,Telescoping effect,remote4,CONTAINS
+availabilitycascade3,Availability cascade,repeat4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,repeat4,CONTAINS
+spacingeffect3,Spacing effect,repeat4,CONTAINS
+availabilitycascade3,Availability cascade,repetition4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,report4,CONTAINS
+selectionbias3,Selection bias,represent4,CONTAINS
+surrogation3,Surrogation,represent4,CONTAINS
+verbatimeffect3,Verbatim effect,represent4,CONTAINS
+verbatimeffect3,Verbatim effect,representation4,CONTAINS
+selectionbias3,Selection bias,representative4,CONTAINS
+suffixeffect3,Suffix effect,require4,CONTAINS
+genderbias3,Gender bias,requiring4,CONTAINS
+testingeffect3,Testing effect,rereading4,CONTAINS
+commonsourcebias3,Common source bias,research4,CONTAINS
+notinventedhere3,Not invented here,research4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,research4,CONTAINS
+unconsciousbias3,Unconscious bias,research4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,researcher4,CONTAINS
+unconsciousbias3,Unconscious bias,researcher4,CONTAINS
+consistencybias3,Consistency bias,resembling4,CONTAINS
+dispositioneffect3,Disposition effect,resist4,CONTAINS
+reactance3,Reactance,resist4,CONTAINS
+decoyeffect3,Decoy effect,respect4,CONTAINS
+preventionbias3,Prevention bias,response4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,responsibility4,CONTAINS
+egocentricbias3,Egocentric bias,responsibility4,CONTAINS
+egocentricbias3,Egocentric bias,responsibility4,CONTAINS
+selfservingbias3,Self-serving bias,responsibility4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,responsible4,CONTAINS
+restraintbias3,Restraint bias,restraint4,CONTAINS
+egocentricbias3,Egocentric bias,result4,CONTAINS
+egocentricbias3,Egocentric bias,result4,CONTAINS
+groupthink3,Groupthink,result4,CONTAINS
+impostersyndrome3,Imposter Syndrome,result4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,result4,CONTAINS
+endowmenteffect3,Endowment Effect,retain4,CONTAINS
+endowmenteffect3,Endowment effect,retain4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,retelling4,CONTAINS
+contexteffect3,Context effect,retrieve4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,retrieve4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,retrieving4,CONTAINS
+declinism3,Declinism,retrospection4,CONTAINS
+pareidolia3,Pareidolia,reverse4,CONTAINS
+reactance3,Reactance,reverse4,CONTAINS
+beliefrevision3,Belief Revision,revise4,CONTAINS
+conservatismbias3,Conservatism bias,revise4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,reward4,CONTAINS
+probabilitymatching3,Probability matching,reward4,CONTAINS
+testingeffect3,Testing effect,rewriting4,CONTAINS
+rhymeasreasoneffect3,Rhyme as reason effect,rhyming4,CONTAINS
+gettierproblems3,Gettier Problems,right4,CONTAINS
+preventionbias3,Prevention bias,risk4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,risk4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,risk4,CONTAINS
+zeroriskbias3,Zero-risk bias,risk4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,riskaverse4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,riskseeking4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,robot4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,role4,CONTAINS
+interoceptivebias3,Interoceptive bias,role4,CONTAINS
+nextinlineeffect3,Next-in-line effect,room4,CONTAINS
+declinism3,Declinism,rosy4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,route4,CONTAINS
+clusteringillusion3,Clustering illusion,run4,CONTAINS
+bandwagoneffect3,Bandwagon effect,same4,CONTAINS
+commonsourcebias3,Common source bias,same4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,same4,CONTAINS
+framingeffect3,Framing effect,same4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,same4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,same4,CONTAINS
+lageffect3,Lag effect,same4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,same4,CONTAINS
+statusquobias3,Status Quo Bias,same4,CONTAINS
+statusquobias3,Status quo bias,same4,CONTAINS
+clusteringillusion3,Clustering illusion,sample4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,sample4,CONTAINS
+selectionbias3,Selection bias,sample4,CONTAINS
+scopeinsensitivity3,scope insensitivity,save4,CONTAINS
+scopeneglect3,Scope neglect,save4,CONTAINS
+timesavingbias3,Time-saving bias,save4,CONTAINS
+dreadaversion3,Dread aversion,savouring4,CONTAINS
+planck’sprinciple3,Planck’s Principle,scientific4,CONTAINS
+thirdpersoneffect3,Third-person effect,scientific4,CONTAINS
+commonsourcebias3,Common source bias,search4,CONTAINS
+confirmationbias3,Confirmation bias,search4,CONTAINS
+googleeffect3,Google effect,search4,CONTAINS
+notinventedhere3,Not invented here,search4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,search4,CONTAINS
+unconsciousbias3,Unconscious bias,search4,CONTAINS
+preventionbias3,Prevention bias,security4,CONTAINS
+clusteringillusion3,Clustering illusion,seeing4,CONTAINS
+pareidolia3,Pareidolia,seeing4,CONTAINS
+informationbias3,Information bias,seek4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,seek4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,seem4,CONTAINS
+frequencyillusion3,Frequency illusion,seem4,CONTAINS
+peakendrule3,Peak–end rule,seem4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,selection4,CONTAINS
+frequencyillusion3,Frequency illusion,selection4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,selective4,CONTAINS
+attributesubstitution3,Attribute substitution,self4,CONTAINS
+availabilitycascade3,Availability cascade,self4,CONTAINS
+biasblindspot3,Bias blind spot,self4,CONTAINS
+egocentricbias3,Egocentric bias,self4,CONTAINS
+egocentricbias3,Egocentric bias,self4,CONTAINS
+empathygap3,Empathy gap,self4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,self4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,self4,CONTAINS
+illicittransference3,Illicit transference,self4,CONTAINS
+interoceptivebias3,Interoceptive bias,self4,CONTAINS
+naïvecynicism3,Naïve cynicism,self4,CONTAINS
+puritanicalbias3,Puritanical bias,self4,CONTAINS
+recencyillusion3,Recency illusion,self4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,self4,CONTAINS
+selfservingbias3,Self-serving bias,self4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,self4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,self4,CONTAINS
+systemjustification3,System justification,self4,CONTAINS
+attributesubstitution3,Attribute substitution,selfaware4,CONTAINS
+puritanicalbias3,Puritanical bias,selfcontrol4,CONTAINS
+systemjustification3,System justification,selfinterest4,CONTAINS
+availabilitycascade3,Availability cascade,selfreinforcing4,CONTAINS
+egocentricbias3,Egocentric bias,selfserving4,CONTAINS
+egocentricbias3,Egocentric bias,selfserving4,CONTAINS
+dispositioneffect3,Disposition effect,sell4,CONTAINS
+dispositioneffect3,Disposition effect,selling4,CONTAINS
+egocentricbias3,Egocentric bias,selves4,CONTAINS
+egocentricbias3,Egocentric bias,selves4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,selves4,CONTAINS
+groupthink3,Groupthink,selves4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,selves4,CONTAINS
+ikeaeffect3,IKEA effect,selves4,CONTAINS
+moralcredentialeffect3,Moral credential effect,selves4,CONTAINS
+projectionbias3,Projection bias,selves4,CONTAINS
+thirdpersoneffect3,Third-person effect,selves4,CONTAINS
+traitascriptionbias3,Trait ascription bias,selves4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,selves4,CONTAINS
+illicittransference3,Illicit transference,sense4,CONTAINS
+interoceptivebias3,Interoceptive bias,sensory4,CONTAINS
+agentdetection3,Agent detection,sentient4,CONTAINS
+distinctionbias3,Distinction bias,separately4,CONTAINS
+lessisbettereffect3,Less-is-better effect,separately4,CONTAINS
+serialpositioneffect3,Serial position effect,sequence4,CONTAINS
+egocentricbias3,Egocentric bias,serving4,CONTAINS
+egocentricbias3,Egocentric bias,serving4,CONTAINS
+selfservingbias3,Self-serving bias,serving4,CONTAINS
+unitbias3,Unit bias,serving4,CONTAINS
+lageffect3,Lag effect,session4,CONTAINS
+defaulteffect3,Default effect,several4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,severe4,CONTAINS
+projectionbias3,Projection bias,share4,CONTAINS
+sharedinformationbias3,Shared information bias,share4,CONTAINS
+sharedinformationbias3,Shared information bias,shared4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,sharpening4,CONTAINS
+nextinlineeffect3,Next-in-line effect,shed4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,shed4,CONTAINS
+recencyillusion3,Recency illusion,shed4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,short4,CONTAINS
+frequencyillusion3,Frequency illusion,short4,CONTAINS
+spacingeffect3,Spacing effect,short4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,shortly4,CONTAINS
+frequencyillusion3,Frequency illusion,shortly4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,show4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,show4,CONTAINS
+restraintbias3,Restraint bias,show4,CONTAINS
+partlistcueingeffect3,Part-list cueing effect,shown4,CONTAINS
+surrogation3,Surrogation,sight4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,significance4,CONTAINS
+travissyndrome3,Travis Syndrome,significance4,CONTAINS
+pareidolia3,Pareidolia,significant4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,similar4,CONTAINS
+distinctionbias3,Distinction bias,similar4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,similar4,CONTAINS
+selfrelevanceeffect3,Self-relevance effect,similar4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,similar4,CONTAINS
+ultimateattributionerror3,Ultimate attribution error,similar4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,similarity4,CONTAINS
+distinctionbias3,Distinction bias,simultaneously4,CONTAINS
+lageffect3,Lag effect,single4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,singular4,CONTAINS
+actorobserverbias3,Actor-observer bias,situation4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,situation4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,situation4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,situation4,CONTAINS
+learnedhelplessness3,Learned Helplessness,situation4,CONTAINS
+ostricheffect3,Ostrich effect,situation4,CONTAINS
+plancontinuationbias3,Plan continuation bias,situation4,CONTAINS
+zerosumbias3,Zero-sum bias,situation4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,situational4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,situational4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,situational4,CONTAINS
+actorobserverbias3,Actor-observer bias,size4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,size4,CONTAINS
+scopeinsensitivity3,scope insensitivity,size4,CONTAINS
+scopeneglect3,Scope neglect,size4,CONTAINS
+thirdpersoneffect3,Third-person effect,size4,CONTAINS
+unitbias3,Unit bias,size4,CONTAINS
+tachypsychia3,Tachypsychia,slow4,CONTAINS
+clusteringillusion3,Clustering illusion,small4,CONTAINS
+compassionfade3,Compassion fade,small4,CONTAINS
+denominationeffect3,Denomination effect,small4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,small4,CONTAINS
+lessisbettereffect3,Less-is-better effect,small4,CONTAINS
+listlengtheffect3,List-length effect,small4,CONTAINS
+weberfechnerlaw3,Weber–Fechner law,small4,CONTAINS
+zeroriskbias3,Zero-risk bias,small4,CONTAINS
+lessisbettereffect3,Less-is-better effect,smaller4,CONTAINS
+listlengtheffect3,List-length effect,smaller4,CONTAINS
+travissyndrome3,Travis Syndrome,snobbery4,CONTAINS
+courtesybias3,Courtesy bias,social24,CONTAINS
+socialdesirabilitybias3,Social desirability bias,social24,CONTAINS
+systemjustification3,System justification,social24,CONTAINS
+courtesybias3,Courtesy bias,socially4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,socially4,CONTAINS
+puritanicalbias3,Puritanical bias,societal4,CONTAINS
+proinnovationbias3,Pro-innovation bias,society4,CONTAINS
+additivebias3,Additive bias,solve4,CONTAINS
+beliefbias3,Belief bias,someone4,CONTAINS
+benfranklineffect3,Ben Franklin effect,someone4,CONTAINS
+moralcredentialeffect3,Moral credential effect,someone4,CONTAINS
+reactance3,Reactance,someone4,CONTAINS
+verbatimeffect3,Verbatim effect,someone4,CONTAINS
+availabilitycascade3,Availability cascade,something4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,something4,CONTAINS
+endowmenteffect3,Endowment Effect,something4,CONTAINS
+endowmenteffect3,Endowment effect,something4,CONTAINS
+frequencyillusion3,Frequency illusion,something4,CONTAINS
+moralcredentialeffect3,Moral credential effect,something4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,something4,CONTAINS
+subjectivevalidation3,Subjective validation,something4,CONTAINS
+hindsightbias3,Hindsight bias,sometime4,CONTAINS
+systemjustification3,System justification,sometime4,CONTAINS
+pareidolia3,Pareidolia,sound4,CONTAINS
+suffixeffect3,Suffix effect,sound4,CONTAINS
+commonsourcebias3,Common source bias,source4,CONTAINS
+lageffect3,Lag effect,spacing4,CONTAINS
+spacingeffect3,Spacing effect,span4,CONTAINS
+nextinlineeffect3,Next-in-line effect,speaking4,CONTAINS
+barnumeffect3,Barnum effect,specific4,CONTAINS
+baseratefallacy3,Base rate fallacy,specific4,CONTAINS
+baserateneglect3,Base rate neglect,specific4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,specific4,CONTAINS
+forereffect3,Forer effect,specific4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,specific4,CONTAINS
+modalityeffect3,Modality effect,speech4,CONTAINS
+implicitassociation3,Implicit association,speed4,CONTAINS
+timesavingbias3,Time-saving bias,speed4,CONTAINS
+denominationeffect3,Denomination effect,spend4,CONTAINS
+sharedinformationbias3,Shared information bias,spend4,CONTAINS
+preventionbias3,Prevention bias,spent4,CONTAINS
+haloeffect3,Halo effect,spill4,CONTAINS
+nextinlineeffect3,Next-in-line effect,spoke4,CONTAINS
+backfireeffect3,Backfire effect,spread4,CONTAINS
+barnumeffect3,Barnum effect,spread4,CONTAINS
+forereffect3,Forer effect,spread4,CONTAINS
+lageffect3,Lag effect,spread4,CONTAINS
+notinventedhere3,Not invented here,standard4,CONTAINS
+saliencebias3,Salience bias,standard4,CONTAINS
+unitbias3,Unit bias,standard4,CONTAINS
+moralluck3,Moral luck,standing4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,state4,CONTAINS
+illusionoftransparency3,Illusion of transparency,state4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,state4,CONTAINS
+impactbias3,Impact bias,state4,CONTAINS
+rhymeasreasoneffect3,Rhyme as reason effect,state4,CONTAINS
+generationeffectselfgenerationeffect3,Generation effect  Self-generation effect,statement4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,statement4,CONTAINS
+rhymeasreasoneffect3,Rhyme as reason effect,statement4,CONTAINS
+berksonsparadox3,Berkson paradox,statistical4,CONTAINS
+selectionbias3,Selection bias,statistical4,CONTAINS
+statusquobias3,Status Quo Bias,statusquo4,CONTAINS
+statusquobias3,Status quo bias,statusquo4,CONTAINS
+systemjustification3,System justification,statusquo4,CONTAINS
+statusquobias3,Status Quo Bias,stay4,CONTAINS
+statusquobias3,Status quo bias,stay4,CONTAINS
+haloeffect3,Halo effect,stereotype4,CONTAINS
+stereotypicalbias3,Stereotypical bias,stereotype4,CONTAINS
+unconsciousbias3,Unconscious bias,stereotype4,CONTAINS
+vonrestorffeffect3,von Restorff effect,stick4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,still4,CONTAINS
+contrasteffect3,Contrast effect,stimulus4,CONTAINS
+pareidolia3,Pareidolia,stimulus4,CONTAINS
+probabilitymatching3,Probability matching,stochastic4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,stove4,CONTAINS
+surrogation3,Surrogation,strategic4,CONTAINS
+clusteringillusion3,Clustering illusion,streaks4,CONTAINS
+backfireeffect3,Backfire effect,strength4,CONTAINS
+beliefbias3,Belief bias,strength4,CONTAINS
+empathygap3,Empathy gap,strength4,CONTAINS
+socialcomparisonbias3,Social comparison bias,strength4,CONTAINS
+saliencebias3,Salience bias,striking4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,stronger4,CONTAINS
+presentbias3,Present bias,stronger4,CONTAINS
+backfireeffect3,Backfire effect,studies4,CONTAINS
+commonsourcebias3,Common source bias,studies4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,study4,CONTAINS
+lageffect3,Lag effect,study4,CONTAINS
+lageffect3,Lag effect,studying4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,subject4,CONTAINS
+cryptomnesia3,Cryptomnesia,subject4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,subject4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,subject4,CONTAINS
+subjectivevalidation3,Subjective validation,subject4,CONTAINS
+suffixeffect3,Suffix effect,subject4,CONTAINS
+systematicbias3,Systematic bias,subject4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,subject4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,subjectexpectancy4,CONTAINS
+cryptomnesia3,Cryptomnesia,subjective4,CONTAINS
+probabilitymatching3,Probability matching,suboptimal4,CONTAINS
+projectionbias3,Projection bias,suboptimal4,CONTAINS
+surrogation3,Surrogation,subsequently4,CONTAINS
+attributesubstitution3,Attribute substitution,substitute4,CONTAINS
+attributesubstitution3,Attribute substitution,substitution4,CONTAINS
+additivebias3,Additive bias,subtraction4,CONTAINS
+hothandfallacy3,Hot-hand fallacy,success4,CONTAINS
+impostersyndrome3,Imposter Syndrome,success4,CONTAINS
+selfservingbias3,Self-serving bias,success4,CONTAINS
+barnumeffect3,Barnum effect,such4,CONTAINS
+contexteffect3,Context effect,such4,CONTAINS
+forereffect3,Forer effect,such4,CONTAINS
+ikeaeffect3,IKEA effect,such4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,such4,CONTAINS
+recencyillusion3,Recency illusion,such4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,suddenly4,CONTAINS
+frequencyillusion3,Frequency illusion,suddenly4,CONTAINS
+pessimismbias3,Pessimism bias,suffering4,CONTAINS
+escalationofcommitment3,Escalation of commitment,suggest4,CONTAINS
+groupattributionerror3,Group attribution error,suggest4,CONTAINS
+irrationalescalation3,Irrational escalation,suggest4,CONTAINS
+suggestibility3,Suggestibility,suggest4,CONTAINS
+unconsciousbias3,Unconscious bias,suggest4,CONTAINS
+unitbias3,Unit bias,suggest4,CONTAINS
+escalationofcommitment3,Escalation of commitment,suggesting4,CONTAINS
+irrationalescalation3,Irrational escalation,suggesting4,CONTAINS
+genderbias3,Gender bias,suit4,CONTAINS
+escalationofcommitment3,Escalation of commitment,sunk4,CONTAINS
+irrationalescalation3,Irrational escalation,sunk4,CONTAINS
+lossaversion3,Loss aversion,sunk4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,superiority4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,superiority4,CONTAINS
+illusorysuperiority3,Illusory superiority,superiority4,CONTAINS
+barnumeffect3,Barnum effect,supposedly4,CONTAINS
+forereffect3,Forer effect,supposedly4,CONTAINS
+groupthink3,Groupthink,suppressing4,CONTAINS
+illusionofasymmetricinsight3,Illusion of asymmetric insight,surpass4,CONTAINS
+survivorshipbias3,Survivorship bias,survive4,CONTAINS
+attributesubstitution3,Attribute substitution,system4,CONTAINS
+automationbias3,Automation bias,system4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,system4,CONTAINS
+statusquobias3,Status Quo Bias,system4,CONTAINS
+statusquobias3,Status quo bias,system4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,systematic4,CONTAINS
+barnumeffect3,Barnum effect,tailored4,CONTAINS
+forereffect3,Forer effect,tailored4,CONTAINS
+cryptomnesia3,Cryptomnesia,take4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,take4,CONTAINS
+falsememory3,False memory,take4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,take4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,take4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,take4,CONTAINS
+statusquobias3,Status Quo Bias,take4,CONTAINS
+statusquobias3,Status quo bias,take4,CONTAINS
+suggestibility3,Suggestibility,take4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,take4,CONTAINS
+cryptomnesia3,Cryptomnesia,taken4,CONTAINS
+falsememory3,False memory,taken4,CONTAINS
+statusquobias3,Status Quo Bias,taken4,CONTAINS
+statusquobias3,Status quo bias,taken4,CONTAINS
+suggestibility3,Suggestibility,taken4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,taken4,CONTAINS
+attributesubstitution3,Attribute substitution,taking4,CONTAINS
+diffusionofresponsibility3,Diffusion of Responsibility,taking4,CONTAINS
+nextinlineeffect3,Next-in-line effect,taking4,CONTAINS
+puritanicalbias3,Puritanical bias,taking4,CONTAINS
+attributesubstitution3,Attribute substitution,target4,CONTAINS
+pygmalioneffect3,Pygmalion effect,target4,CONTAINS
+systematicbias3,Systematic bias,target4,CONTAINS
+hardeasyeffect3,Hard–easy effect,task4,CONTAINS
+planningfallacy3,Planning fallacy,task4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,task4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,task4,CONTAINS
+planningfallacy3,Planning fallacy,taskcompletion4,CONTAINS
+barnumeffect3,Barnum effect,telling4,CONTAINS
+forereffect3,Forer effect,telling4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,telling4,CONTAINS
+restraintbias3,Restraint bias,temptation4,CONTAINS
+actorobserverbias3,Actor-observer bias,tend4,CONTAINS
+additivebias3,Additive bias,tend4,CONTAINS
+ambiguityeffect3,Ambiguity effect,tend4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,tend4,CONTAINS
+anthropocentricthinking3,Anthropocentric thinking,tend4,CONTAINS
+anthropomorphism3,Anthropomorphism,tend4,CONTAINS
+attentionalbias3,Attentional bias,tend4,CONTAINS
+authoritybias3,Authority bias,tend4,CONTAINS
+automationbias3,Automation bias,tend4,CONTAINS
+availabilityheuristic3,Availability heuristic,tend4,CONTAINS
+bandwagoneffect3,Bandwagon effect,tend4,CONTAINS
+baseratefallacy3,Base rate fallacy,tend4,CONTAINS
+baserateneglect3,Base rate neglect,tend4,CONTAINS
+beliefrevision3,Belief Revision,tend4,CONTAINS
+berksonsparadox3,Berkson paradox,tend4,CONTAINS
+biasblindspot3,Bias blind spot,tend4,CONTAINS
+cheerleadereffect3,Cheerleader effect,tend4,CONTAINS
+choicesupportivebias3,Choice-supportive bias,tend4,CONTAINS
+clusteringillusion3,Clustering illusion,tend4,CONTAINS
+commonsourcebias3,Common source bias,tend4,CONTAINS
+confirmationbias3,Confirmation bias,tend4,CONTAINS
+congruencebias3,Congruence bias,tend4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,tend4,CONTAINS
+conservatismbias3,Conservatism bias,tend4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,tend4,CONTAINS
+continuedinfluenceeffect3,Continued influence effect,tend4,CONTAINS
+courtesybias3,Courtesy bias,tend4,CONTAINS
+crossraceeffect3,Cross-race effect,tend4,CONTAINS
+defaulteffect3,Default effect,tend4,CONTAINS
+denominationeffect3,Denomination effect,tend4,CONTAINS
+dispositioneffect3,Disposition effect,tend4,CONTAINS
+distinctionbias3,Distinction bias,tend4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,tend4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,tend4,CONTAINS
+empathygap3,Empathy gap,tend4,CONTAINS
+endowmenteffect3,Endowment Effect,tend4,CONTAINS
+endowmenteffect3,Endowment effect,tend4,CONTAINS
+exaggeratedexpectation3,Exaggerated expectation,tend4,CONTAINS
+expectationbias3,expectation bias,tend4,CONTAINS
+experimenters3,Experimenter's,tend4,CONTAINS
+falseconsensuseffect3,False consensus effect,tend4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,tend4,CONTAINS
+formfunctionattributionbias3,Form function attribution bias,tend4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,tend4,CONTAINS
+gamblersfallacy3,Gambler fallacy,tend4,CONTAINS
+googleeffect3,Google effect,tend4,CONTAINS
+groupattributionerror3,Group attribution error,tend4,CONTAINS
+haloeffect3,Halo effect,tend4,CONTAINS
+hardeasyeffect3,Hard–easy effect,tend4,CONTAINS
+hindsightbias3,Hindsight bias,tend4,CONTAINS
+hostileattributionbias3,Hostile attribution bias,tend4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,tend4,CONTAINS
+ikeaeffect3,IKEA effect,tend4,CONTAINS
+illusionofcontrol3,Illusion of control,tend4,CONTAINS
+illusionoftransparency3,Illusion of transparency,tend4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,tend4,CONTAINS
+impactbias3,Impact bias,tend4,CONTAINS
+informationbias3,Information bias,tend4,CONTAINS
+ingroupbias3,Ingroup bias,tend4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,tend4,CONTAINS
+intentionalitybias3,Intentionality bias,tend4,CONTAINS
+interoceptivebias3,Interoceptive bias,tend4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,tend4,CONTAINS
+lessisbettereffect3,Less-is-better effect,tend4,CONTAINS
+mereexposureeffect3,Mere exposure effect,tend4,CONTAINS
+moneyillusion3,Money illusion,tend4,CONTAINS
+moralluck3,Moral luck,tend4,CONTAINS
+neglectofprobability3,Neglect of probability,tend4,CONTAINS
+nextinlineeffect3,Next-in-line effect,tend4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,tend4,CONTAINS
+omissionbias3,Omission bias,tend4,CONTAINS
+optimismbias3,Optimism bias,tend4,CONTAINS
+outcomebias3,Outcome bias,tend4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,tend4,CONTAINS
+personification3,personification,tend4,CONTAINS
+pessimismbias3,Pessimism bias,tend4,CONTAINS
+planningfallacy3,Planning fallacy,tend4,CONTAINS
+plantblindness3,Plant blindness,tend4,CONTAINS
+presentbias3,Present bias,tend4,CONTAINS
+proinnovationbias3,Pro-innovation bias,tend4,CONTAINS
+projectionbias3,Projection bias,tend4,CONTAINS
+proportionalitybias3,Proportionality bias,tend4,CONTAINS
+pseudocertaintyeffect3,Pseudocertainty effect,tend4,CONTAINS
+puritanicalbias3,Puritanical bias,tend4,CONTAINS
+restraintbias3,Restraint bias,tend4,CONTAINS
+riskcompensationorpeltzmaneffect3,Risk compensation  or  Peltzman effect,tend4,CONTAINS
+saliencebias3,Salience bias,tend4,CONTAINS
+scopeinsensitivity3,scope insensitivity,tend4,CONTAINS
+scopeneglect3,Scope neglect,tend4,CONTAINS
+selectiveperception3,Selective perception,tend4,CONTAINS
+selfservingbias3,Self-serving bias,tend4,CONTAINS
+semmelweisreflex3,Semmelweis reflex,tend4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,tend4,CONTAINS
+sharedinformationbias3,Shared information bias,tend4,CONTAINS
+socialcomparisonbias3,Social comparison bias,tend4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,tend4,CONTAINS
+spotlighteffect3,Spotlight effect,tend4,CONTAINS
+statusquobias3,Status Quo Bias,tend4,CONTAINS
+statusquobias3,Status quo bias,tend4,CONTAINS
+subadditivityeffect3,Subadditivity effect,tend4,CONTAINS
+surrogation3,Surrogation,tend4,CONTAINS
+systemjustification3,System justification,tend4,CONTAINS
+telescopingeffect3,Telescoping effect,tend4,CONTAINS
+thirdpersoneffect3,Third-person effect,tend4,CONTAINS
+traitascriptionbias3,Trait ascription bias,tend4,CONTAINS
+womenarewonderfuleffect3,Women are wonderful effect,tend4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,tend4,CONTAINS
+durationneglect3,Duration neglect,term4,CONTAINS
+illicittransference3,Illicit transference,term4,CONTAINS
+moneyillusion3,Money illusion,term4,CONTAINS
+nextinlineeffect3,Next-in-line effect,term4,CONTAINS
+puritanicalbias3,Puritanical bias,term4,CONTAINS
+traitascriptionbias3,Trait ascription bias,term4,CONTAINS
+barnumeffect3,Barnum effect,test4,CONTAINS
+congruencebias3,Congruence bias,test4,CONTAINS
+forereffect3,Forer effect,test4,CONTAINS
+egocentricbias3,Egocentric bias,themselves4,CONTAINS
+egocentricbias3,Egocentric bias,themselves4,CONTAINS
+falseuniquenessbias3,False uniqueness bias,themselves4,CONTAINS
+groupthink3,Groupthink,themselves4,CONTAINS
+ikeaeffect3,IKEA effect,themselves4,CONTAINS
+moralcredentialeffect3,Moral credential effect,themselves4,CONTAINS
+thirdpersoneffect3,Third-person effect,themselves4,CONTAINS
+traitascriptionbias3,Trait ascription bias,themselves4,CONTAINS
+proportionalitybias3,Proportionality bias,theories4,CONTAINS
+availabilitycascade3,Availability cascade,thing4,CONTAINS
+baadermeinhofphenomenon3,Baader–Meinhof phenomenon,thing4,CONTAINS
+bandwagoneffect3,Bandwagon effect,thing4,CONTAINS
+endowmenteffect3,Endowment Effect,thing4,CONTAINS
+endowmenteffect3,Endowment effect,thing4,CONTAINS
+frequencyillusion3,Frequency illusion,thing4,CONTAINS
+lawoftheinstrument3,Law of the instrument,thing4,CONTAINS
+mereexposureeffect3,Mere exposure effect,thing4,CONTAINS
+moralcredentialeffect3,Moral credential effect,thing4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,thing4,CONTAINS
+pessimismbias3,Pessimism bias,thing4,CONTAINS
+statusquobias3,Status Quo Bias,thing4,CONTAINS
+statusquobias3,Status quo bias,thing4,CONTAINS
+subjectivevalidation3,Subjective validation,thing4,CONTAINS
+survivorshipbias3,Survivorship bias,thing4,CONTAINS
+bandwagoneffect3,Bandwagon effect,think4,CONTAINS
+curseofknowledge3,Curse of knowledge,think4,CONTAINS
+gamblersfallacy3,Gambler fallacy,think4,CONTAINS
+optimismbias3,Optimism bias,think4,CONTAINS
+optimismbias3,Optimism bias,thinking4,CONTAINS
+thirdpersoneffect3,Third-person effect,thirdperson4,CONTAINS
+anthropomorphism3,Anthropomorphism,thought4,CONTAINS
+attentionalbias3,Attentional bias,thought4,CONTAINS
+attributesubstitution3,Attribute substitution,thought4,CONTAINS
+personification3,personification,thought4,CONTAINS
+processingdifficultyeffect3,Processing difficulty effect,thought4,CONTAINS
+projectionbias3,Projection bias,thought4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,thought4,CONTAINS
+additivebias3,Additive bias,through4,CONTAINS
+availabilitycascade3,Availability cascade,through4,CONTAINS
+congruencebias3,Congruence bias,through4,CONTAINS
+errorsofomissionvscommissionbias3,Errors of Omission vs. Commission Bias,through4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,through4,CONTAINS
+modalityeffect3,Modality effect,through4,CONTAINS
+proinnovationbias3,Pro-innovation bias,through4,CONTAINS
+proinnovationbias3,Pro-innovation bias,throughout4,CONTAINS
+contexteffect3,Context effect,time4,CONTAINS
+gamblersfallacy3,Gambler fallacy,time4,CONTAINS
+hindsightbias3,Hindsight bias,time4,CONTAINS
+humoreffect3,Humor effect,time4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,time4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,time4,CONTAINS
+lageffect3,Lag effect,time4,CONTAINS
+levelingandsharpening3,Leveling and sharpening,time4,CONTAINS
+outcomebias3,Outcome bias,time4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,time4,CONTAINS
+planningfallacy3,Planning fallacy,time4,CONTAINS
+presentbias3,Present bias,time4,CONTAINS
+preventionbias3,Prevention bias,time4,CONTAINS
+reminiscencebump3,Reminiscence bump,time4,CONTAINS
+sharedinformationbias3,Shared information bias,time4,CONTAINS
+spacingeffect3,Spacing effect,time4,CONTAINS
+systemjustification3,System justification,time4,CONTAINS
+tachypsychia3,Tachypsychia,time4,CONTAINS
+telescopingeffect3,Telescoping effect,time4,CONTAINS
+timesavingbias3,Time-saving bias,time4,CONTAINS
+preventionbias3,Prevention bias,timely4,CONTAINS
+impostersyndrome3,Imposter Syndrome,timing4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,today4,CONTAINS
+lawoftheinstrument3,Law of the instrument,tool4,CONTAINS
+compassionfade3,Compassion fade,toward4,CONTAINS
+proinnovationbias3,Pro-innovation bias,toward4,CONTAINS
+stereotypicalbias3,Stereotypical bias,toward4,CONTAINS
+presentbias3,Present bias,tradeoff4,CONTAINS
+functionalfixedness3,Functional fixedness,traditionally4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,trait4,CONTAINS
+anthropomorphism3,Anthropomorphism,trait4,CONTAINS
+haloeffect3,Halo effect,trait4,CONTAINS
+personification3,personification,trait4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,traverse4,CONTAINS
+illicittransference3,Illicit transference,treat4,CONTAINS
+ingroupbias3,Ingroup bias,treat4,CONTAINS
+planck’sprinciple3,Planck’s Principle,triumph4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,truth4,CONTAINS
+planck’sprinciple3,Planck’s Principle,truth4,CONTAINS
+rhymeasreasoneffect3,Rhyme as reason effect,truth4,CONTAINS
+nextinlineeffect3,Next-in-line effect,turn4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,turn4,CONTAINS
+nonadaptivechoiceswitching3,Non-adaptive choice switching,twice4,CONTAINS
+anthropomorphism3,Anthropomorphism,type4,CONTAINS
+barnumeffect3,Barnum effect,type4,CONTAINS
+forereffect3,Forer effect,type4,CONTAINS
+haloeffect3,Halo effect,type4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,type4,CONTAINS
+personification3,personification,type4,CONTAINS
+stereotypicalbias3,Stereotypical bias,type4,CONTAINS
+unconsciousbias3,Unconscious bias,type4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,unable4,CONTAINS
+neglectofprobability3,Neglect of probability,uncertainty4,CONTAINS
+zeigarnikeffect3,Zeigarnik effect,uncompleted4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,unconscious4,CONTAINS
+unconsciousbias3,Unconscious bias,unconscious4,CONTAINS
+observerexpectancyeffect3,Observer-expectancy effect,unconsciously4,CONTAINS
+unconsciousbias3,Unconscious bias,unconsciously4,CONTAINS
+actorobserverbias3,Actor-observer bias,under4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,under4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,under4,CONTAINS
+empathygap3,Empathy gap,under4,CONTAINS
+fundamentalattributionerror3,Fundamental attribution error,under4,CONTAINS
+hardeasyeffect3,Hard–easy effect,under4,CONTAINS
+humoreffect3,Humor effect,under4,CONTAINS
+illusionoftransparency3,Illusion of transparency,under4,CONTAINS
+illusorysuperiority3,Illusory superiority,under4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,under4,CONTAINS
+lawoftheinstrument3,Law of the instrument,under4,CONTAINS
+neglectofprobability3,Neglect of probability,under4,CONTAINS
+optimismbias3,Optimism bias,under4,CONTAINS
+planningfallacy3,Planning fallacy,under4,CONTAINS
+sexualoverperceptionbiasorsexualunderperceptionbias3,Sexual overperception bias  or  Sexual underperception bias,under4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,under4,CONTAINS
+timesavingbias3,Time-saving bias,under4,CONTAINS
+unconsciousbias3,Unconscious bias,under4,CONTAINS
+welltravelledroadeffect3,Well travelled road effect,under4,CONTAINS
+unconsciousbias3,Unconscious bias,underlying4,CONTAINS
+humoreffect3,Humor effect,understand4,CONTAINS
+illusionoftransparency3,Illusion of transparency,understand4,CONTAINS
+unconsciousbias3,Unconscious bias,understand4,CONTAINS
+illusorysuperiority3,Illusory superiority,undesirable4,CONTAINS
+optimismbias3,Optimism bias,undesirable4,CONTAINS
+puritanicalbias3,Puritanical bias,undesirable4,CONTAINS
+socialdesirabilitybias3,Social desirability bias,undesirable4,CONTAINS
+mereexposureeffect3,Mere exposure effect,undue4,CONTAINS
+ambiguityeffect3,Ambiguity effect,unknown4,CONTAINS
+fadingaffectbias3,Fading affect bias,unpleasant4,CONTAINS
+negativitybiasornegativityeffect3,Negativity bias or Negativity effect,unpleasant4,CONTAINS
+peakendrule3,Peak–end rule,unpleasant4,CONTAINS
+authoritybias3,Authority bias,unrelated4,CONTAINS
+illusorycorrelation3,Illusory correlation,unrelated4,CONTAINS
+interoceptivebias3,Interoceptive bias,unrelated4,CONTAINS
+saliencebias3,Salience bias,unremarkable4,CONTAINS
+sharedinformationbias3,Shared information bias,unshared4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,unskilled4,CONTAINS
+dunningkrugereffect3,Dunning-Kruger Effect,unskilled4,CONTAINS
+availabilityheuristic3,Availability heuristic,unusual4,CONTAINS
+reactance3,Reactance,urge4,CONTAINS
+recencyillusion3,Recency illusion,usage4,CONTAINS
+proinnovationbias3,Pro-innovation bias,usefulness4,CONTAINS
+functionalfixedness3,Functional fixedness,using4,CONTAINS
+googleeffect3,Google effect,using4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,using4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,using4,CONTAINS
+nextinlineeffect3,Next-in-line effect,using4,CONTAINS
+sourceconfusion3,Source confusion,using4,CONTAINS
+anchoringorfocalism3,Anchoring or focalism,usually4,CONTAINS
+lossaversion3,Loss aversion,utility4,CONTAINS
+plantblindness3,Plant blindness,utility4,CONTAINS
+barnumeffect3,Barnum effect,vague4,CONTAINS
+forereffect3,Forer effect,vague4,CONTAINS
+pareidolia3,Pareidolia,vague4,CONTAINS
+optimismbias3,Optimism bias,valence4,CONTAINS
+conservatismorregressivebias3,Conservatism or Regressive bias,value4,CONTAINS
+dispositioneffect3,Disposition effect,value4,CONTAINS
+durationneglect3,Duration neglect,value4,CONTAINS
+endowmenteffect3,Endowment Effect,value4,CONTAINS
+endowmenteffect3,Endowment effect,value4,CONTAINS
+ikeaeffect3,IKEA effect,value4,CONTAINS
+moneyillusion3,Money illusion,value4,CONTAINS
+projectionbias3,Projection bias,value4,CONTAINS
+lawoftheinstrument3,Law of the instrument,valuing4,CONTAINS
+reactivedevaluation3,Reactive devaluation,valuing4,CONTAINS
+traitascriptionbias3,Trait ascription bias,variable4,CONTAINS
+illicittransference3,Illicit transference,variant4,CONTAINS
+insensitivitytosamplesize3,Insensitivity to sample size,variation4,CONTAINS
+outgrouphomogeneitybias3,Outgroup homogeneity bias,varied4,CONTAINS
+illusorytrutheffect3,Illusory truth effect,veracity4,CONTAINS
+verbatimeffect3,Verbatim effect,verbatim4,CONTAINS
+contexteffect3,Context effect,versa4,CONTAINS
+reactivedevaluation3,Reactive devaluation,versa4,CONTAINS
+conjunctionfallacy3,Conjunction fallacy,version4,CONTAINS
+notinventedhere3,Not invented here,version4,CONTAINS
+statusquobias3,Status Quo Bias,version4,CONTAINS
+statusquobias3,Status quo bias,version4,CONTAINS
+contexteffect3,Context effect,vice4,CONTAINS
+compassionfade3,Compassion fade,victim4,CONTAINS
+defensiveattributionhypothesis3,Defensive attribution hypothesis,victim4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,victim4,CONTAINS
+declinism3,Declinism,view4,CONTAINS
+distinctionbias3,Distinction bias,view4,CONTAINS
+extrinsicincentivesbias3,Extrinsic incentives bias,view4,CONTAINS
+groupthink3,Groupthink,view4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,view4,CONTAINS
+traitascriptionbias3,Trait ascription bias,view4,CONTAINS
+survivorshipbias3,Survivorship bias,visibility4,CONTAINS
+proinnovationbias3,Pro-innovation bias,weaknesses4,CONTAINS
+hyperbolicdiscounting3,Hyperbolic discounting,week4,CONTAINS
+expectationbias3,expectation bias,weight4,CONTAINS
+experimenters3,Experimenter's,weight4,CONTAINS
+parkinsonslawoftriviality3,Parkinson law of triviality,weight4,CONTAINS
+presentbias3,Present bias,weight4,CONTAINS
+groupattributionerror3,Group attribution error,whole4,CONTAINS
+illicittransference3,Illicit transference,whole4,CONTAINS
+subadditivityeffect3,Subadditivity effect,whole4,CONTAINS
+tipofthetonguephenomenon3,Tip of the tongue phenomenon,whole4,CONTAINS
+backfireeffect3,Backfire effect,wide4,CONTAINS
+barnumeffect3,Barnum effect,wide4,CONTAINS
+forereffect3,Forer effect,wide4,CONTAINS
+genderbias3,Gender bias,wide4,CONTAINS
+endowmenteffect3,Endowment Effect,willing4,CONTAINS
+endowmenteffect3,Endowment effect,willing4,CONTAINS
+scopeinsensitivity3,scope insensitivity,willing4,CONTAINS
+scopeneglect3,Scope neglect,willing4,CONTAINS
+optimismbias3,Optimism bias,wishful4,CONTAINS
+illusorysuperiority3,Illusory superiority,wobegon4,CONTAINS
+genderbias3,Gender bias,women4,CONTAINS
+womenarewonderfuleffect3,Women are wonderful effect,women4,CONTAINS
+implicitassociation3,Implicit association,word4,CONTAINS
+nextinlineeffect3,Next-in-line effect,word4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,word4,CONTAINS
+recencyillusion3,Recency illusion,word4,CONTAINS
+verbatimeffect3,Verbatim effect,word4,CONTAINS
+contexteffect3,Context effect,workrelated4,CONTAINS
+justworldhypothesis3,Just-world hypothesis,world4,CONTAINS
+omissionbias3,Omission bias,worse4,CONTAINS
+worsethanaverageeffect3,Worse-than-average effect,worse4,CONTAINS
+modalityeffect3,Modality effect,writing4,CONTAINS
+testingeffect3,Testing effect,writing4,CONTAINS
+picturesuperiorityeffect3,Picture superiority effect,written4,CONTAINS
+escalationofcommitment3,Escalation of commitment,wrong4,CONTAINS
+irrationalescalation3,Irrational escalation,wrong4,CONTAINS
+overconfidenceeffect3,Overconfidence effect,wrong4,CONTAINS
+puritanicalbias3,Puritanical bias,wrong4,CONTAINS
+dreadaversion3,Dread aversion,yield4,CONTAINS
+zeroriskbias3,Zero-risk bias,zero4,CONTAINS
+zerosumbias3,Zero-sum bias,zero4,CONTAINS

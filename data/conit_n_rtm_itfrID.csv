@@ -1,0 +1,177 @@
+﻿itfrID:ID,name,description,:LABEL
+itfr100101,1001.1,The system shall send PI information to DPAP_s Clause Logic Service _CLS_.,Requirement
+itfr10010201,1001.2.1,The system shall send the PI information in the format as required by the CLS ICD.  ,Requirement
+itfr10010301,1001.3.1,The system shall allow the user to request additional clauses from the CLS.,Requirement
+itfr10010401,1001.4.1,"The system shall allow the user to retrieve mandatory and optional clauses from the CLS.
+ 
+",Requirement
+itfr10010501,1001.5.1,The system shall request mandatory and optional clauses from the CLS based on system events.,Requirement
+itfr10010502,1001.5.2,The system shall retrieve mandatory and optional clauses from the CLS based on system events.,Requirement
+itfr10010601,1001.6.1,The system shall automatically assemble clauses received from the CLS IAW FAR Part 8.,Requirement
+itfr10010602,1001.6.2,The system shall automatically assemble clauses received from the CLS IAW FAR Part 12.,Requirement
+itfr10010603,1001.6.3,The system shall automatically assemble clauses received from the CLS IAW FAR Part 13.,Requirement
+itfr10010604,1001.6.4,The system shall automatically assemble clauses received from the CLS IAW FAR Part 14.,Requirement
+itfr10010605,1001.6.5,The system shall automatically assemble clauses received from the CLS IAW FAR Part 15.,Requirement
+itfr10010701,1001.7.1,The system shall associate clauses with PIs IAW FAR 8.                  ,Requirement
+itfr10010702,1001.7.2,The system shall associate clauses with PIs IAW FAR 12. ,Requirement
+itfr10010703,1001.7.3,The system shall associate clauses with PIs IAW FAR 13. ,Requirement
+itfr10010704,1001.7.4,The system shall associate clauses with PIs IAW FAR 14. ,Requirement
+itfr10010705,1001.7.5,The system shall associate clauses with PIs IAW FAR 15. ,Requirement
+itfr10010706,1001.7.6,"The system shall associate clauses with PI IAW FAR 52, as supplemented.",Requirement
+itfr1002,1002,The system shall create a PDS compliant PI.,Requirement
+itfr10030101,1003.1.1,"The system shall send PI data in PDS format to the Defense Logistics Agency Transaction Services, Global Exchange _DLATS_GEX_ system. ",Requirement
+itfr10030201,1003.2.1,The system shall create a PI in human-readable PDF format.,Requirement
+itfr10030202,1003.2.2,"The system shall send PI documents in PDF format to the Defense Logistics Agency Transaction Services, Global Exchange _DLATS_GEX_ system.",Requirement
+itfr100601,1006.1,The system shall retrieve all Mandated Clauses from the DPAP Clause Logic Service _CLS_.,Requirement
+itfr100602,1006.2,The system shall analyze the draft PI to determine if clauses are required.,Requirement
+itfr10060301,1006.3.1,The system shall receive clauses from CLS.,Requirement
+itfr10060302,1006.3.2,The system shall display clause from CLS.,Requirement
+itfr10060303,1006.3.3,The system shall display clauses with required fill-ins from CLS.,Requirement
+itfr10060304,1006.3.4,The system shall display clauses from CLS that can be tailored.,Requirement
+itfr10060401,1006.4.1 ,The system shall allow authorized users to omit non-mandatory clauses suggested by CLS.,Requirement
+itfr10060501,1006.5.1,The system shall allow the user to initiate a request for non-suggested clause_s_ from CLS.,Requirement
+itfr10060502,1006.5.2,The system shall allow the user to add the non-suggested clause_s_ to the PI.,Requirement
+itfr100606,1006.6,The system shall prevent users from adding clauses that do not come from CLS. ,Requirement
+itfr100607,1006.7,The system shall require users to provide documented justification when a non-mandatory clause _without tailorable fields_ is modified.,Requirement
+itfr100608,1006.8,The system shall allow the user to check CLS for clause updates to PIs. ,Requirement
+itfr10090101,1009.1.1,The system shall perform real-time data validation on manual inputs.,Requirement
+itfr10090102,1009.1.2,The system shall perform syntactic data validation on manual inputs.,Requirement
+itfr10090103,1009.1.3,The system shall perform data validation during manual inputs.,Requirement
+itfr100902,1009.2,The system shall allow users to fix errors returned from the validation service. ,Requirement
+itfr10090301,1009.3.1,The system shall highlight syntactic issues so users can return to the step_s_ where the invalid issue_s_ was encountered. ,Requirement
+itfr10090302,1009.3.2,The system shall highlight semantic issues so users can return to the step_s_ where the invalid issue_s_ was encountered.,Requirement
+itfr10090401,1009.4.1,The system shall give users instructions about how to correct the syntactic issues.,Requirement
+itfr10090402,1009.4.2,The system shall give users instructions about how to correct the semantic issues.,Requirement
+itfr10090501,1009.5.1,The system shall give users Warnings that indicate possible inconsistencies but will not cause the Validation to fail during the Final Validation Check.,Requirement
+itfr10090502,1009.5.2,The system shall require the users to document why Warnings are being ignored,Requirement
+itfr101101,1011.1,The system shall allow full text searches of data elements and searchable attachments.,Requirement
+itfr10110201,1011.2.1,The system shall enable search results to be filtered by data element or PI section.,Requirement
+itfr10130101,1013.1.1,The system shall use standard PI templates IAW FAR Part 53_DFARS 53_AFFARS.,Requirement
+itfr10130201,1013.2.1 ,The system shall display CON-IT_s defined standard templates upon request of an authorized user.,Requirement
+itfr10130301,1013.3.1,The system shall generate PI documents using standard templates.,Requirement
+itfr10140101,1014.1.1,The system shall receive approved SLOA _standard line of accounting_ financial data from financial data management systems.,Requirement
+itfr10140201,1014.2.1,The system shall parse out the specific sub-elements of the Standard Line of Accounting.,Requirement
+itfr10140202,1014.2.2,The system shall display the specific sub-elements of the Standard Line of Accounting.,Requirement
+itfr10140203,1014.2.3,The system shall allow the user to request the display of  the specific sub-elements of the Standard Line of Accounting.,Requirement
+itfr10140301,1014.3.1,The system shall allow users to enter non-SLOA data.,Requirement
+itfr10140401,1014.4.1,The system shall ensure data received electronically from FM is read-only.,Requirement
+itfr10150101,1015.1.1 ," The system shall automatically process requirement data obtained via PRDS XML messaging to generate CLIN structures, in accordance with DFARS 204.",Requirement
+itfr10150201,1015.2.1,The system shall permit authorized users to modify the system-generated CLIN structures.,Requirement
+itfr101601,1016.1,"The system shall retrieve Contractor_s data from SAM: the Contractor’s name, address, DUNS number, and the Contractor and Government Entity _CAGE_ code.",Requirement
+itfr101602,1016.2,"The system shall display read-only Contractor_s data from SAM: the Contractor’s name, address, DUNS number, and the Contractor and Government Entity _CAGE_ code.",Requirement
+itfr10170101,1017.1.1,The system shall provide the capability for an authorized user to digitally sign a PI with a DOD PKI certified CAC.,Requirement
+itfr101702,1017.2,The system shall lock the document when a document is digitally signed.,Requirement
+itfr10170301,1017.3.1,The system shall validate the CO’s digital signature on a document with the stored certificate.,Requirement
+itfr10170401,1017.4.1, The system shall enable users to view a contract document that contains an expired digital signature certificate.,Requirement
+itfr10170501,1017.5.1,The system shall send the Contractor daily signature reminders until the Contractor-signed PI is received.,Requirement
+itfr101801,1018.1,The system shall allow users to set user defined suspense dates for a workflow step.,Requirement
+itfr10180201,1018.2.1, The system shall trigger an alert to a user when a suspense date is reached.,Requirement
+itfr10180202,1018.2.2, The system shall trigger a notification to a non-user when a suspense date is reached.,Requirement
+itfr10180301,1018.3.1,The system shall enable users to specify a number of days prior to a suspense date. ,Requirement
+itfr10180302,1018.3.2,The system shall send an alert to the user reminding them of the upcoming suspense date.,Requirement
+itfr10200201,1020.2.1,The system shall validate that the contract actions are within the warrant for each CO. ,Requirement
+itfr10200301,1020.3.1,The system shall only allow COs to sign a contract action that is within their warrant limits.,Requirement
+itfr10200302,1020.3.2,The system shall alert COs when they attempt to sign a contract action that exceeds their warrant limits.,Requirement
+itfr10200401,1020.4.1,The system shall allow authorized users to establish CO warrant limits.,Requirement
+itfr10200402,1020.4.2,The system shall allow authorized users to associate CO names to their warrant limits.,Requirement
+itfr1023,1023,The system shall associate the family of documents related to a requirement.,Requirement
+itfr1026,1026,"The system shall maintain traceability between CLINs, CINs, PRs, and PR Line Items across the entire lifecycle.",Requirement
+itfr10270101,1027.1.1,The system shall update all concurrent draft modifications upon award of any modification to the same PI.,Requirement
+itfr102702,1027.2,The system shall track dollar values when modifications affect the same PI.,Requirement
+itfr10270301,1027.3.1,The system shall provide an alert to the user when concurrent modifications are being worked on.,Requirement
+itfr10270401,1027.4.1,The system shall track the total dollars awarded via delivery orders against the stated ceiling on the basic IDIQ contract. ,Requirement
+itfr1029,1029,"The system shall report all contract actions to FPDS-NG per FAR 4.6, as supplemented.",Requirement
+itfr1031,1031,The system shall send PI data in PDS format for CBIS to consume.,Requirement
+itfr10380101,1038.1.1,The system shall receive Receipt Acknowledgements from DPAP Clause Logic _CLS_.,Requirement
+itfr10380102,1038.1.2,The system shall receive Receipt Acknowledgements from the sourcing system.,Requirement
+itfr10380103,1038.1.3,The system shall receive Receipt Acknowledgements from Federal Procurement Data Systems Next-Generation _FPDS-NG_.,Requirement
+itfr10380104,1038.1.4,The system shall receive Receipt Acknowledgements from Federal Business Opportunities _FBO_.,Requirement
+itfr10380105,1038.1.5, The system shall receive Receipt Acknowledgements from Systems for Award Management _SAM_.,Requirement
+itfr10380106,1038.1.6,The system shall receive Receipt Acknowledgements from DLATS_GEX PDS Validation Service.,Requirement
+itfr10380201,1038.2.1,The system shall receive acknowledgements from external systems of a validated request.,Requirement
+itfr10380301,1038.3.1, The system shall repeat requests for funding information every 24 hours until funding has been received.,Requirement
+itfr10380302,1038.3.2, The system shall repeat requests for funding information every 24 hours until the system receives a request to cancel.,Requirement
+itfr104001,1040.1,The system shall display the PI with individual data fields required to complete PI.,Requirement
+itfr104002,1040.2,The system shall allow an authorized user to modify individual fields.,Requirement
+itfr10420101,1042.1.1,The system shall automatically update preaward Pis based on information received from the external trading partners.,Requirement
+itfr10420201,1042.2.1,The system shall prevent awarded PIs from being automatically updated.,Requirement
+itfr104501,1045.1,The system shall allow users to create CLIN structures IAW DFARS 204.71.,Requirement
+itfr104502,1045.2,The system shall auto re-number CLIN structures upon user request IAW DFARS 204.71.,Requirement
+itfr104601,1046.1,The system shall automatically determine if funding is required.,Requirement
+itfr104801,1048.1,The system shall maintain traceability by associating CLIN to applicable Accounting Contract Reference Numbers _ACRN_.,Requirement
+itfr105001,1050.1,"The system shall alert CO_CS of unsuccessful offerors in accordance with FAR Subpart 15.503_b_, Notifications to Unsuccessful Offerors, Post Award.",Requirement
+itfr105201,1052.1,"The system shall interface with SAM to verify vendor registration based upon FAR Part 4, as supplemented.",Requirement
+itfr105202,1052.2,"The system shall interface with SAM to determine contractor eligibility for award based upon FAR Part 4, as supplemented.",Requirement
+itfr105203,1052.3,The system shall retrieve Contractor_s information contained within the PI from various points in time.,Requirement
+itfr10520301,1052.3.1,The system shall interface with SAM to request Contractor Information. ,Requirement
+itfr10520302,1052.3.2,The system shall interface with SAM to receive Contractor Information.,Requirement
+itfr10520303,1052.3.3,The system shall populate the PI with Contractor Information received from SAM.,Requirement
+itfr105801,1058.1,The system shall provide access controls to restrict viewing of financial information to authorized users.,Requirement
+itfr106301,1063.1,The system shall accept and consume PDS compliant messages.,Requirement
+itfr106302,1063.2,The system shall consume the PDS compliant message and allow the user to manage the instrument.,Requirement
+itfr106401,1064.1,The system shall accept and consume data consistent with the Purchase Request Data Standard _PRDS_.,Requirement
+itfr106402,1064.2,The system shall generate a PI from a PRDS compliant message without the need for users to manually enter data.,Requirement
+itfr106403, 1064.3,The system shall allow users to download PRDS compliant message attachments.,Requirement
+itfr106404,1064.4,The system shall allow users to view PRDS compliant message attachments.,Requirement
+itfr10640501,1064.5.1,The system shall notify the contracting team when an update to a PR has occurred from an updated PRDS message. ,Requirement
+itfr10640502,1064.5.2,The system shall associate an updated PRDS message with the original PRDS message.,Requirement
+itfr10640503,1064.5.3,The system shall route the PRDS message to the contracting office.,Requirement
+itfr106406,1064.6,The system shall allow users to accept the proposed PR changes from updated PRDS messages.,Requirement
+itfr106407,1064.7,"The system shall allow users to reject the proposed PR from updated PRDS messages.
+",Requirement
+itfr106408,1064.8,The system shall identify where changes have occurred within updated PIs.,Requirement
+itfr106501,1065.1,The system shall publish solicitation notices to the GPE.,Requirement
+itfr106502,1065.2,The system shall adhere to the standard GPE XML data formats when publishing solicitation notices to the GPE.,Requirement
+itfr10660101,1066.1.1 ,The system shall publish Award Synopsis to the GPE. ,Requirement
+itfr10660102,1066.1.2,The system shall publish Award Synopsis amendments to the GPE.,Requirement
+itfr10660203,1066.2.3,The system shall adhere to the standard GPE XML data formats.,Requirement
+itfr10660204,1066.2.4,The system shall use internal data to populate a GPE template for award synopsis.,Requirement
+itfr10660205,1066.2.5,The system shall use internal data to validate a GPE template for award synopsis.,Requirement
+itfr10660206,1066.2.6,The system shall use internal data to generate the initial GPE template for award synopsis.,Requirement
+itfr10660207,1066.2.7,The system shall use internal data to populate a GPE template for award synopsis amendment.,Requirement
+itfr10660208,1066.2.8,The system shall use internal data to validate a GPE template for award synopsis amendment.,Requirement
+itfr10660209,1066.2.9,The system shall use internal data to generate the initial GPE template for award synopsis amendment.,Requirement
+itfr106901,1069.1,Create engineering form for SF252 - Architect -Engineer Contract,Requirement
+itfr106902,1069.2,"Create engineering form for SF1442 - Solicitation, Offer and Award _Construction, Alteration, Repair_",Requirement
+itfr1070,1070," The system shall generate PIID numbers per DFARS 204, Uniform Procurement Instrument Identification, Subparts 204.16.",Requirement
+itfr107101,1071.1,The system shall generate contract award documents in accordance with the standard formats as defined in all of the FAR_DFARS_AFFARS regulations.,Requirement
+itfr107401,1074.1,The system shall provide Administrators the ability to create user role-based restriction permissions to PIs.,Requirement
+itfr10790101,1079.1.1,The system shall allow the user to send the Contract Action Report _CAR_ to FPDS-NG .,Requirement
+itfr10790201,1079.2.1,The system shall use internal data to populate a CAR template.,Requirement
+itfr10790202,1079.2.2,The system shall use internal data to validate a CAR template.,Requirement
+itfr10790203,1079.2.3,The system shall use internal data to populate and generate the initial CAR.,Requirement
+itfr10790301,1079.3.1,The system shall auto-populate the CAR from internal data.,Requirement
+itfr10800101,1080.1.1,The system shall allow the user to generate preaward announcements.,Requirement
+itfr10800102,1080.1.2,The system shall allow the user to generate postaward announcements.,Requirement
+itfr10800103,1080.1.3,The system shall use internal data to populate a GPE announcements template.,Requirement
+itfr10800104,1080.1.4,The system shall use internal data to validate a GPE announcements template.,Requirement
+itfr10800105,1080.1.5,The system shall use internal data to populate and generate the initial GPE announcements.,Requirement
+itfr10800201,1080.2.1,The system shall publish preaward announcements upon user initiation.,Requirement
+itfr10800202,1080.2.2,The system shall publish postaward announcements upon user initiation.,Requirement
+itfr108201,1082.1,The system shall indicate that the Congressional Notification is required per DFARS 205.303 _Announcement of Contract Awards_. ,Requirement
+itfr108202,1082.2,The system shall allow the user to lock the PI once the Congressional Notification has been sent.,Requirement
+itfr1083,1083,The system shall create ACRNs in accordance with DFARS Part 204.,Requirement
+itfr108501,1085.1,The system shall provide a data entry template for each type of PI IAW FAR Part 53_DFAR 253_AFFARS 5353.,Requirement
+itfr10880101,1088.1.1,The system shall provide version control for all documents within CON-IT.,Requirement
+itfr10880201,1088.2.1,"The system shall provide version control of all CON-IT documents by automatically capturing all of the following: userid, fields modified and the date.   ",Requirement
+itfr10880202,1088.2.2,The system shall provide the capability to enter a justification for the modification of CON-IT documents where applicable.,Requirement
+itfr108803,1088.3,The system shall provide users access to prior versions of documents.,Requirement
+itfr10880401,1088.4.1,The system shall allow the user to rollback to the most recent version of a draft document. ,Requirement
+itfr108805,1088.5,The system shall prevent users from rolling back finalized documents.,Requirement
+itfr108806,1088.6,The system shall archive a documet upon contract closeout.,Requirement
+itfr108901,1089.1,The system shall ensure PI amounts obligated do not exceed the PI dollar limits.,Requirement
+itfr108902,1089.2,The system shall ensure CLIN amounts obligated do not exceed the CLIN dollar limits.,Requirement
+itfr109101,1091.1, The system shall transmit PIs to Defense Logistics Agency Transaction Services_Global Exchange _DLATS_GEX_ for final PDS format validation upon user initiation.,Requirement
+itfr109102,1091.2,The system shall receive final PDS format validation results from GEX.,Requirement
+itfr1092,1092,The system shall create .pdfs of PIs upon user initiation.,Requirement
+itfr1093,1093,The system shall provide an interface to receive PRDS 1.2 and 2.0 compliant xml messages to Financial systems providing Requirements and Funding.,Requirement
+itfr10940101,1094.1.1 ,"When a Purchase Request Package is received, the system shall determine whether or not there is Reasonable Assurance of funds by looking at the Purpose, Time, and Amount fields and the Commitment Identification Number _CIN_.",Requirement
+itfr10940201,1094.2.1,The system shall send an Electronic Notification concerning the Reasonable Assurance of funds determination to the contracting team.,Requirement
+itfr1095,1095,The system shall forward Contract Awards in PDF format to Government Points of Entry _GPE_.,Requirement
+itfr10960101,1096.1.1,The System shall determine whether or not an award synopsis is required.,Requirement
+itfr1100,1100,The system shall support operation in the hosted environment.,Requirement
+itfr1101,1101,The system shall receive Purchase Requests using the DPAP PRDS data standard via DLATS GEX.,Requirement
+itfr1102,1102,The system shall send Procurement Instrument _PI_ contract data  using the DPAP PDS data standard via DLATS GEX.,Requirement
+itfr1103,1103,The system shall provide a data entry template for construction form 1442,Requirement
+itfr1104,1104,The system shall provide a data entry template for construction form 252,Requirement
+itfr1105,1105,The system shall provide the capability to track PI artifacts by case number.,Requirement

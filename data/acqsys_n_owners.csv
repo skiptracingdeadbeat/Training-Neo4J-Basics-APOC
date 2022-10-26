@@ -1,0 +1,64 @@
+﻿sysownerID:ID,name,title,:LABEL
+D1200,AG,Department of Agriculture,SystemOwner
+D9100,ED,Department of Education,SystemOwner
+D3600,VA,Department of Veterans Affairs,SystemOwner
+D1145,PC,Peace Corps,SystemOwner
+D3300,SI,Smithsonian Institution,SystemOwner
+D1300,DOC,Department of Commerce,SystemOwner
+D9700,DOD,Department of Defense,SystemOwner
+D8900,DOE,Department of Energy,SystemOwner
+D7500,HHS,Department of Health and Human Services,SystemOwner
+D7000,DHS,Department of Homeland Security,SystemOwner
+D8600,HUD,Department of Housing and Urban Development,SystemOwner
+D1500,DOJ,Department of Justice,SystemOwner
+D1600,DOL,Department of Labor,SystemOwner
+D1400,DOI,Department of the Interior,SystemOwner
+D6900,DOT,Department of Transportation,SystemOwner
+D6800,EPA,Environmental Protection Agency,SystemOwner
+D2700,FCC,Federal Communications Commission,SystemOwner
+D9506,FEC,Federal Election Commission,SystemOwner
+D6500,FMC,Federal Maritime Commission,SystemOwner
+D2900,FTC,Federal Trade Commission,SystemOwner
+D4700,GSA,General Services Administration,SystemOwner
+D0500,GAO,Government Accountability Office,SystemOwner
+D3400,ITC,International Trade Commission,SystemOwner
+D9543,MCC,Millennium Challenge Corporation,SystemOwner
+D4900,NSF,National Science Foundation,SystemOwner
+D3100,NRC,Nuclear Regulatory Commission,SystemOwner
+D6000,RRB,Railroad Retirement Board,SystemOwner
+D5000,SEC,Securities and Exchange Commission,SystemOwner
+D7300,SBA,Small Business Administration,SystemOwner
+D2800,SSA,Social Security Administration,SystemOwner
+A2100,DOA,Department of Army,SystemOwner
+D9568,BBG,Broadcasting Board of Governors,SystemOwner
+D9534,DCC,District of Columbia Courts,SystemOwner
+A1700,DON,Department of Navy,SystemOwner
+D1100,EOP,Executive Office of the President,SystemOwner
+A959P,PSA,Pretrial Services Agency,SystemOwner
+D1900,DOS,Department of State,SystemOwner
+D7400,ABMC,American Battle Monuments Commission,SystemOwner
+D9507,CFTC,Commodity Futures Trading Commission,SystemOwner
+D955F,CFPB,Consumer Financial Protection Bureau,SystemOwner
+D6100,CPSC,Consumer Product Safety Commission,SystemOwner
+D4500,EEOC,Equal Employment Opportunity Commission,SystemOwner
+D8300,EXIM,Export-Import Bank of US ,SystemOwner
+D5400,FLRA,Federal Labor Relations Authority,SystemOwner
+D9300,FMCS,Federal Mediation and Conciliation Service,SystemOwner
+D4100,MSPB,Merit Systems Protection Board,SystemOwner
+D8000,NASA,National Aeronautics and Space Administration,SystemOwner
+D8800,NARA,National Archives and Records Administration,SystemOwner
+D6300,NLRB,National Labor Relations Board,SystemOwner
+D9508,NTSB,National Transportation Safety Board,SystemOwner
+D1665,PBGC,Pension Benefit Guaranty Corporation,SystemOwner
+D9577,CNCS,Corporation for National and Community Service,SystemOwner
+A3355,NGOA,National Gallery of Art,SystemOwner
+A5700,DOAF,Department of Air Force,SystemOwner
+A1727,USMC,US Marine Corps ,SystemOwner
+D7200,USAID,Agency for International Development,SystemOwner
+D9565,CSHIB,Chemical Safety and Hazard Investigation Board,SystemOwner
+D9594,CSOSA,Court Services and Offender Supervision Agency,SystemOwner
+D2000,TREAS,Department of the Treasury,SystemOwner
+D9514,OSHRC,Occupational Safety and Health Review Commission,SystemOwner
+D9504,FMSHRC,Federal Mine Safety and Health Review Commission,SystemOwner
+D7700,USIDFC,US International Development Finance Corporation,SystemOwner
+D3352,JFKCPA,J F Kennedy Center for Performing Arts,SystemOwner
