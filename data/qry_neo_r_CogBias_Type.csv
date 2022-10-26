@@ -1,0 +1,205 @@
+﻿:START_ID,name,:END_ID,:TYPE
+actorobserverbias3,Actor-Observer Bias,attributionbias2,TYPE_OF
+additivebias3,Additive Bias,egocentricbias2,TYPE_OF
+agentdetection3,Agent Detection,falsepriors2,TYPE_OF
+ambiguityeffect3,Ambiguity Effect,prospecttheory2,TYPE_OF
+anthropocentricthinking3,Anthropocentric Thinking,attributionbias2,TYPE_OF
+anthropomorphism3,Anthropomorphism,attributionbias2,TYPE_OF
+attentionalbias3,Attentional Bias,attributionbias2,TYPE_OF
+attributesubstitution3,Attribute Substitution,attributionbias2,TYPE_OF
+authoritybias3,Authority Bias,associationfallacy2,TYPE_OF
+automationbias3,Automation Bias,falsepriors2,TYPE_OF
+availabilitycascade3,Availability Cascade,conformitybias2,TYPE_OF
+availabilityheuristic3,Availability Heuristic,attributionbias2,TYPE_OF
+baadermeinhofphenomenon3,Baader–Meinhof Phenomenon,attributionbias2,TYPE_OF
+backfireeffect3,Backfire Effect,confirmationbias2,TYPE_OF
+bandwagoneffect3,Bandwagon Effect,conformitybias2,TYPE_OF
+barnumeffect3,Barnum Effect,egocentricbias2,TYPE_OF
+baseratefallacy3,Base Rate Fallacy,extensionneglect2,TYPE_OF
+baserateneglect3,Base Rate Neglect,extensionneglect2,TYPE_OF
+beliefbias3,Belief Bias,truthiness2,TYPE_OF
+beliefrevision3,Belief Revision,anchoringbias2,TYPE_OF
+benfranklineffect3,Ben Franklin Effect,cognitivedissonance2,TYPE_OF
+biasblindspot3,Bias Blind Spot,egocentricbias2,TYPE_OF
+bizarrenesseffect3,Bizarreness Effect,egocentricbias2,TYPE_OF
+cheerleadereffect3,Cheerleader Effect,associationfallacy2,TYPE_OF
+choicesupportivebias3,Choice-Supportive Bias,egocentricbias2,TYPE_OF
+clusteringillusion3,Clustering Illusion,apophenia2,TYPE_OF
+commonsourcebias3,Common Source Bias,anchoringbias2,TYPE_OF
+compassionfade3,Compassion Fade,extensionneglect2,TYPE_OF
+confirmationbias3,Confirmation Bias,confirmationbias2,TYPE_OF
+congruencebias3,Congruence Bias,confirmationbias2,TYPE_OF
+conjunctionfallacy3,Conjunction Fallacy,extensionneglect2,TYPE_OF
+conservatismbias3,Conservatism Bias,anchoringbias2,TYPE_OF
+consistencybias3,Consistency Bias,logicalfallacy2,TYPE_OF
+contexteffect3,Context Effect,egocentricbias2,TYPE_OF
+continuedinfluenceeffect3,Continued Influence Effect,confirmationbias2,TYPE_OF
+contrasteffect3,Contrast Effect,framingeffect2,TYPE_OF
+courtesybias3,Courtesy Bias,conformitybias2,TYPE_OF
+crossraceeffect3,Cross-Race Effect,egocentricbias2,TYPE_OF
+cryptomnesia3,Cryptomnesia,attributionbias2,TYPE_OF
+curseofknowledge3,Curse Of Knowledge,egocentricbias2,TYPE_OF
+declinism3,Declinism,logicalfallacy2,TYPE_OF
+decoyeffect3,Decoy Effect,framingeffect2,TYPE_OF
+defaulteffect3,Default Effect,framingeffect2,TYPE_OF
+defensiveattributionhypothesis3,Defensive Attribution Hypothesis,egocentricbias2,TYPE_OF
+denominationeffect3,Denomination Effect,framingeffect2,TYPE_OF
+diffusionofresponsibility3,Diffusion Of Responsibility,attributionbias2,TYPE_OF
+dispositioneffect3,Disposition Effect,prospecttheory2,TYPE_OF
+distinctionbias3,Distinction Bias,framingeffect2,TYPE_OF
+dreadaversion3,Dread Aversion,prospecttheory2,TYPE_OF
+dunningkrugereffect3,Dunning-Kruger Effect,attributionbias2,TYPE_OF
+durationneglect3,Duration Neglect,extensionneglect2,TYPE_OF
+egocentricbias3,Egocentric Bias,attributionbias2,TYPE_OF
+egocentricbias3,Egocentric Bias,egocentricbias2,TYPE_OF
+empathygap3,Empathy Gap,attributionbias2,TYPE_OF
+endofhistoryillusion3,End-Of-History Illusion,attributionbias2,TYPE_OF
+endowmenteffect3,Endowment Effect,attributionbias2,TYPE_OF
+endowmenteffect3,Endowment Effect,prospecttheory2,TYPE_OF
+errorsofomissionvscommissionbias3,Errors Of Omission Vs. Commission Bias,attributionbias2,TYPE_OF
+exaggeratedexpectation3,Exaggerated Expectation,egocentricbias2,TYPE_OF
+expectationbias3,Expectation Bias,confirmationbias2,TYPE_OF
+experimenters3,Experimenter'S,confirmationbias2,TYPE_OF
+extrinsicincentivesbias3,Extrinsic Incentives Bias,attributionbias2,TYPE_OF
+fadingaffectbias3,Fading Affect Bias,attributionbias2,TYPE_OF
+falseconsensuseffect3,False Consensus Effect,egocentricbias2,TYPE_OF
+falsememory3,False Memory,attributionbias2,TYPE_OF
+falseuniquenessbias3,False Uniqueness Bias,egocentricbias2,TYPE_OF
+forereffect3,Forer Effect,egocentricbias2,TYPE_OF
+formfunctionattributionbias3,Form Function Attribution Bias,attributionbias2,TYPE_OF
+framingeffect3,Framing Effect,framingeffect2,TYPE_OF
+frequencyillusion3,Frequency Illusion,attributionbias2,TYPE_OF
+functionalfixedness3,Functional Fixedness,anchoringbias2,TYPE_OF
+fundamentalattributionerror3,Fundamental Attribution Error,attributionbias2,TYPE_OF
+genderbias3,Gender Bias,falsepriors2,TYPE_OF
+gettierproblems3,Gettier Problems,attributionbias2,TYPE_OF
+googleeffect3,Google Effect,attributionbias2,TYPE_OF
+groupattributionerror3,Group Attribution Error,attributionbias2,TYPE_OF
+groupthink3,Groupthink,conformitybias2,TYPE_OF
+haloeffect3,Halo Effect,associationfallacy2,TYPE_OF
+hardeasyeffect3,Hard–Easy Effect,attributionbias2,TYPE_OF
+hindsightbias3,Hindsight Bias,attributionbias2,TYPE_OF
+hostileattributionbias3,Hostile Attribution Bias,attributionbias2,TYPE_OF
+hothandfallacy3,Hot-Hand Fallacy,logicalfallacy2,TYPE_OF
+humoreffect3,Humor Effect,attributionbias2,TYPE_OF
+hyperbolicdiscounting3,Hyperbolic Discounting,extensionneglect2,TYPE_OF
+ikeaeffect3,Ikea Effect,effortjustification2,TYPE_OF
+illicittransference3,Illicit Transference,logicalfallacy2,TYPE_OF
+illusionofasymmetricinsight3,Illusion Of Asymmetric Insight,egocentricbias2,TYPE_OF
+illusionofcontrol3,Illusion Of Control,egocentricbias2,TYPE_OF
+illusionoftransparency3,Illusion Of Transparency,egocentricbias2,TYPE_OF
+illusionofvalidity3,Illusion Of Validity,egocentricbias2,TYPE_OF
+illusorycorrelation3,Illusory Correlation,apophenia2,TYPE_OF
+illusorysuperiority3,Illusory Superiority,egocentricbias2,TYPE_OF
+illusorytrutheffect3,Illusory Truth Effect,truthiness2,TYPE_OF
+impactbias3,Impact Bias,attributionbias2,TYPE_OF
+implicitassociation3,Implicit Association,attributionbias2,TYPE_OF
+impostersyndrome3,Imposter Syndrome,attributionbias2,TYPE_OF
+informationbias3,Information Bias,attributionbias2,TYPE_OF
+ingroupbias3,Ingroup Bias,ingroupbias2,TYPE_OF
+insensitivitytosamplesize3,Insensitivity To Sample Size,extensionneglect2,TYPE_OF
+intentionalitybias3,Intentionality Bias,attributionbias2,TYPE_OF
+interoceptivebias3,Interoceptive Bias,attributionbias2,TYPE_OF
+irrationalescalation3,Irrational Escalation,logicalfallacy2,TYPE_OF
+justworldhypothesis3,Just-World Hypothesis,attributionbias2,TYPE_OF
+lageffect3,Lag Effect,egocentricbias2,TYPE_OF
+lawoftheinstrument3,Law Of The Instrument,anchoringbias2,TYPE_OF
+lessisbettereffect3,Less-Is-Better Effect,extensionneglect2,TYPE_OF
+levelingandsharpening3,Leveling And Sharpening,attributionbias2,TYPE_OF
+levelsofprocessingeffect3,Levels-Of-Processing Effect,attributionbias2,TYPE_OF
+listlengtheffect3,List-Length Effect,attributionbias2,TYPE_OF
+lossaversion3,Loss Aversion,prospecttheory2,TYPE_OF
+mereexposureeffect3,Mere Exposure Effect,familiarityprinciple2,TYPE_OF
+misinformationeffect3,Misinformation Effect,attributionbias2,TYPE_OF
+modalityeffect3,Modality Effect,attributionbias2,TYPE_OF
+moneyillusion3,Money Illusion,attributionbias2,TYPE_OF
+moodcongruentmemorybias3,Mood-Congruent Memory Bias,egocentricbias2,TYPE_OF
+moralcredentialeffect3,Moral Credential Effect,attributionbias2,TYPE_OF
+moralluck3,Moral Luck,attributionbias2,TYPE_OF
+naïvecynicism3,Naïve Cynicism,egocentricbias2,TYPE_OF
+naïverealism3,Naïve Realism,egocentricbias2,TYPE_OF
+neglectofprobability3,Neglect Of Probability,extensionneglect2,TYPE_OF
+nextinlineeffect3,Next-In-Line Effect,attributionbias2,TYPE_OF
+nonadaptivechoiceswitching3,Non-Adaptive Choice Switching,attributionbias2,TYPE_OF
+normalcybias3,Normalcy Bias,cognitivedissonance2,TYPE_OF
+notinventedhere3,Not Invented Here,ingroupbias2,TYPE_OF
+observerexpectancyeffect3,Observer-Expectancy Effect,confirmationbias2,TYPE_OF
+omissionbias3,Omission Bias,attributionbias2,TYPE_OF
+optimismbias3,Optimism Bias,attributionbias2,TYPE_OF
+ostricheffect3,Ostrich Effect,attributionbias2,TYPE_OF
+outcomebias3,Outcome Bias,attributionbias2,TYPE_OF
+outgrouphomogeneitybias3,Outgroup Homogeneity Bias,ingroupbias2,TYPE_OF
+overconfidenceeffect3,Overconfidence Effect,egocentricbias2,TYPE_OF
+pareidolia3,Pareidolia,apophenia2,TYPE_OF
+partlistcueingeffect3,Part-List Cueing Effect,attributionbias2,TYPE_OF
+peakendrule3,Peak–End Rule,egocentricbias2,TYPE_OF
+personification3,Personification,attributionbias2,TYPE_OF
+pessimismbias3,Pessimism Bias,attributionbias2,TYPE_OF
+picturesuperiorityeffect3,Picture Superiority Effect,attributionbias2,TYPE_OF
+planck’sprinciple3,Planck’S Principle,attributionbias2,TYPE_OF
+plancontinuationbias3,Plan Continuation Bias,logicalfallacy2,TYPE_OF
+planningfallacy3,Planning Fallacy,egocentricbias2,TYPE_OF
+plantblindness3,Plant Blindness,attributionbias2,TYPE_OF
+pluralisticignorance3,Pluralistic Ignorance,attributionbias2,TYPE_OF
+presentbias3,Present Bias,extensionneglect2,TYPE_OF
+preventionbias3,Prevention Bias,egocentricbias2,TYPE_OF
+probabilitymatching3,Probability Matching,attributionbias2,TYPE_OF
+processingdifficultyeffect3,Processing Difficulty Effect,attributionbias2,TYPE_OF
+proinnovationbias3,Pro-Innovation Bias,attributionbias2,TYPE_OF
+projectionbias3,Projection Bias,extensionneglect2,TYPE_OF
+proportionalitybias3,Proportionality Bias,egocentricbias2,TYPE_OF
+pseudocertaintyeffect3,Pseudocertainty Effect,prospecttheory2,TYPE_OF
+puritanicalbias3,Puritanical Bias,attributionbias2,TYPE_OF
+pygmalioneffect3,Pygmalion Effect,attributionbias2,TYPE_OF
+reactance3,Reactance,prospecttheory2,TYPE_OF
+reactivedevaluation3,Reactive Devaluation,attributionbias2,TYPE_OF
+recencyillusion3,Recency Illusion,attributionbias2,TYPE_OF
+reminiscencebump3,Reminiscence Bump,egocentricbias2,TYPE_OF
+restraintbias3,Restraint Bias,egocentricbias2,TYPE_OF
+rhymeasreasoneffect3,Rhyme As Reason Effect,truthiness2,TYPE_OF
+saliencebias3,Salience Bias,attributionbias2,TYPE_OF
+scopeinsensitivity3,Scope Insensitivity,extensionneglect2,TYPE_OF
+scopeneglect3,Scope Neglect,extensionneglect2,TYPE_OF
+selectionbias3,Selection Bias,attributionbias2,TYPE_OF
+selectiveperception3,Selective Perception,confirmationbias2,TYPE_OF
+selfrelevanceeffect3,Self-Relevance Effect,attributionbias2,TYPE_OF
+selfservingbias3,Self-Serving Bias,attributionbias2,TYPE_OF
+semmelweisreflex3,Semmelweis Reflex,confirmationbias2,TYPE_OF
+serialpositioneffect3,Serial Position Effect,attributionbias2,TYPE_OF
+sharedinformationbias3,Shared Information Bias,attributionbias2,TYPE_OF
+socialcomparisonbias3,Social Comparison Bias,extensionneglect2,TYPE_OF
+socialdesirabilitybias3,Social Desirability Bias,conformitybias2,TYPE_OF
+sourceconfusion3,Source Confusion,attributionbias2,TYPE_OF
+spacingeffect3,Spacing Effect,attributionbias2,TYPE_OF
+spotlighteffect3,Spotlight Effect,attributionbias2,TYPE_OF
+statusquobias3,Status Quo Bias,attributionbias2,TYPE_OF
+statusquobias3,Status Quo Bias,prospecttheory2,TYPE_OF
+stereotypicalbias3,Stereotypical Bias,attributionbias2,TYPE_OF
+stereotyping3,Stereotyping,falsepriors2,TYPE_OF
+subadditivityeffect3,Subadditivity Effect,logicalfallacy2,TYPE_OF
+subjectivevalidation3,Subjective Validation,truthiness2,TYPE_OF
+suffixeffect3,Suffix Effect,attributionbias2,TYPE_OF
+suggestibility3,Suggestibility,attributionbias2,TYPE_OF
+surrogation3,Surrogation,attributionbias2,TYPE_OF
+survivorshipbias3,Survivorship Bias,attributionbias2,TYPE_OF
+systematicbias3,Systematic Bias,attributionbias2,TYPE_OF
+systemjustification3,System Justification,prospecttheory2,TYPE_OF
+tachypsychia3,Tachypsychia,egocentricbias2,TYPE_OF
+telescopingeffect3,Telescoping Effect,attributionbias2,TYPE_OF
+testingeffect3,Testing Effect,egocentricbias2,TYPE_OF
+thirdpersoneffect3,Third-Person Effect,egocentricbias2,TYPE_OF
+timesavingbias3,Time-Saving Bias,logicalfallacy2,TYPE_OF
+traitascriptionbias3,Trait Ascription Bias,egocentricbias2,TYPE_OF
+travissyndrome3,Travis Syndrome,attributionbias2,TYPE_OF
+ultimateattributionerror3,Ultimate Attribution Error,attributionbias2,TYPE_OF
+unconsciousbias3,Unconscious Bias,attributionbias2,TYPE_OF
+unitbias3,Unit Bias,attributionbias2,TYPE_OF
+verbatimeffect3,Verbatim Effect,attributionbias2,TYPE_OF
+vonrestorffeffect3,Von Restorff Effect,attributionbias2,TYPE_OF
+weberfechnerlaw3,Weber–Fechner Law,extensionneglect2,TYPE_OF
+welltravelledroadeffect3,Well Travelled Road Effect,attributionbias2,TYPE_OF
+womenarewonderfuleffect3,Women Are Wonderful Effect,attributionbias2,TYPE_OF
+worsethanaverageeffect3,Worse-Than-Average Effect,egocentricbias2,TYPE_OF
+zeigarnikeffect3,Zeigarnik Effect,egocentricbias2,TYPE_OF
+zeroriskbias3,Zero-Risk Bias,extensionneglect2,TYPE_OF
+zerosumbias3,Zero-Sum Bias,logicalfallacy2,TYPE_OF

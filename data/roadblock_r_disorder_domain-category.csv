@@ -1,0 +1,6 @@
+﻿:START_ID,name,:END_ID,:TYPE
+antago0001,Antagonism,persdisord01,DOMAIN_WITHIN
+detach0001,Detachment,persdisord01,DOMAIN_WITHIN
+disinh0001,Disinhibition,persdisord01,DOMAIN_WITHIN
+negati0001,Negative Affectivity,persdisord01,DOMAIN_WITHIN
+psycho0001,Psychoticism,persdisord01,DOMAIN_WITHIN

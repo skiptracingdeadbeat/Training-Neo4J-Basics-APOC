@@ -1,0 +1,35 @@
+﻿ov6cID:ID,model,name,:LABEL
+bp000220101,BP00022.1,Assign Workload,DoDAF
+bp000220201,BP00022.2,Reassign Workload,DoDAF
+bp000220301,BP00022.3,Perform Ad Hoc or Workflow Review(s),DoDAF
+bp000220401,BP00022.4,Reassign Workload Manager,DoDAF
+bp000220701,BP00022.7,Cancel Document(s),DoDAF
+bp000720101,BP00072.1,"Create, Update, or Deactivate User",DoDAF
+bp000720201,BP00072.2,Assist in Audits,DoDAF
+bp000720301,BP00072.3,Maintain Reference Data,DoDAF
+bp000720401,BP00072.4,Create Vendor(s),DoDAF
+bp000720501,BP00072.5,Update Vendor(s),DoDAF
+bp000720601,BP00072.6,Register Vendor in Vendor Self Service (VSS),DoDAF
+bp000770101,BP00077.1,Generate Report,DoDAF
+bp000770201,BP00077.2,Execute Query,DoDAF
+bp001000101,BP00100.1,Create Long Range Acquisition Planning and Forecast,DoDAF
+bp001000201,BP00100.2,Create Planning Purchase Request (PR),DoDAF
+bp001000301,BP00100.3,Create Funding Purchase Request (PR) via Interface,DoDAF
+bp001000401,BP00100.4,Create Funding Purchase Request (PR) Manually,DoDAF
+bp001000501,BP00100.5,Amend Purchase Request (PR),DoDAF
+bp001000601,BP00100.6,Establish Central Contract File (CCF) and Milestones,DoDAF
+bp001000701,BP00100.7,Submit Requirement Package,DoDAF
+bp001000801,BP00100.8,Create Checklist,DoDAF
+bp001000901,BP00100.9,Create Small Business Coordination Record (SBCR),DoDAF
+bp002000101,BP00200.1,Develop Solicitation,DoDAF
+bp002000201,BP00200.2,Amend Solicitation,DoDAF
+bp002000301,BP00200.3,Create Announcement,DoDAF
+bp002000401,BP00200.4,Amend Announcement,DoDAF
+bp004000101,BP00400.1,Create Award,DoDAF
+bp004000201,BP00400.2,Conduct Procurement Management Review (PMR),DoDAF
+bp004000301,BP00400.3,"Manage Protests, Disputes, and Appeals",DoDAF
+bp005000101,BP00500.1,Administer Procurement Instrument,DoDAF
+bp005000201,BP00500.2,Modify Procurement Instrument,DoDAF
+bp005000301,BP00500.3,Perform Mass Modifications,DoDAF
+bp005000401,BP00500.4,Terminate Contract(s),DoDAF
+bp005000501,BP00500.5,Perform Contract Closeout,DoDAF

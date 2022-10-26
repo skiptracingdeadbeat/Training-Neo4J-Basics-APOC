@@ -1,0 +1,100 @@
+﻿departmentID:ID,name,title,:LABEL
+D0000,LB,Legislative Branch,ContractingDepartment
+D0010,SEN,Senate,ContractingDepartment
+D0300,LOC,Library of Congress,ContractingDepartment
+D0500,GAO,Government Accountability Office,ContractingDepartment
+D1027,AOUSC,Administrative of Office US Courts,ContractingDepartment
+D1100,EOP,Executive Office of President,ContractingDepartment
+D1145,PC,Peace Corps,ContractingDepartment
+D1153,USTDA,US Trade and Development Agency,ContractingDepartment
+D1200,AG,Department of Agriculture,ContractingDepartment
+D1300,DOC,Department of Commerce,ContractingDepartment
+D1400,DOI,Department of the Interior,ContractingDepartment
+D1500,DOJ,Department of Justice,ContractingDepartment
+D1600,DOL,Department of Labor,ContractingDepartment
+D1665,PBGC,Pension Benefit Guaranty Corporation,ContractingDepartment
+D1800,USPS,Postal Service,ContractingDepartment
+D1900,DOS,Department of State,ContractingDepartment
+D19BM,IBWCUSM,International Boundary and Water Commission: US -Mexico,ContractingDepartment
+D2000,TREAS,Department of the Treasury,ContractingDepartment
+D2090,LSC,Legal Services Corporation,ContractingDepartment
+D2300,USTC,US Tax Court,ContractingDepartment
+D2400,OPM,Office of Personnel Management,ContractingDepartment
+D2500,NCUA,National Credit Union Administration,ContractingDepartment
+D2700,FCC,Federal Communications Commission,ContractingDepartment
+D2800,SSA,Social Security Administration,ContractingDepartment
+D2900,FTC,Federal Trade Commission,ContractingDepartment
+D3100,NRC,Nuclear Regulatory Commission,ContractingDepartment
+D3300,SI,Smithsonian Institution,ContractingDepartment
+D3352,JKCPA,JF Kennedy Center for Performing Arts,ContractingDepartment
+D3355,NGA,National Gallery of Art,ContractingDepartment
+D3400,ITC,International Trade Commission,ContractingDepartment
+D3600,VA,Department of Veterans Affairs,ContractingDepartment
+D4100,MSPB,Merit Systems Protection Board,ContractingDepartment
+D4340,NEH,National Endowment for Humanities,ContractingDepartment
+D4500,EEOC,Equal Employment Opportunity Commission,ContractingDepartment
+D4602,ARC,Appalachian Regional Commission,ContractingDepartment
+D4700,GSA,General Services Administration,ContractingDepartment
+D4856,NWTRB,Nuclear Waste Technical Review Board,ContractingDepartment
+D4900,NSF,National Science Foundation,ContractingDepartment
+D5000,SEC,Securities and Exchange Commission,ContractingDepartment
+D5300,IMLS,Institute of Museum and Library Services,ContractingDepartment
+D5400,FLRA,Federal Labor Relations Authority,ContractingDepartment
+D5920,NEA,National Endowment for Arts,ContractingDepartment
+D6000,RRB,Railroad Retirement Board,ContractingDepartment
+D6100,CPSC,Consumer Product Safety Commission,ContractingDepartment
+D6201,OSC,Office of Special Counsel,ContractingDepartment
+D6300,NLRB,National Labor Relations Board,ContractingDepartment
+D6500,FMC,Federal Maritime Commission,ContractingDepartment
+D6800,EPA,Environmental Protection Agency,ContractingDepartment
+D6900,DOT,Department of Transportation,ContractingDepartment
+D7000,DHS,Department of Homeland Security,ContractingDepartment
+D7100,OPIC,Overseas Private Investment Corporation,ContractingDepartment
+D7200,USAID,Agency for International Development,ContractingDepartment
+D7300,SBA,Small Business Administration,ContractingDepartment
+D7400,ABMC,American Battle Monuments Commission,ContractingDepartment
+D7500,HHS,Department of Health and Human Services,ContractingDepartment
+D7700,USIDFC,US International Development Finance Corporation,ContractingDepartment
+D8000,NASA,National Aeronautics and Space Administration,ContractingDepartment
+D8300,EXIM,Export Import Bank,ContractingDepartment
+D84AF,AFRH,Armed Forces Retirement Home,ContractingDepartment
+D8600,HUD,Department of Housing and Urban Development,ContractingDepartment
+D8800,NARA,National Archives and Records Administration,ContractingDepartment
+D8900,DOE,Department of Energy,ContractingDepartment
+D9000,SSS,Selective Service System,ContractingDepartment
+D9100,ED,Department of Education,ContractingDepartment
+D9300,FMCS,Federal Mediation and Conciliation Service,ContractingDepartment
+D9502,NCPC,National Capital Planning Commission,ContractingDepartment
+D9504,FMSHRC,Federal Mine Safety and Health Review Commission,ContractingDepartment
+D9505,STB,Surface Transportation Board,ContractingDepartment
+D9506,FEC,Federal Election Commission,ContractingDepartment
+D9507,CFTC,Commodity Futures Trading Commission,ContractingDepartment
+D9508,NTSB,National Transportation Safety Board,ContractingDepartment
+D9511,COIG,Council of Inspectors General On Integrity and Efficiency,ContractingDepartment
+D9513,MMC,Marine Mammal Commission,ContractingDepartment
+D9514,OSHRC,Occupational Safety and Health Review Commission,ContractingDepartment
+D9515,ACUS,Administrative Conference of US ,ContractingDepartment
+D9516,DNFSB,Defense Nuclear Facilities Safety Board,ContractingDepartment
+D9518,AblityOne,Committee for Purchase From People Who Are Blind Or Severely Disabled,ContractingDepartment
+D9519,ICMA,Intelligence Community Management Account,ContractingDepartment
+D9523,EAC,Election Assistance Commission,ContractingDepartment
+D9524,NMB,National Mediation Board,ContractingDepartment
+D9526,PCLOB,Privacy and Civil Liberties Oversight Board,ContractingDepartment
+D9532,ATBCB,Architectural and Transportation Barriers Compliance Board,ContractingDepartment
+D9533,GCERC,Gulf Coast Ecosystem Restoration Council,ContractingDepartment
+D9534,DCC,District of Columbia Courts,ContractingDepartment
+D9536,VEF,Vietnam Education Foundation,ContractingDepartment
+D9537,CFA,Commission of Fine Arts,ContractingDepartment
+D9542,FHFA,Federal Housing Finance Agency,ContractingDepartment
+D9543,MCC,Millennium Challenge Corporation,ContractingDepartment
+D9545,MKUSEPF,Morris K Udall Scholarship and Excellence In National Environmental Policy Foundation,ContractingDepartment
+D9549,OGE,Office of Government Ethics,ContractingDepartment
+D9557,NBRC,Northern Border Regional Commission,ContractingDepartment
+D955F,CFPB,Consumer Financial Protection Bureau,ContractingDepartment
+D9560,BGSEIEF,Barry Goldwater Scholarship and Excellence In Education Fund,ContractingDepartment
+D9565,CSHIB,Chemical Safety and Hazard Investigation Board,ContractingDepartment
+D9568,USAGMB,US Agency for Global Media Bbg,ContractingDepartment
+D9572,DC,Denali Commission,ContractingDepartment
+D9577,CNCS,Corporation for National and Community Service,ContractingDepartment
+D9594,CSOSA,Court Services and Offender Supervision Agency,ContractingDepartment
+D9700,DoD,Department of Defense,ContractingDepartment

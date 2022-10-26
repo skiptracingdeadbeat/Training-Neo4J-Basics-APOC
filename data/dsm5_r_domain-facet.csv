@@ -1,0 +1,26 @@
+﻿:START_ID,name,:END_ID,:TYPE
+anhedo0001,Anhedonia,detach0001,CATEGORIZED_AS
+anxiou0001,Anxiousness,negati0001,CATEGORIZED_AS
+attent0001,Attention Seeking,antago0001,CATEGORIZED_AS
+callou0001,Callousness,antago0001,CATEGORIZED_AS
+deceit0001,Deceitfulness,antago0001,CATEGORIZED_AS
+depres0001,Depressivity,detach0001,CATEGORIZED_AS
+distra0001,Distractibility,disinh0001,CATEGORIZED_AS
+eccent0001,Eccentricity,psycho0001,CATEGORIZED_AS
+emotio0001,Emotional Lability,negati0001,CATEGORIZED_AS
+grandi0001,Grandiosity,antago0001,CATEGORIZED_AS
+hostil0001,Hostility,negati0001,CATEGORIZED_AS
+impuls0001,Impulsivity,disinh0001,CATEGORIZED_AS
+intima0001,Intimacy Avoidance,detach0001,CATEGORIZED_AS
+irresp0001,Irresponsibility,disinh0001,CATEGORIZED_AS
+manipu0001,Manipulativeness,antago0001,CATEGORIZED_AS
+percep0001,Perceptual Dysregulation,psycho0001,CATEGORIZED_AS
+persev0001,Perseveration,negati0001,CATEGORIZED_AS
+restri0001,Restricted Affectivity,negati0001,CATEGORIZED_AS
+rigid0001,Rigid Perfectionism,disinh0001,CATEGORIZED_AS
+riskt0001,Risk Taking,disinh0001,CATEGORIZED_AS
+separa0001,Separation Insecurity,negati0001,CATEGORIZED_AS
+submis0001,Submissiveness,negati0001,CATEGORIZED_AS
+suspic0001,Suspiciousness,detach0001,CATEGORIZED_AS
+unusua0001,Unusual Beliefs & Experiences,psycho0001,CATEGORIZED_AS
+withdr0001,Withdrawal,detach0001,CATEGORIZED_AS

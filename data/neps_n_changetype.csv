@@ -1,0 +1,7 @@
+﻿changetypeID:ID,name,:LABEL
+defect,Defect,ChangeType
+enhancement,Enhancement,ChangeType
+notapplicable,Not Applicable,ChangeType
+operational,Operational,ChangeType
+software,Software,ChangeType
+tbd,TBD,ChangeType

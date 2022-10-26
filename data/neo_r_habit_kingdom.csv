@@ -1,0 +1,119 @@
+﻿:START_ID,name,:END_ID,:TYPE
+herbforb,Herb_Forb,planthabit,PART_OF
+shrub,Shrub,planthabit,PART_OF
+tree,Tree,planthabit,PART_OF
+cactus,Cactus,planthabit,PART_OF
+succulent,Succulent,planthabit,PART_OF
+grass,Grass,planthabit,PART_OF
+grasslike,Grass-Like,planthabit,PART_OF
+fern,Fern,planthabit,PART_OF
+vine,Vine,planthabit,PART_OF
+sunrequirements,Full Sun,fullsun,THRIVES_IN
+sunrequirements,Full Sun to Partial Shade,fullsuntopartialshade,THRIVES_IN
+sunrequirements,Partial or Dappled Shade,partialordappledshade,THRIVES_IN
+sunrequirements,Partial Shade to Full Shade,partialshadetofullshade,THRIVES_IN
+sunrequirements,Full Shade,fullshade,THRIVES_IN
+waterpreferences,Dry Mesic,drymesic,PREFERS_HABITAT
+waterpreferences,Hydric,hydric,PREFERS_HABITAT
+waterpreferences,In Water,inwater,PREFERS_HABITAT
+waterpreferences,Mesic,mesic,PREFERS_HABITAT
+waterpreferences,Wet Mesic,wetmesic,PREFERS_HABITAT
+waterpreferences,Xerix,xeric ,PREFERS_HABITAT
+soilphpreferences,pH 3.5 – 4.4,soilph35to44,PREFERS_Ph_OF
+soilphpreferences,pH 4.5 – 5.0,soilph45to50,PREFERS_Ph_OF
+soilphpreferences,pH 5.1 – 5.5,soilph51to55,PREFERS_Ph_OF
+soilphpreferences,pH 5.6 – 6.0,soilph56to60,PREFERS_Ph_OF
+soilphpreferences,pH 6.1 – 6.5,soilph61to65,PREFERS_Ph_OF
+soilphpreferences,pH 6.6 – 7.3,soilph66to73,PREFERS_Ph_OF
+soilphpreferences,pH 7.4 – 7.8,soilph74to78,PREFERS_Ph_OF
+soilphpreferences,pH 7.9 – 8.4,soilph79to84,PREFERS_Ph_OF
+soilphpreferences,pH 8.5 – 9.0,soilph85to90,PREFERS_Ph_OF
+minimumcoldhardiness,Zone 00a ,zone00a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 00b ,zone00b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 01a ,zone01a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 01b ,zone01b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 02a ,zone02a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 02b ,zone02b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 03a ,zone03a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 03b ,zone03b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 04a ,zone04a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 04b ,zone04b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 05a ,zone05a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 05b ,zone05b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 06a ,zone06a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 06b ,zone06b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 07a ,zone07a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 07b ,zone07b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 08a ,zone08a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 08b ,zone08b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 09a ,zone09a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 09b ,zone09b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 10a ,zone10a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 10b ,zone10b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 11a ,zone11a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 11b ,zone11b,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 12a ,zone12a,MINIMUM_COLD_HARDINESS_OF
+minimumcoldhardiness,Zone 12b ,zone12b,MINIMUM_COLD_HARDINESS_OF
+maximumrecommendedzone,Zone 00a ,zone00a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 00b ,zone00b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 01a ,zone01a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 01b ,zone01b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 02a ,zone02a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 02b ,zone02b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 03a ,zone03a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 03b ,zone03b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 04a ,zone04a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 04b ,zone04b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 05a ,zone05a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 05b ,zone05b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 06a ,zone06a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 06b ,zone06b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 07a ,zone07a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 07b ,zone07b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 08a ,zone08a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 08b ,zone08b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 09a ,zone09a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 09b ,zone09b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 10a ,zone10a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 10b ,zone10b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 11a ,zone11a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 11b ,zone11b,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 12a ,zone12a,MAXIMUM_RECOMMENDED_ZONE_OF
+maximumrecommendedzone,Zone 12b ,zone12b,MAXIMUM_RECOMMENDED_ZONE_OF
+planthabit,Plant Habit,Species,CHARACTERISTIC_OF
+lifecycle,Life cycle,Species,CHARACTERISTIC_OF
+sunrequirements,Sun Requirements,Species,CHARACTERISTIC_OF
+waterpreferences,Water Preferences,Species,CHARACTERISTIC_OF
+soilphpreferences,Soil pH Preferences,Species,CHARACTERISTIC_OF
+minimumcoldhardiness,Minimum cold hardiness,Species,CHARACTERISTIC_OF
+maximumrecommendedzone,Maximum recommended zone,Species,CHARACTERISTIC_OF
+plantheight,Plant Height,Species,CHARACTERISTIC_OF
+plantspread,Plant Spread,Species,CHARACTERISTIC_OF
+leaves,Leaves,Species,CHARACTERISTIC_OF
+fruit,Fruit,Species,CHARACTERISTIC_OF
+fruitingtime,Fruiting Time,Species,CHARACTERISTIC_OF
+flowers,Flowers,Species,CHARACTERISTIC_OF
+flowercolor,Flower Color,Species,CHARACTERISTIC_OF
+bloomsize,Bloom Size,Species,CHARACTERISTIC_OF
+flowertime,Flower Time,Species,CHARACTERISTIC_OF
+inflorescenceheight,Inflorescence Height,Species,CHARACTERISTIC_OF
+foliagemoundheight,Foliage Mound Height,Species,CHARACTERISTIC_OF
+undergroundstructures,Underground structures,Species,CHARACTERISTIC_OF
+suitablelocations,Suitable Locations,Species,CHARACTERISTIC_OF
+uses,Uses,Species,CHARACTERISTIC_OF
+edibleparts,Edible Parts,Species,CHARACTERISTIC_OF
+eatingmethods,Eating Methods,Species,CHARACTERISTIC_OF
+dynamicaccumulator,Dynamic Accumulator,Species,CHARACTERISTIC_OF
+wildlifeattractant,Wildlife Attractant,Species,CHARACTERISTIC_OF
+resistances,Resistances,Species,CHARACTERISTIC_OF
+toxicity,Toxicity,Species,CHARACTERISTIC_OF
+propagationseeds,Propagation_Seeds,Species,CHARACTERISTIC_OF
+propagationothermethods,Propagation_Other methods,Species,CHARACTERISTIC_OF
+pollinators,Pollinators,Species,CHARACTERISTIC_OF
+containers,Containers,Species,CHARACTERISTIC_OF
+miscellaneous,Miscellaneous,Species,CHARACTERISTIC_OF
+awardsandrecognitions,Awards and Recognitions,Species,CHARACTERISTIC_OF
+conservationstatus,Conservation status,Species,CHARACTERISTIC_OF
+ploidy,Ploidy,Species,CHARACTERISTIC_OF
+parentage,Parentage,Species,CHARACTERISTIC_OF
+childplants,Child plants,Species,CHARACTERISTIC_OF

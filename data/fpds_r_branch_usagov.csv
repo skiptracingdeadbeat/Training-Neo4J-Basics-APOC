@@ -1,0 +1,5 @@
+﻿:START_ID,name,:END_ID,:TYPE
+legislative,USA Federal Government,usafedgov,PART_OF
+judicial,USA Federal Government,usafedgov,PART_OF
+executive,USA Federal Government,usafedgov,PART_OF
+independent_federal_quasi_fed_org,USA Federal Government,usafedgov,PART_OF

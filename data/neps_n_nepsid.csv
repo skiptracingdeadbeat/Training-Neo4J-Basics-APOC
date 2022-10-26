@@ -1,0 +1,1326 @@
+﻿nepskeyID:ID,name,defect_description,:LABEL
+neps0663,NEPS-663,Estimated Completion Date (2D) not Mapping to FPDS for QO,NEPSKey
+neps0664,NEPS-664,Ad Hoc Report capabilities and Server error,NEPSKey
+neps0665,NEPS-665,Saving user default office code without office code throws exception,NEPSKey
+neps0666,NEPS-666,FPDS Type of IDC (6D) not Mapping to FPDS from Itemized Line,NEPSKey
+neps0667,NEPS-667,An Indefinite Delivery Vehical(IDV) doc type closes out even with an order against it.,NEPSKey
+neps0669,NEPS-669,Able to leave Contract File without confirmation for Previous (to save) or Continue (without saving),NEPSKey
+neps0670,NEPS-670,Changes T&C summary view does not update the clauses in Clause Change Summary tab,NEPSKey
+neps0671,NEPS-671,Extensibility - Columns in Query Search Results Display Not Being Hidden,NEPSKey
+neps0672,NEPS-672,FPDS Comparison Report Should Print Principal's FPDS User ID Instead of Momentum User ID for FPDS-NG ID,NEPSKey
+neps0674,NEPS-674,Unable to invoke Relationship Edits using field in the Pack Physical Details tab,NEPSKey
+neps0675,NEPS-675,"Momentum Award/order reference requirements for AA, J&A, and ITB Announcement notice types are not in sync with SAM.gov Contract Opps requirements",NEPSKey
+neps0676,NEPS-676,CAC Authenticated and validated by NAVAIRâ€™s F5 device and passed via SAML assertion to Momentumâ€™s CoreIDP for application credential authentication,NEPSKey
+neps0677,NEPS-677,Environment Freezes when selecting Itemized Line Tab > Add,NEPSKey
+neps0678,NEPS-678,Vendor's Physical Address is transmitted to SAM.gov Contract Opps for Award Announcements regardless of Vendor Address Type specified on the referenced Award/Order,NEPSKey
+neps0679,NEPS-679,T&C Check For Updates - Clause Fill In Values Do Not Populate After Verify,NEPSKey
+neps0680,NEPS-680,Cancelling QS doesn't Cancel Solicitation in VSS,NEPSKey
+neps0681,NEPS-681,Cancellations to FPDS-Enabled Awards (QAs) and Acquisition Order (QOs) are not transmitted to FPDS,NEPSKey
+neps0682,NEPS-682,Missing Subtype- OF 1419,NEPSKey
+neps0683,NEPS-683,PDS Modification Export: OrderVariation,NEPSKey
+neps0684,NEPS-684,Inability to Delete Document Type,NEPSKey
+neps0685,NEPS-685,DateSigned field getting cleared on QA/QO amendment tables,NEPSKey
+neps0686,NEPS-686,Unable to open Protests and Disputes Query file,NEPSKey
+neps0687,NEPS-687,SA user create logging events and based on a specific parameter or table to create a custom logging feature,NEPSKey
+neps0688,NEPS-688,PDS Export: PricingArrangement is not being exported for Informational Lines,NEPSKey
+neps0691,NEPS-691,Setup the Pega integration libraries & database,NEPSKey
+neps0692,NEPS-692,Itemized Lines are Sporadically Shifting on Forms (MM-23136),NEPSKey
+neps0693,NEPS-693,Red astericks for required fields for auto-generating SOL doc numbers,NEPSKey
+neps0695,NEPS-695,PRDS Import/Export: Add OrderVariation Mappings,NEPSKey
+neps0696,NEPS-696,PDF Pop ups blocked in chrome in AWS; settings can only be changed by admin,NEPSKey
+neps0697,NEPS-697,Award does not move from Pending Approval after approval,NEPSKey
+neps0699,NEPS-699,FPDS Data Element 6H-Label Change and new Value of C not Translated for FPDS Read-Only View,NEPSKey
+neps0701,NEPS-701,Update Doc Type Mass Mod Eligibility Setting in Day 1 Env and Populate Mass Mod Configuration Table,NEPSKey
+neps0702,NEPS-702,'GS4658E Contracting officer has been suspended in warrants' hard edit thrown,NEPSKey
+neps0703,NEPS-703,Batch Job Search Criteria for Time Stamp,NEPSKey
+neps0704,NEPS-704,FPDS CAR Created With eSign/FPDS Bypass as True,NEPSKey
+neps0705,NEPS-705,Unable to view attachments in VSS that are part of a Momentum Copy From/Forward chain that reuses the same attachments,NEPSKey
+neps0706,NEPS-706,Security Organization Reassignment Enforce Security Not Functioning Properly,NEPSKey
+neps0707,NEPS-707,Number of Offers (10D) not Mapping to FPDS,NEPSKey
+neps0708,NEPS-708,"The error message ""An unexpected error occurred in get method"" displayed while trying to view attachments does not specify that the Security permissions are missing",NEPSKey
+neps0709,NEPS-709,Importing PRDS modification removes all CDRL lines,NEPSKey
+neps0710,NEPS-710,PDS - Modified Attachments have the same content in Changed section for Current and Previous,NEPSKey
+neps0711,NEPS-711,Handle Foreign addresses based on appropriate formatting rules for Navy ePS DODAAC job,NEPSKey
+neps0712,NEPS-712,"Patch MM-25261 - + PDS Mod Export FoBDetails Not Working with ""Added"" and ""Deleted"" Case",NEPSKey
+neps0714,NEPS-714,PDS Export: IDIQ Contracts should not be exporting with a <ProcurementInstrumentVehicle> of Schedule,NEPSKey
+neps0715,NEPS-715,VSS Guest users are unable to view public attachments on Announcements and Solicitation regardless of their security permissions,NEPSKey
+neps0716,NEPS-716,PDS/PRDS Import/Export: Support One Itemized Line to Many Accounting Lines,NEPSKey
+neps0717,NEPS-717,Add Fields via Metadata Extensibility,NEPSKey
+neps0718,NEPS-718,Attachments will not delete on document correspondence.,NEPSKey
+neps0719,NEPS-719,Configure eSign integrations on AWS IT ePS Environment,NEPSKey
+neps0720,NEPS-720,Debugging SAM Reps and Certs Vendor Query Installation,NEPSKey
+neps0721,NEPS-721,VSS Installation on PI6,NEPSKey
+neps0722,NEPS-722,Server Error AS0067E Database request Error in Closeout Checklist/Closeout,NEPSKey
+neps0723,NEPS-723,'Replace' Functionality in Itemized Lines within AWD,NEPSKey
+neps0724,NEPS-724,Error Printing Contract Completion statement in IT Testing,NEPSKey
+neps0725,NEPS-725,Itemized Lines are displaying as highlighted when user navigates away from a page and comes back,NEPSKey
+neps0726,NEPS-726,FPDS Base and Exercised Options Amount (3B) Includes Unexercised Option Amounts,NEPSKey
+neps0727,NEPS-727,PDS Surveillance Criticality Designator,NEPSKey
+neps0728,NEPS-728,Acquisitions Documents Copy Forward Attachment Causes JCR Error,NEPSKey
+neps0729,NEPS-729,PDS: Momentum should replace U mod number with the appropriate A or P Mod numbers before,NEPSKey
+neps0730,NEPS-730,AQ0006I returned importing PRDS modification files,NEPSKey
+neps0731,NEPS-731,Copy records from Workload Options - MF_WKLD_RCMM_RULE,NEPSKey
+neps0732,NEPS-732,Solicitation Set Asides are not transmitted to SAM.gov Contract Opps,NEPSKey
+neps0733,NEPS-733,Closeout Query does not Refresh Excess Funds,NEPSKey
+neps0734,NEPS-734,Server Error AS0067E: Database Request Error when selecting SOL to Copy Forward,NEPSKey
+neps0735,NEPS-735,FPDS Tab is missing when creating AWD,NEPSKey
+neps0736,NEPS-736,FfsAwardAmendment::CopyFromAspects calls wrong parent implementation,NEPSKey
+neps0737,NEPS-737,Capability to provide document vendor agreement for Bilateral mod that cannot be digitally signed,NEPSKey
+neps0738,NEPS-738,Copying From Child Lines Without the Associated Parent Line is Allowed,NEPSKey
+neps0739,NEPS-739,Copying Milestone Templates Lead to Database Error,NEPSKey
+neps0740,NEPS-740,Open Issue from IT Testing WebEx Session - TC00100.3_083,NEPSKey
+neps0741,NEPS-741,Solicitation Reference should not be required for Special Notice Announcement (SAM.gov Contract Opps),NEPSKey
+neps0742,NEPS-742,PDS 2.6 Import only: UnhandledException when AttachmentDataFormat is missing from Attachments,NEPSKey
+neps0743,NEPS-743,Attachment error in integration server log,NEPSKey
+neps0744,NEPS-744,BASIC Security Role changes in Day One (also needed in System Test and AWS to get around blockers),NEPSKey
+neps0745,NEPS-745,"PDS Import - LimitDescription = 'Allowed Per Order' and UnitOfMeasure = 'Dollars, U.S.' maps to Maximum Quantity per Order, not Amount",NEPSKey
+neps0746,NEPS-746,EVF Configuration Utility does not read in JDBC Adapter properties from Common,NEPSKey
+neps0747,NEPS-747,DoDAAD batch job - Procurement flag update,NEPSKey
+neps0748,NEPS-748,Security Category box appearance,NEPSKey
+neps0749,NEPS-749,FPDS-NG Data Dictionary capabilities/functionality,NEPSKey
+neps0750,NEPS-750,Remove Error: GS4468E There are 2 Delivery Date Options specified and only one is permitted.,NEPSKey
+neps0751,NEPS-751,GS0003E is improperly issued on a QO modification when document date is within QO's PoP Dates,NEPSKey
+neps0752,NEPS-752,Approval Routing Missing from Interfaced PRE Purchase Request,NEPSKey
+neps0753,NEPS-753,Generate SOC is not displaying clause updates,NEPSKey
+neps0755,NEPS-755,FPDS Reason for Modification (12C) on FPDS tab is not transmitting to FPDS,NEPSKey
+neps0757,NEPS-757,PDS Export: PricingArrangementBase should always be exported from the Represented Contract and not from referenced documents,NEPSKey
+neps0758,NEPS-758,Choosing Lines to Copy on QA Acct Line Does Not Copy Select Lines,NEPSKey
+neps0759,NEPS-759,"Errors Associated with the Limit Description ""Allowed Per Order""",NEPSKey
+neps0760,NEPS-760,Incorrect attachment is pulled for eSign on Award mods,NEPSKey
+neps0761,NEPS-761,Changes tab on AWD mod screen causes system error,NEPSKey
+neps0762,NEPS-762,PDS Export: Funded Amount should not export at Header when Contract Type = Cost No Fee,NEPSKey
+neps0763,NEPS-763,User under policy that requires approval not going approval process when changing sec org,NEPSKey
+neps0764,NEPS-764,Can't process amendments created using Mass Modification Notebook,NEPSKey
+neps0765,NEPS-765,PDS Modification Export: ClauseVariation elements are not exported for DeletedClauses when a variation or deviation has been deleted,NEPSKey
+neps0766,NEPS-766,Notify Requesting Office when PRs have been Accepted,NEPSKey
+neps0767,NEPS-767,Prompt Pay Type: Logged flag/checkbox is Grayed out,NEPSKey
+neps0768,NEPS-768,PRDS Export: PricingArrangement is not following business rules,NEPSKey
+neps0769,NEPS-769,SOL Form Freezes when T&C's are added,NEPSKey
+neps0770,NEPS-770,Several FPDS/SAM Derived Business Designations Not saved on Finalized CAR,NEPSKey
+neps0771,NEPS-771,Clauses with type command/LOCAL imported using PDS import services are not mapped correctly,NEPSKey
+neps0772,NEPS-772,Marking Required Field in a Contract File cause for the Validations to Trigger during Creation,NEPSKey
+neps0773,NEPS-773,Error thrown in Registration Process of SAM Vendor in Momentum with more than one Address Code,NEPSKey
+neps0775,NEPS-775,Maximum Concurrent Users Reached Causing Workflow stuck in pending approval,NEPSKey
+neps0787,NEPS-787,PDS/PRDS Import/Export: Government Obligation to Order Maximum Amount mapping is incorrect,NEPSKey
+neps0788,NEPS-788,Document Number Format sequence DOES NOT restart when changing Document Number Format Teams,NEPSKey
+neps0789,NEPS-789,"PRDS/PDS Import/Export: Missing ItemOtherAmounts enumerations on PDS Export for CPAF, CPFF",NEPSKey
+neps0790,NEPS-790,Unable to locate IUID and RFID fields,NEPSKey
+neps0791,NEPS-791,Award Amount/Date/Vendor required when Order is provided as a reference for an announcement being transmitted to SAM.gov Contract Opps,NEPSKey
+neps0792,NEPS-792,EffectiveDate field is not there in the import wsdl in the instance 119,NEPSKey
+neps0793,NEPS-793,PDS Export: Remove PI0095E error message for Product or Service dropdown,NEPSKey
+neps0794,NEPS-794,Unable to select itemized lines during copy forward when creating Receipt or Order Document when selecting Choose which lines to copy,NEPSKey
+neps0795,NEPS-795,Mapped Fill-in values update to 'null' once user navigates away from Edit Fill-in window,NEPSKey
+neps0796,NEPS-796,SF30 Form Type Unavailable ltest 130,NEPSKey
+neps0797,NEPS-797,Check DoD document number flag in document number format when checking 'I' and 'O' in document number,NEPSKey
+neps0798,NEPS-798,Review Form task creation is not routing to approvers,NEPSKey
+neps0799,NEPS-799,PRDS UI Export: Error thrown when attempting to export an amendment,NEPSKey
+neps0800,NEPS-800,QN errors,NEPSKey
+neps0801,NEPS-801,Error Copying Workload Option,NEPSKey
+neps0802,NEPS-802,PDS Import: 500 Proxy Error when Importing documents with line-level attachments,NEPSKey
+neps0803,NEPS-803,FPDS Access Log Records for the Form do not display After the Form is Processed - Unable to Resolve AQ1924W warning on Modifications,NEPSKey
+neps0804,NEPS-804,PR Categories are not showing up in Security Entries,NEPSKey
+neps0805,NEPS-805,Remove asterisk (*) from field Identifier on the Search - Contract File window,NEPSKey
+neps0806,NEPS-806,Unable to send 100 MB document to VSS,NEPSKey
+neps0807,NEPS-807,Concurrent Mods Conflict Resolution Modal should not return parent identity and originalCostTransactionAmount fields,NEPSKey
+neps0808,NEPS-808,Unable to render query results with Estimated End Date,NEPSKey
+neps0809,NEPS-809,Completed Fill-Ins flags have no effect on mandatory fill-in validation,NEPSKey
+neps0810,NEPS-810,PDS Modification Export Error -- Two Validators do not Validate Amendment itemizedLine,NEPSKey
+neps0811,NEPS-811,Requestor Tracking Number Field is not enabled,NEPSKey
+neps0812,NEPS-812,No Referential Integrity for Business Intelligence Reporting Roles,NEPSKey
+neps0813,NEPS-813,Receive Duplicate Clause Number error after patch in MM-15754,NEPSKey
+neps0814,NEPS-814,PDS Export Missing Ordering Period for IDIQ Contracts,NEPSKey
+neps0815,NEPS-815,Unable to import PDS XML file with FAR/DFARS clauses if ClauseFullText is not populated and AlternateOrDeviation is set to Deviation,NEPSKey
+neps0816,NEPS-816,Unable to Remove Milestone Task from a Template on the CCF,NEPSKey
+neps0817,NEPS-817,Post Contract Opportunities under Transmission Threshold,NEPSKey
+neps0818,NEPS-818,Removing a Milestone/Task off of the Workload Assignment Notebook triggers error message.,NEPSKey
+neps0819,NEPS-819,PRDS/PDS Import/Export: Remove ReferenceDescription = Military Interdepartmental Purchase Request (MIPR) Number mapping,NEPSKey
+neps0820,NEPS-820,"PDS Import: Discount Days not getting defaulted to 10, 20, and 30 during import of a SF 33 PDS XML file",NEPSKey
+neps0821,NEPS-821,PDS Export: Unit Price is included in PDS XML when line is marked as 'Not Separately Priced' via Price Basis,NEPSKey
+neps0822,NEPS-822,Workload Options does not allow reference to a Milestone Template Name that is longer than 26 Characters,NEPSKey
+neps0823,NEPS-823,PDS/PRDS Files generated for UI export not deleted from temp folder immediately after user downloads them,NEPSKey
+neps0824,NEPS-824,Milestone/Task Query - Advanced Search Tab - Not Equal Query Not Displaying Values Correctly,NEPSKey
+neps0825,NEPS-825,"Discount Days 1,2,3 expected to be 10 ,20 ,30 in SF33 and SF18",NEPSKey
+neps0826,NEPS-826,The Solicitation using wsdl does not associate clauses with CLINS,NEPSKey
+neps0827,NEPS-827,"PDS USZipCodeExtension is missing and PRDS 3.0 Export ""Postal Code"" field In the ""Construction Projects"" Tab Has An Issue with ""-"" Character",NEPSKey
+neps0828,NEPS-828,Liquidate Flag Doesn't Stay Checked Upon Save,NEPSKey
+neps0829,NEPS-829,PDS Import: Ordering Instrument Reference Doesn't Populate on QO PDS Import,NEPSKey
+neps0830,NEPS-830,Optional Clause Fill-ins are triggering an error indicating they are mandatory and required,NEPSKey
+neps0831,NEPS-831,"The Audit Log Query for Warrants is not providing a unique ""Unique Record Identifier""",NEPSKey
+neps0832,NEPS-832,An OPLK error is returned when submitting an Amendment Form enabled for DoD Modification Number,NEPSKey
+neps0833,NEPS-833,PRDS/PDS Export: Large UnitPrices are exporting in scientific notation,NEPSKey
+neps0834,NEPS-834,Missing procurement actions/instrument types,NEPSKey
+neps0835,NEPS-835,SAM Contract Opportunities Draft Notice Preview button hidden when Transmission Threshold has not been met but user intends to transmit solicitation,NEPSKey
+neps0836,NEPS-836,System Error when creating a Local Clause in ePS System Test Environment,NEPSKey
+neps0837,NEPS-837,"PDS 2.6: BusinessType ""Foreign Owned and Located"" and ""U.S. Federal Government"" is no longer a valid enumeration",NEPSKey
+neps0838,NEPS-838,PDS Mod Export: Header DeliveryDate is not exported if added or deleted on a modification,NEPSKey
+neps0839,NEPS-839,Contract File Owner ID Updated by User who is not an Adminstrator,NEPSKey
+neps0840,NEPS-840,Choose Which Lines to Copy Forward displays Itemized Lines out of order in specific scenario,NEPSKey
+neps0841,NEPS-841,PDS Import/Export: FAR Clauses with missing Effective Date,NEPSKey
+neps0842,NEPS-842,"PDS Mod Export: Attachments, Offices are not shown in the Deleted or Added section",NEPSKey
+neps0843,NEPS-843,Task/Milestone Details Modal on Gantt View Clearing Fields,NEPSKey
+neps0844,NEPS-844,PRDS/PDS Import/Export: Unable to Import/Export PRDS/PDS with 100mb document,NEPSKey
+neps0845,NEPS-845,User with security permissions to manage Site ID maintenance table receives unexpected security error,NEPSKey
+neps0846,NEPS-846,eSignature System Setting,NEPSKey
+neps0847,NEPS-847,PRDS/PDS Export: Do not send OtherAmount = any header OtherAmounts (with the exception of Header Only - Contract Value),NEPSKey
+neps0848,NEPS-848,Edit Fill-In option is missing on the clause 252.204-7007 for NAICS a(1),NEPSKey
+neps0849,NEPS-849,Unable to add text in the clause block,NEPSKey
+neps0850,NEPS-850,Manage Workload Assignment Tasks remain in a Workload Managers inbox even if the Workload Assignment has been closed out,NEPSKey
+neps0851,NEPS-851,Fix loading a solicitation using solicitation WSDL,NEPSKey
+neps0852,NEPS-852,An unlabeled dropdown appear on the QA and QO line below the Extended Description,NEPSKey
+neps0853,NEPS-853,PDS Export error for unprocessed modifications,NEPSKey
+neps0854,NEPS-854,"PDS Mod Export: When fields exported to ReferenceNumber section of PDS are added or deleted on a modification, the added and deleted tags are not generated upon PDS Export",NEPSKey
+neps0855,NEPS-855,PDS Export: On a AWD Modification <MiscellaneousText> is being populated incorrectly,NEPSKey
+neps0856,NEPS-856,"Creating Amendment using SOAPUI , the U number assigned to Permanent Amendment number",NEPSKey
+neps0857,NEPS-857,Load GENC Province Codes into ePS Environments,NEPSKey
+neps0858,NEPS-858,"PRDS/PDS Export: Cost Type Contracts should Export 'Total Estimated Cost', not just 'Estimated Cost without FCCOM'",NEPSKey
+neps0859,NEPS-859,"""AS0068E Document Attachment is a duplicate"" error when printing a QS amendment & the original QS was not printed",NEPSKey
+neps0860,NEPS-860,Unable to import PDS XML file when a base and its alternate clause exist in the same contract file,NEPSKey
+neps0861,NEPS-861,Milestone task event associated with attachment type does not automatically update when the attachment is completed,NEPSKey
+neps0862,NEPS-862,External System Validations are OFF in CIT/Test ePS Environment,NEPSKey
+neps0863,NEPS-863,Individual Order/Call Limit (5C) not Mapping to FPDS for BPA-Setup,NEPSKey
+neps0864,NEPS-864,VSS Duplicating Attachments When Amending Solicitations,NEPSKey
+neps0865,NEPS-865,PDS Export: PricingArrangement business rules are not being followed,NEPSKey
+neps0866,NEPS-866,When creating an Award (QA) from a Request (IQ) the Financial Reference tab is not generating a distinct ACRN,NEPSKey
+neps0867,NEPS-867,Address fields not pulled when a DoDaac is provided.,NEPSKey
+neps0868,NEPS-868,BIRT server DeployUtililty fails when encrypt.passwords=true,NEPSKey
+neps0869,NEPS-869,PRDS/PDS erroneously transmits Contractor Address when no Contractor is present on the form,NEPSKey
+neps0870,NEPS-870,Open Issue from IT Testing WebEx Session - TC00100.3_090,NEPSKey
+neps0894,NEPS-894,CS able to process changes (corrections) to previously processed announcement,NEPSKey
+neps0895,NEPS-895,Hide button to edit contract number on award doc header under form section,NEPSKey
+neps0896,NEPS-896,HS2 Response - Positive Response Showing Error,NEPSKey
+neps0897,NEPS-897,GS4664E The Review form has already been submitted to workflow and cannot submit it again.,NEPSKey
+neps0916,NEPS-916,PR Amendment Number - Truncated (0001 to 1),NEPSKey
+neps0917,NEPS-917,PDF files are posting to EDA base64 encoded,NEPSKey
+neps0921,NEPS-921,PEGA Additional Forms Search Screen in AWS IT,NEPSKey
+neps0922,NEPS-922,"SBCR form throwing ""Invalid DoDAAC, Invalid Security Organization"" error",NEPSKey
+neps0924,NEPS-924,System for Award Management Contract Opportunities REST API enhancement,NEPSKey
+neps0926,NEPS-926,PDS/PRDS Import/Export: ReferenceDescription = NAICS is not exported at the header level,NEPSKey
+neps0927,NEPS-927,Clauses in Section I are printing in both Section G and Section I in the table of contents,NEPSKey
+neps0928,NEPS-928,System-Rendered Contract PDF Incorrectly included in Section J of the Contract,NEPSKey
+neps0929,NEPS-929,IQ/QS/QA/QO Itemized Line Renumbering Does Not Persist Upon Save,NEPSKey
+neps0930,NEPS-930,Debugging SAM Real-Time Vendor Query Error in AWS IT Env,NEPSKey
+neps0931,NEPS-931,FPDS QA Validation (FPDS_QA) EVF Error [ISS.0085.9102],NEPSKey
+neps0932,NEPS-932,CAR not finalizing when e-sign is turned on,NEPSKey
+neps0953,NEPS-953,Line Cost = Line Funding Edit Logic Updates Required,NEPSKey
+neps0955,NEPS-955,PDS and Funds Check External Validations Stuck in Process,NEPSKey
+neps0956,NEPS-956,VSS Registry,NEPSKey
+neps0957,NEPS-957,Unable to view/download Rendered PDF contracts in AWS IT using Internet Explorer,NEPSKey
+neps0959,NEPS-959,SF1449 Header Fields are not mapped - ORD Document type,NEPSKey
+neps0961,NEPS-961,"Marking a Milestone complete through the status selection box does not populate the ""Actual End Date""",NEPSKey
+neps0962,NEPS-962,Attachments are not transmitting to SAM,NEPSKey
+neps0963,NEPS-963,PDS_V_W_91 Error Issued when Local Clauses are Included,NEPSKey
+neps0964,NEPS-964,Entry of Specification Number causing PDS_F_F_16 validation error,NEPSKey
+neps0965,NEPS-965,SAM Reps and Cert issue in AWS IT Environment,NEPSKey
+neps0966,NEPS-966,PDS Export: Header Only - Total Contract Value field does not include Estimated Cost fields for Cost Type line items,NEPSKey
+neps0967,NEPS-967,Subscribed users are not receiving baseline notifications for overdue Milestone Tasks in AWS IT,NEPSKey
+neps0968,NEPS-968,VSS Missing Attachments in AWS IT,NEPSKey
+neps0969,NEPS-969,Pentaho's Interactive Report: Export Feature Not Working,NEPSKey
+neps0970,NEPS-970,Cannot run external validation on award with line items associated clauses,NEPSKey
+neps0971,NEPS-971,PDS Export incorrectly including MILSTRIP ReferenceValue data for non-MILSTRIP contracts,NEPSKey
+neps0972,NEPS-972,Copy With Options Functionality does not Copy Accounting/Delivery Information on copied Sub Lines,NEPSKey
+neps0973,NEPS-973,DODAAC not copying over for the Office Addresses,NEPSKey
+neps0974,NEPS-974,PDS Export: Pricing Arrangement Being Exported on both Separately Identified SLIN and Priced ELIN associated with the SLIN,NEPSKey
+neps0975,NEPS-975,PDS Export: RangeOrThresholdDiscounts/DiscountStructure is required but not exported when Stepladder/QPB is provided,NEPSKey
+neps0976,NEPS-976,PDS export missing limits on IDV (D type contract),NEPSKey
+neps0977,NEPS-977,Modification cannot be extracted for PDS validation,NEPSKey
+neps0978,NEPS-978,PDS Export: Class mapping not found by map-id error returned for exported Orders,NEPSKey
+neps0980,NEPS-980,"Significant time was spent setting up pre-conditions. Multiple redlines throughout Test Procedure to correct steps. VSS was not available, so this test case should not have been chosen. Did not complete this test.;",NEPSKey
+neps0981,NEPS-981,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00377.1,NEPSKey
+neps0982,NEPS-982,Contract Closeout  required data missing,NEPSKey
+neps0983,NEPS-983,ePS Virtual IT Interfaces: Navy ePS Interface to SAM Contract Opportunities and FPDS-NG - TC03737-1,NEPSKey
+neps0984,NEPS-984,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00378,NEPSKey
+neps0985,NEPS-985,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00379,NEPSKey
+neps0986,NEPS-986,ePS Virtual IT - EDA and MOCAS - TC00662.1,NEPSKey
+neps0987,NEPS-987,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00380.1,NEPSKey
+neps0988,NEPS-988,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00380.3,NEPSKey
+neps0989,NEPS-989,ePS Virtual IT Interfaces: Navy ERP to Navy ePS Interface - TC00380.2,NEPSKey
+neps0990,NEPS-990,ePS Virtual IT Failed Not Tested - Vivi - TC00400.1_004,NEPSKey
+neps0991,NEPS-991,Interface Team Comment - TC00380.1 TC00378.1 TC00377.3 TC00332.1 TC00378.1 TC00379.1 TC00380.1 TC00662.1 TC00726.1 TC00727.1 TC03223.1 TC03737.2,NEPSKey
+neps0992,NEPS-992,Interface Team Comment - TC00332.1 TC00377.1 TC00377.1 TC00378.1 TC00377.3 TC00378.1 TC00379.1 TC00380.1 TC00439.1 TC00726.1 TC00727.1 TC03223.1,NEPSKey
+neps0993,NEPS-993,Interface Team Comment - TC00379.1 TC00377.1 TC00378.1 TC00377.3 TC00439.1 TC00726.1 TC00727.1 TC03223.1,NEPSKey
+neps0994,NEPS-994,IT Daily Report,NEPSKey
+neps0995,NEPS-995,"Retest MOCAS, new data set required",NEPSKey
+neps0996,NEPS-996,ePS Virtual IT - Miscellaneous Function - TC005.2_010,NEPSKey
+neps0997,NEPS-997,ePS Virtual IT Failed Not Tested / Misc Functional - TC00100.6_005,NEPSKey
+neps0999,NEPS-999,AWS IT Solicitation SAM Contract Opps and VSS transmission errors,NEPSKey
+neps1000,NEPS-1000,Second Concurrent Modification Stuck in 'Held' status,NEPSKey
+neps1001,NEPS-1001,PDS export - Ordering Period on IDV,NEPSKey
+neps1002,NEPS-1002,Update TC00377.3 per IT Observations.,NEPSKey
+neps1003,NEPS-1003,Update TC00378.1 per IT Observations.,NEPSKey
+neps1004,NEPS-1004,Update TC00726.1 per IT Observations.,NEPSKey
+neps1005,NEPS-1005,Incorrect credentials associated with user.,NEPSKey
+neps1006,NEPS-1006,Navy ERP inbound PR test scripts (TC00377.x),NEPSKey
+neps1007,NEPS-1007,Resubmit PR transaction after it has been approved.,NEPSKey
+neps1008,NEPS-1008,Funds Check External Validations Stuck in Process,NEPSKey
+neps1009,NEPS-1009,Increase funding amount to match cost amount,NEPSKey
+neps1010,NEPS-1010,Roles and permissions appear to be improperly configured.,NEPSKey
+neps1011,NEPS-1011,Many requirements removed from updated test case,NEPSKey
+neps1018,NEPS-1018,HS1 - User ACK - Missing Revision Data Element,NEPSKey
+neps1019,NEPS-1019,HS1 ACK 2 (system ACK) - Revision number is incorrect,NEPSKey
+neps1020,NEPS-1020,Credit Card # - Last 6 Digits: Dropping Leading Zeros,NEPSKey
+neps1021,NEPS-1021,IT05 - Badly formed test case 1 PRDS XML not being logged in ESB and no response sent,NEPSKey
+neps1022,NEPS-1022,IT07 - HS3 Contract Award missing the Signature Date,NEPSKey
+neps1023,NEPS-1023,PDS Export: Clause Fillins map both the value and the tag to insert fillins,NEPSKey
+neps1026,NEPS-1026,PR Amendment Failing - AS0067E Database request Error,NEPSKey
+neps1027,NEPS-1027,PRDS/PDS Export: Remove AQ0012E PDS edit,NEPSKey
+neps1029,NEPS-1029,Re-directed to User Login Page when Accessing Pega after logging into ePS via SSO,NEPSKey
+neps1032,NEPS-1032,"Test Case updates for ESE-01, ESE-02 and ESE-03",NEPSKey
+neps1039,NEPS-1039,Question Regarding vulnerability in Momentum online help around XSS,NEPSKey
+neps1040,NEPS-1040,Improve handling of src parameter to mapping.jsp,NEPSKey
+neps1041,NEPS-1041,Improve handling of executableName field on BatchJob class,NEPSKey
+neps1042,NEPS-1042,Remove the ClearCaches.jsp from the ePS momex deploy,NEPSKey
+neps1043,NEPS-1043,Change admin console default passwords,NEPSKey
+neps1044,NEPS-1044,New security roles based on DPC profiles,NEPSKey
+neps1047,NEPS-1047,(Adapter Service) error arises when executing PDS and FC External System Validation,NEPSKey
+neps1049,NEPS-1049,Refresh of AWS IT Environment with Day 1 Configuration,NEPSKey
+neps1051,NEPS-1051,Update 2 - EVF response processing success/failure,NEPSKey
+neps1052,NEPS-1052,Build 1.023 Release - 09/28/2020,NEPSKey
+neps1053,NEPS-1053,Build 1.022 Release - 09/23/2020,NEPSKey
+neps1054,NEPS-1054,Build 1.021 Release - 09/10/2020,NEPSKey
+neps1055,NEPS-1055,Build 1.020 Release - 08/24/2020,NEPSKey
+neps1057,NEPS-1057,Build 1.019 Release - 08/12/2020,NEPSKey
+neps1058,NEPS-1058,Build 1.018 Release - 08/05/2020,NEPSKey
+neps1059,NEPS-1059,Build 1.017 Release - 08/04/2020,NEPSKey
+neps1060,NEPS-1060,Build 1.016 Release - 07/16/2020,NEPSKey
+neps1061,NEPS-1061,Build 1.015 Release - 07/10/2020,NEPSKey
+neps1062,NEPS-1062,Build 1.014 Release - 06/30/2020,NEPSKey
+neps1063,NEPS-1063,Build 1.013 Release - 06/24/2020,NEPSKey
+neps1064,NEPS-1064,Build 1.012 Release - 06/12/2020,NEPSKey
+neps1065,NEPS-1065,Build 1.011 Release - 06/08/2020,NEPSKey
+neps1066,NEPS-1066,Build 1.010 Release - 05/31/2020,NEPSKey
+neps1067,NEPS-1067,Build 1.009 Release - 05/21/2020,NEPSKey
+neps1068,NEPS-1068,Build 1.008 Release - 05/19/2020,NEPSKey
+neps1071,NEPS-1071,Build 1.024 Release - 10/13/2020,NEPSKey
+neps1075,NEPS-1075,JA Announcements are not transmitting Attachments to Alpha.SAM.gov,NEPSKey
+neps1076,NEPS-1076,Attachment Not Transmitting to SAM.gov Due to Size Limitation,NEPSKey
+neps1079,NEPS-1079,Test requirements IFP-07 and IFP-08.,NEPSKey
+neps1080,NEPS-1080,Build 1.025 Release - 10/20/2020,NEPSKey
+neps1081,NEPS-1081,eSign does not generate for SBCR DD2579 Form,NEPSKey
+neps1082,NEPS-1082,Awards sent from ePS passing PDS Validation but failing to post in EDA,NEPSKey
+neps1106,NEPS-1106,PRDS/PDS: Support CAGE/DUNS Organization ID Mappings for Address Types other than Contractor,NEPSKey
+neps1134,NEPS-1134,FPDS-NG not authorized to login via web portal error,NEPSKey
+neps1135,NEPS-1135,CROSSOVER custom field to PDS Export,NEPSKey
+neps1151,NEPS-1151,"Approval history does not update when the user changes the document number (SME-12, SMR-148, SMR-149)",NEPSKey
+neps1152,NEPS-1152,Error When Attempting to Launch Pentaho in AWS-IT using SSO,NEPSKey
+neps1153,NEPS-1153,Conformed Copy PDF Printing Not Working,NEPSKey
+neps1154,NEPS-1154,Attachment driven Task/Milestone associated to CCF through Workload-Assignment tasks do not update to complete,NEPSKey
+neps1157,NEPS-1157,Performance Test SRS 5.1.2,NEPSKey
+neps1158,NEPS-1158,"Server Error AS0087E Error at file ""momxml"", line 1, column 829 Message: Expected whitespace",NEPSKey
+neps1159,NEPS-1159,Could not view contract file,NEPSKey
+neps1160,NEPS-1160,SAM external validation message for SBA Certified 8a Program Participant Vendors,NEPSKey
+neps1161,NEPS-1161,Loss of Internet connectivity,NEPSKey
+neps1162,NEPS-1162,External PRDS Validation Error. Error codes LF12 and GN06,NEPSKey
+neps1163,NEPS-1163,A002 Create Contract File Start and End Dates for various CCF elements,NEPSKey
+neps1164,NEPS-1164,External PRDS Validation Error,NEPSKey
+neps1165,NEPS-1165,Attachments added to transaction remains In Progress status,NEPSKey
+neps1166,NEPS-1166,Reivew Supply/Service field for CLINs on PDF print-out,NEPSKey
+neps1167,NEPS-1167,Could not view PRM from Manage Workload Task,NEPSKey
+neps1168,NEPS-1168,Unable to Verify Terms and Conditions on Solicitation,NEPSKey
+neps1169,NEPS-1169,HS2 Validation Error for non-FFP lines,NEPSKey
+neps1170,NEPS-1170,Funding PR Approval Task form still in process by the Integration User,NEPSKey
+neps1172,NEPS-1172,Incorrect serviceOriginatorID sets FPDS CAR Log Status as D instead of F within Momentum on processed FPDS Award or IDV document,NEPSKey
+neps1173,NEPS-1173,Setting up archiving of webMethods DB,NEPSKey
+neps1174,NEPS-1174,Print Preview and Creating Solicitation Notice repeatedly being hung up,NEPSKey
+neps1175,NEPS-1175,W003 Document Approval Reviewed to send to KO and sent it back,NEPSKey
+neps1176,NEPS-1176,Milestone status not automatically updating,NEPSKey
+neps1177,NEPS-1177,FPDS rrrors resolving NAICS code.,NEPSKey
+neps1178,NEPS-1178,PDS validation errors were received due to missing clauses,NEPSKey
+neps1179,NEPS-1179,"Pending PR approval task encountered, form still in process",NEPSKey
+neps1180,NEPS-1180,Solicitation remains stuck in pending approval status after approval was applied by Contracting Officer user,NEPSKey
+neps1181,NEPS-1181,Solicitation remains stuck in pending approval status after approval was applied by Contracting Officer user,NEPSKey
+neps1182,NEPS-1182,Funding at CLIN level for a line with Informational Sublines,NEPSKey
+neps1183,NEPS-1183,Issue 'viewing Award Requisition' from the Workload Notebook task,NEPSKey
+neps1184,NEPS-1184,System Error when funding at the CLIN level on a transaction containing a non - funded informational SLIN doubling its calculations of the funded amount,NEPSKey
+neps1185,NEPS-1185,SOAP UI Error Encountered when Approving Pega SBCR Forms if Review/Approve Task is Acquired by Reviewer,NEPSKey
+neps1186,NEPS-1186,PSC Code not being populated at Line Level in Momentum when Ingested,NEPSKey
+neps1187,NEPS-1187,Transmit Purchase Order Modification to FPDS AS0068E Error,NEPSKey
+neps1188,NEPS-1188,AWS VMs use UTC time zone affecting other processes,NEPSKey
+neps1189,NEPS-1189,Line Extended Description Field regarding purpose of transaction could cause major problems,NEPSKey
+neps1190,NEPS-1190,DMS and external ERP attachments,NEPSKey
+neps1191,NEPS-1191,DMS and external ERP attachments,NEPSKey
+neps1192,NEPS-1192,The test script needs to be updated. testing script was different than what was attached in invite.The Manage Office test stated DoDAAD interface has been run or Office record has been manually entered as pre requisite. We don?t have a test instance for D,NEPSKey
+neps1193,NEPS-1193,"E-signature, Page 16 wasn't loading, could not generate a PDF of IDV document after processing.",NEPSKey
+neps1194,NEPS-1194,"Vendor does not have PSC assiged, causing an error in ePS at Award",NEPSKey
+neps1195,NEPS-1195,Received Server Error During PRDS External Validation when Vendor is Populated,NEPSKey
+neps1196,NEPS-1196,B005 View System Updated Milestones System generated Milestones/Tasks were not auto-completing,NEPSKey
+neps1197,NEPS-1197,Do not use this code for contracts or agreements with provisions for orders or calls,NEPSKey
+neps1198,NEPS-1198,CAR not finalizing in EPS,NEPSKey
+neps1199,NEPS-1199,Rendered. pdf file did not generate in IE/Chrome NEPS-957).,NEPSKey
+neps1200,NEPS-1200,DD2579 attachment types did not automatically update status of associated milestones when added to contract file,NEPSKey
+neps1201,NEPS-1201,NEPS-957 Solicitation form was not able to be downloaded successfully once rendered. Form remained on partial download status.,NEPSKey
+neps1202,NEPS-1202,Line Extended Description Field regarding purpose of transaction could cause major problems,NEPSKey
+neps1203,NEPS-1203,Small Business Administration Procurement Center Representative SBA PCR,NEPSKey
+neps1204,NEPS-1204,Small Business Administration Procurement Center Representative SBA PCR,NEPSKey
+neps1205,NEPS-1205,Line Extended Description Field regarding purpose of transaction could cause major problems,NEPSKey
+neps1206,NEPS-1206,Line Extended Description Field regarding purpose of transaction could cause major problems,NEPSKey
+neps1207,NEPS-1207,Calendar Date Maintenance table not pre-loaded,NEPSKey
+neps1208,NEPS-1208,Reentering Office Address Information,NEPSKey
+neps1209,NEPS-1209,Not clear how Combined Synopsis/Solicitation satisfies regulatory and Navy ePS audit and functional requirement,NEPSKey
+neps1210,NEPS-1210,Need to load FY22 calendar dates into ePS environments,NEPSKey
+neps1211,NEPS-1211,HS3 Failure due to code 2031 that message is too large for the queue.,NEPSKey
+neps1212,NEPS-1212,New users unable to view previously submitted ERP PRs,NEPSKey
+neps1213,NEPS-1213,Solicitation Amendment issues with printing additional items in the Summary of Changes,NEPSKey
+neps1214,NEPS-1214,Manage Principals,NEPSKey
+neps1215,NEPS-1215,System-driven milestones for draft SOW and CDRL attachment not being updated to complete status,NEPSKey
+neps1216,NEPS-1216,Error occurred when attaching CDRL to Solicitation,NEPSKey
+neps1217,NEPS-1217,ePS does not enforce minimum data elements to be included on contract completion statements. Inclusion of required information left to user's discretion. This on 7,NEPSKey
+neps1218,NEPS-1218,"No discrete closeout action e.g. signing of 1594 was demonstrated. Attempts to display this capability after test were stopped due to network latency issues, which prevented re-rendering of 1594. PDF was eventually displayed. NMCI ticket was opened. Can b",NEPSKey
+neps1219,NEPS-1219,Method of Solicitation field was not sent with XSO,NEPSKey
+neps1220,NEPS-1220,External System validations for PDS Validations and SAM Web Service Validation,NEPSKey
+neps1221,NEPS-1221,PDS_FC_QA external validation response not received from Navy ERP due to closed PR or invalid vendor payment terms,NEPSKey
+neps1222,NEPS-1222,Jackrabbit Error in AWS IT,NEPSKey
+neps1223,NEPS-1223,SOL Review Form Tasks are not being sent to the reviewers inboxes,NEPSKey
+neps1224,NEPS-1224,"PDS ESV status remains in ""In Progress"" status",NEPSKey
+neps1225,NEPS-1225,Unexercised option Fee amounts  not reflected in Total Contract Value of Award Announcement,NEPSKey
+neps1226,NEPS-1226,Did not receive Pre Award Funds Check Validation from N-ERP. NEPS 1221 open to track issue.,NEPSKey
+neps1227,NEPS-1227,AUDIT002.27 through AUDIT002.42,NEPSKey
+neps1228,NEPS-1228,AUDIT002.69,NEPSKey
+neps1229,NEPS-1229,AUDIT002.70,NEPSKey
+neps1230,NEPS-1230,AUDIT002.10,NEPSKey
+neps1231,NEPS-1231,AUDIT002.16,NEPSKey
+neps1232,NEPS-1232,AUDIT002,NEPSKey
+neps1233,NEPS-1233,AUDIT002.11,NEPSKey
+neps1234,NEPS-1234,Credentials didn't exist for updated DODAAC,NEPSKey
+neps1235,NEPS-1235,Review Workflow task were not generated and assigned to reviewers,NEPSKey
+neps1236,NEPS-1236,Milestone status is not saving automatically within Contract File,NEPSKey
+neps1237,NEPS-1237,Transactions stuck in process status due to Milestones,NEPSKey
+neps1238,NEPS-1238,SSO not available,NEPSKey
+neps1239,NEPS-1239,HS2 response not received for Award citing migrated PR,NEPSKey
+neps1240,NEPS-1240,Set User Idle Time to 15 Minutes,NEPSKey
+neps1241,NEPS-1241,Summary of Changes always includes Clauses loaded in via PDS Import as Procurement-Specific,NEPSKey
+neps1242,NEPS-1242,Receiving Stack Trace Errors when printing MODs to XAW migrated awards,NEPSKey
+neps1243,NEPS-1243,Summary of Changes always includes Accounting Dimensions in list of changed values for Entity-Suppressed Funds,NEPSKey
+neps1244,NEPS-1244,PDS and PDS Funds Check Vallidation remain In Progress status,NEPSKey
+neps1245,NEPS-1245,Problems with reviewing task,NEPSKey
+neps1246,NEPS-1246,"PDS External validation, clauses related solicitation migration",NEPSKey
+neps1247,NEPS-1247,Audit003.01: AU-2.1 CCI 000123,NEPSKey
+neps1248,NEPS-1248,Audit003.01: AU-2.1 CCI 000123,NEPSKey
+neps1249,NEPS-1249,Audit003.01: AU-3,NEPSKey
+neps1250,NEPS-1250,Audit005 SI-10,NEPSKey
+neps1251,NEPS-1251,Audit005 SI-10.2,NEPSKey
+neps1252,NEPS-1252,Audit003.08 AC-11.1,NEPSKey
+neps1253,NEPS-1253,Audit003.08 AC-11.2,NEPSKey
+neps1254,NEPS-1254,Audit003.08 AC-11(1).1,NEPSKey
+neps1255,NEPS-1255,Audit003.09 AC-12.2,NEPSKey
+neps1256,NEPS-1256,Audit003.09 AC-12.2,NEPSKey
+neps1257,NEPS-1257,Missing Automatic Notifications,NEPSKey
+neps1258,NEPS-1258,Audit003.10,NEPSKey
+neps1259,NEPS-1259,Audit003.11,NEPSKey
+neps1260,NEPS-1260,Audit003.11,NEPSKey
+neps1261,NEPS-1261,Audit003.12,NEPSKey
+neps1262,NEPS-1262,Audit003.13,NEPSKey
+neps1263,NEPS-1263,SRS 5.2.4.3,NEPSKey
+neps1264,NEPS-1264,PDS Export Server Error,NEPSKey
+neps1265,NEPS-1265,PDS_FC_QA error in AWS IT,NEPSKey
+neps1277,NEPS-1277,SSO link displays username and password fields to log into Navy ePS,NEPSKey
+neps1278,NEPS-1278,PDS Modification Export: BusinessClassificationChangeText element is not produced,NEPSKey
+neps1279,NEPS-1279,"Migrated documents, Claimant Program Code was not populated",NEPSKey
+neps1280,NEPS-1280,DD 1594 incomplete and system shows as complete,NEPSKey
+neps1281,NEPS-1281,HS2 validation error occurred due to interface not finding a matching PO Line Item for the CLIN/SLIN combination,NEPSKey
+neps1282,NEPS-1282,PDS Import: Mapping Logic for Claimant Program Code,NEPSKey
+neps1294,NEPS-1294,FPDS CAR not Finalizing on AWD Modification,NEPSKey
+neps1295,NEPS-1295,Tester did not demonstrate closeout went to EDA while performing a contract closeout test. I think that test script defect.,NEPSKey
+neps1296,NEPS-1296,Test case was not executed and marked as ed due to known defect NEPST-3576 with concurrent sessions Security Control AC-10.,NEPSKey
+neps1297,NEPS-1297,"Test Script Defect. Steps showed using an outdated user role. PRI 4 Test Script defect. Test case marked as pending, while CGI investigates correct user role to be used to demonstrate compliance with Security Control AC-2.3",NEPSKey
+neps1298,NEPS-1298,System does not enforce inclusion of minimum data elements on 1594,NEPSKey
+neps1299,NEPS-1299,PRDS/PDS Validation error,NEPSKey
+neps1300,NEPS-1300,CAR did not finallize in FPDS,NEPSKey
+neps1301,NEPS-1301,CAR did not finallize in FPDS,NEPSKey
+neps1302,NEPS-1302,CAR did not finallize in FPDS,NEPSKey
+neps1303,NEPS-1303,HS2 Validation error occurred due to interface not finding a match PO Line Item,NEPSKey
+neps1304,NEPS-1304,"Migrated documents, Claimant Program Code was not populated",NEPSKey
+neps1305,NEPS-1305,Conformed copy of Processed Award contained a draft watermark,NEPSKey
+neps1306,NEPS-1306,"Migrated documents, Claimant Program Code was not populated",NEPSKey
+neps1307,NEPS-1307,Half of line items did not collectively change to Terminated when processed,NEPSKey
+neps1308,NEPS-1308,Ad Hoc Routing Review Form Task did not automatically route to General Counsel/Legal for review. Tester was able to route to GCL by ad hoc means.,NEPSKey
+neps1309,NEPS-1309,KO role not having proper authority to award document.,NEPSKey
+neps1310,NEPS-1310,"Migrated award has Product Service Code PSC populated for informational lines, which conflicts with relationship edit",NEPSKey
+neps1311,NEPS-1311,Tester did not demonstrate closeout went to EDA while performing a contract closeout test. I think that test script defect.,NEPSKey
+neps1312,NEPS-1312,Test case was not executed and marked as ed due to known defect NEPST-3576 with concurrent sessions Security Control AC-10.,NEPSKey
+neps1313,NEPS-1313,"Test Script Defect. Steps showed using an outdated user role. PRI 4 Test Script defect. Test case marked as pending, while CGI investigates correct user role to be used to demonstrate compliance with Security Control AC-2.3",NEPSKey
+neps1314,NEPS-1314,System does not enforce inclusion of minimum data elements on 1594,NEPSKey
+neps1315,NEPS-1315,PRDS/PDS Validation error,NEPSKey
+neps1316,NEPS-1316,CAR did not finallize in FPDS,NEPSKey
+neps1317,NEPS-1317,CAR did not finallize in FPDS,NEPSKey
+neps1318,NEPS-1318,CAR did not finallize in FPDS,NEPSKey
+neps1319,NEPS-1319,HS2 Validation error occurred due to interface not finding a match PO Line Item,NEPSKey
+neps1320,NEPS-1320,Draft CAR not added to FPDS CAR log in ePS,NEPSKey
+neps1321,NEPS-1321,Conformed copy of Processed Award contained a draft watermark,NEPSKey
+neps1322,NEPS-1322,Draft CAR not added to FPDS CAR log in ePS,NEPSKey
+neps1323,NEPS-1323,Half of line items did not collectively change to Terminated when processed,NEPSKey
+neps1324,NEPS-1324,Ad Hoc Routing Action did not automatically route to General Counsel/Legal for review. Tester was able to route to GCL by ad hoc means.,NEPSKey
+neps1325,NEPS-1325,KO role not having proper authority to award document.,NEPSKey
+neps1326,NEPS-1326,"Migrated award has Product Service Code PSC populated for informational lines, which conflicts with relationship edit",NEPSKey
+neps1327,NEPS-1327,PDS Validations PSC code being expired,NEPSKey
+neps1328,NEPS-1328,Issue #2 was related to Vendor information not matching Vendor information from 2018 base. This already being tracked on NEPS-1278. We worked around this error by updating vendor information on header to match information from base.,NEPSKey
+neps1329,NEPS-1329,PRDS/PDS NERP Validation PO does not have an outstanding amount in NERP,NEPSKey
+neps1330,NEPS-1330,PDS_V_QA error on Migrated Award Modification,NEPSKey
+neps1332,NEPS-1332,P Modification number assigned to contract action (P00003) had already be assigned to a separate contract action for this award in FPDS-NG,NEPSKey
+neps1333,NEPS-1333,Conformed Copy Print Out still includes Draft Watermark,NEPSKey
+neps1334,NEPS-1334,Add Original CIN to Supplemental Text Printed in Continuation Pages to the SF30 Form for Incremental Funding Scenarios,NEPSKey
+neps1335,NEPS-1335,"Existing Award modified by reducing two CLINs with same funding ACRN AA). CLIN 0001 increased by $100 and CLIN 0002 reduced by $100, creating a obligation change at line item level but a net zero change at funding ACRN level.",NEPSKey
+neps1336,NEPS-1336,CAE-18 requirement cannot be demonstrated,NEPSKey
+neps1337,NEPS-1337,AUDIT002.02 Original KO in the SBCR,NEPSKey
+neps1338,NEPS-1338,"C002 1. Based on updated security classification marking guidance, security classification markings displayed on screens in ePS need to be updated from Unclassified FOUO to CUI in accordance with updated security classification guidance.",NEPSKey
+neps1339,NEPS-1339,CAR not finalizing in EPS,NEPSKey
+neps1340,NEPS-1340,Workaround Production environment will be configured with additional resources,NEPSKey
+neps1341,NEPS-1341,"SRS 5.1.3 Test Case 3, 4, 6, and 8",NEPSKey
+neps1342,NEPS-1342,SRS 5.2.1 Test Case 4,NEPSKey
+neps1343,NEPS-1343,Blocked Tests - HEAT Ticket #100291574,NEPSKey
+neps1344,NEPS-1344,INTINSTALL003 ESE-13,NEPSKey
+neps1345,NEPS-1345,DR001/SRS 5.2.2 Disaster Recovery Test - Created an ID in the Primary System,NEPSKey
+neps1347,NEPS-1347,Printable Version of the FPDS CAR PDF is not Uploading,NEPSKey
+neps1349,NEPS-1349,FPDS tab displayed. CAR in Final status,NEPSKey
+neps1351,NEPS-1351,Header Delivery Date information not properly populated on migrated award,NEPSKey
+neps1352,NEPS-1352,FPDS reconciliation error due to Type of Contract,NEPSKey
+neps1353,NEPS-1353,Header Delivery Date exists in XML but is not mapped on Migrated Documents,NEPSKey
+neps1354,NEPS-1354,FPDS-NG External Validation Error for Type of Contract Change on Migrated Award Modifications,NEPSKey
+neps1355,NEPS-1355,AUDIT002.79 - Configuration Manager (N/A),NEPSKey
+neps1356,NEPS-1356,AUDIT002.80 - HCA Drop Box User (N/A),NEPSKey
+neps1357,NEPS-1357,AUDIT002.81 - Developer (N/A),NEPSKey
+neps1358,NEPS-1358,"AUDIT003.14 - FM Overlay IA-7, FISCAM AC-2",NEPSKey
+neps1359,NEPS-1359,"System Availability Requires a further discussion with Navy, really a production measure. CGI to provide a spreadsheet of AWS-IT system availiablity.",NEPSKey
+neps1360,NEPS-1360,The system shall have capability to provide computing performance metrics on transaction processing throughput capacity for all platforms and system environments on which application certified. Waiting on NAVAIR to install additional CloudWatch monitors a,NEPSKey
+neps1361,NEPS-1361,CloudWatch monitors ,NEPSKey
+neps1362,NEPS-1362,"SRS 3.2.3 - TEF-29, TEF-29.01, TEF-29.02, TOP-09, TOP-18; TC10000.1_001 - TOP-11",NEPSKey
+neps1364,NEPS-1364,Build 1.026 Release - 11/02/2020,NEPSKey
+neps1365,NEPS-1365,Build 1.027 Release - 11/17/2020,NEPSKey
+neps1366,NEPS-1366,Build 1.028 Release - 11/24/2020,NEPSKey
+neps1367,NEPS-1367,Build 1.029 Release - 12/04/2020,NEPSKey
+neps1368,NEPS-1368,Build 1.030 Release - 12/11/2020,NEPSKey
+neps1369,NEPS-1369,Build 1.031 Release - 12/18/2020,NEPSKey
+neps1370,NEPS-1370,Build 1.032 Release - 01/04/2021,NEPSKey
+neps1371,NEPS-1371,Unexercised option fee amount is not reflected in the Total Contract Value when copying forward a QA to QN,NEPSKey
+neps1380,NEPS-1380,SAM Entity - Retrive Vendor Data via API,NEPSKey
+neps1386,NEPS-1386,Build 1.033 Release - 01/11/2021,NEPSKey
+neps1387,NEPS-1387,B005 View System Updated Milestones Attachments added but did not Complete,NEPSKey
+neps1388,NEPS-1388,TC30030_01 X004 Maintain CCF Tested and ed. Observed by Linton McCracken.,NEPSKey
+neps1389,NEPS-1389,ECF does not appear in search results for Milestone Report,NEPSKey
+neps1393,NEPS-1393,IT01 - ERP Unable to transmit over MQ when SSL turned on,NEPSKey
+neps1394,NEPS-1394,ePS Virtual IT - Failed Not Tested/Misc Functional,NEPSKey
+neps1395,NEPS-1395,JA Announcements are not transmitting Attachments to Alpha.SAM.gov/Attachment Not Transmitting to SAM.gov Due to Size Limitation,NEPSKey
+neps1396,NEPS-1396,"Approval history does not update when the user changes the document number (SME-12, SMR-148, SMR-149)",NEPSKey
+neps1398,NEPS-1398,AWS IT SAM Data Source Inconsistency - SAM RTVQ Validation Performed against alpha SAM test site,NEPSKey
+neps1399,NEPS-1399,SF1442 CSI Format - Funding info not transmitting to PDF of AWD/AWD mods,NEPSKey
+neps1415,NEPS-1415,ESE-06 Untestable in LD,NEPSKey
+neps1416,NEPS-1416,ESE-06.01 Untestable in LD,NEPSKey
+neps1417,NEPS-1417,ESE-09 Untestable in LD,NEPSKey
+neps1418,NEPS-1418,ESE-12 Untestable in LD,NEPSKey
+neps1419,NEPS-1419,ESE-15 Untestable in LD,NEPSKey
+neps1420,NEPS-1420,ESE-15.01 Untestable in LD,NEPSKey
+neps1421,NEPS-1421,ESE-15.02 Untestable in LD,NEPSKey
+neps1422,NEPS-1422,ESE-15.03 Untestable in LD,NEPSKey
+neps1423,NEPS-1423,ESE-15.04 Untestable in LD,NEPSKey
+neps1424,NEPS-1424,ESE-15.05 Untestable in LD,NEPSKey
+neps1425,NEPS-1425,ESE-15.07 Untestable in LD,NEPSKey
+neps1426,NEPS-1426,ESE-15.08 Untestable in LD,NEPSKey
+neps1427,NEPS-1427,ESE-15.09 Untestable in LD,NEPSKey
+neps1428,NEPS-1428,ESE-16 Untestable in LD,NEPSKey
+neps1429,NEPS-1429,ESE-16.01 Untestable in LD,NEPSKey
+neps1430,NEPS-1430,ESE-16.02 Untestable in LD,NEPSKey
+neps1431,NEPS-1431,ESE-16.03 Untestable in LD,NEPSKey
+neps1432,NEPS-1432,ESE-16.05 Untestable in LD,NEPSKey
+neps1433,NEPS-1433,ESE-16.05.01 Untestable in LD,NEPSKey
+neps1434,NEPS-1434,ESE-16.07 Untestable in LD,NEPSKey
+neps1435,NEPS-1435,ESE-16.07.01 Untestable in LD,NEPSKey
+neps1436,NEPS-1436,ESE-16.08 Untestable in LD,NEPSKey
+neps1437,NEPS-1437,ESE-16.09 Untestable in LD,NEPSKey
+neps1438,NEPS-1438,ESE-16.10 Untestable in LD,NEPSKey
+neps1439,NEPS-1439,ESE-16.11 Untestable in LD,NEPSKey
+neps1440,NEPS-1440,ESE-16.12 Untestable in LD,NEPSKey
+neps1441,NEPS-1441,ESE-16.12.01 Untestable in LD,NEPSKey
+neps1442,NEPS-1442,ESE-16.13 Untestable in LD,NEPSKey
+neps1443,NEPS-1443,ESE-17.04 Untestable in LD,NEPSKey
+neps1444,NEPS-1444,ESE-18 Untestable in LD,NEPSKey
+neps1445,NEPS-1445,ESE-18.01 Untestable in LD,NEPSKey
+neps1446,NEPS-1446,ESE-18.02 Untestable in LD,NEPSKey
+neps1447,NEPS-1447,ESE-18.03 Untestable in LD,NEPSKey
+neps1448,NEPS-1448,ESE-18.04 Untestable in LD,NEPSKey
+neps1449,NEPS-1449,ESE-18.06 Untestable in LD,NEPSKey
+neps1450,NEPS-1450,ESE-19 Untestable in LD,NEPSKey
+neps1451,NEPS-1451,ESE-19.01 Untestable in LD,NEPSKey
+neps1452,NEPS-1452,ESE-19.02 Untestable in LD,NEPSKey
+neps1453,NEPS-1453,ESE-19.03 Untestable in LD,NEPSKey
+neps1454,NEPS-1454,ESE-24 Untestable in LD,NEPSKey
+neps1455,NEPS-1455,ESE-24.01 Untestable in LD,NEPSKey
+neps1456,NEPS-1456,ESE-27 Untestable in LD,NEPSKey
+neps1457,NEPS-1457,ESE-27.01 Untestable in LD,NEPSKey
+neps1458,NEPS-1458,ESE-27.02 Untestable in LD,NEPSKey
+neps1459,NEPS-1459,ESE-28 Untestable in LD,NEPSKey
+neps1460,NEPS-1460,ESE-29 Untestable in LD,NEPSKey
+neps1461,NEPS-1461,ESE-35 Untestable in LD,NEPSKey
+neps1462,NEPS-1462,ESE-36 Untestable in LD,NEPSKey
+neps1463,NEPS-1463,ESF-03 Untestable in LD,NEPSKey
+neps1464,NEPS-1464,ESF-04 Untestable in LD,NEPSKey
+neps1465,NEPS-1465,ESF-05 Untestable in LD,NEPSKey
+neps1466,NEPS-1466,ESF-06 Untestable in LD,NEPSKey
+neps1467,NEPS-1467,ESF-08 Untestable in LD,NEPSKey
+neps1468,NEPS-1468,ICD-06.03 Untestable in LD,NEPSKey
+neps1469,NEPS-1469,ICD-06.04 Untestable in LD,NEPSKey
+neps1470,NEPS-1470,IGX-17 Untestable in LD,NEPSKey
+neps1471,NEPS-1471,IGX-18 Untestable in LD,NEPSKey
+neps1472,NEPS-1472,SAF-03.03 Untestable in LD,NEPSKey
+neps1473,NEPS-1473,SAI-07.04 Untestable in LD,NEPSKey
+neps1474,NEPS-1474,SAI-11 Untestable in LD,NEPSKey
+neps1475,NEPS-1475,SAI-12 Untestable in LD,NEPSKey
+neps1476,NEPS-1476,SAI-13 Untestable in LD,NEPSKey
+neps1477,NEPS-1477,SAI-14 Untestable in LD,NEPSKey
+neps1478,NEPS-1478,DBB-49.01 Untestable in LD,NEPSKey
+neps1479,NEPS-1479,TDR-08 Untestable in LD,NEPSKey
+neps1480,NEPS-1480,Build 1.034 / 1.035 Release - 01/26/21,NEPSKey
+neps1481,NEPS-1481,Build 1.036 Release - 02/02/21,NEPSKey
+neps1483,NEPS-1483,DBB-06 Untestable in LD,NEPSKey
+neps1484,NEPS-1484,ESE-40 Untestable in LD,NEPSKey
+neps1485,NEPS-1485,Build 1.037 Release - 02/10/21,NEPSKey
+neps1486,NEPS-1486,Build 1.038 Release - 02/12/21,NEPSKey
+neps1489,NEPS-1489,Firefox browser not working,NEPSKey
+neps1499,NEPS-1499,MARCOR-Dry Run TC-2,NEPSKey
+neps1500,NEPS-1500,MARCOR-Dry Run TC-5,NEPSKey
+neps1501,NEPS-1501,MARCOR-Dry Run TC-1,NEPSKey
+neps1502,NEPS-1502,NAVSEA Dry Run TC,NEPSKey
+neps1503,NEPS-1503,NAVSEA Dry Run TC,NEPSKey
+neps1504,NEPS-1504,NAVSEA Dry Run TC,NEPSKey
+neps1505,NEPS-1505,NAVSEA Dry Run TC,NEPSKey
+neps1506,NEPS-1506,PCO should have ability to create PRP,NEPSKey
+neps1507,NEPS-1507,Requiring ECF on Solicitations/Awards,NEPSKey
+neps1508,NEPS-1508,NAVSEA Dry Run TC,NEPSKey
+neps1509,NEPS-1509,HQMC Dry Run TC Execution,NEPSKey
+neps1510,NEPS-1510,HQMC Dry Run TC Execution,NEPSKey
+neps1511,NEPS-1511,HQMC Dry Run TC Execution,NEPSKey
+neps1512,NEPS-1512,HQMC Dry Run TC Execution,NEPSKey
+neps1513,NEPS-1513,HQMC Dry Run TC Execution,NEPSKey
+neps1514,NEPS-1514,MARCOR TC-01-01-01,NEPSKey
+neps1515,NEPS-1515,MARCOR-TC-01-02 and MARCOR-TC-01-03,NEPSKey
+neps1516,NEPS-1516,MARCOR-TC-01,NEPSKey
+neps1517,NEPS-1517,NAVSUP TC01,NEPSKey
+neps1518,NEPS-1518,NAVSUP TC01,NEPSKey
+neps1519,NEPS-1519,NAVSUP TC01,NEPSKey
+neps1520,NEPS-1520,NAVSUP TC01,NEPSKey
+neps1521,NEPS-1521,NAVSUP TC01,NEPSKey
+neps1522,NEPS-1522,NAVSUP TC01,NEPSKey
+neps1523,NEPS-1523,NAVSUP TC01,NEPSKey
+neps1524,NEPS-1524,NAVSUP TC01,NEPSKey
+neps1525,NEPS-1525,NAVSUP TC01,NEPSKey
+neps1526,NEPS-1526,NAVSUP TC01,NEPSKey
+neps1527,NEPS-1527,NAVSUP TC01,NEPSKey
+neps1528,NEPS-1528,NAVSUP TC01,NEPSKey
+neps1529,NEPS-1529,NAVSUP TC01,NEPSKey
+neps1530,NEPS-1530,NAVSUP TC01,NEPSKey
+neps1531,NEPS-1531,Auto-calculation of Fixed Fee %/Amount,NEPSKey
+neps1532,NEPS-1532,NAVSUP TC01,NEPSKey
+neps1533,NEPS-1533,NAVSUP TC01,NEPSKey
+neps1534,NEPS-1534,NAVSUP TC01,NEPSKey
+neps1535,NEPS-1535,NAVSUP TC01,NEPSKey
+neps1536,NEPS-1536,NAVSUP TC01,NEPSKey
+neps1537,NEPS-1537,NAVSUP TC01,NEPSKey
+neps1538,NEPS-1538,NAVSUP TC01,NEPSKey
+neps1539,NEPS-1539,NAVSUP TC01,NEPSKey
+neps1540,NEPS-1540,NAVSUP TC01,NEPSKey
+neps1541,NEPS-1541,NAVSUP TC01,NEPSKey
+neps1542,NEPS-1542,NAVAIR-TC-01-06,NEPSKey
+neps1543,NEPS-1543,NAVAIR-TC-01-06,NEPSKey
+neps1544,NEPS-1544,NAVAIR-TC-01-06,NEPSKey
+neps1545,NEPS-1545,NAVAIR-TC-01-06,NEPSKey
+neps1546,NEPS-1546,NSWC-TC01-01-02,NEPSKey
+neps1547,NEPS-1547,NSWC-TC01-01-01,NEPSKey
+neps1548,NEPS-1548,NSWC-TC01-01-01,NEPSKey
+neps1549,NEPS-1549,NSWC-TC01-01-01,NEPSKey
+neps1550,NEPS-1550,NSWC-TC01-01-01,NEPSKey
+neps1551,NEPS-1551,NSWC-TC01-01-10,NEPSKey
+neps1552,NEPS-1552,NSWC-TC01-01-10,NEPSKey
+neps1553,NEPS-1553,NSWC-TC01-01-10,NEPSKey
+neps1554,NEPS-1554,NSWC-TC01-01-10,NEPSKey
+neps1555,NEPS-1555,Formatting issues when pasting Microsoft Word text into Clause Text,NEPSKey
+neps1556,NEPS-1556,NSWC-TC01-01-10,NEPSKey
+neps1557,NEPS-1557,NSWC-TC01-01-10,NEPSKey
+neps1558,NEPS-1558,NSWC-TC01-01-10,NEPSKey
+neps1559,NEPS-1559,Fill-ins are identified as being completed by KO even though completed by CS,NEPSKey
+neps1560,NEPS-1560,Add DFARS clauses to OOTB templates,NEPSKey
+neps1561,NEPS-1561,NSWC-TC01-01-10,NEPSKey
+neps1562,NEPS-1562,NSWC-TC01-01-10,NEPSKey
+neps1563,NEPS-1563,NSWC-TC01-01-05,NEPSKey
+neps1564,NEPS-1564,NSWC-TC01-01-10,NEPSKey
+neps1565,NEPS-1565,NSWC-TC01-01-10,NEPSKey
+neps1566,NEPS-1566,NSWC-TC01-01-01,NEPSKey
+neps1567,NEPS-1567,NSWC-TC01-01-10,NEPSKey
+neps1568,NEPS-1568,NAVAIR-TC-01-25,NEPSKey
+neps1569,NEPS-1569,NAVAIR-TC-01-33,NEPSKey
+neps1570,NEPS-1570,NAVSUP TC01,NEPSKey
+neps1571,NEPS-1571,NAVSUP TC01,NEPSKey
+neps1572,NEPS-1572,NAVSUP TC01,NEPSKey
+neps1573,NEPS-1573,NAVSUP TC01,NEPSKey
+neps1574,NEPS-1574,NAVSUP TC01,NEPSKey
+neps1575,NEPS-1575,Use consistent message when indicating Save was successful across system,NEPSKey
+neps1576,NEPS-1576,NAVSUP TC01,NEPSKey
+neps1577,NEPS-1577,NAVSUP TC01,NEPSKey
+neps1578,NEPS-1578,NAVSUP TC01-01-07,NEPSKey
+neps1579,NEPS-1579,NAVSUP TC01-01-08 test 4,NEPSKey
+neps1580,NEPS-1580,NAVSUP TC01-01-09,NEPSKey
+neps1581,NEPS-1581,NAVSUP TC01-01-10,NEPSKey
+neps1582,NEPS-1582,NAVSUP TC01-01-10,NEPSKey
+neps1583,NEPS-1583,Ability to release solicitations at designated future dates,NEPSKey
+neps1584,NEPS-1584,Auto-save or warning of lockout for inactivity,NEPSKey
+neps1585,NEPS-1585,NAVSUP TC01-01-10,NEPSKey
+neps1586,NEPS-1586,NAVSUP TC01-01-10,NEPSKey
+neps1587,NEPS-1587,Sort/Filter Capability on Clauses requiring Fill Ins,NEPSKey
+neps1588,NEPS-1588,Change Logic for indicating when Contracting Officer fill-ins have been completed,NEPSKey
+neps1589,NEPS-1589,NAVSUP TC01-01-10,NEPSKey
+neps1590,NEPS-1590,NAVSUP TC01-01-10,NEPSKey
+neps1591,NEPS-1591,NAVSUP TC01-01-10,NEPSKey
+neps1592,NEPS-1592,NAVSUP TC01-01-10,NEPSKey
+neps1593,NEPS-1593,NAVSUP TC01-01-10,NEPSKey
+neps1594,NEPS-1594,Add ability to display all button options on the screeen,NEPSKey
+neps1595,NEPS-1595,NAVSUP TC01-01-10,NEPSKey
+neps1596,NEPS-1596,PSC Group Grayed out on Announcement but marked as required,NEPSKey
+neps1597,NEPS-1597,Asterisks for Required Offices and ability to infer Header Level Ship To/Place of Performance based on line-level addresses,NEPSKey
+neps1598,NEPS-1598,MARCOR-TC01-01-07,NEPSKey
+neps1599,NEPS-1599,MARCOR-TC01-01-07,NEPSKey
+neps1600,NEPS-1600,MARCOR-TC01-01-08,NEPSKey
+neps1601,NEPS-1601,MARCOR-TC-01-01-09,NEPSKey
+neps1602,NEPS-1602,MARCOR-TC-01-01-10,NEPSKey
+neps1603,NEPS-1603,MARCOR-TC-01-01-11,NEPSKey
+neps1604,NEPS-1604,MARCOR-TC-01-01-12,NEPSKey
+neps1605,NEPS-1605,MARCOR-TC-01-01-13,NEPSKey
+neps1606,NEPS-1606,MARCOR-TC-01-01-13,NEPSKey
+neps1607,NEPS-1607,MARCOR-TC-01-01-14,NEPSKey
+neps1608,NEPS-1608,MARCOR-TC-01-14,NEPSKey
+neps1609,NEPS-1609,MARCOR-TC-01-14,NEPSKey
+neps1610,NEPS-1610,NRL TC_01,NEPSKey
+neps1611,NEPS-1611,NRL TC_01,NEPSKey
+neps1612,NEPS-1612,Header Closing Time increases by 1 hour after save only when the closing date is 3/14/2021,NEPSKey
+neps1613,NEPS-1613,MARCOR-TC01-01-14 through 18,NEPSKey
+neps1614,NEPS-1614,MARCOR-TC01-01-15 through 17,NEPSKey
+neps1615,NEPS-1615,HQMC-TC01-01,NEPSKey
+neps1616,NEPS-1616,MARCOR-TC01-01-14,NEPSKey
+neps1617,NEPS-1617,MARCOR-TC-01-14,NEPSKey
+neps1618,NEPS-1618,NSWC-TC-01-01-20,NEPSKey
+neps1619,NEPS-1619,NSWC-TC-01-01-20,NEPSKey
+neps1620,NEPS-1620,NSWC-TC-01-01-20,NEPSKey
+neps1621,NEPS-1621,NSWC-TC-01-01-20,NEPSKey
+neps1622,NEPS-1622,NSWC-TC-01-01-20,NEPSKey
+neps1623,NEPS-1623,NSWC-TC-01-01-20,NEPSKey
+neps1624,NEPS-1624,Reduce severity of vendor PSC validation message ,NEPSKey
+neps1625,NEPS-1625,NSWC-TC-01-01-20,NEPSKey
+neps1626,NEPS-1626,Display CPIF specific amount data in Section B,NEPSKey
+neps1627,NEPS-1627,Add Price Basis/Cost Constraint Information in Section B,NEPSKey
+neps1628,NEPS-1628,NSWC-TC-01-01-20,NEPSKey
+neps1629,NEPS-1629,NSWC-TC-01-01-20,NEPSKey
+neps1630,NEPS-1630,NSWC-TC-01-01-20,NEPSKey
+neps1631,NEPS-1631,NSWC-TC-01-01-20,NEPSKey
+neps1632,NEPS-1632,NSWC-TC-01-01-20,NEPSKey
+neps1633,NEPS-1633,Fill-in column should not be displayed for By Reference Clauses,NEPSKey
+neps1634,NEPS-1634,NSWC-TC-01-01-20,NEPSKey
+neps1635,NEPS-1635,NSWC-TC-01-01-20,NEPSKey
+neps1636,NEPS-1636,Sort Non-Overridden Errors above Overridden Errors,NEPSKey
+neps1637,NEPS-1637,NSWC-TC-01-01-20,NEPSKey
+neps1638,NEPS-1638,NSWC-TC-02-01-01,NEPSKey
+neps1639,NEPS-1639,"Automatically populate ""The hour and date specified for receipt of Offers is"" field as Extended when the Offer Date has been updated",NEPSKey
+neps1640,NEPS-1640,NAVSUP TC01-TS18,NEPSKey
+neps1641,NEPS-1641,NAVSUP TC01-TS18,NEPSKey
+neps1642,NEPS-1642,NAVSUP TC01-TS18,NEPSKey
+neps1643,NEPS-1643,Link Domestic/Foreign Entity field to Vendor Data,NEPSKey
+neps1644,NEPS-1644,NAVSUP TC01-TS20,NEPSKey
+neps1645,NEPS-1645,NAVSUP TC01-TS20,NEPSKey
+neps1646,NEPS-1646,NAVSUP TC01-TS20,NEPSKey
+neps1648,NEPS-1648,Procurement Specific Text T&Cs should map to Miscellaneous Text Section of the PDS file,NEPSKey
+neps1649,NEPS-1649,NSWC-TC-01-01-20,NEPSKey
+neps1650,NEPS-1650,NSWC-TC-01-01-20,NEPSKey
+neps1651,NEPS-1651,NSWC-TC-01-01-20,NEPSKey
+neps1652,NEPS-1652,NSWC-TC-01-01-20,NEPSKey
+neps1653,NEPS-1653,NSWC-TC-02-01-06,NEPSKey
+neps1654,NEPS-1654,Relax relationship edit requiring Inspection/Acceptance Office POC on Navy ERP PRs,NEPSKey
+neps1655,NEPS-1655,NSWC-TC-02-01-09,NEPSKey
+neps1656,NEPS-1656,NSWC-TC-02-01-09,NEPSKey
+neps1657,NEPS-1657,MARCOR-TC01,NEPSKey
+neps1658,NEPS-1658,MARCOR-TC-01-,NEPSKey
+neps1659,NEPS-1659,Ability to denote when fields are conditionally required,NEPSKey
+neps1660,NEPS-1660,MARCOR-TC-01-,NEPSKey
+neps1661,NEPS-1661,NAVSUP TC01-(N/A),NEPSKey
+neps1662,NEPS-1662,Map Navy ERP Number into Title,NEPSKey
+neps1663,NEPS-1663,"NAVSUP TC01-(Case 2, Seq 11)",NEPSKey
+neps1664,NEPS-1664,NAVFAC TC_04,NEPSKey
+neps1665,NEPS-1665,NAVFAC TC_04,NEPSKey
+neps1666,NEPS-1666,NAVFAC TC_04,NEPSKey
+neps1667,NEPS-1667,NAVFAC TC_04,NEPSKey
+neps1668,NEPS-1668,NAVFAC TC_04,NEPSKey
+neps1669,NEPS-1669,NAVFAC TC_04,NEPSKey
+neps1670,NEPS-1670,Add additional fields to FPDS transmission,NEPSKey
+neps1671,NEPS-1671,NAVFAC TC_04,NEPSKey
+neps1672,NEPS-1672,NAVFAC TC_04,NEPSKey
+neps1673,NEPS-1673,NAVFAC TC_04,NEPSKey
+neps1674,NEPS-1674,NAVFAC TC_04,NEPSKey
+neps1675,NEPS-1675,NAVFAC TC_04,NEPSKey
+neps1676,NEPS-1676,Add additional amount fields in Section B,NEPSKey
+neps1678,NEPS-1678,"NAVSUP TC01-(CS 2, SS12)",NEPSKey
+neps1679,NEPS-1679,HQMC TC01-01-10,NEPSKey
+neps1680,NEPS-1680,HQMC TC01-01-10,NEPSKey
+neps1681,NEPS-1681,HQMC TC02,NEPSKey
+neps1682,NEPS-1682,HQMC TC01-01-10,NEPSKey
+neps1683,NEPS-1683,"NAVSUP TC01-(CS 2, SS12)",NEPSKey
+neps1684,NEPS-1684,"NAVSUP TC01-(CS 2, SS12)",NEPSKey
+neps1685,NEPS-1685,"NAVSUP TC01-(CS 2, SS12)",NEPSKey
+neps1686,NEPS-1686,Clause Sorting/Filtering Capability,NEPSKey
+neps1687,NEPS-1687,"NAVSUP TC01-(CS 2, SS12)",NEPSKey
+neps1688,NEPS-1688,Update system to allow for use of Inspection and Acceptance Office on new Awards,NEPSKey
+neps1689,NEPS-1689,PDS Transmission to EDA - ensure that users required to run EVFs,NEPSKey
+neps1690,NEPS-1690,Print Instructions in Section F,NEPSKey
+neps1691,NEPS-1691,NAVSUP,NEPSKey
+neps1692,NEPS-1692,NAVAIR TC-01-45,NEPSKey
+neps1693,NEPS-1693,NAVAIR TC-01-45,NEPSKey
+neps1694,NEPS-1694,NAVAIR TC-02-13,NEPSKey
+neps1695,NEPS-1695,NAVAIR TC-02-13,NEPSKey
+neps1696,NEPS-1696,NAVAIR TC-02-13,NEPSKey
+neps1697,NEPS-1697,NAVAIR TC-02-13,NEPSKey
+neps1698,NEPS-1698,NAVAIR TC-02-13,NEPSKey
+neps1699,NEPS-1699,Document Referencing Consistency Error Message confusing when Announcement referenced on a Solicitation,NEPSKey
+neps1700,NEPS-1700,NAVWAR UAT,NEPSKey
+neps1701,NEPS-1701,Base/Option Indicator required on Solicitations but not PRs,NEPSKey
+neps1702,NEPS-1702,SSP,NEPSKey
+neps1703,NEPS-1703,SSP,NEPSKey
+neps1704,NEPS-1704,SSP,NEPSKey
+neps1705,NEPS-1705,SSP,NEPSKey
+neps1706,NEPS-1706,SSP,NEPSKey
+neps1707,NEPS-1707,SSP,NEPSKey
+neps1708,NEPS-1708,Add edit to ensure that total contract value is less than or equal to Agreement Ceiling Amount,NEPSKey
+neps1709,NEPS-1709,NSWC-TC-02-01-12,NEPSKey
+neps1710,NEPS-1710,Default Line Level Inspection/Acceptance address information based on Header Address information,NEPSKey
+neps1711,NEPS-1711,NSWC-TC-02-01-09,NEPSKey
+neps1712,NEPS-1712,NSWC-TC-02-01-09,NEPSKey
+neps1713,NEPS-1713,NAVWAR UAT,NEPSKey
+neps1714,NEPS-1714,NAVWAR UAT,NEPSKey
+neps1715,NEPS-1715,NAVWAR UAT,NEPSKey
+neps1716,NEPS-1716,Add additional detail to Section E stylesheets,NEPSKey
+neps1717,NEPS-1717,NAVWAR UAT,NEPSKey
+neps1718,NEPS-1718,ONR NRL,NEPSKey
+neps1719,NEPS-1719,NRL-TC01-01-24,NEPSKey
+neps1720,NEPS-1720,NRL-TC05-01-01,NEPSKey
+neps1721,NEPS-1721,ONR NRL,NEPSKey
+neps1722,NEPS-1722,NRL-TC05-01-01,NEPSKey
+neps1723,NEPS-1723,NRL-TC01-01-29,NEPSKey
+neps1724,NEPS-1724,NRL-TC01-01-29,NEPSKey
+neps1725,NEPS-1725,ONR NRL,NEPSKey
+neps1726,NEPS-1726,NRL-TC05-01-07,NEPSKey
+neps1727,NEPS-1727,NRL-TC05-01-12,NEPSKey
+neps1728,NEPS-1728,NRL-TC05-01-12,NEPSKey
+neps1729,NEPS-1729,NRL-TC05-01-09,NEPSKey
+neps1730,NEPS-1730,Font Size on Standard Forms is too small,NEPSKey
+neps1731,NEPS-1731,NRL-TC05-01-12,NEPSKey
+neps1732,NEPS-1732,NRL-TC05-01-17,NEPSKey
+neps1733,NEPS-1733,HQMC-TC01-01-10,NEPSKey
+neps1734,NEPS-1734,HQMC-TC01-01-10,NEPSKey
+neps1735,NEPS-1735,HQMC-TC01-01-11,NEPSKey
+neps1736,NEPS-1736,HQMC-TC01-01-11,NEPSKey
+neps1737,NEPS-1737,Update Drop Down Selections for Product or Service field,NEPSKey
+neps1738,NEPS-1738,HQMCTC01-01-18,NEPSKey
+neps1739,NEPS-1739,HQMCTC01-01-18,NEPSKey
+neps1740,NEPS-1740,HQMCTC01-01-18,NEPSKey
+neps1741,NEPS-1741,HQMCTC01-01-18,NEPSKey
+neps1742,NEPS-1742,HQMCTC01-01-20,NEPSKey
+neps1743,NEPS-1743,HQMCTC01-01-20,NEPSKey
+neps1744,NEPS-1744,HQMC-TC-01,NEPSKey
+neps1745,NEPS-1745,MARCOR-TC-02-01-18,NEPSKey
+neps1746,NEPS-1746,MARCOR-TC-02-01-18,NEPSKey
+neps1747,NEPS-1747,MARCOR-TC-02-01-20,NEPSKey
+neps1748,NEPS-1748,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1749,NEPS-1749,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1750,NEPS-1750,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1751,NEPS-1751,Attachment PDF should contain Mod # in Attachment Title,NEPSKey
+neps1752,NEPS-1752,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1753,NEPS-1753,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1754,NEPS-1754,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1755,NEPS-1755,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1756,NEPS-1756,"NAVSUP TC01-(CS 3, SS6)",NEPSKey
+neps1757,NEPS-1757,NSWC-TC-02-01-12,NEPSKey
+neps1758,NEPS-1758,NSWC-TC-02-01-12,NEPSKey
+neps1759,NEPS-1759,NSWC-TC-02-01-12,NEPSKey
+neps1760,NEPS-1760,Require Effective Date on T&C table,NEPSKey
+neps1761,NEPS-1761,NSWC-TC-02-01-12,NEPSKey
+neps1762,NEPS-1762,CPIF Not To Exceed Amount should be calculated instead of manually populated,NEPSKey
+neps1763,NEPS-1763,NSWC-TC-02-01-12,NEPSKey
+neps1764,NEPS-1764,NSWC-TC-02-01-12,NEPSKey
+neps1765,NEPS-1765,NSWC-TC-02-01-12,NEPSKey
+neps1766,NEPS-1766,NSWC-TC-02-01-12,NEPSKey
+neps1767,NEPS-1767,Add Not to Exceed Amount to section B for Cost CLINs,NEPSKey
+neps1768,NEPS-1768,NSWC-TC-02-01-12,NEPSKey
+neps1769,NEPS-1769,NSWC-TC-02-01-12,NEPSKey
+neps1770,NEPS-1770,NSWC-TC-02-01-12,NEPSKey
+neps1771,NEPS-1771,NSWC-TC-02-01-12,NEPSKey
+neps1772,NEPS-1772,NSWC-TC-02-01-12,NEPSKey
+neps1773,NEPS-1773,Use of Existing DD2579 Tool/Adding SBP and SBA PCR Signature Workflow into ePS DD2579 Tool,NEPSKey
+neps1774,NEPS-1774,NAVFAC UAT,NEPSKey
+neps1775,NEPS-1775,NAVFAC UAT,NEPSKey
+neps1776,NEPS-1776,NAVFAC UAT,NEPSKey
+neps1777,NEPS-1777,NAVFAC UAT,NEPSKey
+neps1778,NEPS-1778,NAVFAC UAT,NEPSKey
+neps1779,NEPS-1779,NAVFAC UAT,NEPSKey
+neps1780,NEPS-1780,NAVFAC UAT,NEPSKey
+neps1781,NEPS-1781,NAVFAC UAT,NEPSKey
+neps1782,NEPS-1782,NAVFAC UAT,NEPSKey
+neps1783,NEPS-1783,NAVFAC UAT,NEPSKey
+neps1784,NEPS-1784,NAVFAC UAT,NEPSKey
+neps1785,NEPS-1785,NAVFAC UAT,NEPSKey
+neps1786,NEPS-1786,NAVFAC UAT,NEPSKey
+neps1787,NEPS-1787,NAVFAC UAT,NEPSKey
+neps1788,NEPS-1788,NAVFAC UAT,NEPSKey
+neps1789,NEPS-1789,NAVFAC UAT,NEPSKey
+neps1790,NEPS-1790,NAVFAC UAT,NEPSKey
+neps1791,NEPS-1791,NAVFAC UAT,NEPSKey
+neps1792,NEPS-1792,NAVFAC UAT,NEPSKey
+neps1793,NEPS-1793,NAVFAC UAT,NEPSKey
+neps1794,NEPS-1794,NAVFAC UAT,NEPSKey
+neps1795,NEPS-1795,NAVFAC UAT,NEPSKey
+neps1796,NEPS-1796,NAVFAC UAT,NEPSKey
+neps1797,NEPS-1797,NAVFAC UAT,NEPSKey
+neps1798,NEPS-1798,NAVFAC UAT,NEPSKey
+neps1799,NEPS-1799,NAVFAC UAT,NEPSKey
+neps1800,NEPS-1800,NAVFAC UAT,NEPSKey
+neps1801,NEPS-1801,NAVFAC UAT,NEPSKey
+neps1802,NEPS-1802,NAVFAC UAT,NEPSKey
+neps1803,NEPS-1803,NAVFAC UAT,NEPSKey
+neps1804,NEPS-1804,NAVAIR-TC-02-45,NEPSKey
+neps1805,NEPS-1805,NAVAIR-TC-02-45,NEPSKey
+neps1806,NEPS-1806,NAVAIR-TC-02-45,NEPSKey
+neps1807,NEPS-1807,NAVAIR-TC-02-45,NEPSKey
+neps1808,NEPS-1808,NAVAIR-TC-02-45,NEPSKey
+neps1809,NEPS-1809,NAVAIR-TC-02-45,NEPSKey
+neps1810,NEPS-1810,NAVAIR-TC-02-45,NEPSKey
+neps1811,NEPS-1811,NAVAIR-TC-02-45,NEPSKey
+neps1812,NEPS-1812,All,NEPSKey
+neps1813,NEPS-1813,HQMC-TC01-01-20,NEPSKey
+neps1814,NEPS-1814,HQMC-TC01-01-20,NEPSKey
+neps1815,NEPS-1815,HQMC-TC01-01-20,NEPSKey
+neps1816,NEPS-1816,HQMC-TC01-01-20,NEPSKey
+neps1817,NEPS-1817,MARCOR-TC-02-01-20,NEPSKey
+neps1818,NEPS-1818,NSWC-TC-02-01-12,NEPSKey
+neps1819,NEPS-1819,NSWC-TC-02-01-12,NEPSKey
+neps1820,NEPS-1820,Display Delete Button on Announcement Attachment Screen,NEPSKey
+neps1821,NEPS-1821,NSWC-TC-02-01-19,NEPSKey
+neps1822,NEPS-1822,NSWC-TC-02-01-12,NEPSKey
+neps1823,NEPS-1823,NSWC-TC-02-01-19,NEPSKey
+neps1824,NEPS-1824,NSWC-TC-02-01-19,NEPSKey
+neps1825,NEPS-1825,NSWC-TC-02-01-19,NEPSKey
+neps1826,NEPS-1826,NSWC-TC-02-01-20,NEPSKey
+neps1827,NEPS-1827,NSWC-TC-02-01-20,NEPSKey
+neps1828,NEPS-1828,NSWC-TC-02-03-01,NEPSKey
+neps1829,NEPS-1829,NSWC-TC-02-03-01,NEPSKey
+neps1830,NEPS-1830,NSWC-TC-02-03-01,NEPSKey
+neps1831,NEPS-1831,NSWC-TC-02-03-01,NEPSKey
+neps1832,NEPS-1832,NSWC-TC-02-03-01,NEPSKey
+neps1833,NEPS-1833,NSWC-TC-02-03-01,NEPSKey
+neps1834,NEPS-1834,NAVSUP TC01 (N/A),NEPSKey
+neps1835,NEPS-1835,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1836,NEPS-1836,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1837,NEPS-1837,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1838,NEPS-1838,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1839,NEPS-1839,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1840,NEPS-1840,"NAVSUP TC01-(CS 7, SS2)",NEPSKey
+neps1841,NEPS-1841,Display Modification Number on Follow-on pages of SF30,NEPSKey
+neps1842,NEPS-1842,Add Break between Clause Text and Additional Text,NEPSKey
+neps1843,NEPS-1843,NAVSUP TC01 (N/A),NEPSKey
+neps1844,NEPS-1844,NAVSUP TC01 (N/A),NEPSKey
+neps1845,NEPS-1845,NAVSUP TC01 (N/A),NEPSKey
+neps1846,NEPS-1846,TIN Warning displayed on MCP,NEPSKey
+neps1847,NEPS-1847,"NAVSUP TC01 (CS: 8, SS: 1, Step 25)",NEPSKey
+neps1848,NEPS-1848,SSP,NEPSKey
+neps1849,NEPS-1849,SSP,NEPSKey
+neps1850,NEPS-1850,SSP,NEPSKey
+neps1851,NEPS-1851,SSP,NEPSKey
+neps1852,NEPS-1852,Support ability to run SAM RTVQ on Modifications,NEPSKey
+neps1853,NEPS-1853,SSP,NEPSKey
+neps1854,NEPS-1854,SSP,NEPSKey
+neps1855,NEPS-1855,SSP,NEPSKey
+neps1856,NEPS-1856,SSP,NEPSKey
+neps1857,NEPS-1857,NAVWAR,NEPSKey
+neps1858,NEPS-1858,Correct Form task goes to form submitter instead of Form Approver,NEPSKey
+neps1859,NEPS-1859,NAVWAR UAT,NEPSKey
+neps1860,NEPS-1860,NAVAIR-TC-02-45,NEPSKey
+neps1861,NEPS-1861,NAVFAC UAT,NEPSKey
+neps1862,NEPS-1862,NAVFAC,NEPSKey
+neps1863,NEPS-1863,NAVFAC UAT,NEPSKey
+neps1864,NEPS-1864,NAVFAC UAT,NEPSKey
+neps1865,NEPS-1865,NAVFAC UAT,NEPSKey
+neps1866,NEPS-1866,NAVFAC UAT,NEPSKey
+neps1867,NEPS-1867,NAVFAC UAT,NEPSKey
+neps1868,NEPS-1868,NAVFAC UAT,NEPSKey
+neps1869,NEPS-1869,NAVFAC UAT,NEPSKey
+neps1870,NEPS-1870,NAVFAC UAT,NEPSKey
+neps1871,NEPS-1871,NAVFAC UAT,NEPSKey
+neps1872,NEPS-1872,NAVFAC UAT,NEPSKey
+neps1873,NEPS-1873,NAVFAC UAT,NEPSKey
+neps1874,NEPS-1874,NAVFAC UAT,NEPSKey
+neps1875,NEPS-1875,NAVFAC UAT,NEPSKey
+neps1876,NEPS-1876,NAVFAC UAT,NEPSKey
+neps1877,NEPS-1877,NAVFAC UAT,NEPSKey
+neps1878,NEPS-1878,NAVFAC UAT,NEPSKey
+neps1879,NEPS-1879,NAVFAC UAT,NEPSKey
+neps1880,NEPS-1880,NAVFAC UAT,NEPSKey
+neps1881,NEPS-1881,NAVFAC UAT,NEPSKey
+neps1882,NEPS-1882,NAVFAC UAT,NEPSKey
+neps1883,NEPS-1883,NAVFAC UAT,NEPSKey
+neps1884,NEPS-1884,NAVFAC UAT,NEPSKey
+neps1885,NEPS-1885,HQMC-TC01-01-24,NEPSKey
+neps1886,NEPS-1886,HQMC-TC01-01-20,NEPSKey
+neps1887,NEPS-1887,HQMC-TC01-01-20,NEPSKey
+neps1888,NEPS-1888,HQMC-TC02-01-03,NEPSKey
+neps1889,NEPS-1889,HQMC=TC01-07-02,NEPSKey
+neps1890,NEPS-1890,HQMC-TC01-08-01,NEPSKey
+neps1891,NEPS-1891,HQMC-TC01-09-02,NEPSKey
+neps1892,NEPS-1892,HQMC-TC01-09-03,NEPSKey
+neps1893,NEPS-1893,HQMC-TC01-09-04,NEPSKey
+neps1894,NEPS-1894,HQMC-TC01-09-05,NEPSKey
+neps1895,NEPS-1895,HQMC-TC01-09-06,NEPSKey
+neps1896,NEPS-1896,HQMC-TC01-06-01,NEPSKey
+neps1897,NEPS-1897,HQMC-TC01-07-01,NEPSKey
+neps1898,NEPS-1898,HQMC-TC01-09-01,NEPSKey
+neps1899,NEPS-1899,HQMC-TC01-12-01,NEPSKey
+neps1900,NEPS-1900,HQMC-TC02-01-03,NEPSKey
+neps1901,NEPS-1901,HQMC-TC02-01-03,NEPSKey
+neps1902,NEPS-1902,NAVFAC,NEPSKey
+neps1903,NEPS-1903,NAVFAC,NEPSKey
+neps1904,NEPS-1904,NAVFAC,NEPSKey
+neps1905,NEPS-1905,NAVFAC,NEPSKey
+neps1906,NEPS-1906,NAVFAC,NEPSKey
+neps1907,NEPS-1907,Ability to re-open closed workload assignments,NEPSKey
+neps1908,NEPS-1908,NSWC-TC-01-07-01,NEPSKey
+neps1909,NEPS-1909,NSWC-TC-01-10-01,NEPSKey
+neps1910,NEPS-1910,Update Address Code on LVEN to reflect that it is required,NEPSKey
+neps1911,NEPS-1911,NSWC-TC-01-10-01,NEPSKey
+neps1912,NEPS-1912,NAVSEA TC-01-01-03,NEPSKey
+neps1913,NEPS-1913,NAVSEA TC-01-01-06,NEPSKey
+neps1914,NEPS-1914,NAVSEA TC-01-01-06,NEPSKey
+neps1915,NEPS-1915,ONR NRL,NEPSKey
+neps1916,NEPS-1916,Ability to render DD 1423 Form based on CDRL data entered; or hide CDRL tab until DD1423 form rendering capabilities are available,NEPSKey
+neps1917,NEPS-1917,ONR NRL,NEPSKey
+neps1918,NEPS-1918,Changing line type to Separately Identified Sub Line should clear out more information to prevent PDS errors,NEPSKey
+neps1919,NEPS-1919,ONR NRL,NEPSKey
+neps1920,NEPS-1920,ONR NRL,NEPSKey
+neps1921,NEPS-1921,ONR NRL,NEPSKey
+neps1922,NEPS-1922,ONR NRL,NEPSKey
+neps1923,NEPS-1923,ONR NRL,NEPSKey
+neps1924,NEPS-1924,ONR NRL,NEPSKey
+neps1925,NEPS-1925,NAVAIR-TC-01-NAVAIR-TC01-08-02,NEPSKey
+neps1926,NEPS-1926,NAVAIR-TC-01-NAVAIR-TC01-08-02,NEPSKey
+neps1927,NEPS-1927,Assignment of P-mod number should occur as part of signature process not during pending approval,NEPSKey
+neps1928,NEPS-1928,NAVAIR-TC-01-NAVAIR-TC01-08-03,NEPSKey
+neps1929,NEPS-1929,NAVAIR-TC-01-NAVAIR-TC01-08-03,NEPSKey
+neps1930,NEPS-1930,NAVAIR-TC-01-NAVAIR-TC01-08-03,NEPSKey
+neps1931,NEPS-1931,NAVAIR-TC-01-NAVAIR-TC01-08-03,NEPSKey
+neps1932,NEPS-1932,NAVAIR-TC-01-NAVAIR-TC01-08-03,NEPSKey
+neps1933,NEPS-1933,NAVAIR-TC-01-NAVAIR-TC01-08-02 and 03,NEPSKey
+neps1934,NEPS-1934,Approval Unilateral KO. Script Not Applicable. Does not apply to test case scenario.,NEPSKey
+neps1935,NEPS-1935,HQMC-TC02-01-03,NEPSKey
+neps1936,NEPS-1936,HQMC-TC02-01-03,NEPSKey
+neps1937,NEPS-1937,HQMC-TC02-01-04,NEPSKey
+neps1938,NEPS-1938,HQMC-TC02-01-05,NEPSKey
+neps1939,NEPS-1939,HQMC-TC02-01-06,NEPSKey
+neps1940,NEPS-1940,HQMC-TC02-01-09,NEPSKey
+neps1941,NEPS-1941,HQMC-TC02-01-02,NEPSKey
+neps1942,NEPS-1942,HQMC-TC02-10-01,NEPSKey
+neps1943,NEPS-1943,"Create Mod Script written incorrectly, Cannot enter mod number",NEPSKey
+neps1944,NEPS-1944,Create Mod 23. Able to generate SOCs but unable to view SOC. This a known error and ed in a prior script that called for same step.,NEPSKey
+neps1945,NEPS-1945,Process Concurrent Mod FPDS validation errors,NEPSKey
+neps1946,NEPS-1946,No Error/Warning for entering two different delivery locations on a single CLIN until the PDS validation,NEPSKey
+neps1947,NEPS-1947,No ePS Error/Warning Thrown when Missing Supplemental Information on SLINs; only error about missing Product Service Data information during PDS validations ,NEPSKey
+neps1948,NEPS-1948,HQMC TC02-02-01,NEPSKey
+neps1949,NEPS-1949,HQMC TC02-02-02,NEPSKey
+neps1950,NEPS-1950,HQMC TC02-02-02,NEPSKey
+neps1951,NEPS-1951,HQMC TC02-02-03,NEPSKey
+neps1952,NEPS-1952,HQMC TC02-02-03,NEPSKey
+neps1953,NEPS-1953,NAVFAC,NEPSKey
+neps1954,NEPS-1954,NAVFAC,NEPSKey
+neps1955,NEPS-1955,NAVFAC,NEPSKey
+neps1956,NEPS-1956,NAVFAC,NEPSKey
+neps1957,NEPS-1957,NAVFAC,NEPSKey
+neps1958,NEPS-1958,Number of Email Notifications,NEPSKey
+neps1959,NEPS-1959,Further streamline Characteristic process to improve Clause Recommendation logic,NEPSKey
+neps1960,NEPS-1960,NAVSUP TC01 (CS12 TS4),NEPSKey
+neps1961,NEPS-1961,NAVSUP TC01 (CS13 TS1),NEPSKey
+neps1962,NEPS-1962,NAVSUP TC01 (CS14 SS1),NEPSKey
+neps1963,NEPS-1963,NAVSUP TC01 (TC18 TS1),NEPSKey
+neps1964,NEPS-1964,NAVSUP TC03,NEPSKey
+neps1965,NEPS-1965,NAVSUP TC03,NEPSKey
+neps1966,NEPS-1966,NAVSUP TC03,NEPSKey
+neps1967,NEPS-1967,NAVSUP TC03,NEPSKey
+neps1968,NEPS-1968,NAVSUP TC03,NEPSKey
+neps1969,NEPS-1969,NRL,NEPSKey
+neps1970,NEPS-1970,NRL,NEPSKey
+neps1971,NEPS-1971,NRL,NEPSKey
+neps1972,NEPS-1972,NRL,NEPSKey
+neps1973,NEPS-1973,NRL,NEPSKey
+neps1974,NEPS-1974,NAVSEA TC-01-01-06,NEPSKey
+neps1975,NEPS-1975,Decrease Severity of Override for Population of Option Period and Base Line Number fields,NEPSKey
+neps1976,NEPS-1976,NAVSEA TC-01-01-12,NEPSKey
+neps1977,NEPS-1977,EVF should not require all ePS overrides to be overridden in order to execute.,NEPSKey
+neps1978,NEPS-1978,NAVSEA-TC 01-01-16,NEPSKey
+neps1979,NEPS-1979,NAVSEA-TC 01-01-16,NEPSKey
+neps1980,NEPS-1980,NAVSEA-TC 01-01-16,NEPSKey
+neps1981,NEPS-1981,NAVSEA-TC-01-01-24,NEPSKey
+neps1982,NEPS-1982,NAVAIR-TC-01-NAVAIR-TC01-08-02,NEPSKey
+neps1983,NEPS-1983,NAVAIR-TC-01-NAVAIR-TC01-08-02,NEPSKey
+neps1984,NEPS-1984,NAVAIR-TC-01-NAVAIR-TC01-08-02 and 03,NEPSKey
+neps1987,NEPS-1987,NAVAIR-TC-01-45,NEPSKey
+neps1988,NEPS-1988,Award did not file under F1 in the ECF,NEPSKey
+neps1990,NEPS-1990,NAVFAC,NEPSKey
+neps1991,NEPS-1991,NAVFAC,NEPSKey
+neps1992,NEPS-1992,NAVFAC,NEPSKey
+neps1993,NEPS-1993,NAVFAC,NEPSKey
+neps1994,NEPS-1994,NAVFAC,NEPSKey
+neps1995,NEPS-1995,NAVFAC,NEPSKey
+neps1996,NEPS-1996,NAVFAC,NEPSKey
+neps1997,NEPS-1997,SSP_TC_02,NEPSKey
+neps1998,NEPS-1998,SSP_TC_02,NEPSKey
+neps1999,NEPS-1999,SSP_TC_02,NEPSKey
+neps2000,NEPS-2000,SSP_TC_02,NEPSKey
+neps2001,NEPS-2001,SSP_TC_02,NEPSKey
+neps2002,NEPS-2002,SSP_TC_02,NEPSKey
+neps2003,NEPS-2003,SSP_TC_02,NEPSKey
+neps2005,NEPS-2005,ONR HQ,NEPSKey
+neps2006,NEPS-2006,ONR HQ,NEPSKey
+neps2007,NEPS-2007,PDS Validation of Order Dependent Contract,NEPSKey
+neps2008,NEPS-2008,Increase Readablity of Error Messages,NEPSKey
+neps2009,NEPS-2009,ONR HQ,NEPSKey
+neps2010,NEPS-2010,Support for OTAs,NEPSKey
+neps2011,NEPS-2011,ONR HQ,NEPSKey
+neps2012,NEPS-2012,ONR HQ,NEPSKey
+neps2014,NEPS-2014,1. Contract Specialist should have more functions without Contracting Officer approval; Contracting Officer intervention to keep the process moving.,NEPSKey
+neps2015,NEPS-2015,NSWC-TC-01-11-01,NEPSKey
+neps2016,NEPS-2016,NSWC-TC-01-11-01,NEPSKey
+neps2017,NEPS-2017,Local Vendor Form does not indicate required fields,NEPSKey
+neps2018,NEPS-2018,NSWC-TC-01-13-01,NEPSKey
+neps2019,NEPS-2019,NSWC-TC-01-13-01,NEPSKey
+neps2020,NEPS-2020,NSWC-TC-01-13-01,NEPSKey
+neps2021,NEPS-2021,Milestone closure for DD-1594,NEPSKey
+neps2022,NEPS-2022,NAVSEA-TC-01-01-33,NEPSKey
+neps2023,NEPS-2023,Add Sort Capabilty to Presort T&C search by T&C number,NEPSKey
+neps2024,NEPS-2024,Suppress Vendor Fill In Missing Warning on Solicitations,NEPSKey
+neps2025,NEPS-2025,NAVSEA-TC-01-01-29,NEPSKey
+neps2026,NEPS-2026,NAVSEA-TC-01-01-33,NEPSKey
+neps2027,NEPS-2027,NAVSEA-TC-01-01-33,NEPSKey
+neps2028,NEPS-2028,NAVSEA-TC-01-01-35,NEPSKey
+neps2029,NEPS-2029,NAVSEA-TC-01-01-35,NEPSKey
+neps2030,NEPS-2030,NAVSEA-TC-01-01-44,NEPSKey
+neps2031,NEPS-2031,NAVSEA-TC-01-01-44,NEPSKey
+neps2032,NEPS-2032,NAVSEA-TC-01-01-44,NEPSKey
+neps2033,NEPS-2033,NAVSEA-TC-01-01-38,NEPSKey
+neps2034,NEPS-2034,NAVSEA-TC-01-01-34,NEPSKey
+neps2035,NEPS-2035,Large CLIN Contract Action,NEPSKey
+neps2036,NEPS-2036,NAVAIR,NEPSKey
+neps2037,NEPS-2037,Ability to have a Contract Mod file in a separate Contract File than Base Award,NEPSKey
+neps2038,NEPS-2038,Make it easier to copy from existing awards,NEPSKey
+neps2039,NEPS-2039,HQMC-TC01-10-01,NEPSKey
+neps2040,NEPS-2040,HQMC-TC01-15-01,NEPSKey
+neps2041,NEPS-2041,HQMC-TC01-15-01,NEPSKey
+neps2042,NEPS-2042,HQMC-TC01-15-01,NEPSKey
+neps2043,NEPS-2043,HQMC TC01-11-01,NEPSKey
+neps2044,NEPS-2044,MARCOR TC02-04-01,NEPSKey
+neps2045,NEPS-2045,HQMC TC01-15-02/MARCOR TC02-04-02,NEPSKey
+neps2046,NEPS-2046,ONR_NRL,NEPSKey
+neps2047,NEPS-2047,ONR_NRL,NEPSKey
+neps2048,NEPS-2048,ONR_NRL,NEPSKey
+neps2049,NEPS-2049,ONR_NRL,NEPSKey
+neps2050,NEPS-2050,ONR_NRL,NEPSKey
+neps2051,NEPS-2051,ONR_NRL,NEPSKey
+neps2052,NEPS-2052,FPDS Transmission Issue - ERROR TYPE-FATAL:MESSAGE-A network connectivity error has occurred.,NEPSKey
+neps2053,NEPS-2053,HQMC-TC01-10-01,NEPSKey
+neps2054,NEPS-2054,HQMC TC01-13-01,NEPSKey
+neps2055,NEPS-2055,ONR NRL,NEPSKey
+neps2056,NEPS-2056,ONR NRL,NEPSKey
+neps2057,NEPS-2057,ONR NRL,NEPSKey
+neps2058,NEPS-2058,NAVSEA-TC-01-01-45,NEPSKey
+neps2059,NEPS-2059,NAVSEA-TC-01-01-45,NEPSKey
+neps2060,NEPS-2060,NAVSEA-TC-01-01-45,NEPSKey
+neps2061,NEPS-2061,NAVSEA-TC-01-01-45,NEPSKey
+neps2062,NEPS-2062,Autopopulation of Block 16 Table of Contents with Page Numbers,NEPSKey
+neps2063,NEPS-2063,NAVSEA-TC-01-01-45,NEPSKey
+neps2064,NEPS-2064,NAVSEA-TC-01-01-45,NEPSKey
+neps2065,NEPS-2065,NAVSEA-TC-01-01-45,NEPSKey
+neps2066,NEPS-2066,NAVSEA-TC-01-01-45,NEPSKey
+neps2067,NEPS-2067,NAVSEA-TC-01-01-45,NEPSKey
+neps2068,NEPS-2068,NAVSEA-TC-01-01-45,NEPSKey
+neps2069,NEPS-2069,NAVSEA-TC-01-01-45,NEPSKey
+neps2070,NEPS-2070,NAVSEA-TC-01-01-45,NEPSKey
+neps2071,NEPS-2071,NAVSEA-TC-01-01-45,NEPSKey
+neps2072,NEPS-2072,Update Section F formatting,NEPSKey
+neps2073,NEPS-2073,NAVSEA-TC-01-01-45,NEPSKey
+neps2074,NEPS-2074,NAVSEA-TC-01-01-45,NEPSKey
+neps2075,NEPS-2075,NAVSEA-TC-01-05-01,NEPSKey
+neps2076,NEPS-2076,NAVSEA-TC-01-05-01,NEPSKey
+neps2077,NEPS-2077,Unable to Identify Line Item Associated with Accounting Lines Tab,NEPSKey
+neps2078,NEPS-2078,NAVSEA/NSWC,NEPSKey
+neps2079,NEPS-2079,NAVSEA/NSWC,NEPSKey
+neps2080,NEPS-2080,"Re-label Justification box on Modifications to ""Reason for Modification""",NEPSKey
+neps2081,NEPS-2081,Add Additional Amounts for Cost Clins in Section B,NEPSKey
+neps2082,NEPS-2082,NAVSEA/NSWC,NEPSKey
+neps2083,NEPS-2083,NAVSEA/NSWC,NEPSKey
+neps2089,NEPS-2089,NAVSUP TC01 (CS15 SS1),NEPSKey
+neps2090,NEPS-2090,NAVSUP TC01,NEPSKey
+neps2091,NEPS-2091,-1 Server Error received during approval task,NEPSKey
+neps2092,NEPS-2092,Auto-Expand Field Length of Clause Field in VSS,NEPSKey
+neps2093,NEPS-2093,NAVSUP TC01,NEPSKey
+neps2094,NEPS-2094,Add Line Item to QPB Sub-tab,NEPSKey
+neps2095,NEPS-2095,NSWC-TC-03-01-01,NEPSKey
+neps2096,NEPS-2096,Ability to copy SLINs and then move order on PRs,NEPSKey
+neps2097,NEPS-2097,NSWC-TC-03-01-01,NEPSKey
+neps2098,NEPS-2098,NSWC-TC-03-01-01,NEPSKey
+neps2099,NEPS-2099,NSWC-TC-03-01-01,NEPSKey
+neps2100,NEPS-2100,Additional information on PR Print Preview; Ability to capture SOW on PR documents,NEPSKey
+neps2101,NEPS-2101,NSWC-TC-03-01-01,NEPSKey
+neps2102,NEPS-2102,NSWC-TC-03-01-10,NEPSKey
+neps2105,NEPS-2105,"Original Contract file should be in F1 Copy of original, seems odd to have designated folders for Contracts and Task orders and they not default   when created. Same with WL folders, seems odd that they are located independent of actual contract.",NEPSKey
+neps2106,NEPS-2106,No contracting vehicle for issuing a Solicitation to MACC Holder in ePS.,NEPSKey
+neps2107,NEPS-2107,email sent to Anna for every click that KO made in system,NEPSKey
+neps2108,NEPS-2108,Needed to know default setting for IDVs to be filed Mod,NEPSKey
+neps2109,NEPS-2109,SOL from PRM . Procurement title did not pull through. Procurement Tile has limit on # of characters,NEPSKey
+neps2110,NEPS-2110,How to solicit to MACC Holders if 1155 form shows up as Form not found.,NEPSKey
+neps2111,NEPS-2111,NAVFAC construction contracts must have clause and its alternative,NEPSKey
+neps2112,NEPS-2112,Not all clauses returned based on characteristics selected,NEPSKey
+neps2113,NEPS-2113,Hash tags at top of each page KNOWN ISSUE NEPS 1631,NEPSKey
+neps2114,NEPS-2114,Block 10 of Award Hard returns missing.Formating skewe. Fill- Ins Column odd and appears that it should not be  . Consider widening columns to balance on page,NEPSKey
+neps2115,NEPS-2115,Retest,NEPSKey
+neps2116,NEPS-2116,Retest,NEPSKey
+neps2117,NEPS-2117,NAVSUP TC01,NEPSKey
+neps2118,NEPS-2118,NAVSUP TC01,NEPSKey
+neps2119,NEPS-2119,Add Delivery Information to Section B,NEPSKey
+neps2120,NEPS-2120,NAVSUP TC01 (CS14 SS1),NEPSKey
+neps2121,NEPS-2121,ECF (CCF) Observation,NEPSKey
+neps2122,NEPS-2122,ECF (CCF) Observation,NEPSKey
+neps2123,NEPS-2123,ECF (CCF) Observation,NEPSKey
+neps2124,NEPS-2124,ECF (CCF) Observation,NEPSKey
+neps2125,NEPS-2125,ECF (CCF) Observation,NEPSKey
+neps2126,NEPS-2126,ECF (CCF) Observation,NEPSKey
+neps2127,NEPS-2127,ECF (CCF) Observation,NEPSKey
+neps2128,NEPS-2128,DPAS Priority Rating should have a dash,NEPSKey
+neps2129,NEPS-2129,NSWC-TC-03-01-16,NEPSKey
+neps2130,NEPS-2130,Supply or Service Block prints blank in Section B,NEPSKey
+neps2131,NEPS-2131,NSWC-TC-03-01-16,NEPSKey
+neps2132,NEPS-2132,NSWC-TC-03-01-16,NEPSKey
+neps2133,NEPS-2133,NSWC-TC-03-01-16,NEPSKey
+neps2134,NEPS-2134,NSWC-TC-03-01-16,NEPSKey
+neps2135,NEPS-2135,NSWC-TC-03-01-16,NEPSKey
+neps2136,NEPS-2136,NSWC-TC-03-01-16,NEPSKey
+neps2137,NEPS-2137,NSWC-TC-03-01-16,NEPSKey
+neps2138,NEPS-2138,NSWC-TC-03-01-16,NEPSKey
+neps2139,NEPS-2139,NSWC-TC-03-01-16,NEPSKey
+neps2140,NEPS-2140,NSWC-TC-03-01-16,NEPSKey
+neps2141,NEPS-2141,NSWC-TC-03-01-16,NEPSKey
+neps2142,NEPS-2142,SOC should not include system information,NEPSKey
+neps2143,NEPS-2143,NSWC-TC-03-01-10,NEPSKey
+neps2144,NEPS-2144,SF30 Block 8 contains DBA name,NEPSKey
+neps2145,NEPS-2145,Update Summary of Changes Title in TOC,NEPSKey
+neps2146,NEPS-2146,Make it easier to identify when info SLINs added to SF30,NEPSKey
+neps2147,NEPS-2147,NAVSEA-TC-01-05-02,NEPSKey
+neps2148,NEPS-2148,NAVSEA-TC-01-05-02,NEPSKey
+neps2149,NEPS-2149,Add additional FOB information to Section F,NEPSKey
+neps2150,NEPS-2150,Add spacing to Section F printing,NEPSKey
+neps2151,NEPS-2151,NAVSEA-TC-01-05-02,NEPSKey
+neps2152,NEPS-2152,NAVSEA-TC-01-06-03,NEPSKey
+neps2153,NEPS-2153,NAVSEA-TC-01-06-03,NEPSKey
+neps2154,NEPS-2154,NAVSEA-TC-01-06-03,NEPSKey
+neps2155,NEPS-2155,Ability to not require reference document on Certain Award Line Items,NEPSKey
+neps2156,NEPS-2156,NAVSEA-TC-01-06-02,NEPSKey
+neps2157,NEPS-2157,"Build 1.042 Release - 03/22/21 (Includes Builds 1.039, 1.040 and 1.041)",NEPSKey
+neps2163,NEPS-2163,NAVFAC,NEPSKey
+neps2164,NEPS-2164,NAVFAC,NEPSKey
+neps2165,NEPS-2165,NAVSEA-TC-01-06-02,NEPSKey
+neps2166,NEPS-2166,Restrict ability to define type of modification for administrative mods,NEPSKey
+neps2167,NEPS-2167,NAVSEA-TC-01-06-02,NEPSKey
+neps2168,NEPS-2168,NAVSEA-TC-01-06-02,NEPSKey
+neps2169,NEPS-2169,NAVSEA-TC-01-06-03,NEPSKey
+neps2170,NEPS-2170,NAVSEA-TC-01-06-03,NEPSKey
+neps2171,NEPS-2171,Add  Unit Price Change information in Section B,NEPSKey
+neps2172,NEPS-2172,NAVSEA-TC-01-06-03,NEPSKey
+neps2173,NEPS-2173,NAVSEA-TC-01-06-03,NEPSKey
+neps2174,NEPS-2174,NAVSEA-TC-01-06-03,NEPSKey
+neps2175,NEPS-2175,Add Fixed Fee Amount into Section B Summary Pricing Table,NEPSKey
+neps2176,NEPS-2176,NAVSEA-TC-01-06-03,NEPSKey
+neps2177,NEPS-2177,NAVSEA-TC-01-06-03,NEPSKey
+neps2178,NEPS-2178,NAVSEA-TC-01-06-03,NEPSKey
+neps2179,NEPS-2179,NAVSEA-TC-01-06-03,NEPSKey
+neps2180,NEPS-2180,NAVSEA-TC-01-06-03,NEPSKey
+neps2181,NEPS-2181,NAVSEA-TC-01-06-03,NEPSKey
+neps2182,NEPS-2182,NAVSEA-TC-01-06-03,NEPSKey
+neps2183,NEPS-2183,NAVSEA-TC-01-06-03,NEPSKey
+neps2184,NEPS-2184,NAVSEA-TC-01-06-03,NEPSKey
+neps2185,NEPS-2185,NAVSEA-TC-01-06-03,NEPSKey
+neps2186,NEPS-2186,Combine Final Approval and Electronic Signature,NEPSKey
+neps2187,NEPS-2187,NAVSEA-TC-01-06-03,NEPSKey
+neps2188,NEPS-2188,NAVSUP TC03R1 (CS 8 SS8 Step 18),NEPSKey
+neps2189,NEPS-2189,NRL,NEPSKey
+neps2190,NEPS-2190,Handling of Invalid Zip +4 Data from DoDAAD,NEPSKey
+neps2191,NEPS-2191,NRL,NEPSKey
+neps2192,NEPS-2192,NRL,NEPSKey
+neps2193,NEPS-2193,NRL,NEPSKey
+neps2194,NEPS-2194,NRL,NEPSKey
+neps2195,NEPS-2195,NRL,NEPSKey
+neps2196,NEPS-2196,NRL,NEPSKey
+neps2197,NEPS-2197,NRL,NEPSKey
+neps2199,NEPS-2199,NRL,NEPSKey
+neps2200,NEPS-2200,NRL,NEPSKey
+neps2201,NEPS-2201,NRL,NEPSKey
+neps2202,NEPS-2202,NRL,NEPSKey
+neps2203,NEPS-2203,Add Table Header to Section B IDV Constraint Table,NEPSKey
+neps2204,NEPS-2204,Add QPB information to Print outs,NEPSKey
+neps2205,NEPS-2205,Decimals should be suppressed if all zeros,NEPSKey
+neps2206,NEPS-2206,NSWC-TC-03-01-20,NEPSKey
+neps2207,NEPS-2207,Add Spacing to Section B Summary table and Per Order Minimum/Maximum table,NEPSKey
+neps2208,NEPS-2208,Per Order Amount Required on IDVs,NEPSKey
+neps2209,NEPS-2209,Section B Summary table should suppress Option Rows when not included in the Contract,NEPSKey
+neps2210,NEPS-2210,NSWC-TC-01-10-01,NEPSKey
+neps2211,NEPS-2211,NSWC-TC-01-06-02,NEPSKey
+neps2212,NEPS-2212,NSWC-TC-04-01-12,NEPSKey
+neps2213,NEPS-2213,Fields not Displaying on Milestone Dashboard,NEPSKey
+neps2214,NEPS-2214,ECF (CCF) Observation,NEPSKey
+neps2215,NEPS-2215,ECF (CCF) Observation,NEPSKey
+neps2216,NEPS-2216,ECF (CCF) Observation,NEPSKey
+neps2221,NEPS-2221,NSWC-TC-04-01-12,NEPSKey
+neps2222,NEPS-2222,NSWC-TC-04-01-12,NEPSKey
+neps2223,NEPS-2223,See Schedule Text Not Displayed in Block 10 - DD1155,NEPSKey
+neps2224,NEPS-2224,Ship To Not Displayed in Block 14 - DD1155,NEPSKey
+neps2225,NEPS-2225,NSWC-TC-04-01-17,NEPSKey
+neps2226,NEPS-2226,NSWC-TC-04-01-17,NEPSKey
+neps2227,NEPS-2227,NSWC-TC-04-01-17,NEPSKey
+neps2228,NEPS-2228,Award Announcement Requires Solicitation Reference,NEPSKey
+neps2229,NEPS-2229,NSWC-TC-04-03-01,NEPSKey
+neps2230,NEPS-2230,NAVSEA-TC-01-16-01,NEPSKey
+neps2245,NEPS-2245,NSWC-TC-03-01-01,NEPSKey
+neps2254,NEPS-2254,Reference Data Security Organization Configuration,NEPSKey
+neps2255,NEPS-2255,SSP_TC_01,NEPSKey
+neps2256,NEPS-2256,SSP_TC_01,NEPSKey
+neps2257,NEPS-2257,SSP_TC_01,NEPSKey
+neps2258,NEPS-2258,SSP_TC_01,NEPSKey
+neps2259,NEPS-2259,Require DoDAAC for Document Number Generation,NEPSKey
+neps2260,NEPS-2260,SSP_TC_01,NEPSKey
+neps2261,NEPS-2261,SSP_TC_01,NEPSKey
+neps2262,NEPS-2262,Edit to ensure Vendor Type is same at Header Level and Address Level,NEPSKey
+neps2263,NEPS-2263,SSP Ad-Hoc,NEPSKey
+neps2264,NEPS-2264,Add Planned PSC to LRAF form,NEPSKey
+neps2265,NEPS-2265,SSP_TC_01,NEPSKey
+neps2266,NEPS-2266,Capturing FSS/External Contract Vehicles,NEPSKey
+neps2267,NEPS-2267,Ad hoc testing,NEPSKey
+neps2268,NEPS-2268,Ad hoc testing,NEPSKey
+neps2269,NEPS-2269,Ad hoc testing,NEPSKey
+neps2270,NEPS-2270,Update RE 12 to allow for delivery periods,NEPSKey
+neps2271,NEPS-2271,Build 1.044 Release - 04/08/21 (Includes Build 1.043),NEPSKey
+neps2273,NEPS-2273,ePS is failing Contract Data Compliance SPM,NEPSKey
+neps2275,NEPS-2275,Available Data in Pentaho for Ad Hoc Reporting,NEPSKey
+neps2276,NEPS-2276,Proactive PDS Validation Edits,NEPSKey
+neps2277,NEPS-2277,DASN,NEPSKey
+neps2278,NEPS-2278,DASN - PR Migration Issue,NEPSKey
+neps2283,NEPS-2283,Build 1.045 Release - 04/15/21,NEPSKey
+neps2285,NEPS-2285,SSP PIID Numbering,NEPSKey
+neps2288,NEPS-2288,Amend SBCR not auto-populating,NEPSKey
+neps2289,NEPS-2289,CL0012W error should not be displayed on excluded T&Cs,NEPSKey
+neps2290,NEPS-2290,Clarity of VSS announcement.,NEPSKey
+neps2291,NEPS-2291,CL0011W for vendor fill-ins,NEPSKey
+neps2292,NEPS-2292,SOL TOC - Formatting,NEPSKey
+neps2293,NEPS-2293,IDV - Itemized lines fields missing units.,NEPSKey
+neps2294,NEPS-2294,CL0011W Error Msg incorrect,NEPSKey
+neps2295,NEPS-2295,JAVA Stack Trace Error,NEPSKey
+neps2296,NEPS-2296,CLIN Share Ratio and Dollar Amount,NEPSKey
+neps2297,NEPS-2297,Vendor information and USD,NEPSKey
+neps2298,NEPS-2298,Build 1.046 Release - TBD,NEPSKey
+neps2299,NEPS-2299,MCP and Contract Closeout Checklists Filing rules,NEPSKey
+neps2300,NEPS-2300,Workload Assignment Status mismatch between cntract file and workload query,NEPSKey
+neps2301,NEPS-2301,lag in updating status via items collection,NEPSKey
+neps2302,NEPS-2302,Dynamic Vendor & Public Directed edits,NEPSKey
+neps2303,NEPS-2303,Conformed Copy Print to SF30 or base SF/OF/DD,NEPSKey

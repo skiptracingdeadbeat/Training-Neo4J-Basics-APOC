@@ -1,0 +1,27 @@
+﻿minzoneID:ID,name,description,:LABEL
+zone00a,Zone 00a ,Zone 00a  <−65°F,USDAZone
+zone00b,Zone 00b ,Zone 00b  −65°F to −60°F,USDAZone
+zone01a,Zone 01a ,Zone 01a  −60°F to −55°F,USDAZone
+zone01b,Zone 01b ,Zone 01b  −55°F to −50°F,USDAZone
+zone02a,Zone 02a ,Zone 02a  −50°F to −45°F,USDAZone
+zone02b,Zone 02b ,Zone 02b  −45°F to −40°F,USDAZone
+zone03a,Zone 03a ,Zone 03a  −40°F to −35°F,USDAZone
+zone03b,Zone 03b ,Zone 03b  −35°F to −30°F,USDAZone
+zone04a,Zone 04a ,Zone 04a  −30°F to −25°F,USDAZone
+zone04b,Zone 04b ,Zone 04b  −25°F to −20°F,USDAZone
+zone05a,Zone 05a ,Zone 05a  −20°F to −15°F,USDAZone
+zone05b,Zone 05b ,Zone 05b  −15°F to −10°F,USDAZone
+zone06a,Zone 06a ,Zone 06a  −10°F to −5°F,USDAZone
+zone06b,Zone 06b ,Zone 06b  −5°F to 0°F,USDAZone
+zone07a,Zone 07a ,Zone 07a  0°F to 5°F,USDAZone
+zone07b,Zone 07b ,Zone 07b  5°F to 10°F,USDAZone
+zone08a,Zone 08a ,Zone 08a  10°F to 15°F,USDAZone
+zone08b,Zone 08b ,Zone 08b  15°F to 20°F,USDAZone
+zone09a,Zone 09a ,Zone 09a  20°F to 25°F,USDAZone
+zone09b,Zone 09b ,Zone 09b  25°F to 30°F,USDAZone
+zone10a,Zone 10a ,Zone 10a  30°F to 35°F,USDAZone
+zone10b,Zone 10b ,Zone 10b  35°F to 40°F,USDAZone
+zone11a,Zone 11a ,Zone 11a  40°F to 45°F,USDAZone
+zone11b,Zone 11b ,Zone 11b  45°F to 50°F,USDAZone
+zone12a,Zone 12a ,Zone 12a  50°F to 55°F,USDAZone
+zone12b,Zone 12b ,Zone 12b  >55 °F,USDAZone

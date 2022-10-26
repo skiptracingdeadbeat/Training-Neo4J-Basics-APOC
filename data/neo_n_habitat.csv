@@ -1,0 +1,7 @@
+﻿habitatId:ID,name,desciption,:LABEL
+drymesic,Dry Mesic,Ecoregion with a minimal supply of moisture.,WaterPreference
+hydric,Hydric,Ecoregion in which soil is permanently or seasonally saturated by water.,WaterPreference
+inwater,In Water,Ecoregion in which water is predominant medium.,WaterPreference
+mesic,Mesic,Ecoregion with a moderate or well-balanced supply of moisture.,WaterPreference
+wetmesic,Wet Mesic,Ecoregion with over-abundant supply of moisture.,WaterPreference
+xeric ,Xerix,Ecoregion receiving less than 250 millimetres of rain and evaporation exceeding rainfall.,WaterPreference

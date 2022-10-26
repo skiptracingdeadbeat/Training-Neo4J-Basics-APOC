@@ -1,0 +1,5 @@
+﻿cogbiascatID:ID,name,definition,:LABEL
+cognitivebias01,Cognitive Bias,Systematic error in thinking that occurs when people are processing and interpreting information in the world around them and affects the decisions and judgments that they make,Category
+belief1,Belief-decision-making and behavioral,Bias that affects belief formation or reasoning processes or business and economic decisions or human behavior in general,Domain
+memory1,Memory,Bias that either enhances or impairs the recall of a memory-either the chances that the memory will be recalled at all or the amount of time it takes for it to be recalled-or both,Domain
+social1,Social,Bias that relates to people and perceptions of themselves or others or the ways that they behave or act and reach decisions as a group,Domain

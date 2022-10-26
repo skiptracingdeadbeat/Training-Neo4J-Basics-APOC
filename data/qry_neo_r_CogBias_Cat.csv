@@ -1,0 +1,30 @@
+﻿:START_ID,name,:END_ID,:TYPE
+anchoringbias2,Anchoring Bias,belief1,CATEGORIZED_AS
+apophenia2,Apophenia,belief1,CATEGORIZED_AS
+associationfallacy2,Association Fallacy,social1,CATEGORIZED_AS
+attributionbias2,Attribution Bias,belief1,CATEGORIZED_AS
+attributionbias2,Attribution Bias,memory1,CATEGORIZED_AS
+attributionbias2,Attribution Bias,social1,CATEGORIZED_AS
+cognitivedissonance2,Cognitive Dissonance,belief1,CATEGORIZED_AS
+cognitivedissonance2,Cognitive Dissonance,social1,CATEGORIZED_AS
+confirmationbias2,Confirmation Bias,belief1,CATEGORIZED_AS
+conformitybias2,Conformity Bias,social1,CATEGORIZED_AS
+effortjustification2,Effort Justification,belief1,CATEGORIZED_AS
+egocentricbias2,Egocentric Bias,belief1,CATEGORIZED_AS
+egocentricbias2,Egocentric Bias,memory1,CATEGORIZED_AS
+egocentricbias2,Egocentric Bias,social1,CATEGORIZED_AS
+extensionneglect2,Extension Neglect,belief1,CATEGORIZED_AS
+extensionneglect2,Extension Neglect,social1,CATEGORIZED_AS
+falsepriors2,False Priors,belief1,CATEGORIZED_AS
+falsepriors2,False Priors,social1,CATEGORIZED_AS
+familiarityprinciple2,Familiarity Principle,belief1,CATEGORIZED_AS
+framingeffect2,Framing Effect,belief1,CATEGORIZED_AS
+ingroupbias2,Ingroup Bias,social1,CATEGORIZED_AS
+logicalfallacy2,Logical Fallacy,belief1,CATEGORIZED_AS
+logicalfallacy2,Logical Fallacy,memory1,CATEGORIZED_AS
+prospecttheory2,Prospect Theory,belief1,CATEGORIZED_AS
+prospecttheory2,Prospect Theory,social1,CATEGORIZED_AS
+truthiness2,Truthiness,belief1,CATEGORIZED_AS
+social1,"Belief, decision-making and behavioral",cognitivebias01,DOMAIN_WITHIN
+belief1,Memory,cognitivebias01,DOMAIN_WITHIN
+memory1,Social,cognitivebias01,DOMAIN_WITHIN

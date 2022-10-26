@@ -1,0 +1,7 @@
+﻿disorderID:ID,name,title,:LABEL
+persdisord01,Personality Disorder,Diagnosis,Category
+antago0001,Antagonism,Personality Disoder Facet,Domain
+detach0001,Detachment,Personality Disoder Facet,Domain
+disinh0001,Disinhibition,Personality Disoder Facet,Domain
+negati0001,Negative Affectivity,Personality Disoder Facet,Domain
+psycho0001,Psychoticism,Personality Disoder Facet,Domain

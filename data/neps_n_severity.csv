@@ -1,0 +1,6 @@
+﻿severityID:ID,name,:LABEL
+onecritical,OneCritical,Severity
+twohigh,TwoHigh,Severity
+threemoderate,ThreeModerate,Severity
+fourlow,FourLow,Severity
+fivecosmetic,FiveCosmetic,Severity

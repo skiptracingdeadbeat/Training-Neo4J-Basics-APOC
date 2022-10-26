@@ -1,0 +1,11 @@
+﻿headofcontractingactivityID:ID,name,title,:LABEL
+A1712,DASN(P),Deputy Assistant Secretary of the Navy for Procurement (DASN P),HeadofContractingActivity
+A1714,ONR,Office of Naval Research,HeadofContractingActivity
+A1719,NAVAIR,Naval Air Systems Command,HeadofContractingActivity
+A1723,NAVSUP,Naval Supply Systems Command,HeadofContractingActivity
+A1724,NAVSEA,Naval Sea Systems Command,HeadofContractingActivity
+A1725,NAVFAC,Naval Facilities Engineering Command,HeadofContractingActivity
+A1727,MARCORSYS,Marine Corps Systems Command,HeadofContractingActivity
+A1730,SSP,Strategic Systems Programs,HeadofContractingActivity
+A1733,MSC,Military Sealift Command,HeadofContractingActivity
+A1739,NAVWAR,Space and Naval Warfare Systems Command,HeadofContractingActivity

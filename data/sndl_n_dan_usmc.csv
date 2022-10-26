@@ -1,0 +1,4 @@
+﻿contractingofficeID:ID,name,title,city,state,zip,COUNTRY_CODE,:LABEL
+OM01121,VMA(AW)-121 ,Marine All Weather Attack Squadron 533,YUMA,AZ,85369,USA,OperationalCommand
+OM01224,VMA(AW)-224 ,Marine All Weather Attack Squadron 534,BEAUFORT,SC,29904,USA,OperationalCommand
+OM01533,VMA(AW)-533 ,Marine All Weather Attack Squadron 535,BEAUFORT,SC,29904,USA,OperationalCommand

@@ -1,0 +1,11 @@
+﻿severityID:ID,name,:LABEL
+status,status,Status
+active,Active,Status
+assigned,Assigned,Status
+backlog,Backlog,Status
+done,Done,Status
+indevelopment,InDevelopment,Status
+onhold,OnHold,Status
+open,Open,Status
+productionready,ProductionReady,Status
+readyfortesting,ReadyForTesting,Status

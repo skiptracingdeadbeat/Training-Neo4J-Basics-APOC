@@ -1,0 +1,221 @@
+﻿domainID:ID,name,question,:LABEL
+anhedonia01,Anhedonia Q1,I do not get as much pleasure out of things as others seem to,DomainQuestion
+anhedonia02,Anhedonia Q2,Nothing seems to interest me very much,DomainQuestion
+anhedonia03,Anhedonia Q3,I almost never enjoy life,DomainQuestion
+anhedonia04,Anhedonia Q4,I am an energetic person,DomainQuestion
+anhedonia05,Anhedonia Q5,I almost never feel happy about my day-to-day activities,DomainQuestion
+anhedonia06,Anhedonia Q6,I really live life to the fullest,DomainQuestion
+anhedonia07,Anhedonia Q7,Nothing seems to make me feel good,DomainQuestion
+anhedonia08,Anhedonia Q8,I rarely get enthusiastic about anything,DomainQuestion
+anxiousne01,Anxiousness Q1,I worry a lot about terrible things that might happen,DomainQuestion
+anxiousne02,Anxiousness Q2,I often worry that something bad will happen due to mistakes i made in the past,DomainQuestion
+anxiousne03,Anxiousness Q3,I get very nervous when i think about the future,DomainQuestion
+anxiousne04,Anxiousness Q4,I rarely worry about things,DomainQuestion
+anxiousne05,Anxiousness Q5,I am always worrying about something,DomainQuestion
+anxiousne06,Anxiousness Q6,I worry about almost everything,DomainQuestion
+anxiousne07,Anxiousness Q7,I am a very anxious person,DomainQuestion
+anxiousne08,Anxiousness Q8,I always expect the worst to happen,DomainQuestion
+anxiousne09,Anxiousness Q9,I am always fearful or on edge about bad things that might happen,DomainQuestion
+attention01,Attention Seeking Q1,I do things to make sure people notice me,DomainQuestion
+attention02,Attention Seeking Q2,I do things so that people just have to admire me,DomainQuestion
+attention03,Attention Seeking Q3,I love getting the attention of other people,DomainQuestion
+attention04,Attention Seeking Q4,I like standing out in a crowd,DomainQuestion
+attention05,Attention Seeking Q5,My behavior is often bold and grabs people’s attention,DomainQuestion
+attention06,Attention Seeking Q6,I like being a person who gets noticed,DomainQuestion
+attention07,Attention Seeking Q7,I crave attention,DomainQuestion
+attention08,Attention Seeking Q8,I like to draw attention to myself,DomainQuestion
+callousne01,Callousness Q1,I often get into physical fights,DomainQuestion
+callousne02,Callousness Q2,Being rude and unfriendly is just a part of who i am,DomainQuestion
+callousne03,Callousness Q3,I really do not care if i make other people suffer,DomainQuestion
+callousne04,Callousness Q4,It does not really bother me to see other people get hurt,DomainQuestion
+callousne05,Callousness Q5,I do not care about other people’s feelings,DomainQuestion
+callousne06,Callousness Q6,You need to step on some toes to get what you want in life,DomainQuestion
+callousne07,Callousness Q7,I would never harm another person,DomainQuestion
+callousne08,Callousness Q8,I do not care if my actions hurt others,DomainQuestion
+callousne09,Callousness Q9,It is no big deal if i hurt other people’s feelings,DomainQuestion
+callousne10,Callousness Q10,I do not care about other people’s problems,DomainQuestion
+callousne11,Callousness Q11,I sometimes hit people to remind them who is in charge,DomainQuestion
+callousne12,Callousness Q12,I enjoy making people in control look stupid,DomainQuestion
+callousne13,Callousness Q13,I do not see the point in feeling guilty about things i have done that have hurt other people,DomainQuestion
+callousne14,Callousness Q14,Most of the time i do not see the point in being friendly,DomainQuestion
+deceitful01,Deceitfulness Q1,I make up stories about things that happened that are totally untrue,DomainQuestion
+deceitful02,Deceitfulness Q2,I often make up things about myself to help me get what i want,DomainQuestion
+deceitful03,Deceitfulness Q3,People do not realize that i am flattering them to get something,DomainQuestion
+deceitful04,Deceitfulness Q4,I can be sneaky if it means getting what i want,DomainQuestion
+deceitful05,Deceitfulness Q5,Sometimes you need to exaggerate to get ahead,DomainQuestion
+deceitful06,Deceitfulness Q6,I do not hesitate to cheat if it gets me ahead,DomainQuestion
+deceitful07,Deceitfulness Q7,I try to tell the truth even when it is hard,DomainQuestion
+deceitful08,Deceitfulness Q8,I use people to get what i want,DomainQuestion
+deceitful09,Deceitfulness Q9,Lying comes easily to me,DomainQuestion
+deceitful10,Deceitfulness Q10,I will stretch the truth if it is to my advantage,DomainQuestion
+depressiv01,Depressivity Q1,I often feel like nothing i do really matters,DomainQuestion
+depressiv02,Depressivity Q2,I am very dissatisfied with myself,DomainQuestion
+depressiv03,Depressivity Q3,The future looks really hopeless to me,DomainQuestion
+depressiv04,Depressivity Q4,The world would be better off if i were dead,DomainQuestion
+depressiv05,Depressivity Q5,I am so ashamed by how i have let people down in lots of little ways,DomainQuestion
+depressiv06,Depressivity Q6,I often feel like a failure,DomainQuestion
+depressiv07,Depressivity Q7,I talk about suicide a lot,DomainQuestion
+depressiv08,Depressivity Q8,I am useless as a person,DomainQuestion
+depressiv09,Depressivity Q9,Life looks pretty bleak to me,DomainQuestion
+depressiv10,Depressivity Q10,Everything seems pointless to me,DomainQuestion
+depressiv11,Depressivity Q11,I often feel just miserable,DomainQuestion
+depressiv12,Depressivity Q12,I have no worth as a person,DomainQuestion
+depressiv13,Depressivity Q13,I know i will commit suicide sooner or later,DomainQuestion
+depressiv14,Depressivity Q14,I feel guilty much of the time,DomainQuestion
+distracti01,Distractibility Q1,I lose track of conversations because other things catch my attention,DomainQuestion
+distracti02,Distractibility Q2,I can not concentrate on anything,DomainQuestion
+distracti03,Distractibility Q3,I am not good at planning ahead,DomainQuestion
+distracti04,Distractibility Q4,I can not achieve goals because other things capture my attention,DomainQuestion
+distracti05,Distractibility Q5,I have trouble pursuing specific goals even for short periods of time,DomainQuestion
+distracti06,Distractibility Q6,I have trouble keeping my mind focused on what needs to be done,DomainQuestion
+distracti07,Distractibility Q7,I am easily distracted,DomainQuestion
+distracti08,Distractibility Q8,I can not focus on things for very long,DomainQuestion
+distracti09,Distractibility Q9,I get pulled off-task by even minor distractions,DomainQuestion
+eccentric01,Eccentricity Q1,I often have ideas that are too unusual to explain to anyone,DomainQuestion
+eccentric02,Eccentricity Q2,I often say things that others find odd or strange,DomainQuestion
+eccentric03,Eccentricity Q3,Other people seem to think my behavior is weird,DomainQuestion
+eccentric04,Eccentricity Q4,People have told me that i think about things in a really strange way,DomainQuestion
+eccentric05,Eccentricity Q5,My thoughts often go off in odd or unusual directions,DomainQuestion
+eccentric06,Eccentricity Q6,My thoughts often do not make sense to others,DomainQuestion
+eccentric07,Eccentricity Q7,People often look at me as if i had said something really weird,DomainQuestion
+eccentric08,Eccentricity Q8,Others seem to think i am quite odd or unusual,DomainQuestion
+eccentric09,Eccentricity Q9,My thoughts are strange and unpredictable,DomainQuestion
+eccentric10,Eccentricity Q10,I think about things in odd ways that do not make sense to most people,DomainQuestion
+eccentric11,Eccentricity Q11,I have been told more than once that i have a number of odd quirks or habits,DomainQuestion
+eccentric12,Eccentricity Q12,I have several habits that others find eccentric or strange,DomainQuestion
+eccentric13,Eccentricity Q13,I often have thoughts that make sense to me but that other people say are strange,DomainQuestion
+emotional01,Emotional Lability Q1,My emotions sometimes change for no good reason,DomainQuestion
+emotional02,Emotional Lability Q2,I have much stronger emotional reactions than almost everyone else,DomainQuestion
+emotional03,Emotional Lability Q3,I am a highly emotional person,DomainQuestion
+emotional04,Emotional Lability Q4,I get emotional easily often for very little reason,DomainQuestion
+emotional05,Emotional Lability Q5,I never know where my emotions will go from moment to moment,DomainQuestion
+emotional06,Emotional Lability Q6,I get emotional over every little thing,DomainQuestion
+emotional07,Emotional Lability Q7,My emotions are unpredictable,DomainQuestion
+grandiosi01,Grandiosity Q1,To be honest i am just more important than other people,DomainQuestion
+grandiosi02,Grandiosity Q2,I have outstanding qualities that few others possess,DomainQuestion
+grandiosi03,Grandiosity Q3,I am better than almost everyone else,DomainQuestion
+grandiosi04,Grandiosity Q4,I have achieved far more than almost anyone i know,DomainQuestion
+grandiosi05,Grandiosity Q5,I deserve special treatment,DomainQuestion
+grandiosi06,Grandiosity Q6,I often have to deal with people who are less important than me,DomainQuestion
+hostility01,Hostility Q1,I snap at people when they do little things that irritate me,DomainQuestion
+hostility02,Hostility Q2,I can be mean when i need to be,DomainQuestion
+hostility03,Hostility Q3,I am easily angered,DomainQuestion
+hostility04,Hostility Q4,I resent being told what to do even by people in charge,DomainQuestion
+hostility05,Hostility Q5,I have a very short temper,DomainQuestion
+hostility06,Hostility Q6,I always make sure i get back at people who wrong me,DomainQuestion
+hostility07,Hostility Q7,I get irritated easily by all sorts of things,DomainQuestion
+hostility08,Hostility Q8,I am usually pretty hostile,DomainQuestion
+hostility09,Hostility Q9,It makes me really angry when people insult me in even a minor way,DomainQuestion
+hostility10,Hostility Q10,I am nasty and short to anybody who deserves it,DomainQuestion
+impulsivi01,Impulsivity Q1,I feel like i act totally on impulse,DomainQuestion
+impulsivi02,Impulsivity Q2,I usually do things on impulse without thinking about what might happen as a result,DomainQuestion
+impulsivi03,Impulsivity Q3,Even though i know better i can not stop making rash decisions,DomainQuestion
+impulsivi04,Impulsivity Q4,I always do things on the spur of the moment,DomainQuestion
+impulsivi05,Impulsivity Q5,I usually think before i act,DomainQuestion
+impulsivi06,Impulsivity Q6,I am very impulsive,DomainQuestion
+intimacya01,Intimacy Avoidance Q1,I prefer to keep romance out of my life,DomainQuestion
+intimacya02,Intimacy Avoidance Q2,I enjoy being in love,DomainQuestion
+intimacya03,Intimacy Avoidance Q3,I break off relationships if they start to get close,DomainQuestion
+intimacya04,Intimacy Avoidance Q4,I am just not very interested in having sexual relationships,DomainQuestion
+intimacya05,Intimacy Avoidance Q5,I steer clear of romantic relationships,DomainQuestion
+intimacya06,Intimacy Avoidance Q6,I prefer being alone to having a close romantic partner,DomainQuestion
+irrespons01,Irresponsibility Q1,Others see me as irresponsible,DomainQuestion
+irrespons02,Irresponsibility Q2,I am often pretty careless with my own and others’ things,DomainQuestion
+irrespons03,Irresponsibility Q3,I make promises that i do not really intend to keep,DomainQuestion
+irrespons04,Irresponsibility Q4,I often forget to pay my bills,DomainQuestion
+irrespons05,Irresponsibility Q5,I have skipped town to avoid responsibilities,DomainQuestion
+irrespons06,Irresponsibility Q6,I just skip appointments or meetings if i am not in the mood,DomainQuestion
+irrespons07,Irresponsibility Q7,I follow through on commitments,DomainQuestion
+manipulat01,Manipulativeness Q1,I am good at making people do what i want them to do,DomainQuestion
+manipulat02,Manipulativeness Q2,Sweet-talking others helps me get what i want,DomainQuestion
+manipulat03,Manipulativeness Q3,I am good at conning people,DomainQuestion
+manipulat04,Manipulativeness Q4,I can certainly turn on the charm if i need to get my way,DomainQuestion
+manipulat05,Manipulativeness Q5,It is easy for me to take advantage of others,DomainQuestion
+perceptua01,Perceptual Dysregulation Q1,I can have trouble telling the difference between dreams and waking life,DomainQuestion
+perceptua02,Perceptual Dysregulation Q2,Sometimes i get this weird feeling that parts of my body feel like they are dead or not really me,DomainQuestion
+perceptua03,Perceptual Dysregulation Q3,People often talk about me doing things i do not remember at all,DomainQuestion
+perceptua04,Perceptual Dysregulation Q4,It is weird but sometimes ordinary objects seem to be a different shape than usual,DomainQuestion
+perceptua05,Perceptual Dysregulation Q5,I often see vivid dream-like images when i am falling asleep or waking up,DomainQuestion
+perceptua06,Perceptual Dysregulation Q6,Sometimes when i look at a familiar object it is somehow like i am seeing it for the first time,DomainQuestion
+perceptua07,Perceptual Dysregulation Q7,I often can not control what i think about,DomainQuestion
+perceptua08,Perceptual Dysregulation Q8,Sometimes i feel controlled by thoughts that belong to someone else,DomainQuestion
+perceptua09,Perceptual Dysregulation Q9,Sometimes i think someone else is removing thoughts from my head,DomainQuestion
+perceptua10,Perceptual Dysregulation Q10,I have periods in which i feel disconnected from the world or from myself,DomainQuestion
+perceptua11,Perceptual Dysregulation Q11,I often zone out and then suddenly come to and realize that a lot of time has passed,DomainQuestion
+perceptua12,Perceptual Dysregulation Q12,Things around me often feel unreal or more real than usual,DomainQuestion
+persevera01,Perseveration Q1,It is hard for me to stop an activity even when it is time to do so,DomainQuestion
+persevera02,Perseveration Q2,I have missed out on things because i was busy trying to get something i was doing exactly right,DomainQuestion
+persevera03,Perseveration Q3,I keep approaching things the same way even when it is not working,DomainQuestion
+persevera04,Perseveration Q4,It is hard for me to shift from one activity to another,DomainQuestion
+persevera05,Perseveration Q5,I have trouble changing how i am doing something even if what i am doing is not going well,DomainQuestion
+persevera06,Perseveration Q6,I get fixated on certain things and can not stop,DomainQuestion
+persevera07,Perseveration Q7,I get stuck on things a lot,DomainQuestion
+persevera08,Perseveration Q8,I get stuck on one way of doing things even when it is clear it will not work,DomainQuestion
+persevera09,Perseveration Q9,I feel compelled to go on with things even when it makes little sense to do so,DomainQuestion
+restricte01,Restricted Affectivity Q1,When it comes to my emotions people tell me i am a cold fish,DomainQuestion
+restricte02,Restricted Affectivity Q2,I do not have very long-lasting emotional reactions to things,DomainQuestion
+restricte03,Restricted Affectivity Q3,I do not get emotional,DomainQuestion
+restricte04,Restricted Affectivity Q4,I do not show emotions strongly,DomainQuestion
+restricte05,Restricted Affectivity Q5,People tell me it is difficult to know what i am feeling,DomainQuestion
+restricte06,Restricted Affectivity Q6,I never show emotions to others,DomainQuestion
+restricte07,Restricted Affectivity Q7,I do not react much to things that seem to make others emotional,DomainQuestion
+rigidperf01,Rigid Perfectionism Q1,I have been told that i spend too much time making sure things are exactly in place,DomainQuestion
+rigidperf02,Rigid Perfectionism Q2,People tell me that i focus too much on minor details,DomainQuestion
+rigidperf03,Rigid Perfectionism Q3,If something i do is not absolutely perfect it is simply not acceptable,DomainQuestion
+rigidperf04,Rigid Perfectionism Q4,People complain about my need to have everything all arranged,DomainQuestion
+rigidperf05,Rigid Perfectionism Q5,Even though it drives other people crazy i insist on absolute perfection in everything i do,DomainQuestion
+rigidperf06,Rigid Perfectionism Q6,I check things several times to make sure they are perfect,DomainQuestion
+rigidperf07,Rigid Perfectionism Q7,It is important to me that things are done in a certain way,DomainQuestion
+rigidperf08,Rigid Perfectionism Q8,I keep trying to make things perfect even when i have gotten them as good as they are likely to get,DomainQuestion
+rigidperf09,Rigid Perfectionism Q9,I simply will not put up with things being out of their proper places,DomainQuestion
+rigidperf10,Rigid Perfectionism Q10,I have a strict way of doing things,DomainQuestion
+risktakin01,Risk Taking Q1,People would describe me as reckless,DomainQuestion
+risktakin02,Risk Taking Q2,I avoid risky situations,DomainQuestion
+risktakin03,Risk Taking Q3,I avoid risky sports and activities,DomainQuestion
+risktakin04,Risk Taking Q4,I have no limits when it comes to doing dangerous things,DomainQuestion
+risktakin05,Risk Taking Q5,I do a lot of things that others consider risky,DomainQuestion
+risktakin06,Risk Taking Q6,I like to take risks,DomainQuestion
+risktakin07,Risk Taking Q7,When i want to do something i do not let the possibility that it might be risky stop me,DomainQuestion
+risktakin08,Risk Taking Q8,I avoid anything that might be even a little bit dangerous,DomainQuestion
+risktakin09,Risk Taking Q9,I prefer to play it safe rather than take unnecessary chances,DomainQuestion
+risktakin10,Risk Taking Q10,I do not mind a little risk now and then,DomainQuestion
+risktakin11,Risk Taking Q11,I do what i want regardless of how unsafe it might be,DomainQuestion
+risktakin12,Risk Taking Q12,I never take risks,DomainQuestion
+risktakin13,Risk Taking Q13,I do not think about getting hurt when i am doing things that might be dangerous,DomainQuestion
+risktakin14,Risk Taking Q14,I hate to take chances,DomainQuestion
+separatio01,Separation Insecurity Q1,I dread being without someone to love me,DomainQuestion
+separatio02,Separation Insecurity Q2,I worry a lot about being alone,DomainQuestion
+separatio03,Separation Insecurity Q3,I hade rather be in a bad relationship than be alone,DomainQuestion
+separatio04,Separation Insecurity Q4,I can not stand being left alone even for a few hours,DomainQuestion
+separatio05,Separation Insecurity Q5,I fear being alone in life more than anything else,DomainQuestion
+separatio06,Separation Insecurity Q6,I will do just about anything to keep someone from abandoning me,DomainQuestion
+separatio07,Separation Insecurity Q7,I never want to be alone,DomainQuestion
+submissiv01,Submissiveness Q1,I change what i do depending on what others want,DomainQuestion
+submissiv02,Submissiveness Q2,I usually do what others think i should do,DomainQuestion
+submissiv03,Submissiveness Q3,I do what other people tell me to do,DomainQuestion
+submissiv04,Submissiveness Q4,I try to do what others want me to do,DomainQuestion
+suspiciou01,Suspiciousness Q1,Plenty of people are out to get me,DomainQuestion
+suspiciou02,Suspiciousness Q2,Others would take advantage of me if they could,DomainQuestion
+suspiciou03,Suspiciousness Q3,I am always on my guard for someone trying to trick or harm me,DomainQuestion
+suspiciou04,Suspiciousness Q4,People are basically trustworthy,DomainQuestion
+suspiciou05,Suspiciousness Q5,It seems like i am always getting a raw deal from others,DomainQuestion
+suspiciou06,Suspiciousness Q6,I rarely feel that people i know are trying to take advantage of me,DomainQuestion
+suspiciou07,Suspiciousness Q7,I suspect that even my so-called friends betray me a lot,DomainQuestion
+unusualbe01,Unusual Beliefs & Experiences Q1,I have some unusual abilities like sometimes knowing exactly what someone is thinking,DomainQuestion
+unusualbe02,Unusual Beliefs & Experiences Q2,I sometimes have heard things that others could not hear,DomainQuestion
+unusualbe03,Unusual Beliefs & Experiences Q3,I often have unusual experiences such as sensing the presence of someone who is not actually there,DomainQuestion
+unusualbe04,Unusual Beliefs & Experiences Q4,I have seen things that were not really there,DomainQuestion
+unusualbe05,Unusual Beliefs & Experiences Q5,I believe that some people can move things with their minds,DomainQuestion
+unusualbe06,Unusual Beliefs & Experiences Q6,Sometimes i can influence other people just by sending my thoughts to them,DomainQuestion
+unusualbe07,Unusual Beliefs & Experiences Q7,I often see unusual connections between things that most people miss,DomainQuestion
+unusualbe08,Unusual Beliefs & Experiences Q8,I have had some really weird experiences that are very difficult to explain,DomainQuestion
+withdrawa01,Withdrawal Q1,I prefer not to get too close to people,DomainQuestion
+withdrawa02,Withdrawal Q2,I keep to myself,DomainQuestion
+withdrawa03,Withdrawal Q3,I go out of my way to avoid any kind of group activity,DomainQuestion
+withdrawa04,Withdrawal Q4,I keep my distance from people,DomainQuestion
+withdrawa05,Withdrawal Q5,I do not like spending time with others,DomainQuestion
+withdrawa06,Withdrawal Q6,I am not interested in making friends,DomainQuestion
+withdrawa07,Withdrawal Q7,I say as little as possible when dealing with people,DomainQuestion
+withdrawa08,Withdrawal Q8,I do not like to get too close to people,DomainQuestion
+withdrawa09,Withdrawal Q9,I do not deal with people unless i have to,DomainQuestion
+withdrawa10,Withdrawal Q10,I avoid social events,DomainQuestion

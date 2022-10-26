@@ -1,0 +1,518 @@
+﻿:START_ID,name,:END_ID,:TYPE
+separa0001,Separation Insecurity,abandon4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,ability4,CONTAINS
+rigid0001,Rigid Perfectionism,absolute4,CONTAINS
+rigid0001,Rigid Perfectionism,acceptable4,CONTAINS
+distra0001,Distractibility,achieve4,CONTAINS
+grandi0001,Grandiosity,achieve4,CONTAINS
+restri0001,Restricted Affectivity,action4,CONTAINS
+emotio0001,Emotional Lability,action4,CONTAINS
+callou0001,Callousness,action4,CONTAINS
+distra0001,Distractibility,action4,CONTAINS
+riskt0001,Risk Taking,activities4,CONTAINS
+anhedo0001,Anhedonia,activities4,CONTAINS
+persev0001,Perseveration,activity4,CONTAINS
+withdr0001,Withdrawal,activity4,CONTAINS
+attent0001,Attention Seeking,admire4,CONTAINS
+suspic0001,Suspiciousness,advantage4,CONTAINS
+deceit0001,Deceitfulness,advantage4,CONTAINS
+manipu0001,Manipulativeness,advantage4,CONTAINS
+distra0001,Distractibility,ahead4,CONTAINS
+deceit0001,Deceitfulness,ahead4,CONTAINS
+separa0001,Separation Insecurity,alone4,CONTAINS
+intima0001,Intimacy Avoidance,alone4,CONTAINS
+hostil0001,Hostility,anger4,CONTAINS
+hostil0001,Hostility,angry4,CONTAINS
+anxiou0001,Anxiousness,anxious4,CONTAINS
+distra0001,Distractibility,anything4,CONTAINS
+riskt0001,Risk Taking,anything4,CONTAINS
+separa0001,Separation Insecurity,anything4,CONTAINS
+anhedo0001,Anhedonia,anything4,CONTAINS
+irresp0001,Irresponsibility,appointment4,CONTAINS
+persev0001,Perseveration,approach4,CONTAINS
+rigid0001,Rigid Perfectionism,arrange4,CONTAINS
+depres0001,Depressivity,ashamed4,CONTAINS
+percep0001,Perceptual Dysregulation,asleep4,CONTAINS
+distra0001,Distractibility,attention4,CONTAINS
+attent0001,Attention Seeking,attention4,CONTAINS
+riskt0001,Risk Taking,avoid4,CONTAINS
+withdr0001,Withdrawal,avoid4,CONTAINS
+irresp0001,Irresponsibility,avoid4,CONTAINS
+separa0001,Separation Insecurity,bad4,CONTAINS
+anxiou0001,Anxiousness,bad4,CONTAINS
+suspic0001,Suspiciousness,basically4,CONTAINS
+eccent0001,Eccentricity,behavior4,CONTAINS
+attent0001,Attention Seeking,behavior4,CONTAINS
+percep0001,Perceptual Dysregulation,belong4,CONTAINS
+suspic0001,Suspiciousness,betray4,CONTAINS
+impuls0001,Impulsivity,better4,CONTAINS
+depres0001,Depressivity,better4,CONTAINS
+grandi0001,Grandiosity,better4,CONTAINS
+callou0001,Callousness,big4,CONTAINS
+irresp0001,Irresponsibility,bill4,CONTAINS
+riskt0001,Risk Taking,bit4,CONTAINS
+eccent0001,Eccentricity,bit4,CONTAINS
+depres0001,Depressivity,bleak4,CONTAINS
+percep0001,Perceptual Dysregulation,body4,CONTAINS
+hostil0001,Hostility,body4,CONTAINS
+attent0001,Attention Seeking,bold4,CONTAINS
+callou0001,Callousness,bother4,CONTAINS
+intima0001,Intimacy Avoidance,break4,CONTAINS
+persev0001,Perseveration,busy4,CONTAINS
+distra0001,Distractibility,capture4,CONTAINS
+callou0001,Callousness,care4,CONTAINS
+irresp0001,Irresponsibility,care4,CONTAINS
+irresp0001,Irresponsibility,careless4,CONTAINS
+distra0001,Distractibility,catch4,CONTAINS
+riskt0001,Risk Taking,chance4,CONTAINS
+submis0001,Submissiveness,change4,CONTAINS
+emotio0001,Emotional Lability,change4,CONTAINS
+persev0001,Perseveration,changing4,CONTAINS
+hostil0001,Hostility,charge4,CONTAINS
+callou0001,Callousness,charge4,CONTAINS
+manipu0001,Manipulativeness,charm4,CONTAINS
+deceit0001,Deceitfulness,cheat4,CONTAINS
+rigid0001,Rigid Perfectionism,check4,CONTAINS
+persev0001,Perseveration,clear4,CONTAINS
+intima0001,Intimacy Avoidance,clear4,CONTAINS
+withdr0001,Withdrawal,close4,CONTAINS
+intima0001,Intimacy Avoidance,close4,CONTAINS
+restri0001,Restricted Affectivity,cold4,CONTAINS
+depres0001,Depressivity,commit4,CONTAINS
+irresp0001,Irresponsibility,commit4,CONTAINS
+irresp0001,Irresponsibility,commitment4,CONTAINS
+persev0001,Perseveration,compelled4,CONTAINS
+rigid0001,Rigid Perfectionism,complain4,CONTAINS
+distra0001,Distractibility,concentrate4,CONTAINS
+manipu0001,Manipulativeness,conn4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,connection4,CONTAINS
+percep0001,Perceptual Dysregulation,control4,CONTAINS
+callou0001,Callousness,control4,CONTAINS
+distra0001,Distractibility,conversation4,CONTAINS
+attent0001,Attention Seeking,crave4,CONTAINS
+rigid0001,Rigid Perfectionism,crazy4,CONTAINS
+attent0001,Attention Seeking,crowd4,CONTAINS
+riskt0001,Risk Taking,danger4,CONTAINS
+riskt0001,Risk Taking,dangerous4,CONTAINS
+anhedo0001,Anhedonia,day-to-day4,CONTAINS
+percep0001,Perceptual Dysregulation,dead4,CONTAINS
+depres0001,Depressivity,dead4,CONTAINS
+suspic0001,Suspiciousness,deal4,CONTAINS
+withdr0001,Withdrawal,deal4,CONTAINS
+callou0001,Callousness,deal4,CONTAINS
+grandi0001,Grandiosity,deal4,CONTAINS
+impuls0001,Impulsivity,decision4,CONTAINS
+submis0001,Submissiveness,depending4,CONTAINS
+riskt0001,Risk Taking,describe4,CONTAINS
+grandi0001,Grandiosity,deserve4,CONTAINS
+hostil0001,Hostility,deserve4,CONTAINS
+rigid0001,Rigid Perfectionism,detail4,CONTAINS
+percep0001,Perceptual Dysregulation,difference4,CONTAINS
+restri0001,Restricted Affectivity,difficult4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,difficult4,CONTAINS
+eccent0001,Eccentricity,direction4,CONTAINS
+percep0001,Perceptual Dysregulation,disconnect4,CONTAINS
+depres0001,Depressivity,dissatisfied4,CONTAINS
+withdr0001,Withdrawal,distance4,CONTAINS
+distra0001,Distractibility,distract4,CONTAINS
+attent0001,Attention Seeking,drawing4,CONTAINS
+separa0001,Separation Insecurity,dread4,CONTAINS
+percep0001,Perceptual Dysregulation,dream4,CONTAINS
+percep0001,Perceptual Dysregulation,dream-like4,CONTAINS
+rigid0001,Rigid Perfectionism,drive4,CONTAINS
+hostil0001,Hostility,easily4,CONTAINS
+emotio0001,Emotional Lability,easily4,CONTAINS
+distra0001,Distractibility,easily4,CONTAINS
+deceit0001,Deceitfulness,easily4,CONTAINS
+manipu0001,Manipulativeness,easy4,CONTAINS
+eccent0001,Eccentricity,eccentric4,CONTAINS
+anxiou0001,Anxiousness,edge4,CONTAINS
+restri0001,Restricted Affectivity,emotion4,CONTAINS
+emotio0001,Emotional Lability,emotion4,CONTAINS
+anhedo0001,Anhedonia,energetic4,CONTAINS
+anhedo0001,Anhedonia,enjoy4,CONTAINS
+intima0001,Intimacy Avoidance,enjoy4,CONTAINS
+callou0001,Callousness,enjoy4,CONTAINS
+anhedo0001,Anhedonia,enthusiastic4,CONTAINS
+withdr0001,Withdrawal,event4,CONTAINS
+emotio0001,Emotional Lability,every4,CONTAINS
+anxiou0001,Anxiousness,every4,CONTAINS
+grandi0001,Grandiosity,every4,CONTAINS
+rigid0001,Rigid Perfectionism,every4,CONTAINS
+depres0001,Depressivity,every4,CONTAINS
+deceit0001,Deceitfulness,exaggerate4,CONTAINS
+anxiou0001,Anxiousness,expect4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,experience4,CONTAINS
+eccent0001,Eccentricity,explain4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,explain4,CONTAINS
+depres0001,Depressivity,failure4,CONTAINS
+percep0001,Perceptual Dysregulation,fall4,CONTAINS
+percep0001,Perceptual Dysregulation,familiar4,CONTAINS
+separa0001,Separation Insecurity,fear4,CONTAINS
+anxiou0001,Anxiousness,fear4,CONTAINS
+impuls0001,Impulsivity,feeling4,CONTAINS
+depres0001,Depressivity,feeling4,CONTAINS
+percep0001,Perceptual Dysregulation,feeling4,CONTAINS
+callou0001,Callousness,feeling4,CONTAINS
+restri0001,Restricted Affectivity,feeling4,CONTAINS
+anhedo0001,Anhedonia,feeling4,CONTAINS
+persev0001,Perseveration,feeling4,CONTAINS
+suspic0001,Suspiciousness,feeling4,CONTAINS
+callou0001,Callousness,fight4,CONTAINS
+eccent0001,Eccentricity,find4,CONTAINS
+restri0001,Restricted Affectivity,fish4,CONTAINS
+persev0001,Perseveration,fixate4,CONTAINS
+deceit0001,Deceitfulness,flatter4,CONTAINS
+rigid0001,Rigid Perfectionism,focus4,CONTAINS
+distra0001,Distractibility,focus4,CONTAINS
+irresp0001,Irresponsibility,follow4,CONTAINS
+irresp0001,Irresponsibility,forget4,CONTAINS
+callou0001,Callousness,friend4,CONTAINS
+withdr0001,Withdrawal,friend4,CONTAINS
+suspic0001,Suspiciousness,friend4,CONTAINS
+anhedo0001,Anhedonia,fullest4,CONTAINS
+depres0001,Depressivity,future4,CONTAINS
+anxiou0001,Anxiousness,future4,CONTAINS
+distra0001,Distractibility,goal4,CONTAINS
+emotio0001,Emotional Lability,good4,CONTAINS
+distra0001,Distractibility,good4,CONTAINS
+manipu0001,Manipulativeness,good4,CONTAINS
+anhedo0001,Anhedonia,good4,CONTAINS
+rigid0001,Rigid Perfectionism,good4,CONTAINS
+attent0001,Attention Seeking,grab4,CONTAINS
+withdr0001,Withdrawal,group4,CONTAINS
+suspic0001,Suspiciousness,guard4,CONTAINS
+callou0001,Callousness,guilty4,CONTAINS
+depres0001,Depressivity,guilty4,CONTAINS
+eccent0001,Eccentricity,habit4,CONTAINS
+impuls0001,Impulsivity,happen4,CONTAINS
+deceit0001,Deceitfulness,happen4,CONTAINS
+anxiou0001,Anxiousness,happen4,CONTAINS
+anhedo0001,Anhedonia,happy4,CONTAINS
+persev0001,Perseveration,hard4,CONTAINS
+deceit0001,Deceitfulness,hard4,CONTAINS
+callou0001,Callousness,harm4,CONTAINS
+suspic0001,Suspiciousness,harm4,CONTAINS
+manipu0001,Manipulativeness,harm4,CONTAINS
+riskt0001,Risk Taking,hate4,CONTAINS
+distra0001,Distractibility,head4,CONTAINS
+deceit0001,Deceitfulness,head4,CONTAINS
+percep0001,Perceptual Dysregulation,head4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,hear4,CONTAINS
+deceit0001,Deceitfulness,hesitate4,CONTAINS
+emotio0001,Emotional Lability,highly4,CONTAINS
+callou0001,Callousness,hit4,CONTAINS
+grandi0001,Grandiosity,honest4,CONTAINS
+depres0001,Depressivity,hopeless4,CONTAINS
+hostil0001,Hostility,hostile4,CONTAINS
+separa0001,Separation Insecurity,hour4,CONTAINS
+callou0001,Callousness,hurt4,CONTAINS
+riskt0001,Risk Taking,hurt4,CONTAINS
+eccent0001,Eccentricity,idea4,CONTAINS
+percep0001,Perceptual Dysregulation,image4,CONTAINS
+impuls0001,Impulsivity,impulse4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,influence4,CONTAINS
+rigid0001,Rigid Perfectionism,insist4,CONTAINS
+hostil0001,Hostility,insult4,CONTAINS
+irresp0001,Irresponsibility,intend4,CONTAINS
+anhedo0001,Anhedonia,interest4,CONTAINS
+intima0001,Intimacy Avoidance,interest4,CONTAINS
+withdr0001,Withdrawal,interest4,CONTAINS
+irresp0001,Irresponsibility,irresponsible4,CONTAINS
+hostil0001,Hostility,irritate4,CONTAINS
+withdr0001,Withdrawal,keep4,CONTAINS
+persev0001,Perseveration,keep4,CONTAINS
+intima0001,Intimacy Avoidance,keep4,CONTAINS
+distra0001,Distractibility,keep4,CONTAINS
+separa0001,Separation Insecurity,keep4,CONTAINS
+irresp0001,Irresponsibility,keep4,CONTAINS
+rigid0001,Rigid Perfectionism,keep4,CONTAINS
+withdr0001,Withdrawal,kind4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,know4,CONTAINS
+restri0001,Restricted Affectivity,last4,CONTAINS
+separa0001,Separation Insecurity,left4,CONTAINS
+anhedo0001,Anhedonia,life4,CONTAINS
+percep0001,Perceptual Dysregulation,life4,CONTAINS
+callou0001,Callousness,life4,CONTAINS
+intima0001,Intimacy Avoidance,life4,CONTAINS
+separa0001,Separation Insecurity,life4,CONTAINS
+depres0001,Depressivity,life4,CONTAINS
+riskt0001,Risk Taking,limit4,CONTAINS
+anhedo0001,Anhedonia,live4,CONTAINS
+restri0001,Restricted Affectivity,long4,CONTAINS
+distra0001,Distractibility,long4,CONTAINS
+percep0001,Perceptual Dysregulation,long4,CONTAINS
+distra0001,Distractibility,lose4,CONTAINS
+withdr0001,Withdrawal,lose4,CONTAINS
+intima0001,Intimacy Avoidance,lose4,CONTAINS
+riskt0001,Risk Taking,lot4,CONTAINS
+separa0001,Separation Insecurity,lot4,CONTAINS
+anxiou0001,Anxiousness,lot4,CONTAINS
+depres0001,Depressivity,lot4,CONTAINS
+persev0001,Perseveration,lot4,CONTAINS
+suspic0001,Suspiciousness,lot4,CONTAINS
+percep0001,Perceptual Dysregulation,lot4,CONTAINS
+separa0001,Separation Insecurity,love4,CONTAINS
+attent0001,Attention Seeking,love4,CONTAINS
+intima0001,Intimacy Avoidance,love4,CONTAINS
+deceit0001,Deceitfulness,lying4,CONTAINS
+impuls0001,Impulsivity,making4,CONTAINS
+rigid0001,Rigid Perfectionism,making4,CONTAINS
+manipu0001,Manipulativeness,making4,CONTAINS
+withdr0001,Withdrawal,making4,CONTAINS
+callou0001,Callousness,making4,CONTAINS
+depres0001,Depressivity,matter4,CONTAINS
+hostil0001,Hostility,mean4,CONTAINS
+deceit0001,Deceitfulness,mean4,CONTAINS
+irresp0001,Irresponsibility,meet4,CONTAINS
+riskt0001,Risk Taking,mind4,CONTAINS
+distra0001,Distractibility,mind4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,mind4,CONTAINS
+callou0001,Callousness,mind4,CONTAINS
+rigid0001,Rigid Perfectionism,minor4,CONTAINS
+hostil0001,Hostility,minor4,CONTAINS
+distra0001,Distractibility,minor4,CONTAINS
+depres0001,Depressivity,miserable4,CONTAINS
+persev0001,Perseveration,miss4,CONTAINS
+anxiou0001,Anxiousness,mistake4,CONTAINS
+impuls0001,Impulsivity,moment4,CONTAINS
+emotio0001,Emotional Lability,moment4,CONTAINS
+irresp0001,Irresponsibility,mood4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,move4,CONTAINS
+hostil0001,Hostility,nasty4,CONTAINS
+anxiou0001,Anxiousness,nervous4,CONTAINS
+anhedo0001,Anhedonia,nothing4,CONTAINS
+depres0001,Depressivity,nothing4,CONTAINS
+attent0001,Attention Seeking,notice4,CONTAINS
+eccent0001,Eccentricity,number4,CONTAINS
+percep0001,Perceptual Dysregulation,object4,CONTAINS
+eccent0001,Eccentricity,odd4,CONTAINS
+distra0001,Distractibility,off-task4,CONTAINS
+percep0001,Perceptual Dysregulation,ordinary4,CONTAINS
+grandi0001,Grandiosity,outstanding4,CONTAINS
+intima0001,Intimacy Avoidance,partner4,CONTAINS
+percep0001,Perceptual Dysregulation,pass4,CONTAINS
+irresp0001,Irresponsibility,pay4,CONTAINS
+suspic0001,Suspiciousness,people4,CONTAINS
+riskt0001,Risk Taking,people4,CONTAINS
+restri0001,Restricted Affectivity,people4,CONTAINS
+withdr0001,Withdrawal,people4,CONTAINS
+attent0001,Attention Seeking,people4,CONTAINS
+callou0001,Callousness,people4,CONTAINS
+eccent0001,Eccentricity,people4,CONTAINS
+hostil0001,Hostility,people4,CONTAINS
+grandi0001,Grandiosity,people4,CONTAINS
+percep0001,Perceptual Dysregulation,people4,CONTAINS
+rigid0001,Rigid Perfectionism,people4,CONTAINS
+deceit0001,Deceitfulness,people4,CONTAINS
+submis0001,Submissiveness,people4,CONTAINS
+depres0001,Depressivity,people4,CONTAINS
+manipu0001,Manipulativeness,people4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,people4,CONTAINS
+rigid0001,Rigid Perfectionism,perfect4,CONTAINS
+rigid0001,Rigid Perfectionism,perfection4,CONTAINS
+distra0001,Distractibility,period4,CONTAINS
+percep0001,Perceptual Dysregulation,period4,CONTAINS
+anhedo0001,Anhedonia,person4,CONTAINS
+callou0001,Callousness,person4,CONTAINS
+emotio0001,Emotional Lability,person4,CONTAINS
+anxiou0001,Anxiousness,person4,CONTAINS
+depres0001,Depressivity,person4,CONTAINS
+attent0001,Attention Seeking,person4,CONTAINS
+callou0001,Callousness,physical4,CONTAINS
+rigid0001,Rigid Perfectionism,place4,CONTAINS
+distra0001,Distractibility,plan4,CONTAINS
+riskt0001,Risk Taking,play4,CONTAINS
+anhedo0001,Anhedonia,pleasure4,CONTAINS
+suspic0001,Suspiciousness,plenty4,CONTAINS
+depres0001,Depressivity,point4,CONTAINS
+irresp0001,Irresponsibility,point4,CONTAINS
+callou0001,Callousness,point4,CONTAINS
+grandi0001,Grandiosity,possessing4,CONTAINS
+riskt0001,Risk Taking,possibility4,CONTAINS
+withdr0001,Withdrawal,prefer4,CONTAINS
+intima0001,Intimacy Avoidance,prefer4,CONTAINS
+riskt0001,Risk Taking,prefer4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,presence4,CONTAINS
+irresp0001,Irresponsibility,pretty4,CONTAINS
+depres0001,Depressivity,pretty4,CONTAINS
+hostil0001,Hostility,pretty4,CONTAINS
+callou0001,Callousness,problem4,CONTAINS
+irresp0001,Irresponsibility,promise4,CONTAINS
+rigid0001,Rigid Perfectionism,proper4,CONTAINS
+distra0001,Distractibility,pulled4,CONTAINS
+distra0001,Distractibility,pursuing4,CONTAINS
+grandi0001,Grandiosity,qualities4,CONTAINS
+eccent0001,Eccentricity,quirk4,CONTAINS
+anxiou0001,Anxiousness,rare4,CONTAINS
+suspic0001,Suspiciousness,rare4,CONTAINS
+anhedo0001,Anhedonia,rare4,CONTAINS
+impuls0001,Impulsivity,rash4,CONTAINS
+suspic0001,Suspiciousness,raw4,CONTAINS
+attent0001,Attention Seeking,raw4,CONTAINS
+restri0001,Restricted Affectivity,react4,CONTAINS
+emotio0001,Emotional Lability,react4,CONTAINS
+callou0001,Callousness,real4,CONTAINS
+eccent0001,Eccentricity,real4,CONTAINS
+depres0001,Depressivity,real4,CONTAINS
+percep0001,Perceptual Dysregulation,real4,CONTAINS
+deceit0001,Deceitfulness,real4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,real4,CONTAINS
+anhedo0001,Anhedonia,real4,CONTAINS
+irresp0001,Irresponsibility,real4,CONTAINS
+hostil0001,Hostility,real4,CONTAINS
+deceit0001,Deceitfulness,realize4,CONTAINS
+percep0001,Perceptual Dysregulation,realize4,CONTAINS
+emotio0001,Emotional Lability,reason4,CONTAINS
+riskt0001,Risk Taking,reckless4,CONTAINS
+separa0001,Separation Insecurity,relationship4,CONTAINS
+intima0001,Intimacy Avoidance,relationship4,CONTAINS
+percep0001,Perceptual Dysregulation,remember4,CONTAINS
+callou0001,Callousness,remind4,CONTAINS
+percep0001,Perceptual Dysregulation,removing4,CONTAINS
+hostil0001,Hostility,resent4,CONTAINS
+irresp0001,Irresponsibility,responsibilities4,CONTAINS
+impuls0001,Impulsivity,result4,CONTAINS
+riskt0001,Risk Taking,risk4,CONTAINS
+intima0001,Intimacy Avoidance,romance4,CONTAINS
+intima0001,Intimacy Avoidance,romantic4,CONTAINS
+callou0001,Callousness,rude4,CONTAINS
+riskt0001,Risk Taking,safe4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,send4,CONTAINS
+eccent0001,Eccentricity,sense4,CONTAINS
+persev0001,Perseveration,sense4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,sensing4,CONTAINS
+intima0001,Intimacy Avoidance,sex4,CONTAINS
+percep0001,Perceptual Dysregulation,shape4,CONTAINS
+persev0001,Perseveration,shift4,CONTAINS
+distra0001,Distractibility,short4,CONTAINS
+hostil0001,Hostility,short4,CONTAINS
+rigid0001,Rigid Perfectionism,simply4,CONTAINS
+riskt0001,Risk Taking,situation4,CONTAINS
+irresp0001,Irresponsibility,skip4,CONTAINS
+hostil0001,Hostility,snap4,CONTAINS
+deceit0001,Deceitfulness,sneaky4,CONTAINS
+suspic0001,Suspiciousness,so-called4,CONTAINS
+withdr0001,Withdrawal,social24,CONTAINS
+persev0001,Perseveration,something4,CONTAINS
+eccent0001,Eccentricity,something4,CONTAINS
+deceit0001,Deceitfulness,something4,CONTAINS
+riskt0001,Risk Taking,something4,CONTAINS
+anxiou0001,Anxiousness,something4,CONTAINS
+rigid0001,Rigid Perfectionism,something4,CONTAINS
+depres0001,Depressivity,sooner4,CONTAINS
+hostil0001,Hostility,sort4,CONTAINS
+grandi0001,Grandiosity,special4,CONTAINS
+distra0001,Distractibility,specific4,CONTAINS
+rigid0001,Rigid Perfectionism,spend4,CONTAINS
+withdr0001,Withdrawal,spend4,CONTAINS
+riskt0001,Risk Taking,sport4,CONTAINS
+impuls0001,Impulsivity,spur4,CONTAINS
+separa0001,Separation Insecurity,standing4,CONTAINS
+grandi0001,Grandiosity,standing4,CONTAINS
+attent0001,Attention Seeking,standing4,CONTAINS
+intima0001,Intimacy Avoidance,start4,CONTAINS
+intima0001,Intimacy Avoidance,steer4,CONTAINS
+callou0001,Callousness,step4,CONTAINS
+deceit0001,Deceitfulness,stories4,CONTAINS
+eccent0001,Eccentricity,strange4,CONTAINS
+deceit0001,Deceitfulness,stretch4,CONTAINS
+rigid0001,Rigid Perfectionism,strict4,CONTAINS
+emotio0001,Emotional Lability,stronger4,CONTAINS
+persev0001,Perseveration,stuck4,CONTAINS
+callou0001,Callousness,stupid4,CONTAINS
+percep0001,Perceptual Dysregulation,suddenly4,CONTAINS
+callou0001,Callousness,suffering4,CONTAINS
+depres0001,Depressivity,suicide4,CONTAINS
+suspic0001,Suspiciousness,suspect4,CONTAINS
+manipu0001,Manipulativeness,sweet-talk4,CONTAINS
+percep0001,Perceptual Dysregulation,talk4,CONTAINS
+depres0001,Depressivity,talk4,CONTAINS
+manipu0001,Manipulativeness,talk4,CONTAINS
+percep0001,Perceptual Dysregulation,telling4,CONTAINS
+hostil0001,Hostility,temper4,CONTAINS
+anxiou0001,Anxiousness,terrible4,CONTAINS
+anhedo0001,Anhedonia,thing4,CONTAINS
+distra0001,Distractibility,thing4,CONTAINS
+attent0001,Attention Seeking,thing4,CONTAINS
+impuls0001,Impulsivity,thing4,CONTAINS
+eccent0001,Eccentricity,thing4,CONTAINS
+depres0001,Depressivity,thing4,CONTAINS
+hostil0001,Hostility,thing4,CONTAINS
+rigid0001,Rigid Perfectionism,thing4,CONTAINS
+riskt0001,Risk Taking,thing4,CONTAINS
+deceit0001,Deceitfulness,thing4,CONTAINS
+percep0001,Perceptual Dysregulation,thing4,CONTAINS
+restri0001,Restricted Affectivity,thing4,CONTAINS
+persev0001,Perseveration,thing4,CONTAINS
+anxiou0001,Anxiousness,thing4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,thing4,CONTAINS
+separa0001,Separation Insecurity,thing4,CONTAINS
+irresp0001,Irresponsibility,thing4,CONTAINS
+emotio0001,Emotional Lability,thing4,CONTAINS
+callou0001,Callousness,thing4,CONTAINS
+impuls0001,Impulsivity,think4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,think4,CONTAINS
+eccent0001,Eccentricity,thought4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,thought4,CONTAINS
+percep0001,Perceptual Dysregulation,thought4,CONTAINS
+emotio0001,Emotional Lability,time4,CONTAINS
+rigid0001,Rigid Perfectionism,time4,CONTAINS
+percep0001,Perceptual Dysregulation,time4,CONTAINS
+persev0001,Perseveration,time4,CONTAINS
+distra0001,Distractibility,time4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,time4,CONTAINS
+deceit0001,Deceitfulness,time4,CONTAINS
+withdr0001,Withdrawal,time4,CONTAINS
+callou0001,Callousness,time4,CONTAINS
+depres0001,Depressivity,time4,CONTAINS
+callou0001,Callousness,toe4,CONTAINS
+eccent0001,Eccentricity,told4,CONTAINS
+rigid0001,Rigid Perfectionism,told4,CONTAINS
+hostil0001,Hostility,told4,CONTAINS
+impuls0001,Impulsivity,totally4,CONTAINS
+deceit0001,Deceitfulness,totally4,CONTAINS
+irresp0001,Irresponsibility,town4,CONTAINS
+distra0001,Distractibility,track4,CONTAINS
+grandi0001,Grandiosity,treatment4,CONTAINS
+suspic0001,Suspiciousness,trick4,CONTAINS
+percep0001,Perceptual Dysregulation,trouble4,CONTAINS
+persev0001,Perseveration,trouble4,CONTAINS
+distra0001,Distractibility,trouble4,CONTAINS
+suspic0001,Suspiciousness,trustworthy4,CONTAINS
+deceit0001,Deceitfulness,truth4,CONTAINS
+persev0001,Perseveration,try4,CONTAINS
+suspic0001,Suspiciousness,try4,CONTAINS
+deceit0001,Deceitfulness,try4,CONTAINS
+rigid0001,Rigid Perfectionism,try4,CONTAINS
+submis0001,Submissiveness,try4,CONTAINS
+manipu0001,Manipulativeness,turn4,CONTAINS
+callou0001,Callousness,unfriendly4,CONTAINS
+riskt0001,Risk Taking,unnecessary4,CONTAINS
+eccent0001,Eccentricity,unpredictable4,CONTAINS
+emotio0001,Emotional Lability,unpredictable4,CONTAINS
+percep0001,Perceptual Dysregulation,unreal4,CONTAINS
+riskt0001,Risk Taking,unsafe4,CONTAINS
+deceit0001,Deceitfulness,untrue4,CONTAINS
+eccent0001,Eccentricity,unusual4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,unusual4,CONTAINS
+depres0001,Depressivity,useless4,CONTAINS
+eccent0001,Eccentricity,usual4,CONTAINS
+submis0001,Submissiveness,usual4,CONTAINS
+impuls0001,Impulsivity,usual4,CONTAINS
+percep0001,Perceptual Dysregulation,usual4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,usual4,CONTAINS
+hostil0001,Hostility,usual4,CONTAINS
+percep0001,Perceptual Dysregulation,vivid4,CONTAINS
+percep0001,Perceptual Dysregulation,waking4,CONTAINS
+eccent0001,Eccentricity,weird4,CONTAINS
+percep0001,Perceptual Dysregulation,weird4,CONTAINS
+unusua0001,Unusual Beliefs & Experiences,weird4,CONTAINS
+persev0001,Perseveration,work4,CONTAINS
+separa0001,Separation Insecurity,worry4,CONTAINS
+anxiou0001,Anxiousness,worry4,CONTAINS
+anxiou0001,Anxiousness,worst4,CONTAINS
+suspic0001,Suspiciousness,worth4,CONTAINS
+depres0001,Depressivity,worth4,CONTAINS
+hostil0001,Hostility,wrong4,CONTAINS
+percep0001,Perceptual Dysregulation,zone4,CONTAINS

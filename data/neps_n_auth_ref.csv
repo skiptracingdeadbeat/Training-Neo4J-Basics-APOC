@@ -1,0 +1,85 @@
+﻿authrefID:ID,name,description,:LABEL
+cfr15007001,15 CFR 700,DPAS Priority Rating,Reference
+cfr1500700122,15 CFR 700.12,Elements of a Rated Order,Reference
+cdrl0a00233,CDRL A0023,ePS BP00200.1 through BP00200.3,Reference
+cdrl0a00234,CDRL A0023,ePS BP00100.1 Create LRAF,Reference
+cdrl0a0195,CDRL A019,ePS ICD for SAM,Reference
+cdrl0a0196,CDRL A019,ePS ICD for MOCAS,Reference
+cdrl0b0077,CDRL B007,Software Users Manual,Reference
+cgi0it0daily0report01,CGI IT Daily Report,CIT Test Reports & Cases,Reference
+cgi0it0daily0report8,CGI IT Daily Reports,CIT Test Cases TC00500.5_026,Reference
+cgi0it0daily0report9,CGI IT Daily Report,CIT Test Case TC00100.1,Reference
+crd06060610,CRD 6.6.6,Data Compliance,Reference
+dfars0204016010a011,DFARS 204.1601(a),Establishment of a Procurement Instrument Identifier (PIID),Reference
+dfars0204016030b000200ii00100i0012,DFARS 204.1603(b) (2)(ii)(1)(i) ,Elements of a supplementary PIID Positions 2 through 6,Reference
+dfars0204027013,DFARS 204.270,Electronic Data Access,Reference
+dfars020407114,DFARS 204.71,Uniform Contract Line Item Numbering System,Reference
+dfars020407103010a00200iii015,DFARS 204.7103-1(a)(2)(iii),Criteria for Establishing Associated Subline Items,Reference
+dfars020407104010a002016,DFARS 204.7104-1(a)(2),Solicitation line and subline item numbers,Reference
+dfars0204080217,DFARS 204.802,Contract files,Reference
+dfars0211010618,DFARS 211.106,Purchase descriptions for service contracts,Reference
+dfars02170740619,DFARS 217.7406,Undefinitized Contract Actions,Reference
+dfars022507720320,DFARS 225.772-3,Procedures,Reference
+dfars025221,DFARS 252,Solicitation Provisions & Contract Clauses,Reference
+dfars025202250705122,DFARS 252.225-7051,Prohibition on Acquisition of Certain Foreign Commercial Satellite Services,Reference
+dfars025323,DFARS 253,Forms,Reference
+dfars0253021307024,DFARS 253.213-70,Completion of DD Form 1155,Reference
+dfars0pgi020402010300i00b002025,DFARS PGI 204.201(3)(i)(B)(2),Distribution Procedures,Reference
+dfars0pgi0204060226,DFARS PGI 204.602,Contract Reporting,Reference
+dfars0pgi02040710327,DFARS PGI 204.7103,Contract line items,Reference
+dfars0pgi0204080428,DFARS PGI 204.804,Closeout of contract files,Reference
+dod0pds02060129,DoD PDS 2.6.1,Procurement Data Standard,Reference
+dod0prds030030,DoD PRDS 3.0,Purchase Request Data Standar,Reference
+eps0pws0para0403030131,ePS PWS para 4.3.3.1,Maintain SW compatibility and usability IAW SRS and TEMP,Reference
+far011060332,FAR 11.603,DPAS Priority Rating,Reference
+far01402010133,FAR 14.201-1,Uniform Contract Format,Reference
+far01502010133,FAR 15.201-1,Uniform Contract Format,Reference
+far01502030a001002034,FAR 15.203(a)(1)(2),RFP Anticipated terms and conditions,Reference
+far0150204020c035,FAR 15.204-2(c),Section C Description/specifications/statement of work,Reference
+far0150436,FAR 15.4,Contract Pricing,Reference
+far01504040437,FAR 15.404-4,Profit,Reference
+far016030438,FAR 16.304,Cost-plus-incentive-fee contracts,Reference
+far016050439,FAR 16.504,Indefinite-quantity contracts,Reference
+far031010240,FAR 31.102,Fixed price contracts,Reference
+far0390241,FAR 39.2,Electronic and Information Technology,Reference
+far040100542,FAR 4.1005,Data elements for line items and subline items,Reference
+far0401005010d043,FAR 4.1005-1(d),Required data elements,Reference
+far04016010a044,FAR 4.1601(a),Establishment of a Procurement Instrument Identifier (PIID),Reference
+far040160345,FAR 4.1603,Procedures,Reference
+far040160300b00200i046,FAR 4.1603 (b)(2)(i),Modifications Position 1,Reference
+far040160300b00200ii047,FAR 4.1603 (b)(2)(ii),Modifications Positions 2 through 6,Reference
+far04020248,FAR 4.202,Agency distribution requirements,Reference
+far040849,FAR 4.8,Government Contract Files,Reference
+far0408010a00b049,FAR 4.801(a)(b),Government Contract Files,Reference
+far04080250,FAR 4.802,Contract files,Reference
+far04080351,FAR 4.803,Contents of contract files,Reference
+far05010152,FAR 5.101,Methods of Disseminating Information(a)(1) to Contract Opportunities.,Reference
+far0502010a00100ii053,FAR 5.201(a)(1)(ii),Synopses of Contract Awards,Reference
+far05020754,FAR 5.207,Preparation and transmittal of synopses,Reference
+far05255,FAR 52,Contract Clauses and Provisions,Reference
+far05201040d056,FAR 52.104(d),Completing blanks in provisions or clauses incorporated by reference,Reference
+far052021602457,FAR 52.216-24,Limitation of Government Liability,Reference
+far053010358,FAR 53.103,Alteration of Standard Forms Prohibition,Reference
+far053010559,FAR 53.105,Computer Generated Forms,Reference
+far05302140a060,FAR 53.214(a),SF 26 prescribed by FAR (48 CFR),Reference
+fars05361,FARS 53,Forms,Reference
+fpds040100762,FPDS 4.10.7,Element 8Q,Reference
+nmcars0annex02563,NMCARS Annex 25,Long Range Acquisition Forecast,Reference
+peo0eis0200064,PEO EIS 2000,IT Security Controls for Moderate Categorized Systems - System and Information Integrity,Reference
+qed65,QED,Requirement(s) cited explicitly state(s) what the system shall do.,Reference
+section050801040466,Section 508 1.4.4,Resize Text,Reference
+section050803020367,Section 508 3.2.3,Consistent Navigation,Reference
+section050803020468,Section 508 3.2.4,Consistent Identification,Reference
+srs05010669,SRS 5.1.6,Data Compliance,Reference
+srs0v1050201050270,SRS v1.5 2.1.5.2,CWS Handshakes,Reference
+srs0v10505010271,SRS v1.5 5.1.2,Document Preview Rendering Time,Reference
+srs0v1050attach0372,SRS v1.5 Attach 3,Table 1.2.49,Reference
+srs0v1050attach0373,SRS v1.5 Attach 3,Table 1.1.12,Reference
+srs0v1050attach0374,SRS v1.5 Attach 3,Table 1.1.51,Reference
+srs0v1050attach0375,SRS v1.5 Attach 3,Table 1.2.49,Reference
+srs0v1050attach0376,SRS v1.5 Attach 3,Table 1.1.12,Reference
+srs0v1050spm77,SRS v1.5 SPM,Data Error Rejection ,Reference
+temp030378,TEMP 3.3,Developmental Test Approach,Reference
+temp03030179,TEMP 3.3.1,Mission-Oriented Approach (MOA),Reference
+temp0303020480,TEMP 3.3.2.4,Usability Testing Usability,Reference
+temp0303020681,TEMP 3.3.2.6,Improve Usability of Product,Reference

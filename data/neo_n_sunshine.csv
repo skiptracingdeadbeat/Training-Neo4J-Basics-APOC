@@ -1,0 +1,6 @@
+﻿sunrequirementsId:ID,name,:LABEL
+fullsun,Full Sun,Sunlight
+fullsuntopartialshade,Full Sun to Partial Shade,Sunlight
+partialordappledshade,Partial or Dappled Shade,Sunlight
+partialshadetofullshade,Partial Shade to Full Shade,Sunlight
+fullshade,Full Shade,Sunlight

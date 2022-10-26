@@ -1,0 +1,26 @@
+﻿:START_ID,name,:END_ID,:TYPE
+anhedo0001,Anhedonia,detach0001,FACET_OF
+anxiou0001,Anxiousness,negati0001,FACET_OF
+attent0001,Attention Seeking,antago0001,FACET_OF
+callou0001,Callousness,antago0001,FACET_OF
+deceit0001,Deceitfulness,antago0001,FACET_OF
+depres0001,Depressivity,detach0001,FACET_OF
+distra0001,Distractibility,disinh0001,FACET_OF
+eccent0001,Eccentricity,psycho0001,FACET_OF
+emotio0001,Emotional Lability,negati0001,FACET_OF
+grandi0001,Grandiosity,antago0001,FACET_OF
+hostil0001,Hostility,negati0001,FACET_OF
+impuls0001,Impulsivity,disinh0001,FACET_OF
+intima0001,Intimacy Avoidance,detach0001,FACET_OF
+irresp0001,Irresponsibility,disinh0001,FACET_OF
+manipu0001,Manipulativeness,antago0001,FACET_OF
+percep0001,Perceptual Dysregulation,psycho0001,FACET_OF
+persev0001,Perseveration,negati0001,FACET_OF
+restri0001,Restricted Affectivity,negati0001,FACET_OF
+rigid0001,Rigid Perfectionism,disinh0001,FACET_OF
+riskt0001,Risk Taking,disinh0001,FACET_OF
+separa0001,Separation Insecurity,negati0001,FACET_OF
+submis0001,Submissiveness,negati0001,FACET_OF
+suspic0001,Suspiciousness,detach0001,FACET_OF
+unusua0001,Unusual Beliefs & Experiences,psycho0001,FACET_OF
+withdr0001,Withdrawal,detach0001,FACET_OF

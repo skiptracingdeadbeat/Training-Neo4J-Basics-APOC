@@ -1,0 +1,221 @@
+﻿:START_ID,name,:END_ID,:TYPE
+anhedonia01,Anhedonia Q1,anhedo0001,INDICATES
+anhedonia02,Anhedonia Q2,anhedo0001,INDICATES
+anhedonia03,Anhedonia Q3,anhedo0001,INDICATES
+anhedonia04,Anhedonia Q4,anhedo0001,INDICATES
+anhedonia05,Anhedonia Q5,anhedo0001,INDICATES
+anhedonia06,Anhedonia Q6,anhedo0001,INDICATES
+anhedonia07,Anhedonia Q7,anhedo0001,INDICATES
+anhedonia08,Anhedonia Q8,anhedo0001,INDICATES
+anxiousne01,Anxiousness Q1,anxiou0001,INDICATES
+anxiousne02,Anxiousness Q2,anxiou0001,INDICATES
+anxiousne03,Anxiousness Q3,anxiou0001,INDICATES
+anxiousne04,Anxiousness Q4,anxiou0001,INDICATES
+anxiousne05,Anxiousness Q5,anxiou0001,INDICATES
+anxiousne06,Anxiousness Q6,anxiou0001,INDICATES
+anxiousne07,Anxiousness Q7,anxiou0001,INDICATES
+anxiousne08,Anxiousness Q8,anxiou0001,INDICATES
+anxiousne09,Anxiousness Q9,anxiou0001,INDICATES
+attention01,Attention Seeking Q1,attent0001,INDICATES
+attention02,Attention Seeking Q2,attent0001,INDICATES
+attention03,Attention Seeking Q3,attent0001,INDICATES
+attention04,Attention Seeking Q4,attent0001,INDICATES
+attention05,Attention Seeking Q5,attent0001,INDICATES
+attention06,Attention Seeking Q6,attent0001,INDICATES
+attention07,Attention Seeking Q7,attent0001,INDICATES
+attention08,Attention Seeking Q8,attent0001,INDICATES
+callousne01,Callousness Q1,callou0001,INDICATES
+callousne02,Callousness Q2,callou0001,INDICATES
+callousne03,Callousness Q3,callou0001,INDICATES
+callousne04,Callousness Q4,callou0001,INDICATES
+callousne05,Callousness Q5,callou0001,INDICATES
+callousne06,Callousness Q6,callou0001,INDICATES
+callousne07,Callousness Q7,callou0001,INDICATES
+callousne08,Callousness Q8,callou0001,INDICATES
+callousne09,Callousness Q9,callou0001,INDICATES
+callousne10,Callousness Q10,callou0001,INDICATES
+callousne11,Callousness Q11,callou0001,INDICATES
+callousne12,Callousness Q12,callou0001,INDICATES
+callousne13,Callousness Q13,callou0001,INDICATES
+callousne14,Callousness Q14,callou0001,INDICATES
+deceitful01,Deceitfulness Q1,deceit0001,INDICATES
+deceitful02,Deceitfulness Q2,deceit0001,INDICATES
+deceitful03,Deceitfulness Q3,deceit0001,INDICATES
+deceitful04,Deceitfulness Q4,deceit0001,INDICATES
+deceitful05,Deceitfulness Q5,deceit0001,INDICATES
+deceitful06,Deceitfulness Q6,deceit0001,INDICATES
+deceitful07,Deceitfulness Q7,deceit0001,INDICATES
+deceitful08,Deceitfulness Q8,deceit0001,INDICATES
+deceitful09,Deceitfulness Q9,deceit0001,INDICATES
+deceitful10,Deceitfulness Q10,deceit0001,INDICATES
+depressiv01,Depressivity Q1,depres0001,INDICATES
+depressiv02,Depressivity Q2,depres0001,INDICATES
+depressiv03,Depressivity Q3,depres0001,INDICATES
+depressiv04,Depressivity Q4,depres0001,INDICATES
+depressiv05,Depressivity Q5,depres0001,INDICATES
+depressiv06,Depressivity Q6,depres0001,INDICATES
+depressiv07,Depressivity Q7,depres0001,INDICATES
+depressiv08,Depressivity Q8,depres0001,INDICATES
+depressiv09,Depressivity Q9,depres0001,INDICATES
+depressiv10,Depressivity Q10,depres0001,INDICATES
+depressiv11,Depressivity Q11,depres0001,INDICATES
+depressiv12,Depressivity Q12,depres0001,INDICATES
+depressiv13,Depressivity Q13,depres0001,INDICATES
+depressiv14,Depressivity Q14,depres0001,INDICATES
+distracti01,Distractibility Q1,distra0001,INDICATES
+distracti02,Distractibility Q2,distra0001,INDICATES
+distracti03,Distractibility Q3,distra0001,INDICATES
+distracti04,Distractibility Q4,distra0001,INDICATES
+distracti05,Distractibility Q5,distra0001,INDICATES
+distracti06,Distractibility Q6,distra0001,INDICATES
+distracti07,Distractibility Q7,distra0001,INDICATES
+distracti08,Distractibility Q8,distra0001,INDICATES
+distracti09,Distractibility Q9,distra0001,INDICATES
+eccentric01,Eccentricity Q1,eccent0001,INDICATES
+eccentric02,Eccentricity Q2,eccent0001,INDICATES
+eccentric03,Eccentricity Q3,eccent0001,INDICATES
+eccentric04,Eccentricity Q4,eccent0001,INDICATES
+eccentric05,Eccentricity Q5,eccent0001,INDICATES
+eccentric06,Eccentricity Q6,eccent0001,INDICATES
+eccentric07,Eccentricity Q7,eccent0001,INDICATES
+eccentric08,Eccentricity Q8,eccent0001,INDICATES
+eccentric09,Eccentricity Q9,eccent0001,INDICATES
+eccentric10,Eccentricity Q10,eccent0001,INDICATES
+eccentric11,Eccentricity Q11,eccent0001,INDICATES
+eccentric12,Eccentricity Q12,eccent0001,INDICATES
+eccentric13,Eccentricity Q13,eccent0001,INDICATES
+emotional01,Emotional Lability Q1,emotio0001,INDICATES
+emotional02,Emotional Lability Q2,emotio0001,INDICATES
+emotional03,Emotional Lability Q3,emotio0001,INDICATES
+emotional04,Emotional Lability Q4,emotio0001,INDICATES
+emotional05,Emotional Lability Q5,emotio0001,INDICATES
+emotional06,Emotional Lability Q6,emotio0001,INDICATES
+emotional07,Emotional Lability Q7,emotio0001,INDICATES
+grandiosi01,Grandiosity Q1,grandi0001,INDICATES
+grandiosi02,Grandiosity Q2,grandi0001,INDICATES
+grandiosi03,Grandiosity Q3,grandi0001,INDICATES
+grandiosi04,Grandiosity Q4,grandi0001,INDICATES
+grandiosi05,Grandiosity Q5,grandi0001,INDICATES
+grandiosi06,Grandiosity Q6,grandi0001,INDICATES
+hostility01,Hostility Q1,hostil0001,INDICATES
+hostility02,Hostility Q2,hostil0001,INDICATES
+hostility03,Hostility Q3,hostil0001,INDICATES
+hostility04,Hostility Q4,hostil0001,INDICATES
+hostility05,Hostility Q5,hostil0001,INDICATES
+hostility06,Hostility Q6,hostil0001,INDICATES
+hostility07,Hostility Q7,hostil0001,INDICATES
+hostility08,Hostility Q8,hostil0001,INDICATES
+hostility09,Hostility Q9,hostil0001,INDICATES
+hostility10,Hostility Q10,hostil0001,INDICATES
+impulsivi01,Impulsivity Q1,impuls0001,INDICATES
+impulsivi02,Impulsivity Q2,impuls0001,INDICATES
+impulsivi03,Impulsivity Q3,impuls0001,INDICATES
+impulsivi04,Impulsivity Q4,impuls0001,INDICATES
+impulsivi05,Impulsivity Q5,impuls0001,INDICATES
+impulsivi06,Impulsivity Q6,impuls0001,INDICATES
+intimacya01,Intimacy Avoidance Q1,intima0001,INDICATES
+intimacya02,Intimacy Avoidance Q2,intima0001,INDICATES
+intimacya03,Intimacy Avoidance Q3,intima0001,INDICATES
+intimacya04,Intimacy Avoidance Q4,intima0001,INDICATES
+intimacya05,Intimacy Avoidance Q5,intima0001,INDICATES
+intimacya06,Intimacy Avoidance Q6,intima0001,INDICATES
+irrespons01,Irresponsibility Q1,irresp0001,INDICATES
+irrespons02,Irresponsibility Q2,irresp0001,INDICATES
+irrespons03,Irresponsibility Q3,irresp0001,INDICATES
+irrespons04,Irresponsibility Q4,irresp0001,INDICATES
+irrespons05,Irresponsibility Q5,irresp0001,INDICATES
+irrespons06,Irresponsibility Q6,irresp0001,INDICATES
+irrespons07,Irresponsibility Q7,irresp0001,INDICATES
+manipulat01,Manipulativeness Q1,manipu0001,INDICATES
+manipulat02,Manipulativeness Q2,manipu0001,INDICATES
+manipulat03,Manipulativeness Q3,manipu0001,INDICATES
+manipulat04,Manipulativeness Q4,manipu0001,INDICATES
+manipulat05,Manipulativeness Q5,manipu0001,INDICATES
+perceptua01,Perceptual Dysregulation Q1,percep0001,INDICATES
+perceptua02,Perceptual Dysregulation Q2,percep0001,INDICATES
+perceptua03,Perceptual Dysregulation Q3,percep0001,INDICATES
+perceptua04,Perceptual Dysregulation Q4,percep0001,INDICATES
+perceptua05,Perceptual Dysregulation Q5,percep0001,INDICATES
+perceptua06,Perceptual Dysregulation Q6,percep0001,INDICATES
+perceptua07,Perceptual Dysregulation Q7,percep0001,INDICATES
+perceptua08,Perceptual Dysregulation Q8,percep0001,INDICATES
+perceptua09,Perceptual Dysregulation Q9,percep0001,INDICATES
+perceptua10,Perceptual Dysregulation Q10,percep0001,INDICATES
+perceptua11,Perceptual Dysregulation Q11,percep0001,INDICATES
+perceptua12,Perceptual Dysregulation Q12,percep0001,INDICATES
+persevera01,Perseveration Q1,persev0001,INDICATES
+persevera02,Perseveration Q2,persev0001,INDICATES
+persevera03,Perseveration Q3,persev0001,INDICATES
+persevera04,Perseveration Q4,persev0001,INDICATES
+persevera05,Perseveration Q5,persev0001,INDICATES
+persevera06,Perseveration Q6,persev0001,INDICATES
+persevera07,Perseveration Q7,persev0001,INDICATES
+persevera08,Perseveration Q8,persev0001,INDICATES
+persevera09,Perseveration Q9,persev0001,INDICATES
+restricte01,Restricted Affectivity Q1,restri0001,INDICATES
+restricte02,Restricted Affectivity Q2,restri0001,INDICATES
+restricte03,Restricted Affectivity Q3,restri0001,INDICATES
+restricte04,Restricted Affectivity Q4,restri0001,INDICATES
+restricte05,Restricted Affectivity Q5,restri0001,INDICATES
+restricte06,Restricted Affectivity Q6,restri0001,INDICATES
+restricte07,Restricted Affectivity Q7,restri0001,INDICATES
+rigidperf01,Rigid Perfectionism Q1,rigid0001,INDICATES
+rigidperf02,Rigid Perfectionism Q2,rigid0001,INDICATES
+rigidperf03,Rigid Perfectionism Q3,rigid0001,INDICATES
+rigidperf04,Rigid Perfectionism Q4,rigid0001,INDICATES
+rigidperf05,Rigid Perfectionism Q5,rigid0001,INDICATES
+rigidperf06,Rigid Perfectionism Q6,rigid0001,INDICATES
+rigidperf07,Rigid Perfectionism Q7,rigid0001,INDICATES
+rigidperf08,Rigid Perfectionism Q8,rigid0001,INDICATES
+rigidperf09,Rigid Perfectionism Q9,rigid0001,INDICATES
+rigidperf10,Rigid Perfectionism Q10,rigid0001,INDICATES
+risktakin01,Risk Taking Q1,riskt0001,INDICATES
+risktakin02,Risk Taking Q2,riskt0001,INDICATES
+risktakin03,Risk Taking Q3,riskt0001,INDICATES
+risktakin04,Risk Taking Q4,riskt0001,INDICATES
+risktakin05,Risk Taking Q5,riskt0001,INDICATES
+risktakin06,Risk Taking Q6,riskt0001,INDICATES
+risktakin07,Risk Taking Q7,riskt0001,INDICATES
+risktakin08,Risk Taking Q8,riskt0001,INDICATES
+risktakin09,Risk Taking Q9,riskt0001,INDICATES
+risktakin10,Risk Taking Q10,riskt0001,INDICATES
+risktakin11,Risk Taking Q11,riskt0001,INDICATES
+risktakin12,Risk Taking Q12,riskt0001,INDICATES
+risktakin13,Risk Taking Q13,riskt0001,INDICATES
+risktakin14,Risk Taking Q14,riskt0001,INDICATES
+separatio01,Separation Insecurity Q1,separa0001,INDICATES
+separatio02,Separation Insecurity Q2,separa0001,INDICATES
+separatio03,Separation Insecurity Q3,separa0001,INDICATES
+separatio04,Separation Insecurity Q4,separa0001,INDICATES
+separatio05,Separation Insecurity Q5,separa0001,INDICATES
+separatio06,Separation Insecurity Q6,separa0001,INDICATES
+separatio07,Separation Insecurity Q7,separa0001,INDICATES
+submissiv01,Submissiveness Q1,submis0001,INDICATES
+submissiv02,Submissiveness Q2,submis0001,INDICATES
+submissiv03,Submissiveness Q3,submis0001,INDICATES
+submissiv04,Submissiveness Q4,submis0001,INDICATES
+suspiciou01,Suspiciousness Q1,suspic0001,INDICATES
+suspiciou02,Suspiciousness Q2,suspic0001,INDICATES
+suspiciou03,Suspiciousness Q3,suspic0001,INDICATES
+suspiciou04,Suspiciousness Q4,suspic0001,INDICATES
+suspiciou05,Suspiciousness Q5,suspic0001,INDICATES
+suspiciou06,Suspiciousness Q6,suspic0001,INDICATES
+suspiciou07,Suspiciousness Q7,suspic0001,INDICATES
+unusualbe01,Unusual Beliefs & Experiences Q1,unusua0001,INDICATES
+unusualbe02,Unusual Beliefs & Experiences Q2,unusua0001,INDICATES
+unusualbe03,Unusual Beliefs & Experiences Q3,unusua0001,INDICATES
+unusualbe04,Unusual Beliefs & Experiences Q4,unusua0001,INDICATES
+unusualbe05,Unusual Beliefs & Experiences Q5,unusua0001,INDICATES
+unusualbe06,Unusual Beliefs & Experiences Q6,unusua0001,INDICATES
+unusualbe07,Unusual Beliefs & Experiences Q7,unusua0001,INDICATES
+unusualbe08,Unusual Beliefs & Experiences Q8,unusua0001,INDICATES
+withdrawa01,Withdrawal Q1,withdr0001,INDICATES
+withdrawa02,Withdrawal Q2,withdr0001,INDICATES
+withdrawa03,Withdrawal Q3,withdr0001,INDICATES
+withdrawa04,Withdrawal Q4,withdr0001,INDICATES
+withdrawa05,Withdrawal Q5,withdr0001,INDICATES
+withdrawa06,Withdrawal Q6,withdr0001,INDICATES
+withdrawa07,Withdrawal Q7,withdr0001,INDICATES
+withdrawa08,Withdrawal Q8,withdr0001,INDICATES
+withdrawa09,Withdrawal Q9,withdr0001,INDICATES
+withdrawa10,Withdrawal Q10,withdr0001,INDICATES

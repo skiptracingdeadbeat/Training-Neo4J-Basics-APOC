@@ -1,0 +1,262 @@
+//STEP 1: Clean out the viewing area
+
+:clear
+
+//STEP 2: Delete any existing nodes, labels, property keys, property values, and relationships
+
+MATCH (n)
+DETACH
+DELETE (n)
+
+//STEP 3: Use APOC to load Navy ePS defects, requirements, keywords, and associated references
+
+// neo_neps_APOC_Load.txt
+// neps_n_auth_ref.csv
+// neps_n_change_type.csv
+// neps_n_cluster.csv
+// neps_n_keywords.csv
+// neps_n_nepsid_labels.csv
+// neps_n_srsid_srstext_full.csv
+// neps_r_nepsid_authref.csv
+// neps_r_nepsid_keyword.csv
+// neps_r_nepsid_srsid.csv
+// neps_r_srsid_keyword.csv 
+
+CALL apoc.import.csv([{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_n_auth_ref.csv', labels: []},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_n_cluster.csv', labels: []},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_n_nepsid_labels.csv', labels: []},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_n_keywords.csv', labels: []},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_n_srsid_srstext_full.csv', labels: []}],
+[{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_r_nepsid_authref.csv'},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_r_nepsid_keyword.csv'},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_r_nepsid_srsid.csv'},
+{fileName: 'https://raw.githubusercontent.com/skiptracingdeadbeat/Training-Neo4J-Basics-APOC/master/data/neps_r_srsid_keyword.csv'}
+], {})
+
+//STEP 4: Create higher-level nodes
+
+CREATE
+(:Artifact {title: 'Contract', description: 'ePS Contract'}),
+(:Artifact {title: 'SRS', description: 'System Requirement Specification'}),
+(:Artifact {title: 'Jira', description: 'Jira Defect Tracking and Resolution Tool'}),
+(:Artifact {title: 'DoDAF', description: 'Deparment of Defense Architecture Framework'}),
+(:System {title: 'Navy ePS', description: 'Navy electronic Procurement System'})
+
+//STEP 5 Create Contract & UCF
+
+
+CREATE (:UCF {title: 'Part I', description: 'The Schedule'}),
+(:UCF {title: 'Part II', description: 'Contract Clauses'}),
+(:UCF {title: 'Part III', description: 'List of Documents, Exhibits, and Other Attachments'}),
+(:UCF {title: 'Part IV', description: 'Representations and Instructions'}),
+(:UCF {title: 'Section A', description: ' Solicitation/contract form'}),
+(:UCF {title: 'Section B', description: ' Supplies or services and prices/costs'}),
+(:UCF {title: 'Section C', description: ' Description/specifications/statement of work'}),
+(:UCF {title: 'Section D', description: ' Packaging and marking'}),
+(:UCF {title: 'Section E', description: ' Inspection and acceptance'}),
+(:UCF {title: 'Section F', description: ' Deliveries or performance'}),
+(:UCF {title: 'Section G', description: ' Contract administration data'}),
+(:UCF {title: 'Section H', description: ' Special contract requirements'}),
+(:UCF {title: 'Section I', description: ' Contract clauses'}),
+(:UCF {title: 'Section J', description: ' List of attachments'}),
+(:UCF {title: 'Section K', description: ' Representations, certifications, and other statements of offerors or respondents'}),
+(:UCF {title: 'Section L', description: ' Instructions, conditions, and notices to offerors or respondents'}),
+(:UCF {title: 'Section M', description: ' Evaluation factors for award'})
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+MATCH (a:Artifact), (s:System)
+WHERE a.title='Contract' AND s.title = 'Navy ePS'
+CREATE (a)-[:AWARDED_FOR]->(s)
+RETURN a, s
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+MATCH (a:Artifact), (u:UCF)
+WHERE a.title = 'Contract' AND u.title = 'Part I'
+CREATE (u)-[:PART_OF]->(a)
+RETURN a, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (a:Artifact), (u:UCF)
+WHERE a.title = 'Contract' AND u.title = 'Part II'
+CREATE (u)-[:PART_OF]->(a)
+RETURN a, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (a:Artifact), (u:UCF)
+WHERE a.title = 'Contract' AND u.title = 'Part III'
+CREATE (u)-[:PART_OF]->(a)
+RETURN a, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (a:Artifact), (u:UCF)
+WHERE a.title = 'Contract' AND u.title = 'Part IV'
+CREATE (u)-[:PART_OF]->(a)
+RETURN a, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section A' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section B' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section C' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section D' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section E' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section F' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section G' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section H' AND u.title = 'Part I'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (s:UCF), (u:UCF)
+WHERE s.title = 'Section I' AND u.title = 'Part II'
+CREATE (s)-[:PART_OF]->(u)
+RETURN s, u
+
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+
+MATCH (a:Artifact), (u:UCF)
+WHERE a.title = 'SRS' AND u.title = 'Section C'
+CREATE (a)-[:PART_OF]->(u)
+RETURN a, s
+
+//STEP 5  Create Contract & UCF (CONTINUED)
+
+
+MATCH (r:Reference), (u:UCF)
+WHERE u.title = 'Section I'
+CREATE (r)-[:PART_OF]->(u)
+RETURN r, u
+
+
+//STEP 6:
+
+MATCH (a:Artifact), (s:System)
+WHERE a.title = 'Jira' AND s.title = 'Navy ePS'
+CREATE (a)-[:ISSUE_TRACKER_FOR]->(s)
+RETURN a, s
+
+//STEP 7:
+
+MATCH (a:Artifact), (s:System)
+WHERE a.title = 'DoDAF' AND s.title = 'Navy ePS'
+CREATE (a)-[:PART_OF]->(s)
+RETURN a, s
+
+
+//STEP 8:
+
+MATCH (a:Artifact), (n:NEPSKey)
+WHERE a.title = 'Jira'
+CREATE (n)-[:RECORDED_IN]->(a)
+RETURN a, n
+
+//STEP 9:
+
+MATCH (a:Artifact), (r:Requirement)
+WHERE a.title = 'SRS'
+CREATE (r)-[:SPECIFIED_IN]->(a)
+RETURN a, r
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+//STEP 11: Create relationship:NEPS to Severity levels, defect types, and status
+
+
+
+
+
+
+
+
+CREATE
+(:Status {title: 'Status', description: 'Defect Status'}),
+(:Severity {title: 'Severity', description: 'Defect Severity Specification'}),
+(:ChangeType {title: 'Change Type', description: 'Defect Change Type'})
+
+
+MATCH (d:Defect), (s:Artifact)
+WHERE a.title = 'Jira'
+CREATE (d)-[:RECORDED_IN]->(a)
+RETURN a, d
+
+************************Neo4j Graph Data Science algorithms********************
+
+//Using the Neo4j Graph Data Science algorithms, the following statement will create a graph using a native projection and store it in the graph catalog under the name ePSGraph
+
+CALL gds.graph.create('ePSGraph', 'Defect', 'CONTAINS')
+
+//estimate the memory requirements for running the algorithm:
+
+CALL gds.betweenness.write.estimate('ePSGraph', { writeProperty: 'betweenness' })
+YIELD nodeCount, relationshipCount, bytesMin, bytesMax, requiredMemory
+
+//Use stream execution mode to return centrality for each node. This allows us to inspect the results directly or post-process them in Cypher without any side effects. 
+
+CALL gds.betweenness.stream('myGraph')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).name AS name, score
+ORDER BY name ASC

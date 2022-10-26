@@ -1,0 +1,5 @@
+﻿branchID:ID,name,:LABEL
+executive,EXECUTIVE,ContractingBranch
+independent_federal_quasi_fed_org,INDEPENDENT_FEDERAL_QUASI_FED_ORG,ContractingBranch
+judicial,JUDICIAL,ContractingBranch
+legislative,LEGISLATIVE,ContractingBranch

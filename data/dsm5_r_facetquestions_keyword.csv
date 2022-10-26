@@ -1,0 +1,1125 @@
+﻿:START_ID,name,:END_ID,:TYPE
+anhedonia01,Anhedonia Q1,much4,CONTAINS
+anhedonia01,Anhedonia Q1,other4,CONTAINS
+anhedonia01,Anhedonia Q1,pleasure4,CONTAINS
+anhedonia01,Anhedonia Q1,seeing4,CONTAINS
+anhedonia01,Anhedonia Q1,seem4,CONTAINS
+anhedonia01,Anhedonia Q1,thing4,CONTAINS
+anhedonia02,Anhedonia Q2,interest4,CONTAINS
+anhedonia02,Anhedonia Q2,much4,CONTAINS
+anhedonia02,Anhedonia Q2,nothing4,CONTAINS
+anhedonia02,Anhedonia Q2,seeing4,CONTAINS
+anhedonia02,Anhedonia Q2,seem4,CONTAINS
+anhedonia02,Anhedonia Q2,thing4,CONTAINS
+anhedonia03,Anhedonia Q3,enjoy4,CONTAINS
+anhedonia03,Anhedonia Q3,life4,CONTAINS
+anhedonia03,Anhedonia Q3,most4,CONTAINS
+anhedonia03,Anhedonia Q3,never4,CONTAINS
+anhedonia04,Anhedonia Q4,energetic4,CONTAINS
+anhedonia04,Anhedonia Q4,person4,CONTAINS
+anhedonia05,Anhedonia Q5,acting4,CONTAINS
+anhedonia05,Anhedonia Q5,activities4,CONTAINS
+anhedonia05,Anhedonia Q5,day-to-day4,CONTAINS
+anhedonia05,Anhedonia Q5,feeling4,CONTAINS
+anhedonia05,Anhedonia Q5,happy4,CONTAINS
+anhedonia05,Anhedonia Q5,most4,CONTAINS
+anhedonia05,Anhedonia Q5,never4,CONTAINS
+anhedonia06,Anhedonia Q6,fullest4,CONTAINS
+anhedonia06,Anhedonia Q6,life4,CONTAINS
+anhedonia06,Anhedonia Q6,live4,CONTAINS
+anhedonia06,Anhedonia Q6,real4,CONTAINS
+anhedonia06,Anhedonia Q6,really4,CONTAINS
+anhedonia07,Anhedonia Q7,feeling4,CONTAINS
+anhedonia07,Anhedonia Q7,good4,CONTAINS
+anhedonia07,Anhedonia Q7,make4,CONTAINS
+anhedonia07,Anhedonia Q7,nothing4,CONTAINS
+anhedonia07,Anhedonia Q7,seeing4,CONTAINS
+anhedonia07,Anhedonia Q7,seem4,CONTAINS
+anhedonia07,Anhedonia Q7,thing4,CONTAINS
+anhedonia08,Anhedonia Q8,anything4,CONTAINS
+anhedonia08,Anhedonia Q8,enthusiastic4,CONTAINS
+anhedonia08,Anhedonia Q8,rare4,CONTAINS
+anhedonia08,Anhedonia Q8,rely4,CONTAINS
+anhedonia08,Anhedonia Q8,thing4,CONTAINS
+anxiousne01,Anxiousness Q1,happen4,CONTAINS
+anxiousne01,Anxiousness Q1,lot4,CONTAINS
+anxiousne01,Anxiousness Q1,might4,CONTAINS
+anxiousne01,Anxiousness Q1,terrible4,CONTAINS
+anxiousne01,Anxiousness Q1,thing4,CONTAINS
+anxiousne01,Anxiousness Q1,worry4,CONTAINS
+anxiousne02,Anxiousness Q2,bad4,CONTAINS
+anxiousne02,Anxiousness Q2,happen4,CONTAINS
+anxiousne02,Anxiousness Q2,made4,CONTAINS
+anxiousne02,Anxiousness Q2,mistake4,CONTAINS
+anxiousne02,Anxiousness Q2,often4,CONTAINS
+anxiousne02,Anxiousness Q2,past4,CONTAINS
+anxiousne02,Anxiousness Q2,something4,CONTAINS
+anxiousne02,Anxiousness Q2,take4,CONTAINS
+anxiousne02,Anxiousness Q2,thing4,CONTAINS
+anxiousne02,Anxiousness Q2,willing4,CONTAINS
+anxiousne02,Anxiousness Q2,worry4,CONTAINS
+anxiousne03,Anxiousness Q3,future4,CONTAINS
+anxiousne03,Anxiousness Q3,nervous4,CONTAINS
+anxiousne03,Anxiousness Q3,think4,CONTAINS
+anxiousne04,Anxiousness Q4,rare4,CONTAINS
+anxiousne04,Anxiousness Q4,rely4,CONTAINS
+anxiousne04,Anxiousness Q4,thing4,CONTAINS
+anxiousne04,Anxiousness Q4,worry4,CONTAINS
+anxiousne05,Anxiousness Q5,something4,CONTAINS
+anxiousne05,Anxiousness Q5,thing4,CONTAINS
+anxiousne05,Anxiousness Q5,worry4,CONTAINS
+anxiousne06,Anxiousness Q6,every4,CONTAINS
+anxiousne06,Anxiousness Q6,everything4,CONTAINS
+anxiousne06,Anxiousness Q6,most4,CONTAINS
+anxiousne06,Anxiousness Q6,thing4,CONTAINS
+anxiousne06,Anxiousness Q6,worry4,CONTAINS
+anxiousne07,Anxiousness Q7,anxious4,CONTAINS
+anxiousne07,Anxiousness Q7,person4,CONTAINS
+anxiousne08,Anxiousness Q8,expect4,CONTAINS
+anxiousne08,Anxiousness Q8,happen4,CONTAINS
+anxiousne08,Anxiousness Q8,worst4,CONTAINS
+anxiousne09,Anxiousness Q9,bad4,CONTAINS
+anxiousne09,Anxiousness Q9,edge4,CONTAINS
+anxiousne09,Anxiousness Q9,fear4,CONTAINS
+anxiousne09,Anxiousness Q9,happen4,CONTAINS
+anxiousne09,Anxiousness Q9,might4,CONTAINS
+anxiousne09,Anxiousness Q9,thing4,CONTAINS
+attention01,Attention Seeking Q1,make4,CONTAINS
+attention01,Attention Seeking Q1,notice4,CONTAINS
+attention01,Attention Seeking Q1,people4,CONTAINS
+attention01,Attention Seeking Q1,thing4,CONTAINS
+attention02,Attention Seeking Q2,admire4,CONTAINS
+attention02,Attention Seeking Q2,just4,CONTAINS
+attention02,Attention Seeking Q2,people4,CONTAINS
+attention02,Attention Seeking Q2,thing4,CONTAINS
+attention03,Attention Seeking Q3,attention4,CONTAINS
+attention03,Attention Seeking Q3,love4,CONTAINS
+attention03,Attention Seeking Q3,other4,CONTAINS
+attention03,Attention Seeking Q3,people4,CONTAINS
+attention04,Attention Seeking Q4,crowd4,CONTAINS
+attention04,Attention Seeking Q4,standing4,CONTAINS
+attention05,Attention Seeking Q5,attention4,CONTAINS
+attention05,Attention Seeking Q5,behavior4,CONTAINS
+attention05,Attention Seeking Q5,bold4,CONTAINS
+attention05,Attention Seeking Q5,grab4,CONTAINS
+attention05,Attention Seeking Q5,often4,CONTAINS
+attention05,Attention Seeking Q5,people4,CONTAINS
+attention06,Attention Seeking Q6,being4,CONTAINS
+attention06,Attention Seeking Q6,notice4,CONTAINS
+attention06,Attention Seeking Q6,person4,CONTAINS
+attention07,Attention Seeking Q7,attention4,CONTAINS
+attention07,Attention Seeking Q7,crave4,CONTAINS
+attention08,Attention Seeking Q8,attention4,CONTAINS
+attention08,Attention Seeking Q8,drawing4,CONTAINS
+attention08,Attention Seeking Q8,raw4,CONTAINS
+attention08,Attention Seeking Q8,self4,CONTAINS
+callousne01,Callousness Q1,fight4,CONTAINS
+callousne01,Callousness Q1,often4,CONTAINS
+callousne01,Callousness Q1,physical4,CONTAINS
+callousne02,Callousness Q2,being4,CONTAINS
+callousne02,Callousness Q2,friend4,CONTAINS
+callousne02,Callousness Q2,just4,CONTAINS
+callousne02,Callousness Q2,rude4,CONTAINS
+callousne02,Callousness Q2,unfriendly4,CONTAINS
+callousne03,Callousness Q3,care4,CONTAINS
+callousne03,Callousness Q3,make4,CONTAINS
+callousne03,Callousness Q3,other4,CONTAINS
+callousne03,Callousness Q3,people4,CONTAINS
+callousne03,Callousness Q3,real4,CONTAINS
+callousne03,Callousness Q3,really4,CONTAINS
+callousne03,Callousness Q3,suffering4,CONTAINS
+callousne04,Callousness Q4,both4,CONTAINS
+callousne04,Callousness Q4,bother4,CONTAINS
+callousne04,Callousness Q4,hurt4,CONTAINS
+callousne04,Callousness Q4,other4,CONTAINS
+callousne04,Callousness Q4,people4,CONTAINS
+callousne04,Callousness Q4,real4,CONTAINS
+callousne04,Callousness Q4,really4,CONTAINS
+callousne04,Callousness Q4,seeing4,CONTAINS
+callousne05,Callousness Q5,care4,CONTAINS
+callousne05,Callousness Q5,feeling4,CONTAINS
+callousne05,Callousness Q5,other4,CONTAINS
+callousne05,Callousness Q5,people4,CONTAINS
+callousne06,Callousness Q6,life4,CONTAINS
+callousne06,Callousness Q6,need4,CONTAINS
+callousne06,Callousness Q6,step4,CONTAINS
+callousne06,Callousness Q6,toe4,CONTAINS
+callousne07,Callousness Q7,another4,CONTAINS
+callousne07,Callousness Q7,harm4,CONTAINS
+callousne07,Callousness Q7,never4,CONTAINS
+callousne07,Callousness Q7,other4,CONTAINS
+callousne07,Callousness Q7,person4,CONTAINS
+callousne08,Callousness Q8,acting4,CONTAINS
+callousne08,Callousness Q8,action4,CONTAINS
+callousne08,Callousness Q8,care4,CONTAINS
+callousne08,Callousness Q8,hurt4,CONTAINS
+callousne08,Callousness Q8,other4,CONTAINS
+callousne09,Callousness Q9,big4,CONTAINS
+callousne09,Callousness Q9,deal4,CONTAINS
+callousne09,Callousness Q9,feeling4,CONTAINS
+callousne09,Callousness Q9,hurt4,CONTAINS
+callousne09,Callousness Q9,other4,CONTAINS
+callousne09,Callousness Q9,people4,CONTAINS
+callousne10,Callousness Q10,care4,CONTAINS
+callousne10,Callousness Q10,other4,CONTAINS
+callousne10,Callousness Q10,people4,CONTAINS
+callousne10,Callousness Q10,problem4,CONTAINS
+callousne11,Callousness Q11,charge4,CONTAINS
+callousne11,Callousness Q11,hit4,CONTAINS
+callousne11,Callousness Q11,mind4,CONTAINS
+callousne11,Callousness Q11,people4,CONTAINS
+callousne11,Callousness Q11,remind4,CONTAINS
+callousne11,Callousness Q11,sometime4,CONTAINS
+callousne11,Callousness Q11,time4,CONTAINS
+callousne12,Callousness Q12,control4,CONTAINS
+callousne12,Callousness Q12,enjoy4,CONTAINS
+callousne12,Callousness Q12,look4,CONTAINS
+callousne12,Callousness Q12,making4,CONTAINS
+callousne12,Callousness Q12,people4,CONTAINS
+callousne12,Callousness Q12,stupid4,CONTAINS
+callousne13,Callousness Q13,feeling4,CONTAINS
+callousne13,Callousness Q13,guilty4,CONTAINS
+callousne13,Callousness Q13,hurt4,CONTAINS
+callousne13,Callousness Q13,other4,CONTAINS
+callousne13,Callousness Q13,people4,CONTAINS
+callousne13,Callousness Q13,point4,CONTAINS
+callousne13,Callousness Q13,seeing4,CONTAINS
+callousne13,Callousness Q13,thing4,CONTAINS
+callousne14,Callousness Q14,being4,CONTAINS
+callousne14,Callousness Q14,friend4,CONTAINS
+callousne14,Callousness Q14,most4,CONTAINS
+callousne14,Callousness Q14,point4,CONTAINS
+callousne14,Callousness Q14,seeing4,CONTAINS
+callousne14,Callousness Q14,time4,CONTAINS
+deceitful01,Deceitfulness Q1,happen4,CONTAINS
+deceitful01,Deceitfulness Q1,make4,CONTAINS
+deceitful01,Deceitfulness Q1,stories4,CONTAINS
+deceitful01,Deceitfulness Q1,thing4,CONTAINS
+deceitful01,Deceitfulness Q1,totally4,CONTAINS
+deceitful01,Deceitfulness Q1,untrue4,CONTAINS
+deceitful02,Deceitfulness Q2,make4,CONTAINS
+deceitful02,Deceitfulness Q2,often4,CONTAINS
+deceitful02,Deceitfulness Q2,self4,CONTAINS
+deceitful02,Deceitfulness Q2,thing4,CONTAINS
+deceitful03,Deceitfulness Q3,flatter4,CONTAINS
+deceitful03,Deceitfulness Q3,people4,CONTAINS
+deceitful03,Deceitfulness Q3,real4,CONTAINS
+deceitful03,Deceitfulness Q3,realize4,CONTAINS
+deceitful03,Deceitfulness Q3,something4,CONTAINS
+deceitful03,Deceitfulness Q3,thing4,CONTAINS
+deceitful04,Deceitfulness Q4,mean4,CONTAINS
+deceitful04,Deceitfulness Q4,sneaky4,CONTAINS
+deceitful05,Deceitfulness Q5,ahead4,CONTAINS
+deceitful05,Deceitfulness Q5,exaggerate4,CONTAINS
+deceitful05,Deceitfulness Q5,head4,CONTAINS
+deceitful05,Deceitfulness Q5,need4,CONTAINS
+deceitful05,Deceitfulness Q5,rate4,CONTAINS
+deceitful05,Deceitfulness Q5,sometime4,CONTAINS
+deceitful05,Deceitfulness Q5,time4,CONTAINS
+deceitful06,Deceitfulness Q6,ahead4,CONTAINS
+deceitful06,Deceitfulness Q6,cheat4,CONTAINS
+deceitful06,Deceitfulness Q6,head4,CONTAINS
+deceitful06,Deceitfulness Q6,hesitate4,CONTAINS
+deceitful07,Deceitfulness Q7,hard4,CONTAINS
+deceitful07,Deceitfulness Q7,telling4,CONTAINS
+deceitful07,Deceitfulness Q7,truth4,CONTAINS
+deceitful07,Deceitfulness Q7,try4,CONTAINS
+deceitful08,Deceitfulness Q8,people4,CONTAINS
+deceitful09,Deceitfulness Q9,come4,CONTAINS
+deceitful09,Deceitfulness Q9,easily4,CONTAINS
+deceitful09,Deceitfulness Q9,lying4,CONTAINS
+deceitful10,Deceitfulness Q10,advantage4,CONTAINS
+deceitful10,Deceitfulness Q10,stretch4,CONTAINS
+deceitful10,Deceitfulness Q10,truth4,CONTAINS
+deceitful10,Deceitfulness Q10,willing4,CONTAINS
+depressiv01,Depressivity Q1,feeling4,CONTAINS
+depressiv01,Depressivity Q1,matter4,CONTAINS
+depressiv01,Depressivity Q1,nothing4,CONTAINS
+depressiv01,Depressivity Q1,often4,CONTAINS
+depressiv01,Depressivity Q1,real4,CONTAINS
+depressiv01,Depressivity Q1,really4,CONTAINS
+depressiv01,Depressivity Q1,thing4,CONTAINS
+depressiv02,Depressivity Q2,dissatisfied4,CONTAINS
+depressiv02,Depressivity Q2,self4,CONTAINS
+depressiv03,Depressivity Q3,future4,CONTAINS
+depressiv03,Depressivity Q3,hopeless4,CONTAINS
+depressiv03,Depressivity Q3,less4,CONTAINS
+depressiv03,Depressivity Q3,look4,CONTAINS
+depressiv03,Depressivity Q3,real4,CONTAINS
+depressiv03,Depressivity Q3,really4,CONTAINS
+depressiv04,Depressivity Q4,better4,CONTAINS
+depressiv04,Depressivity Q4,dead4,CONTAINS
+depressiv04,Depressivity Q4,world4,CONTAINS
+depressiv05,Depressivity Q5,ashamed4,CONTAINS
+depressiv05,Depressivity Q5,down4,CONTAINS
+depressiv05,Depressivity Q5,lot4,CONTAINS
+depressiv05,Depressivity Q5,people4,CONTAINS
+depressiv06,Depressivity Q6,fail4,CONTAINS
+depressiv06,Depressivity Q6,failure4,CONTAINS
+depressiv06,Depressivity Q6,feeling4,CONTAINS
+depressiv06,Depressivity Q6,often4,CONTAINS
+depressiv07,Depressivity Q7,lot4,CONTAINS
+depressiv07,Depressivity Q7,suicide4,CONTAINS
+depressiv07,Depressivity Q7,talk4,CONTAINS
+depressiv08,Depressivity Q8,less4,CONTAINS
+depressiv08,Depressivity Q8,person4,CONTAINS
+depressiv08,Depressivity Q8,useless4,CONTAINS
+depressiv09,Depressivity Q9,bleak4,CONTAINS
+depressiv09,Depressivity Q9,life4,CONTAINS
+depressiv09,Depressivity Q9,look4,CONTAINS
+depressiv09,Depressivity Q9,pretty4,CONTAINS
+depressiv10,Depressivity Q10,every4,CONTAINS
+depressiv10,Depressivity Q10,everything4,CONTAINS
+depressiv10,Depressivity Q10,less4,CONTAINS
+depressiv10,Depressivity Q10,point4,CONTAINS
+depressiv10,Depressivity Q10,seeing4,CONTAINS
+depressiv10,Depressivity Q10,seem4,CONTAINS
+depressiv10,Depressivity Q10,thing4,CONTAINS
+depressiv11,Depressivity Q11,feeling4,CONTAINS
+depressiv11,Depressivity Q11,just4,CONTAINS
+depressiv11,Depressivity Q11,miserable4,CONTAINS
+depressiv11,Depressivity Q11,often4,CONTAINS
+depressiv12,Depressivity Q12,person4,CONTAINS
+depressiv12,Depressivity Q12,worth4,CONTAINS
+depressiv13,Depressivity Q13,commit4,CONTAINS
+depressiv13,Depressivity Q13,know4,CONTAINS
+depressiv13,Depressivity Q13,later4,CONTAINS
+depressiv13,Depressivity Q13,sooner4,CONTAINS
+depressiv13,Depressivity Q13,suicide4,CONTAINS
+depressiv13,Depressivity Q13,willing4,CONTAINS
+depressiv14,Depressivity Q14,feeling4,CONTAINS
+depressiv14,Depressivity Q14,guilty4,CONTAINS
+depressiv14,Depressivity Q14,much4,CONTAINS
+depressiv14,Depressivity Q14,time4,CONTAINS
+distracti01,Distractibility Q1,attention4,CONTAINS
+distracti01,Distractibility Q1,catch4,CONTAINS
+distracti01,Distractibility Q1,cause4,CONTAINS
+distracti01,Distractibility Q1,conversation4,CONTAINS
+distracti01,Distractibility Q1,lose4,CONTAINS
+distracti01,Distractibility Q1,other4,CONTAINS
+distracti01,Distractibility Q1,thing4,CONTAINS
+distracti01,Distractibility Q1,track4,CONTAINS
+distracti01,Distractibility Q1,versa4,CONTAINS
+distracti02,Distractibility Q2,anything4,CONTAINS
+distracti02,Distractibility Q2,concentrate4,CONTAINS
+distracti02,Distractibility Q2,once4,CONTAINS
+distracti02,Distractibility Q2,rate4,CONTAINS
+distracti02,Distractibility Q2,thing4,CONTAINS
+distracti03,Distractibility Q3,ahead4,CONTAINS
+distracti03,Distractibility Q3,good4,CONTAINS
+distracti03,Distractibility Q3,head4,CONTAINS
+distracti03,Distractibility Q3,plan4,CONTAINS
+distracti04,Distractibility Q4,achieve4,CONTAINS
+distracti04,Distractibility Q4,attention4,CONTAINS
+distracti04,Distractibility Q4,capture4,CONTAINS
+distracti04,Distractibility Q4,cause4,CONTAINS
+distracti04,Distractibility Q4,goal4,CONTAINS
+distracti04,Distractibility Q4,other4,CONTAINS
+distracti04,Distractibility Q4,thing4,CONTAINS
+distracti05,Distractibility Q5,goal4,CONTAINS
+distracti05,Distractibility Q5,period4,CONTAINS
+distracti05,Distractibility Q5,pursuing4,CONTAINS
+distracti05,Distractibility Q5,short4,CONTAINS
+distracti05,Distractibility Q5,specific4,CONTAINS
+distracti05,Distractibility Q5,time4,CONTAINS
+distracti05,Distractibility Q5,trouble4,CONTAINS
+distracti06,Distractibility Q6,focus4,CONTAINS
+distracti06,Distractibility Q6,keep4,CONTAINS
+distracti06,Distractibility Q6,mind4,CONTAINS
+distracti06,Distractibility Q6,need4,CONTAINS
+distracti06,Distractibility Q6,trouble4,CONTAINS
+distracti07,Distractibility Q7,acting4,CONTAINS
+distracti07,Distractibility Q7,distract4,CONTAINS
+distracti07,Distractibility Q7,easily4,CONTAINS
+distracti08,Distractibility Q8,focus4,CONTAINS
+distracti08,Distractibility Q8,long4,CONTAINS
+distracti08,Distractibility Q8,thing4,CONTAINS
+distracti09,Distractibility Q9,acting4,CONTAINS
+distracti09,Distractibility Q9,action4,CONTAINS
+distracti09,Distractibility Q9,distract4,CONTAINS
+distracti09,Distractibility Q9,minor4,CONTAINS
+distracti09,Distractibility Q9,off-task4,CONTAINS
+distracti09,Distractibility Q9,pulled4,CONTAINS
+distracti09,Distractibility Q9,task4,CONTAINS
+eccentric01,Eccentricity Q1,anyone4,CONTAINS
+eccentric01,Eccentricity Q1,explain4,CONTAINS
+eccentric01,Eccentricity Q1,idea4,CONTAINS
+eccentric01,Eccentricity Q1,often4,CONTAINS
+eccentric01,Eccentricity Q1,plain4,CONTAINS
+eccentric01,Eccentricity Q1,unusual4,CONTAINS
+eccentric01,Eccentricity Q1,usual4,CONTAINS
+eccentric02,Eccentricity Q2,find4,CONTAINS
+eccentric02,Eccentricity Q2,odd4,CONTAINS
+eccentric02,Eccentricity Q2,often4,CONTAINS
+eccentric02,Eccentricity Q2,other4,CONTAINS
+eccentric02,Eccentricity Q2,range4,CONTAINS
+eccentric02,Eccentricity Q2,strange4,CONTAINS
+eccentric02,Eccentricity Q2,thing4,CONTAINS
+eccentric03,Eccentricity Q3,behavior4,CONTAINS
+eccentric03,Eccentricity Q3,other4,CONTAINS
+eccentric03,Eccentricity Q3,people4,CONTAINS
+eccentric03,Eccentricity Q3,seeing4,CONTAINS
+eccentric03,Eccentricity Q3,seem4,CONTAINS
+eccentric03,Eccentricity Q3,think4,CONTAINS
+eccentric03,Eccentricity Q3,weird4,CONTAINS
+eccentric04,Eccentricity Q4,people4,CONTAINS
+eccentric04,Eccentricity Q4,range4,CONTAINS
+eccentric04,Eccentricity Q4,real4,CONTAINS
+eccentric04,Eccentricity Q4,really4,CONTAINS
+eccentric04,Eccentricity Q4,strange4,CONTAINS
+eccentric04,Eccentricity Q4,thing4,CONTAINS
+eccentric04,Eccentricity Q4,think4,CONTAINS
+eccentric04,Eccentricity Q4,told4,CONTAINS
+eccentric05,Eccentricity Q5,direct4,CONTAINS
+eccentric05,Eccentricity Q5,direction4,CONTAINS
+eccentric05,Eccentricity Q5,odd4,CONTAINS
+eccentric05,Eccentricity Q5,often4,CONTAINS
+eccentric05,Eccentricity Q5,thought4,CONTAINS
+eccentric05,Eccentricity Q5,unusual4,CONTAINS
+eccentric05,Eccentricity Q5,usual4,CONTAINS
+eccentric06,Eccentricity Q6,make4,CONTAINS
+eccentric06,Eccentricity Q6,often4,CONTAINS
+eccentric06,Eccentricity Q6,other4,CONTAINS
+eccentric06,Eccentricity Q6,sense4,CONTAINS
+eccentric06,Eccentricity Q6,thought4,CONTAINS
+eccentric07,Eccentricity Q7,look4,CONTAINS
+eccentric07,Eccentricity Q7,often4,CONTAINS
+eccentric07,Eccentricity Q7,people4,CONTAINS
+eccentric07,Eccentricity Q7,real4,CONTAINS
+eccentric07,Eccentricity Q7,really4,CONTAINS
+eccentric07,Eccentricity Q7,something4,CONTAINS
+eccentric07,Eccentricity Q7,thing4,CONTAINS
+eccentric07,Eccentricity Q7,weird4,CONTAINS
+eccentric08,Eccentricity Q8,odd4,CONTAINS
+eccentric08,Eccentricity Q8,other4,CONTAINS
+eccentric08,Eccentricity Q8,seeing4,CONTAINS
+eccentric08,Eccentricity Q8,seem4,CONTAINS
+eccentric08,Eccentricity Q8,think4,CONTAINS
+eccentric08,Eccentricity Q8,unusual4,CONTAINS
+eccentric08,Eccentricity Q8,usual4,CONTAINS
+eccentric09,Eccentricity Q9,predict4,CONTAINS
+eccentric09,Eccentricity Q9,range4,CONTAINS
+eccentric09,Eccentricity Q9,strange4,CONTAINS
+eccentric09,Eccentricity Q9,thought4,CONTAINS
+eccentric09,Eccentricity Q9,unpredictable4,CONTAINS
+eccentric10,Eccentricity Q10,make4,CONTAINS
+eccentric10,Eccentricity Q10,most4,CONTAINS
+eccentric10,Eccentricity Q10,odd4,CONTAINS
+eccentric10,Eccentricity Q10,people4,CONTAINS
+eccentric10,Eccentricity Q10,sense4,CONTAINS
+eccentric10,Eccentricity Q10,thing4,CONTAINS
+eccentric10,Eccentricity Q10,think4,CONTAINS
+eccentric11,Eccentricity Q11,bit4,CONTAINS
+eccentric11,Eccentricity Q11,habit4,CONTAINS
+eccentric11,Eccentricity Q11,number4,CONTAINS
+eccentric11,Eccentricity Q11,odd4,CONTAINS
+eccentric11,Eccentricity Q11,once4,CONTAINS
+eccentric11,Eccentricity Q11,quirk4,CONTAINS
+eccentric11,Eccentricity Q11,told4,CONTAINS
+eccentric12,Eccentricity Q12,bit4,CONTAINS
+eccentric12,Eccentricity Q12,eccentric4,CONTAINS
+eccentric12,Eccentricity Q12,find4,CONTAINS
+eccentric12,Eccentricity Q12,habit4,CONTAINS
+eccentric12,Eccentricity Q12,other4,CONTAINS
+eccentric12,Eccentricity Q12,range4,CONTAINS
+eccentric12,Eccentricity Q12,several4,CONTAINS
+eccentric12,Eccentricity Q12,strange4,CONTAINS
+eccentric13,Eccentricity Q13,make4,CONTAINS
+eccentric13,Eccentricity Q13,often4,CONTAINS
+eccentric13,Eccentricity Q13,other4,CONTAINS
+eccentric13,Eccentricity Q13,people4,CONTAINS
+eccentric13,Eccentricity Q13,range4,CONTAINS
+eccentric13,Eccentricity Q13,sense4,CONTAINS
+eccentric13,Eccentricity Q13,strange4,CONTAINS
+eccentric13,Eccentricity Q13,thought4,CONTAINS
+emotional01,Emotional Lability Q1,change4,CONTAINS
+emotional01,Emotional Lability Q1,emotion4,CONTAINS
+emotional01,Emotional Lability Q1,good4,CONTAINS
+emotional01,Emotional Lability Q1,reason4,CONTAINS
+emotional01,Emotional Lability Q1,sometime4,CONTAINS
+emotional01,Emotional Lability Q1,time4,CONTAINS
+emotional02,Emotional Lability Q2,acting4,CONTAINS
+emotional02,Emotional Lability Q2,action4,CONTAINS
+emotional02,Emotional Lability Q2,emotion4,CONTAINS
+emotional02,Emotional Lability Q2,emotional4,CONTAINS
+emotional02,Emotional Lability Q2,every4,CONTAINS
+emotional02,Emotional Lability Q2,most4,CONTAINS
+emotional02,Emotional Lability Q2,much4,CONTAINS
+emotional02,Emotional Lability Q2,react4,CONTAINS
+emotional02,Emotional Lability Q2,reaction4,CONTAINS
+emotional02,Emotional Lability Q2,stronger4,CONTAINS
+emotional03,Emotional Lability Q3,emotion4,CONTAINS
+emotional03,Emotional Lability Q3,emotional4,CONTAINS
+emotional03,Emotional Lability Q3,high4,CONTAINS
+emotional03,Emotional Lability Q3,highly4,CONTAINS
+emotional03,Emotional Lability Q3,person4,CONTAINS
+emotional04,Emotional Lability Q4,easily4,CONTAINS
+emotional04,Emotional Lability Q4,emotion4,CONTAINS
+emotional04,Emotional Lability Q4,emotional4,CONTAINS
+emotional04,Emotional Lability Q4,often4,CONTAINS
+emotional04,Emotional Lability Q4,reason4,CONTAINS
+emotional05,Emotional Lability Q5,emotion4,CONTAINS
+emotional05,Emotional Lability Q5,know4,CONTAINS
+emotional05,Emotional Lability Q5,moment4,CONTAINS
+emotional05,Emotional Lability Q5,never4,CONTAINS
+emotional05,Emotional Lability Q5,willing4,CONTAINS
+emotional06,Emotional Lability Q6,emotion4,CONTAINS
+emotional06,Emotional Lability Q6,emotional4,CONTAINS
+emotional06,Emotional Lability Q6,every4,CONTAINS
+emotional06,Emotional Lability Q6,over4,CONTAINS
+emotional06,Emotional Lability Q6,thing4,CONTAINS
+emotional07,Emotional Lability Q7,emotion4,CONTAINS
+emotional07,Emotional Lability Q7,predict4,CONTAINS
+emotional07,Emotional Lability Q7,unpredictable4,CONTAINS
+grandiosi01,Grandiosity Q1,honest4,CONTAINS
+grandiosi01,Grandiosity Q1,important4,CONTAINS
+grandiosi01,Grandiosity Q1,just4,CONTAINS
+grandiosi01,Grandiosity Q1,other4,CONTAINS
+grandiosi01,Grandiosity Q1,people4,CONTAINS
+grandiosi02,Grandiosity Q2,other4,CONTAINS
+grandiosi02,Grandiosity Q2,outstanding4,CONTAINS
+grandiosi02,Grandiosity Q2,possessing4,CONTAINS
+grandiosi02,Grandiosity Q2,qualities4,CONTAINS
+grandiosi02,Grandiosity Q2,standing4,CONTAINS
+grandiosi03,Grandiosity Q3,better4,CONTAINS
+grandiosi03,Grandiosity Q3,every4,CONTAINS
+grandiosi03,Grandiosity Q3,most4,CONTAINS
+grandiosi04,Grandiosity Q4,achieve4,CONTAINS
+grandiosi04,Grandiosity Q4,anyone4,CONTAINS
+grandiosi04,Grandiosity Q4,know4,CONTAINS
+grandiosi04,Grandiosity Q4,most4,CONTAINS
+grandiosi05,Grandiosity Q5,deserve4,CONTAINS
+grandiosi05,Grandiosity Q5,special4,CONTAINS
+grandiosi05,Grandiosity Q5,treat4,CONTAINS
+grandiosi05,Grandiosity Q5,treatment4,CONTAINS
+grandiosi06,Grandiosity Q6,deal4,CONTAINS
+grandiosi06,Grandiosity Q6,important4,CONTAINS
+grandiosi06,Grandiosity Q6,less4,CONTAINS
+grandiosi06,Grandiosity Q6,often4,CONTAINS
+grandiosi06,Grandiosity Q6,people4,CONTAINS
+hostility01,Hostility Q1,irritate4,CONTAINS
+hostility01,Hostility Q1,people4,CONTAINS
+hostility01,Hostility Q1,snap4,CONTAINS
+hostility01,Hostility Q1,thing4,CONTAINS
+hostility02,Hostility Q2,mean4,CONTAINS
+hostility02,Hostility Q2,need4,CONTAINS
+hostility03,Hostility Q3,anger4,CONTAINS
+hostility03,Hostility Q3,easily4,CONTAINS
+hostility04,Hostility Q4,being4,CONTAINS
+hostility04,Hostility Q4,charge4,CONTAINS
+hostility04,Hostility Q4,people4,CONTAINS
+hostility04,Hostility Q4,resent4,CONTAINS
+hostility04,Hostility Q4,told4,CONTAINS
+hostility05,Hostility Q5,short4,CONTAINS
+hostility05,Hostility Q5,temper4,CONTAINS
+hostility06,Hostility Q6,make4,CONTAINS
+hostility06,Hostility Q6,people4,CONTAINS
+hostility06,Hostility Q6,wrong4,CONTAINS
+hostility07,Hostility Q7,easily4,CONTAINS
+hostility07,Hostility Q7,irritate4,CONTAINS
+hostility07,Hostility Q7,sort4,CONTAINS
+hostility07,Hostility Q7,thing4,CONTAINS
+hostility08,Hostility Q8,hostile4,CONTAINS
+hostility08,Hostility Q8,pretty4,CONTAINS
+hostility08,Hostility Q8,usual4,CONTAINS
+hostility08,Hostility Q8,usually4,CONTAINS
+hostility09,Hostility Q9,angry4,CONTAINS
+hostility09,Hostility Q9,insult4,CONTAINS
+hostility09,Hostility Q9,make4,CONTAINS
+hostility09,Hostility Q9,minor4,CONTAINS
+hostility09,Hostility Q9,people4,CONTAINS
+hostility09,Hostility Q9,real4,CONTAINS
+hostility09,Hostility Q9,really4,CONTAINS
+hostility10,Hostility Q10,body4,CONTAINS
+hostility10,Hostility Q10,deserve4,CONTAINS
+hostility10,Hostility Q10,nasty4,CONTAINS
+hostility10,Hostility Q10,short4,CONTAINS
+impulsivi01,Impulsivity Q1,acting4,CONTAINS
+impulsivi01,Impulsivity Q1,feeling4,CONTAINS
+impulsivi01,Impulsivity Q1,impulse4,CONTAINS
+impulsivi01,Impulsivity Q1,totally4,CONTAINS
+impulsivi02,Impulsivity Q2,happen4,CONTAINS
+impulsivi02,Impulsivity Q2,impulse4,CONTAINS
+impulsivi02,Impulsivity Q2,might4,CONTAINS
+impulsivi02,Impulsivity Q2,result4,CONTAINS
+impulsivi02,Impulsivity Q2,thing4,CONTAINS
+impulsivi02,Impulsivity Q2,think4,CONTAINS
+impulsivi02,Impulsivity Q2,usual4,CONTAINS
+impulsivi02,Impulsivity Q2,usually4,CONTAINS
+impulsivi03,Impulsivity Q3,better4,CONTAINS
+impulsivi03,Impulsivity Q3,decision4,CONTAINS
+impulsivi03,Impulsivity Q3,know4,CONTAINS
+impulsivi03,Impulsivity Q3,making4,CONTAINS
+impulsivi03,Impulsivity Q3,rash4,CONTAINS
+impulsivi04,Impulsivity Q4,moment4,CONTAINS
+impulsivi04,Impulsivity Q4,spur4,CONTAINS
+impulsivi04,Impulsivity Q4,thing4,CONTAINS
+impulsivi05,Impulsivity Q5,acting4,CONTAINS
+impulsivi05,Impulsivity Q5,before4,CONTAINS
+impulsivi05,Impulsivity Q5,think4,CONTAINS
+impulsivi05,Impulsivity Q5,usual4,CONTAINS
+impulsivi05,Impulsivity Q5,usually4,CONTAINS
+intimacya01,Intimacy Avoidance Q1,keep4,CONTAINS
+intimacya01,Intimacy Avoidance Q1,life4,CONTAINS
+intimacya01,Intimacy Avoidance Q1,prefer4,CONTAINS
+intimacya01,Intimacy Avoidance Q1,refer4,CONTAINS
+intimacya01,Intimacy Avoidance Q1,romance4,CONTAINS
+intimacya02,Intimacy Avoidance Q2,being4,CONTAINS
+intimacya02,Intimacy Avoidance Q2,enjoy4,CONTAINS
+intimacya02,Intimacy Avoidance Q2,love4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,break4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,close4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,lose4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,relation4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,relationship4,CONTAINS
+intimacya03,Intimacy Avoidance Q3,start4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,having4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,interest4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,just4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,relation4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,relationship4,CONTAINS
+intimacya04,Intimacy Avoidance Q4,sex4,CONTAINS
+intimacya05,Intimacy Avoidance Q5,clear4,CONTAINS
+intimacya05,Intimacy Avoidance Q5,relation4,CONTAINS
+intimacya05,Intimacy Avoidance Q5,relationship4,CONTAINS
+intimacya05,Intimacy Avoidance Q5,romantic4,CONTAINS
+intimacya05,Intimacy Avoidance Q5,steer4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,alone4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,being4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,close4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,having4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,lose4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,partner4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,prefer4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,refer4,CONTAINS
+intimacya06,Intimacy Avoidance Q6,romantic4,CONTAINS
+irrespons01,Irresponsibility Q1,irresponsible4,CONTAINS
+irrespons01,Irresponsibility Q1,other4,CONTAINS
+irrespons01,Irresponsibility Q1,responsible4,CONTAINS
+irrespons01,Irresponsibility Q1,seeing4,CONTAINS
+irrespons02,Irresponsibility Q2,care4,CONTAINS
+irrespons02,Irresponsibility Q2,careless4,CONTAINS
+irrespons02,Irresponsibility Q2,less4,CONTAINS
+irrespons02,Irresponsibility Q2,often4,CONTAINS
+irrespons02,Irresponsibility Q2,other4,CONTAINS
+irrespons02,Irresponsibility Q2,pretty4,CONTAINS
+irrespons02,Irresponsibility Q2,thing4,CONTAINS
+irrespons03,Irresponsibility Q3,intend4,CONTAINS
+irrespons03,Irresponsibility Q3,keep4,CONTAINS
+irrespons03,Irresponsibility Q3,make4,CONTAINS
+irrespons03,Irresponsibility Q3,promise4,CONTAINS
+irrespons03,Irresponsibility Q3,real4,CONTAINS
+irrespons03,Irresponsibility Q3,really4,CONTAINS
+irrespons03,Irresponsibility Q3,tend4,CONTAINS
+irrespons04,Irresponsibility Q4,bill4,CONTAINS
+irrespons04,Irresponsibility Q4,bills4,CONTAINS
+irrespons04,Irresponsibility Q4,forget4,CONTAINS
+irrespons04,Irresponsibility Q4,often4,CONTAINS
+irrespons04,Irresponsibility Q4,pay4,CONTAINS
+irrespons05,Irresponsibility Q5,avoid4,CONTAINS
+irrespons05,Irresponsibility Q5,responsibilities4,CONTAINS
+irrespons05,Irresponsibility Q5,skip4,CONTAINS
+irrespons05,Irresponsibility Q5,town4,CONTAINS
+irrespons06,Irresponsibility Q6,appointment4,CONTAINS
+irrespons06,Irresponsibility Q6,just4,CONTAINS
+irrespons06,Irresponsibility Q6,meet4,CONTAINS
+irrespons06,Irresponsibility Q6,mood4,CONTAINS
+irrespons06,Irresponsibility Q6,point4,CONTAINS
+irrespons06,Irresponsibility Q6,skip4,CONTAINS
+irrespons07,Irresponsibility Q7,commit4,CONTAINS
+irrespons07,Irresponsibility Q7,commitment4,CONTAINS
+irrespons07,Irresponsibility Q7,follow4,CONTAINS
+irrespons07,Irresponsibility Q7,through4,CONTAINS
+manipulat01,Manipulativeness Q1,good4,CONTAINS
+manipulat01,Manipulativeness Q1,making4,CONTAINS
+manipulat01,Manipulativeness Q1,people4,CONTAINS
+manipulat02,Manipulativeness Q2,other4,CONTAINS
+manipulat02,Manipulativeness Q2,sweet-talk4,CONTAINS
+manipulat02,Manipulativeness Q2,talk4,CONTAINS
+manipulat03,Manipulativeness Q3,conn4,CONTAINS
+manipulat03,Manipulativeness Q3,good4,CONTAINS
+manipulat03,Manipulativeness Q3,people4,CONTAINS
+manipulat04,Manipulativeness Q4,certain4,CONTAINS
+manipulat04,Manipulativeness Q4,charm4,CONTAINS
+manipulat04,Manipulativeness Q4,harm4,CONTAINS
+manipulat04,Manipulativeness Q4,need4,CONTAINS
+manipulat04,Manipulativeness Q4,turn4,CONTAINS
+manipulat05,Manipulativeness Q5,advantage4,CONTAINS
+manipulat05,Manipulativeness Q5,easy4,CONTAINS
+manipulat05,Manipulativeness Q5,other4,CONTAINS
+manipulat05,Manipulativeness Q5,take4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,between4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,difference4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,dream4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,life4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,telling4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,trouble4,CONTAINS
+perceptua01,Perceptual Dysregulation Q1,waking4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,body4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,dead4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,feeling4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,real4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,really4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,sometime4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,time4,CONTAINS
+perceptua02,Perceptual Dysregulation Q2,weird4,CONTAINS
+perceptua03,Perceptual Dysregulation Q3,often4,CONTAINS
+perceptua03,Perceptual Dysregulation Q3,people4,CONTAINS
+perceptua03,Perceptual Dysregulation Q3,remember4,CONTAINS
+perceptua03,Perceptual Dysregulation Q3,talk4,CONTAINS
+perceptua03,Perceptual Dysregulation Q3,thing4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,different4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,object4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,ordinary4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,seeing4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,seem4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,shape4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,sometime4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,time4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,usual4,CONTAINS
+perceptua04,Perceptual Dysregulation Q4,weird4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,asleep4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,dream4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,dream-like4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,fall4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,image4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,often4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,seeing4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,vivid4,CONTAINS
+perceptua05,Perceptual Dysregulation Q5,waking4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,familiar4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,first4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,look4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,object4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,seeing4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,sometime4,CONTAINS
+perceptua06,Perceptual Dysregulation Q6,time4,CONTAINS
+perceptua07,Perceptual Dysregulation Q7,control4,CONTAINS
+perceptua07,Perceptual Dysregulation Q7,often4,CONTAINS
+perceptua07,Perceptual Dysregulation Q7,think4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,belong4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,control4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,feeling4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,long4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,someone4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,sometime4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,thought4,CONTAINS
+perceptua08,Perceptual Dysregulation Q8,time4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,head4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,removing4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,someone4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,sometime4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,think4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,thought4,CONTAINS
+perceptua09,Perceptual Dysregulation Q9,time4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,conn4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,disconnect4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,feeling4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,period4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,self4,CONTAINS
+perceptua10,Perceptual Dysregulation Q10,world4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,come4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,lot4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,often4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,pass4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,real4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,realize4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,suddenly4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,time4,CONTAINS
+perceptua11,Perceptual Dysregulation Q11,zone4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,around4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,feeling4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,often4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,real4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,thing4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,unreal4,CONTAINS
+perceptua12,Perceptual Dysregulation Q12,usual4,CONTAINS
+persevera01,Perseveration Q1,acting4,CONTAINS
+persevera01,Perseveration Q1,activity4,CONTAINS
+persevera01,Perseveration Q1,hard4,CONTAINS
+persevera01,Perseveration Q1,time4,CONTAINS
+persevera02,Perseveration Q2,acting4,CONTAINS
+persevera02,Perseveration Q2,busy4,CONTAINS
+persevera02,Perseveration Q2,cause4,CONTAINS
+persevera02,Perseveration Q2,exact4,CONTAINS
+persevera02,Perseveration Q2,miss4,CONTAINS
+persevera02,Perseveration Q2,right4,CONTAINS
+persevera02,Perseveration Q2,something4,CONTAINS
+persevera02,Perseveration Q2,thing4,CONTAINS
+persevera02,Perseveration Q2,try4,CONTAINS
+persevera03,Perseveration Q3,approach4,CONTAINS
+persevera03,Perseveration Q3,keep4,CONTAINS
+persevera03,Perseveration Q3,same4,CONTAINS
+persevera03,Perseveration Q3,thing4,CONTAINS
+persevera03,Perseveration Q3,work4,CONTAINS
+persevera04,Perseveration Q4,acting4,CONTAINS
+persevera04,Perseveration Q4,activity4,CONTAINS
+persevera04,Perseveration Q4,another4,CONTAINS
+persevera04,Perseveration Q4,hard4,CONTAINS
+persevera04,Perseveration Q4,other4,CONTAINS
+persevera04,Perseveration Q4,shift4,CONTAINS
+persevera05,Perseveration Q5,changing4,CONTAINS
+persevera05,Perseveration Q5,going4,CONTAINS
+persevera05,Perseveration Q5,something4,CONTAINS
+persevera05,Perseveration Q5,thing4,CONTAINS
+persevera05,Perseveration Q5,trouble4,CONTAINS
+persevera06,Perseveration Q6,certain4,CONTAINS
+persevera06,Perseveration Q6,fixate4,CONTAINS
+persevera06,Perseveration Q6,thing4,CONTAINS
+persevera07,Perseveration Q7,lot4,CONTAINS
+persevera07,Perseveration Q7,stuck4,CONTAINS
+persevera07,Perseveration Q7,thing4,CONTAINS
+persevera08,Perseveration Q8,clear4,CONTAINS
+persevera08,Perseveration Q8,stuck4,CONTAINS
+persevera08,Perseveration Q8,thing4,CONTAINS
+persevera08,Perseveration Q8,willing4,CONTAINS
+persevera08,Perseveration Q8,work4,CONTAINS
+persevera09,Perseveration Q9,compelled4,CONTAINS
+persevera09,Perseveration Q9,feeling4,CONTAINS
+persevera09,Perseveration Q9,make4,CONTAINS
+persevera09,Perseveration Q9,sense4,CONTAINS
+persevera09,Perseveration Q9,thing4,CONTAINS
+restricte01,Restricted Affectivity Q1,cold4,CONTAINS
+restricte01,Restricted Affectivity Q1,come4,CONTAINS
+restricte01,Restricted Affectivity Q1,emotion4,CONTAINS
+restricte01,Restricted Affectivity Q1,fish4,CONTAINS
+restricte01,Restricted Affectivity Q1,people4,CONTAINS
+restricte01,Restricted Affectivity Q1,telling4,CONTAINS
+restricte02,Restricted Affectivity Q2,acting4,CONTAINS
+restricte02,Restricted Affectivity Q2,action4,CONTAINS
+restricte02,Restricted Affectivity Q2,emotion4,CONTAINS
+restricte02,Restricted Affectivity Q2,emotional4,CONTAINS
+restricte02,Restricted Affectivity Q2,last4,CONTAINS
+restricte02,Restricted Affectivity Q2,long4,CONTAINS
+restricte02,Restricted Affectivity Q2,react4,CONTAINS
+restricte02,Restricted Affectivity Q2,reaction4,CONTAINS
+restricte02,Restricted Affectivity Q2,thing4,CONTAINS
+restricte03,Restricted Affectivity Q3,emotion4,CONTAINS
+restricte03,Restricted Affectivity Q3,emotional4,CONTAINS
+restricte04,Restricted Affectivity Q4,emotion4,CONTAINS
+restricte04,Restricted Affectivity Q4,show4,CONTAINS
+restricte05,Restricted Affectivity Q5,difficult4,CONTAINS
+restricte05,Restricted Affectivity Q5,feeling4,CONTAINS
+restricte05,Restricted Affectivity Q5,know4,CONTAINS
+restricte05,Restricted Affectivity Q5,people4,CONTAINS
+restricte05,Restricted Affectivity Q5,telling4,CONTAINS
+restricte06,Restricted Affectivity Q6,emotion4,CONTAINS
+restricte06,Restricted Affectivity Q6,never4,CONTAINS
+restricte06,Restricted Affectivity Q6,other4,CONTAINS
+restricte06,Restricted Affectivity Q6,show4,CONTAINS
+restricte07,Restricted Affectivity Q7,acting4,CONTAINS
+restricte07,Restricted Affectivity Q7,emotion4,CONTAINS
+restricte07,Restricted Affectivity Q7,emotional4,CONTAINS
+restricte07,Restricted Affectivity Q7,make4,CONTAINS
+restricte07,Restricted Affectivity Q7,much4,CONTAINS
+restricte07,Restricted Affectivity Q7,other4,CONTAINS
+restricte07,Restricted Affectivity Q7,react4,CONTAINS
+restricte07,Restricted Affectivity Q7,seeing4,CONTAINS
+restricte07,Restricted Affectivity Q7,seem4,CONTAINS
+restricte07,Restricted Affectivity Q7,thing4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,acting4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,exact4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,making4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,much4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,place4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,spend4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,thing4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,time4,CONTAINS
+rigidperf01,Rigid Perfectionism Q1,told4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,detail4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,focus4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,minor4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,much4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,people4,CONTAINS
+rigidperf02,Rigid Perfectionism Q2,telling4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,absolute4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,accept4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,acceptable4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,perfect4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,simply4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,something4,CONTAINS
+rigidperf03,Rigid Perfectionism Q3,thing4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,arrange4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,complain4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,every4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,everything4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,need4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,people4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,plain4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,range4,CONTAINS
+rigidperf04,Rigid Perfectionism Q4,thing4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,absolute4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,crazy4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,drive4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,every4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,everything4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,insist4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,other4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,people4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,perfect4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,perfection4,CONTAINS
+rigidperf05,Rigid Perfectionism Q5,thing4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,check4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,make4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,perfect4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,several4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,thing4,CONTAINS
+rigidperf06,Rigid Perfectionism Q6,time4,CONTAINS
+rigidperf07,Rigid Perfectionism Q7,certain4,CONTAINS
+rigidperf07,Rigid Perfectionism Q7,important4,CONTAINS
+rigidperf07,Rigid Perfectionism Q7,thing4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,good4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,keep4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,likely4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,make4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,perfect4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,thing4,CONTAINS
+rigidperf08,Rigid Perfectionism Q8,try4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,being4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,place4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,proper4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,simply4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,thing4,CONTAINS
+rigidperf09,Rigid Perfectionism Q9,willing4,CONTAINS
+rigidperf10,Rigid Perfectionism Q10,strict4,CONTAINS
+rigidperf10,Rigid Perfectionism Q10,thing4,CONTAINS
+risktakin01,Risk Taking Q1,describe4,CONTAINS
+risktakin01,Risk Taking Q1,less4,CONTAINS
+risktakin01,Risk Taking Q1,people4,CONTAINS
+risktakin01,Risk Taking Q1,reckless4,CONTAINS
+risktakin02,Risk Taking Q2,avoid4,CONTAINS
+risktakin02,Risk Taking Q2,risk4,CONTAINS
+risktakin02,Risk Taking Q2,situation4,CONTAINS
+risktakin03,Risk Taking Q3,acting4,CONTAINS
+risktakin03,Risk Taking Q3,activities4,CONTAINS
+risktakin03,Risk Taking Q3,avoid4,CONTAINS
+risktakin03,Risk Taking Q3,risk4,CONTAINS
+risktakin03,Risk Taking Q3,sport4,CONTAINS
+risktakin04,Risk Taking Q4,anger4,CONTAINS
+risktakin04,Risk Taking Q4,come4,CONTAINS
+risktakin04,Risk Taking Q4,danger4,CONTAINS
+risktakin04,Risk Taking Q4,dangerous4,CONTAINS
+risktakin04,Risk Taking Q4,limit4,CONTAINS
+risktakin04,Risk Taking Q4,limits4,CONTAINS
+risktakin04,Risk Taking Q4,thing4,CONTAINS
+risktakin05,Risk Taking Q5,consider4,CONTAINS
+risktakin05,Risk Taking Q5,lot4,CONTAINS
+risktakin05,Risk Taking Q5,other4,CONTAINS
+risktakin05,Risk Taking Q5,risk4,CONTAINS
+risktakin05,Risk Taking Q5,thing4,CONTAINS
+risktakin06,Risk Taking Q6,risk4,CONTAINS
+risktakin06,Risk Taking Q6,take4,CONTAINS
+risktakin07,Risk Taking Q7,might4,CONTAINS
+risktakin07,Risk Taking Q7,possibility4,CONTAINS
+risktakin07,Risk Taking Q7,risk4,CONTAINS
+risktakin07,Risk Taking Q7,something4,CONTAINS
+risktakin07,Risk Taking Q7,thing4,CONTAINS
+risktakin08,Risk Taking Q8,anger4,CONTAINS
+risktakin08,Risk Taking Q8,anything4,CONTAINS
+risktakin08,Risk Taking Q8,avoid4,CONTAINS
+risktakin08,Risk Taking Q8,bit4,CONTAINS
+risktakin08,Risk Taking Q8,danger4,CONTAINS
+risktakin08,Risk Taking Q8,dangerous4,CONTAINS
+risktakin08,Risk Taking Q8,might4,CONTAINS
+risktakin08,Risk Taking Q8,thing4,CONTAINS
+risktakin09,Risk Taking Q9,chance4,CONTAINS
+risktakin09,Risk Taking Q9,play4,CONTAINS
+risktakin09,Risk Taking Q9,prefer4,CONTAINS
+risktakin09,Risk Taking Q9,rather4,CONTAINS
+risktakin09,Risk Taking Q9,refer4,CONTAINS
+risktakin09,Risk Taking Q9,safe4,CONTAINS
+risktakin09,Risk Taking Q9,take4,CONTAINS
+risktakin09,Risk Taking Q9,unnecessary4,CONTAINS
+risktakin10,Risk Taking Q10,mind4,CONTAINS
+risktakin10,Risk Taking Q10,risk4,CONTAINS
+risktakin11,Risk Taking Q11,less4,CONTAINS
+risktakin11,Risk Taking Q11,might4,CONTAINS
+risktakin11,Risk Taking Q11,regardless4,CONTAINS
+risktakin11,Risk Taking Q11,safe4,CONTAINS
+risktakin11,Risk Taking Q11,unsafe4,CONTAINS
+risktakin12,Risk Taking Q12,never4,CONTAINS
+risktakin12,Risk Taking Q12,risk4,CONTAINS
+risktakin12,Risk Taking Q12,take4,CONTAINS
+risktakin13,Risk Taking Q13,anger4,CONTAINS
+risktakin13,Risk Taking Q13,danger4,CONTAINS
+risktakin13,Risk Taking Q13,dangerous4,CONTAINS
+risktakin13,Risk Taking Q13,hurt4,CONTAINS
+risktakin13,Risk Taking Q13,might4,CONTAINS
+risktakin13,Risk Taking Q13,thing4,CONTAINS
+risktakin13,Risk Taking Q13,think4,CONTAINS
+risktakin14,Risk Taking Q14,chance4,CONTAINS
+risktakin14,Risk Taking Q14,hate4,CONTAINS
+risktakin14,Risk Taking Q14,take4,CONTAINS
+separatio01,Separation Insecurity Q1,being4,CONTAINS
+separatio01,Separation Insecurity Q1,dread4,CONTAINS
+separatio01,Separation Insecurity Q1,love4,CONTAINS
+separatio01,Separation Insecurity Q1,read4,CONTAINS
+separatio01,Separation Insecurity Q1,someone4,CONTAINS
+separatio02,Separation Insecurity Q2,alone4,CONTAINS
+separatio02,Separation Insecurity Q2,being4,CONTAINS
+separatio02,Separation Insecurity Q2,lot4,CONTAINS
+separatio02,Separation Insecurity Q2,worry4,CONTAINS
+separatio03,Separation Insecurity Q3,alone4,CONTAINS
+separatio03,Separation Insecurity Q3,bad4,CONTAINS
+separatio03,Separation Insecurity Q3,rather4,CONTAINS
+separatio03,Separation Insecurity Q3,relation4,CONTAINS
+separatio03,Separation Insecurity Q3,relationship4,CONTAINS
+separatio04,Separation Insecurity Q4,alone4,CONTAINS
+separatio04,Separation Insecurity Q4,being4,CONTAINS
+separatio04,Separation Insecurity Q4,hour4,CONTAINS
+separatio04,Separation Insecurity Q4,left4,CONTAINS
+separatio04,Separation Insecurity Q4,standing4,CONTAINS
+separatio05,Separation Insecurity Q5,alone4,CONTAINS
+separatio05,Separation Insecurity Q5,anything4,CONTAINS
+separatio05,Separation Insecurity Q5,being4,CONTAINS
+separatio05,Separation Insecurity Q5,fear4,CONTAINS
+separatio05,Separation Insecurity Q5,life4,CONTAINS
+separatio05,Separation Insecurity Q5,thing4,CONTAINS
+separatio06,Separation Insecurity Q6,abandon4,CONTAINS
+separatio06,Separation Insecurity Q6,anything4,CONTAINS
+separatio06,Separation Insecurity Q6,just4,CONTAINS
+separatio06,Separation Insecurity Q6,keep4,CONTAINS
+separatio06,Separation Insecurity Q6,someone4,CONTAINS
+separatio06,Separation Insecurity Q6,thing4,CONTAINS
+separatio06,Separation Insecurity Q6,willing4,CONTAINS
+separatio07,Separation Insecurity Q7,alone4,CONTAINS
+separatio07,Separation Insecurity Q7,never4,CONTAINS
+submissiv01,Submissiveness Q1,change4,CONTAINS
+submissiv01,Submissiveness Q1,depend4,CONTAINS
+submissiv01,Submissiveness Q1,depending4,CONTAINS
+submissiv01,Submissiveness Q1,other4,CONTAINS
+submissiv02,Submissiveness Q2,other4,CONTAINS
+submissiv02,Submissiveness Q2,think4,CONTAINS
+submissiv02,Submissiveness Q2,usual4,CONTAINS
+submissiv02,Submissiveness Q2,usually4,CONTAINS
+submissiv03,Submissiveness Q3,other4,CONTAINS
+submissiv03,Submissiveness Q3,people4,CONTAINS
+submissiv03,Submissiveness Q3,telling4,CONTAINS
+submissiv04,Submissiveness Q4,other4,CONTAINS
+submissiv04,Submissiveness Q4,try4,CONTAINS
+suspiciou01,Suspiciousness Q1,people4,CONTAINS
+suspiciou01,Suspiciousness Q1,plenty4,CONTAINS
+suspiciou02,Suspiciousness Q2,advantage4,CONTAINS
+suspiciou02,Suspiciousness Q2,could4,CONTAINS
+suspiciou02,Suspiciousness Q2,other4,CONTAINS
+suspiciou02,Suspiciousness Q2,take4,CONTAINS
+suspiciou03,Suspiciousness Q3,guard4,CONTAINS
+suspiciou03,Suspiciousness Q3,harm4,CONTAINS
+suspiciou03,Suspiciousness Q3,someone4,CONTAINS
+suspiciou03,Suspiciousness Q3,trick4,CONTAINS
+suspiciou03,Suspiciousness Q3,try4,CONTAINS
+suspiciou04,Suspiciousness Q4,basically4,CONTAINS
+suspiciou04,Suspiciousness Q4,people4,CONTAINS
+suspiciou04,Suspiciousness Q4,trustworthy4,CONTAINS
+suspiciou04,Suspiciousness Q4,worth4,CONTAINS
+suspiciou05,Suspiciousness Q5,deal4,CONTAINS
+suspiciou05,Suspiciousness Q5,other4,CONTAINS
+suspiciou05,Suspiciousness Q5,raw4,CONTAINS
+suspiciou05,Suspiciousness Q5,seeing4,CONTAINS
+suspiciou05,Suspiciousness Q5,seem4,CONTAINS
+suspiciou06,Suspiciousness Q6,advantage4,CONTAINS
+suspiciou06,Suspiciousness Q6,feeling4,CONTAINS
+suspiciou06,Suspiciousness Q6,know4,CONTAINS
+suspiciou06,Suspiciousness Q6,people4,CONTAINS
+suspiciou06,Suspiciousness Q6,rare4,CONTAINS
+suspiciou06,Suspiciousness Q6,rely4,CONTAINS
+suspiciou06,Suspiciousness Q6,take4,CONTAINS
+suspiciou06,Suspiciousness Q6,try4,CONTAINS
+suspiciou07,Suspiciousness Q7,betray4,CONTAINS
+suspiciou07,Suspiciousness Q7,friend4,CONTAINS
+suspiciou07,Suspiciousness Q7,lot4,CONTAINS
+suspiciou07,Suspiciousness Q7,so-called4,CONTAINS
+suspiciou07,Suspiciousness Q7,suspect4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,acting4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,exact4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,know4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,someone4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,sometime4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,think4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,time4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,unusual4,CONTAINS
+unusualbe01,Unusual Beliefs & Experiences Q1,usual4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,could4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,hear4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,other4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,sometime4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,thing4,CONTAINS
+unusualbe02,Unusual Beliefs & Experiences Q2,time4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,acting4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,actual4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,experience4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,often4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,presence4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,sensing4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,someone4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,such4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,unusual4,CONTAINS
+unusualbe03,Unusual Beliefs & Experiences Q3,usual4,CONTAINS
+unusualbe04,Unusual Beliefs & Experiences Q4,real4,CONTAINS
+unusualbe04,Unusual Beliefs & Experiences Q4,really4,CONTAINS
+unusualbe04,Unusual Beliefs & Experiences Q4,seeing4,CONTAINS
+unusualbe04,Unusual Beliefs & Experiences Q4,thing4,CONTAINS
+unusualbe05,Unusual Beliefs & Experiences Q5,believe4,CONTAINS
+unusualbe05,Unusual Beliefs & Experiences Q5,mind4,CONTAINS
+unusualbe05,Unusual Beliefs & Experiences Q5,move4,CONTAINS
+unusualbe05,Unusual Beliefs & Experiences Q5,people4,CONTAINS
+unusualbe05,Unusual Beliefs & Experiences Q5,thing4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,influence4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,just4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,other4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,people4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,send4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,sometime4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,thought4,CONTAINS
+unusualbe06,Unusual Beliefs & Experiences Q6,time4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,between4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,conn4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,connection4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,miss4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,most4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,often4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,people4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,seeing4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,thing4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,unusual4,CONTAINS
+unusualbe07,Unusual Beliefs & Experiences Q7,usual4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,difficult4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,experience4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,explain4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,plain4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,real4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,really4,CONTAINS
+unusualbe08,Unusual Beliefs & Experiences Q8,weird4,CONTAINS
+withdrawa01,Withdrawal Q1,close4,CONTAINS
+withdrawa01,Withdrawal Q1,lose4,CONTAINS
+withdrawa01,Withdrawal Q1,people4,CONTAINS
+withdrawa01,Withdrawal Q1,prefer4,CONTAINS
+withdrawa01,Withdrawal Q1,refer4,CONTAINS
+withdrawa02,Withdrawal Q2,keep4,CONTAINS
+withdrawa02,Withdrawal Q2,self4,CONTAINS
+withdrawa03,Withdrawal Q3,acting4,CONTAINS
+withdrawa03,Withdrawal Q3,activity4,CONTAINS
+withdrawa03,Withdrawal Q3,avoid4,CONTAINS
+withdrawa03,Withdrawal Q3,group4,CONTAINS
+withdrawa03,Withdrawal Q3,kind4,CONTAINS
+withdrawa04,Withdrawal Q4,distance4,CONTAINS
+withdrawa04,Withdrawal Q4,keep4,CONTAINS
+withdrawa04,Withdrawal Q4,people4,CONTAINS
+withdrawa05,Withdrawal Q5,other4,CONTAINS
+withdrawa05,Withdrawal Q5,spend4,CONTAINS
+withdrawa05,Withdrawal Q5,time4,CONTAINS
+withdrawa06,Withdrawal Q6,friend4,CONTAINS
+withdrawa06,Withdrawal Q6,interest4,CONTAINS
+withdrawa06,Withdrawal Q6,making4,CONTAINS
+withdrawa07,Withdrawal Q7,deal4,CONTAINS
+withdrawa07,Withdrawal Q7,people4,CONTAINS
+withdrawa07,Withdrawal Q7,possible4,CONTAINS
+withdrawa08,Withdrawal Q8,close4,CONTAINS
+withdrawa08,Withdrawal Q8,lose4,CONTAINS
+withdrawa08,Withdrawal Q8,people4,CONTAINS
+withdrawa09,Withdrawal Q9,deal4,CONTAINS
+withdrawa09,Withdrawal Q9,less4,CONTAINS
+withdrawa09,Withdrawal Q9,people4,CONTAINS
+withdrawa10,Withdrawal Q10,avoid4,CONTAINS
+withdrawa10,Withdrawal Q10,event4,CONTAINS
+withdrawa10,Withdrawal Q10,social24,CONTAINS

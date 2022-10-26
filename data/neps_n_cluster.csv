@@ -1,0 +1,131 @@
+﻿sort_id,clusterId:ID,srsref,title,:LABEL
+1,rdc000002,2,Functional,SRS
+2,rdc000021,2.1,CWS Requirements,SRS
+3,rdc000211,2.1.1,General System Management,SRS
+4,rdc002111,2.1.1.1,Business Process Controls,SRS
+5,rdc021111,2.1.1.1.1,Workflow Management,SRS;Cluster
+6,rdc021112,2.1.1.1.2,Workload Management,SRS;Cluster
+7,rdc021113,2.1.1.1.3,Business Process Automation,SRS;Cluster
+8,rdc002112,2.1.1.2,Document Controls,SRS
+9,rdc021120,2.1.1.2.0,Document Controls,SRS;Cluster
+10,rdc021121,2.1.1.2.1,Instrument/Header/Document-Level (Section A),SRS;Cluster
+11,rdc021122,2.1.1.2.2,Line Item Information (Section B),SRS;Cluster
+12,rdc021123,2.1.1.2.3,Attachments and Specifications (Section C & J),SRS;Cluster
+13,rdc021124,2.1.1.2.4,"Logistics: Packaging (Section D), Inspection and Acceptance (Section E), and Period",SRS;Cluster
+14,rdc021125,2.1.1.2.5,Funding (Section G) and Pricing (Section B),SRS;Cluster
+15,rdc021126,2.1.1.2.6,"Clauses, Provisions, and Clause Logic (Sections H, I, K, L, & M)",SRS;Cluster
+16,rdc021127,2.1.1.2.7,Document Management,SRS;Cluster
+17,rdc021128,2.1.1.2.8,Forms Control,SRS;Cluster
+18,rdc021129,2.1.1.2.9,Instrument Associations,SRS;Cluster
+19,rdc002113,2.1.1.3,System Administration Function,SRS
+20,rdc021130,2.1.1.3.0,System Administration Function,SRS;Cluster
+21,rdc021131,2.1.1.3.1,User Profile and Account Administration,SRS;Cluster
+22,rdc021132,2.1.1.3.2,Audit Trails,SRS;Cluster
+23,rdc021133,2.1.1.3.3,Configuration Parameters,SRS;Cluster
+24,rdc021134,2.1.1.3.4,"Dashboards, Reporting, and Metrics",SRS;Cluster
+25,rdc000212,2.1.2,Procurement Process Management,SRS
+26,rdc002121,2.1.2.1,Develop Requirement,SRS
+27,rdc021211,2.1.2.1.1,Requiring Activity Engagement,SRS;Cluster
+28,rdc021212,2.1.2.1.2,Purchase Request Package Establishment,SRS;Cluster
+29,rdc021213,2.1.2.1.3,Milestone Establishment and Tracking,SRS;Cluster
+30,rdc021214,2.1.2.1.4,Acquisition Planning,SRS;Cluster
+31,rdc021221,2.1.2.2.1,Synopsis Establishment,SRS;Cluster
+32,rdc002122,2.1.2.2,Develop Procurement Strategy,SRS
+33,rdc021222,2.1.2.2.2,Solicitation Establishment,SRS;Cluster
+34,rdc021223,2.1.2.2.3,Offeror Screening,SRS;Cluster
+35,rdc021224,2.1.2.2.4,Complementary Review,SRS;Cluster
+36,rdc021225,2.1.2.2.5,Offer Evaluation,SRS;Cluster
+37,rdc021226,2.1.2.2.6,Vendor Engagement,SRS;Cluster
+38,rdc021227,2.1.2.2.7,"Protest, Dispute, and Appeal Tracking",SRS;Cluster
+39,rdc021231,2.1.2.3.1,Award Document Preparation,SRS;Cluster
+40,rdc002123,2.1.2.3,Award Procurement Instrument,SRS
+41,rdc021232,2.1.2.3.2,Funds Management,SRS;Cluster
+42,rdc021233,2.1.2.3.3,Award Issuance,SRS;Cluster
+43,rdc021241,2.1.2.4.1,Post-Award Setup,SRS;Cluster
+44,rdc002124,2.1.2.4,Administer Procurement Instrument,SRS
+45,rdc021242,2.1.2.4.2,Award Performance Monitoring,SRS;Cluster
+46,rdc021243,2.1.2.4.3,Post-Award Modification,SRS;Cluster
+47,rdc021251,2.1.2.5.1,Procurement Instrument Closeout,SRS;Cluster
+48,rdc002125,2.1.2.5,Perform Procurement Instrument Closeout,SRS
+49,rdc021252,2.1.2.5.2,Procurement Instrument Archive,SRS;Cluster
+50,rdc000213,2.1.3,Data Management,SRS
+51,rdc002133,2.1.3.3,Authoritative Data Management Requirements,SRS
+52,rdc021331,2.1.3.3.1,Authoritative Data Management,SRS;Cluster
+53,rdc000214,2.1.4,External Interface Management,SRS
+54,rdc002141,2.1.4.1,Enable CWS Data Exchanges,SRS
+55,rdc021411,2.1.4.1.1,CWS Interface - General,SRS;Cluster
+56,rdc002142,2.1.4.2,Interface with Enterprise Services and Authoritative Data Sources,SRS
+57,rdc021421,2.1.4.2.1,CWS Interface - CLS,SRS;Cluster
+58,rdc021422,2.1.4.2.2,CWS Interface - DoDAAD,SRS;Cluster
+59,rdc021423,2.1.4.2.3,CWS Interface - FBO,SRS;Cluster
+60,rdc021424,2.1.4.2.4,CWS Interface - FPDS-NG,SRS;Cluster
+61,rdc021425,2.1.4.2.5,CWS Interface - GEX,SRS;Cluster
+62,rdc021426,2.1.4.2.6,CWS Interface - Grants.gov,SRS;Cluster
+63,rdc021427,2.1.4.2.7,CWS Interface - PSC-OCC Selection Tool,SRS;Cluster
+64,rdc021428,2.1.4.2.8,CWS Interface - SAM,SRS;Cluster
+65,rdc021429,2.1.4.2.9,CWS Interface - USASpending.gov,SRS;Cluster
+66,rdc002143,2.1.4.3,Facilitation of External Processing,SRS
+67,rdc021431,2.1.4.3.1,CWS Web - CFDA,SRS;Cluster
+68,rdc214310,2.1.4.3.10,CWS Interface – NPAR,SRS
+69,rdc214311,2.1.4.3.11,CWS Interface – SPOT,SRS
+70,rdc021432,2.1.4.3.2,CWS Web - CORT,SRS;Cluster
+71,rdc021433,2.1.4.3.3,CWS Web - CPARS,SRS;Cluster
+72,rdc021434,2.1.4.3.4,CWS Web - eSRS,SRS;Cluster
+73,rdc021435,2.1.4.3.5,CWS Web - PPIRS,SRS;Cluster
+74,rdc021436,2.1.4.3.6,CWS Web - WDOL,SRS;Cluster
+75,rdc021437,2.1.4.3.7,CWS Web - SBCR,SRS;Cluster
+76,rdc021438,2.1.4.3.8,CWS Web – PASS 2.0,SRS;Cluster
+77,rdc021439,2.1.4.3.9,CWS Web – eBuy,SRS;Cluster
+78,rdc002144,2.1.4.4,Interface with Purchase Request (PR) Tools / Financial Management Information Systems (FMIS),SRS
+79,rdc021441,2.1.4.4.1,ESB Interfaces - CFMS,SRS;Cluster
+80,rdc021442,2.1.4.4.2,ESB Interfaces – DMLSS,SRS;Cluster
+81,rdc021443,2.1.4.4.3,ESB Interfaces - FASTDATA,SRS;Cluster
+82,rdc021444,2.1.4.4.4,ESB Interfaces – ie FACMAN,SRS;Cluster
+83,rdc021445,2.1.4.4.5,ESB Interfaces - PR Builder,SRS;Cluster
+84,rdc021446,2.1.4.4.6,ESB Interfaces - SYMIS MF COST,SRS;Cluster
+85,rdc021447,2.1.4.4.7,ESB Interfaces – MATmf,SRS;Cluster
+86,rdc002145,2.1.4.5,Interface with Enterprise Resource Planning Systems (ERPs),SRS
+87,rdc214510,2.1.4.5.10,ESB Interfaces - NAVY-ERP,SRS
+88,rdc214511,2.1.4.5.11,ESB Interfaces - MSC-FMS,SRS
+89,rdc021458,2.1.4.5.8,ESB Interfaces - NEST,SRS;Cluster
+90,rdc021459,2.1.4.5.9,ESB Interfaces - IMPS,SRS;Cluster
+91,rdc002146,2.1.4.6,Interface with General Ledger (GL) Systems,SRS
+92,rdc021461,2.1.4.6.1,ESB Interfaces - DWAS,SRS;Cluster
+93,rdc021462,2.1.4.6.2,ESB Interfaces - SABRS,SRS;Cluster
+94,rdc021463,2.1.4.6.3,ESB Interfaces - STARS-HCM,SRS;Cluster
+95,rdc021464,2.1.4.6.4,ESB Interfaces - STARS-FL,SRS;Cluster
+96,rdc021465,2.1.4.6.5,ESB Interfaces - GFEBS,SRS;Cluster
+97,rdc021466,2.1.4.6.6,ESB Interfaces - DIFMS,SRS;Cluster
+98,rdc000215,2.1.5,Financial Transaction Management,SRS
+99,rdc002152,2.1.5.2,CWS Handshakes,SRS
+100,rdc021521,2.1.5.2.1,CWS Handshakes,SRS;Cluster
+101,rdc000022,2.2,Enterprise Service Bus (ESB) Requirements,SRS
+102,rdc000221,2.2.1,Enable ESB Data Exchanges,SRS
+103,rdc002211,2.2.1.1,Enable ESB Data Exchanges,SRS
+104,rdc022111,2.2.1.1.1,Enable ESB Data Exchange,SRS;Cluster
+105,rdc000222,2.2.2,Development Framework Management,SRS
+106,rdc002221,2.2.2.1,Development Framework Management,SRS
+107,rdc022211,2.2.2.1.1,Development Framework Management,SRS;Cluster
+108,rdc000003,3,Non-Functional,SRS
+109,rdc000036,3.6,Infrastructure,SRS
+110,rdc000361,3.6.1,Internet Access,SRS
+111,rdc003611,3.6.1.1,Internet Access,SRS
+112,rdc036111,3.6.1.1.1,Internet Access,SRS;Cluster
+113,rdc000363,3.6.3,Usage,SRS
+114,rdc003631,3.6.3.1,Usage,SRS
+115,rdc036311,3.6.3.1.1,Usage,SRS;Cluster
+116,rdc000364,3.6.4,Disconnected State,SRS
+117,rdc003641,3.6.4.1,Disconnected State,SRS
+118,rdc036411,3.6.4.1.1,Disconnected State,SRS;Cluster
+119,rdc000037,3.7,Cybersecurity,SRS
+120,rdc000371,3.7.1,Cybersecurity,SRS
+121,rdc003711,3.7.1.1,Cybersecurity,SRS
+122,rdc037111,3.7.1.1.1,Cybersecurity,SRS;Cluster
+123,rdc000038,3.8,Operation,SRS
+124,rdc000381,3.8.1,Operation,SRS
+125,rdc003811,3.8.1.1,Operation,SRS
+126,rdc038111,3.8.1.1.1,Operation,SRS;Cluster
+127,rdc000039,3.9,Usability,SRS
+128,rdc000391,3.9.1,Usability,SRS
+129,rdc003911,3.9.1.1,Usability,SRS
+130,rdc039111,3.9.1.1.1,Usability,SRS;Cluster

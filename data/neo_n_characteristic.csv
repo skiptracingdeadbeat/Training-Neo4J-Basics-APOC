@@ -1,0 +1,38 @@
+﻿characteristicId:ID,name,:LABEL
+plantspread,Plant Spread,PlantSpread
+lifecycle,Life cycle,LifeCycle
+maximumrecommendedzone,Maximum recommended zone,MaximumRecommendedZone
+fruitingtime,Fruiting Time,FruitingTime
+bloomsize,Bloom Size,BloomSize
+flowertime,Flower Time,FlowerTime
+parentage,Parentage,Parentage
+flowercolor,Flower Color,FlowerColor
+dynamicaccumulator,Dynamic Accumulator,DynamicAccumulator
+sunrequirement,Sun Requirement,SunRequirement
+waterpreference,Water Preferences,WaterPreference
+soilphpreference,Soil pH Preferences,SoilpHPreference
+minimumcoldhardiness,Minimum cold hardiness,MinimumColdHardiness
+leaf,Leaf,Leaf
+flower,Flower,Flower
+undergroundstructure,Underground structure,UndergroundStructure
+suitablelocation,Suitable Location,SuitableLocation
+use,Use,Use
+ediblepart,Edible Part,EdiblePart
+eatingmethod,Eating Method,EatingMethod
+resistance,Resistance,Resistance
+propagationseed,Propagation-Seed,PropagationSeed
+propagationothermethod,Propagation-Other method,PropagationOtherMethod
+pollinator,Pollinator,Pollinator
+container,Container,Container
+miscellaneous,Miscellaneou,Miscellaneous
+awardrecognition,Award-Recognition,
+conservationstatus,Conservation status,ConservationStatus
+childplant,Child plants,ChildPlant
+planthabit,Plant Habit,PlantHabit
+plantheight,Plant Height,PlantHeight
+fruit,Fruit,Fruit
+inflorescenceheight,Inflorescence Height,InflorescenceHeight
+foliagemoundheight,Foliage Mound Height,FoliageMoundHeight
+wildlifeattractant,Wildlife Attractant,WildlifeAttractant
+toxicity,Toxicity,Toxicity
+ploidy,Ploidy,Ploidy

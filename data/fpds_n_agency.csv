@@ -1,0 +1,237 @@
+﻿agencyID:ID,name,title,:LABEL
+A0011,USSSAA,US Senate Sergeant At Arms,ContractingAgency
+A0099,JHSE,Joint Hous E Senate Entities,ContractingAgency
+A0300,LOC,Library of Congress,ContractingAgency
+A0559,GAO,GAO Except Comptroller General,ContractingAgency
+A1027,AOOUSC,Administrative Office of US Courts,ContractingAgency
+A1100,EOP,Executive Office of the President,ContractingAgency
+A1143,IAF,Inter-American Foundation,ContractingAgency
+A1145,PC,Peace Corps,ContractingAgency
+A1153,USTDA,USTrade Development Agency,ContractingAgency
+A1204,OIG,Office of Inspector General,ContractingAgency
+A1205,USDADA,USDA Departmental Administration,ContractingAgency
+A12A1,USDAOOCFO,USDA Office of Chief Financial Officer,ContractingAgency
+A12B3,USDAOOPPM,USDA Office of Procurement Property Management,ContractingAgency
+A12C2,FS,Forest Service,ContractingAgency
+A12C3,NRCS,Natural Resources Conservation Service,ContractingAgency
+A12D0,FPCBC,Farm Production Conservation Bus Iness Center,ContractingAgency
+A12D2,FSA,Farm Service Agency,ContractingAgency
+A12E3,RHS,Rural Hous Ing Service,ContractingAgency
+A12F2,FNS,Food Nutrition Service,ContractingAgency
+A12G2,FSIS,Food Safety Inspection Service,ContractingAgency
+A12H2,ARS,Agricultural Research Service,ContractingAgency
+A12H5,NASS,National Agricultural Statistics Service,ContractingAgency
+A12K2,AMS,Agricultural Marketing Service,ContractingAgency
+A12K3,APHIS,Animal Plant Health Inspection Service,ContractingAgency
+A12K4,GIPSA,Grain Inspection Packers Stockyards Administration,ContractingAgency
+A1300,DOC,Department of Commerce,ContractingAgency
+A1301,OS,Office of Secretary,ContractingAgency
+A1304,OIG,Office of Inspector General,ContractingAgency
+A1316,BISTS,Bureau of Industry Security,ContractingAgency
+A1321,BEA,Bureau of Economic Analysis,ContractingAgency
+A1323,USCSB,USCensus Bureau,ContractingAgency
+A1325,EDA,Economic Development Administration,ContractingAgency
+A1330,NOAA,National Oceanic Atmospheric Administration,ContractingAgency
+A1335,NTIA,National Telecommunications Information Administration,ContractingAgency
+A1341,NIOST,National Institute of Standards Technology,ContractingAgency
+A1342,NTIS,National Technical Information Service,ContractingAgency
+A1344,USPTO,USPatent Trademark Office,ContractingAgency
+A1350,ITA,International Trade Administration,ContractingAgency
+A1352,MBDA,Minority Bus Iness Development Agency,ContractingAgency
+A1404,OIG,Office of Inspector General,ContractingAgency
+A1406,DO,Departmental Offices,ContractingAgency
+A1422,BLM,Bureau of Land Management,ContractingAgency
+A1425,BR,Bureau of Reclamation,ContractingAgency
+A1434,USGS,USGeological Survey,ContractingAgency
+A1435,BOEM,Bureau of Ocean Energy Management,ContractingAgency
+A1436,BSEE,Bureau of Safety Environmental Enforcement,ContractingAgency
+A1438,OSMRE,Office of Surface Mining Reclamation Enforcement,ContractingAgency
+A1443,NPS,National Park Service,ContractingAgency
+A1448,USFWS,USFish Wildlife Service,ContractingAgency
+A1450,BIA,Bureau of Indian Affairs,ContractingAgency
+A1500,DOJ,Department of Justice,ContractingAgency
+A1501,OBD,Offices Boards Divisions,ContractingAgency
+A1504,OIG,Office of Inspector General,ContractingAgency
+A1524,DEA,Drug Enforcement Administration,ContractingAgency
+A1540,FPSBOP,Federal Prison System / Bureau of Prisons,ContractingAgency
+A1542,FPIU,Federal Prison Indus Tries / Unicor,ContractingAgency
+A1544,USMS,USMarshals Service,ContractingAgency
+A1549,FBOI,Federal Bureau of Investigation,ContractingAgency
+A1550,OJP,Office of Jus Tice Programs,ContractingAgency
+A1560,ATFAPMD,ATF Acquisition Property Mgmt Div,ContractingAgency
+A1604,OIG,Office of Inspector General,ContractingAgency
+A1605,OASAM,Office of Assistant Secretary Administration Management,ContractingAgency
+A1625,BLS,Bureau of Labor Statistics,ContractingAgency
+A1630,ETA,Employment Training Administration,ContractingAgency
+A1631,OJC,Office of Job Corps,ContractingAgency
+A1645,MSHA,Mine Safety Health Administration,ContractingAgency
+A1650,OSHA,Occupational Safety Health Administration,ContractingAgency
+A1665,PBGC,Pension Benefit Guaranty Corporation,ContractingAgency
+A1700,DON,Dept of Navy,ContractingAgency
+A1800,USPS,Postal Service,ContractingAgency
+A1900,DOS,Department of State,ContractingAgency
+A19BC,IBCU,International Boundary Commission: US Canada,ContractingAgency
+A19BM,IBWCU,International Boundary Water Commission: US -Mexico,ContractingAgency
+A2001,DO,Departmental Offices,ContractingAgency
+A2004,IG,Inspector General,ContractingAgency
+A2014,OIGTA,Office of Inspector General Tax Administration,ContractingAgency
+A2036,BFS,Bureau of Fiscal Service,ContractingAgency
+A2041,BEP,Bureau of Engraving Printing,ContractingAgency
+A2044,USM,USMint,ContractingAgency
+A2046,OCC,Office of Comptroller of Currency,ContractingAgency
+A2047,OTS,Office of Thrift Supervision,ContractingAgency
+A2050,IRS,Internal Revenue Service,ContractingAgency
+A2083,SIGTARP,Special Inspector General Troubled Asset Relief Program,ContractingAgency
+A2091,OIG,Office of Inspector General,ContractingAgency
+A2100,DOA,Dept of Army,ContractingAgency
+A2300,USTC,USTax Court,ContractingAgency
+A2400,OPM,Office of Personnel Management,ContractingAgency
+A2500,NCUA,National Credit Union Administration,ContractingAgency
+A2700,FCC,Federal Communications Commission,ContractingAgency
+A2800,SSA,Social Security Administration,ContractingAgency
+A2900,FTC,Federal Trade Commission,ContractingAgency
+A3100,NRC,Nuclear Regulatory Commission,ContractingAgency
+A3300,SI,Smithsonian Institution,ContractingAgency
+A3352,JFKCPA,J F Kennedy Center Performing Arts,ContractingAgency
+A3355,NGOA,National Gallery of Art,ContractingAgency
+A3400,ITC,International Trade Commission,ContractingAgency
+A3600,VA,Department of Veterans Affairs,ContractingAgency
+A4100,MSPB,Merit Systems Protection Board,ContractingAgency
+A4340,NEH,National Endowment Humanities,ContractingAgency
+A4500,EEOC,Equal Employment Opportunity Commission,ContractingAgency
+A4602,ARC,Appalachian Regional Commission,ContractingAgency
+A4700,GSA,General Services Administration,ContractingAgency
+A4703,OGC,Office of General Counsel,ContractingAgency
+A4704,OIG,Office of Inspector General,ContractingAgency
+A4705,OA,Office of Administrator,ContractingAgency
+A4707,OCIA,Office of Congressional Intergovernmental Affairs,ContractingAgency
+A4712,GSABCA,G S A Board of Contract Appeals,ContractingAgency
+A4717,OCFO,Office of Chief Financial Officer,ContractingAgency
+A4732,FAS,Federal Acquisition Service,ContractingAgency
+A4740,PBS,Public Buildings Service,ContractingAgency
+A4745,OGWP,Office of Government Wide Policy,ContractingAgency
+A4750,OCIO,Office of Chief Information Officer,ContractingAgency
+A4770,OHRM,Office of Human Resources Management,ContractingAgency
+A4771,OMA,Office of Mission Assurance,ContractingAgency
+A4772,OSBU,Office of Small Bus Iness Utilization,ContractingAgency
+A4773,OAS,Office of Administrative Services,ContractingAgency
+A4774,OCM,Office of Communications Marketing,ContractingAgency
+A4775,TTS,Technology Transformation Service,ContractingAgency
+A4856,NWTRB,Nuclear Waste Technical Review Board,ContractingAgency
+A4900,NSF,National Science Foundation,ContractingAgency
+A5000,SEC,Securities Exchange Commission,ContractingAgency
+A5300,IMLS,Institute of Mus Eum Library Services,ContractingAgency
+A5400,FLRA,Federal Labor Relations Authority,ContractingAgency
+A5700,DOAF,Dept of Air Force,ContractingAgency
+A5920,NEA,National Endowment Arts,ContractingAgency
+A6000,RRB,Railroad Retirement Board,ContractingAgency
+A6100,CPSC,Consumer Product Safety Commission,ContractingAgency
+A6201,OSC,Office of Special Counsel,ContractingAgency
+A6300,NLRB,National Labor Relations Board,ContractingAgency
+A6500,FMC,Federal Maritime Commission,ContractingAgency
+A6800,EPA,Environmental Protection Agency,ContractingAgency
+A6901,OS,Office of Secretary,ContractingAgency
+A6920,FAA,Federal Aviation Administration,ContractingAgency
+A6925,FHA,Federal Highway Administration,ContractingAgency
+A6930,FRA,Federal Railroad Administration,ContractingAgency
+A6938,MA,Maritime Administration,ContractingAgency
+A6940,NHTSA,National Highway Traffic Safety Administration,ContractingAgency
+A6947,SLSDC,Saint Lawrence Seaway Development Corporation,ContractingAgency
+A6953,FMCSA,Federal Motor Carrier Safety Administration,ContractingAgency
+A6955,FTA,Federal Transit Administration,ContractingAgency
+A6957,PHSA,Pipeline Hazardous Materials Safety Administraton,ContractingAgency
+A7001,OPO,Office of Procurement Operations,ContractingAgency
+A7003,USCIS,USCitizenship Immigration Services,ContractingAgency
+A7004,OIG,Office of Inspector General,ContractingAgency
+A7008,USCG,USCoast Guard,ContractingAgency
+A7009,USSS,USSecret Service,ContractingAgency
+A7012,USICSTE,USImmigration Customs Enforcement,ContractingAgency
+A7013,TSA,Transportation Security Administration,ContractingAgency
+A7014,USCSTBP,USCus Toms Border Protection,ContractingAgency
+A7015,FLETC,Federal Law Enforcement Training Center,ContractingAgency
+A7022,FEMA,Federal Emergency Management Agency,ContractingAgency
+A7100,OPIC,Overseas Private Investment Corporation,ContractingAgency
+A7200,AID,Agency International Development,ContractingAgency
+A7300,SBA,Small Bus Iness Administration,ContractingAgency
+A7400,ABMC,American Battle Monuments Commission,ContractingAgency
+A7504,OIG,Office of Inspector General,ContractingAgency
+A7505,OASPR,Office of Assistant Secretary Preparedness Response,ContractingAgency
+A7522,SAMHSA,Substance Abus E Mental Health Services Administration,ContractingAgency
+A7523,CDCP,Centers Disease Control Prevention,ContractingAgency
+A7524,FDA,Food Drug Administration,ContractingAgency
+A7526,HRSA,Health Resources Services Administration,ContractingAgency
+A7527,IHS,Indian Health Service,ContractingAgency
+A7528,AHRQ,Agency Healthcare Research Quality,ContractingAgency
+A7529,NIOH,National Institutes of Health,ContractingAgency
+A7530,CMMS,Centers Medicare Medicaid Services,ContractingAgency
+A7570,OASA,Office of Assistant Secretary Administration ,ContractingAgency
+A7590,ACF,Administration Children Families,ContractingAgency
+A7700,USIDFC,USInternational Development Finance Corporation,ContractingAgency
+A8000,NASA,National Aeronautics Space Administration,ContractingAgency
+A8300,EXIM,Export-Import Bank of US ,ContractingAgency
+A84AF,AFRH,Armed Forces Retirement Home,ContractingAgency
+A8600,HUD,Department of Housing and Urban Development,ContractingAgency
+A8635,ASPIH,Assistant Secretary Public Indian Housing,ContractingAgency
+A8800,NARA,National Archives Records Administration,ContractingAgency
+A8900,DOE,Department of Energy,ContractingAgency
+A8960,FERC,Federal Energy Regulatory Commission,ContractingAgency
+A9000,SSS,Selective Service System,ContractingAgency
+A9100,ED,Department of Education,ContractingAgency
+A9300,FMCS,Federal Mediation Conciliation Service,ContractingAgency
+A9502,NCPC,National Capital Planning Commission,ContractingAgency
+A9504,FMSHRC,Federal Mine Safety Health Review Commission,ContractingAgency
+A9505,STB,Surface Transportation Board,ContractingAgency
+A9506,FEC,Federal Election Commission,ContractingAgency
+A9507,CFTC,Commodity Futures Trading Commission,ContractingAgency
+A9508,NTSB,National Transportation Safety Board,ContractingAgency
+A9511,CIGOIE,Council of Inspectors General On Integrity Efficiency ,ContractingAgency
+A9513,MMC,Marine Mammal Commission,ContractingAgency
+A9514,OSHRC,Occupational Safety Health Review Commission,ContractingAgency
+A9515,ACOUS,Administrative Conference of US ,ContractingAgency
+A9516,DNFSB,Defense Nuclear Facilities Safety Board,ContractingAgency
+A9518,AbilityOne,Committee Purchase From People Who Are Blind Or Severely Disabled,ContractingAgency
+A9519,ICMA,Intelligence Community Management Account,ContractingAgency
+A9523,EAC,Election Assistance Commission,ContractingAgency
+A9524,NMB,National Mediation Board,ContractingAgency
+A9526,PCLOB,Privacy Civil Liberties Oversight Board,ContractingAgency
+A9532,ATBCB,Architectural Transportation Barriers Compliance Board,ContractingAgency
+A9533,GCERC,Gulf Coast Ecosystem Restoration Council,ContractingAgency
+A9534,DCC,District of Columbia Courts,ContractingAgency
+A9536,VEF,Vietnam Education Foundation,ContractingAgency
+A9537,CFA,Commission of Fine Arts,ContractingAgency
+A9542,FHFA,Federal Hous Ing Finance Agency,ContractingAgency
+A9543,MCC,Millennium Challenge Corporation,ContractingAgency
+A9545,MKUSEINEPF,Morris K Udall Scholarship Excellence In National Environmental Policy Foundation,ContractingAgency
+A9549,OGE,Office of Government Ethics,ContractingAgency
+A9557,NBRC,Northern Border Regional Commission,ContractingAgency
+A955F,CFPB,Consumer Financial Protection Bureau,ContractingAgency
+A9560,BGSEIEF,Barry Goldwater Scholarship Excellence In Education Fund,ContractingAgency
+A9565,CSHIB,Chemical Safety Hazard Investigation Board,ContractingAgency
+A9568,USAGMB,USAgency Global Media Bbg,ContractingAgency
+A9572,DC,Denali Commission,ContractingAgency
+A9577,CNCS,Corporation National Community Service,ContractingAgency
+A9594,CSOSA,Court Services Offender Supervision Agency,ContractingAgency
+A959P,PSA,Pretrial Services Agency,ContractingAgency
+A9748,DHRA,Defense Human Resources Activity,ContractingAgency
+A9761,DTRA,Defense Threat Reduction Agency ,ContractingAgency
+A9763,DCMA,Defense Contract Management Agency ,ContractingAgency
+A9771,DMA,Defense Microelectronics Activity ,ContractingAgency
+A9776,USTRANSCOM,USTransportation Command,ContractingAgency
+A97AB,NGA,National Geospatial-Intelligence Agency ,ContractingAgency
+A97AD,IOOSOD,Immediate Office of Secretary of Defense,ContractingAgency
+A97AE,DARPA,Defense Advanced Research Projects Agency ,ContractingAgency
+A97AK,DISA,Defense Information Systems Agency ,ContractingAgency
+A97AS,DLA,Defense Logistics Agency,ContractingAgency
+A97AV,DCSA,Defense Counterintelligence Security Agency,ContractingAgency
+A97AZ,DCA,Defense Commissary Agency ,ContractingAgency
+A97BZ,DFAS,Defense Finance Accounting Service ,ContractingAgency
+A97CY,USCC,USCyber Command,ContractingAgency
+A97DH,DHA,Defense Health Agency ,ContractingAgency
+A97EX,IG,Inspector General Office Of,ContractingAgency
+A97F1,DMA,Defense Media Activity ,ContractingAgency
+A97F2,DODEA,Dept of Defense Education Activity ,ContractingAgency
+A97F5,WHS,Washington Headquarters Services ,ContractingAgency
+A97HW,USUOHS,Uniformed Services University of Health Sciences ,ContractingAgency
+A97JC,MDA,Missile Defense Agency ,ContractingAgency
+A97SD,SDA,Space Development Agency,ContractingAgency
+A97ZS,USSOC,USSpecial Operations Command ,ContractingAgency

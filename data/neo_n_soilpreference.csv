@@ -1,0 +1,10 @@
+﻿soilphID:ID,range,description,:LABEL
+soilph35to44,pH 3.5 – 4.4,Extremely acid ,SoilPreference
+soilph45to50,pH 4.5 – 5.0,Very strongly acid ,SoilPreference
+soilph51to55,pH 5.1 – 5.5,Strongly acid ,SoilPreference
+soilph56to60,pH 5.6 – 6.0,Moderately acid ,SoilPreference
+soilph61to65,pH 6.1 – 6.5,Slightly acid ,SoilPreference
+soilph66to73,pH 6.6 – 7.3,Neutral ,SoilPreference
+soilph74to78,pH 7.4 – 7.8,Slightly alkaline ,SoilPreference
+soilph79to84,pH 7.9 – 8.4,Moderately alkaline ,SoilPreference
+soilph85to90,pH 8.5 – 9.0,Strongly alkaline ,SoilPreference

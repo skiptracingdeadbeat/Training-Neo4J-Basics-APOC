@@ -1,0 +1,10 @@
+﻿planthabitId:ID,name,:LABEL
+herbforb,Herb_Forb,Habit
+shrub,Shrub,Habit
+tree,Tree,Habit
+cactus,Cactus,Habit
+succulent,Succulent,Habit
+grass,Grass,Habit
+grasslike,Grass-Like,Habit
+fern,Fern,Habit
+vine,Vine,Habit
